@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">MSE</journal-id>
+      <journal-title-group>
+        <journal-title>Management Science and Engineering</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-664X</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/MSE.2019.83031</article-id>
+      <article-id pub-id-type="publisher-id">MSE-32201</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>MSE20190300000_87683214.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          中美企业研发绩效比较研究
+          R&amp;D Performance Comparison between Chinese and the United States Enterprises
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>窦</surname>
+            <given-names>文章</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陈</surname>
+            <given-names>梦</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>北京大学软件与微电子学院，北京</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>08</volume>
+      <issue>03</issue>
+      <fpage>248</fpage>
+      <lpage>263</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          经济全球化时代，研发创新成为企业应对竞争的重要方式。中国企业研发投入逐年增加，形成了一批重要研究成果，但是与美国相比仍有较大差距。本文在对中国和美国整体研发产出状况、企业研发投入在全球排名情况、企业自身研发管理现状等角度进行对比分析基础上，进一步对在研发创新方面具有代表性的高科技企业进行深入分析，得出美国高科技企业研发投入强度与企业总资产净利率呈负相关，且这种影响具有滞后性；中美两国高科技企业研发投入强度与企业营业收入增长率均具有正相关关系，且美国高科技企业中这种正相关关系更为明显；中国的高科技企业资产负债率和企业规模对企业的研发活动具有显著影响，而在美国高科技企业中，这种影响不显著；美国高科技企业行业分布较中国更集中，行业间的研发投入差异性也更大；中国高科技企业中，政府补贴能够提高研发投入强度对企业盈利能力的解释力度，最后本文提出了相关政策建议。
+          Promoting the abilities of R&amp;D and innovation for enterprises has become an important way to fight the competition crisis. The amount of high-tech enterprises in China spending in R&amp;D investments increases year by year, however, there is still some pace with those in America. In this study, the comparisons are first conducted in R&amp;D output, global ranking of R&amp;D investment, R&amp;D management of enterprises between China and America. Then, the representative high-tech en-terprises in R&amp;D and innovation are chosen for in-depth analysis. The main conclusions of this paper are as follows. Firstly, remarkable negative relationship between the American high-tech enterprises R&amp;D intensity and the return on assets is obtained, and there is a lag effect. Secondly, the R&amp;D intensity has positive effect on the enterprise’ business income growth rate for high-tech enterprises both in China and America, and more obviously in America. Thirdly, the asset-liability ratio and firm size of Chinese high-tech enterprises have significant effects on enterprise’s R&amp;D activities, but this effect is not significant for those in America. Fourthly, the industry distribution of American high-tech enterprise is more concentrated than that in China, and the differences be-tween R&amp;D input scale in different industry are larger in America. Lastly, the Chinese government subsidies can promote the R&amp;D activities of high-tech enterprises.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>高科技企业，研发投入强度，绩效，中美比较, High-Tech Enterprises</kwd>
+        <kwd> R D Intensity</kwd>
+        <kwd> Performance</kwd>
+        <kwd> China-US Comparison</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>中美企业研发绩效比较研究</title>
+      <p>
+        ——以上市高科技企业为例<sup> </sup>
+      </p>
+      <p>窦文章，陈梦</p>
+      <p>北京大学软件与微电子学院，北京</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-2330396x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年8月24日；录用日期：2019年9月11日；发布日期：2019年9月18日</p>
+      <disp-formula id="hanspub.32201-formula33">
+        <graphic xlink:href="//html.hanspub.org/file/6-2330396x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>经济全球化时代，研发创新成为企业应对竞争的重要方式。中国企业研发投入逐年增加，形成了一批重要研究成果，但是与美国相比仍有较大差距。本文在对中国和美国整体研发产出状况、企业研发投入在全球排名情况、企业自身研发管理现状等角度进行对比分析基础上，进一步对在研发创新方面具有代表性的高科技企业进行深入分析，得出美国高科技企业研发投入强度与企业总资产净利率呈负相关，且这种影响具有滞后性；中美两国高科技企业研发投入强度与企业营业收入增长率均具有正相关关系，且美国高科技企业中这种正相关关系更为明显；中国的高科技企业资产负债率和企业规模对企业的研发活动具有显著影响，而在美国高科技企业中，这种影响不显著；美国高科技企业行业分布较中国更集中，行业间的研发投入差异性也更大；中国高科技企业中，政府补贴能够提高研发投入强度对企业盈利能力的解释力度，最后本文提出了相关政策建议。</p>
+      <p>关键词 :高科技企业，研发投入强度，绩效，中美比较</p>
+      <disp-formula id="hanspub.32201-formula34">
+        <graphic xlink:href="//html.hanspub.org/file/6-2330396x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-2330396x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/6-2330396x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>为了更好的在全球化竞争求生并快速发展，企业需要通过技术研发与创新打造自身的核心竞争力。当前，我国政府对科技创新的重视程度不断加大，在国家和企业层面，均不断加大研发投入力度。企业是国家创新的主体，其中高科技企业又逐步成为我国企业研发创新的主体部分，不仅在经济发展中起重要作用，而且在科技创新方面也在行业中起到标杆和导向作用。然而，我国高科技企业的研发投入产出的效率以及与先进国家尤其是美国的差异还有待进一步深入探讨。</p>
+      <p>
+        高科技企业是一个相对概念，是指处于高新技术产业领域中的企业，与一般的企业不同，高科技企业在企业生产与经营过程中运用更多的高新技术，同时，主营业务涉及的产品或服务科技含量高于一般企业 [<xref ref-type="bibr" rid="hanspub.32201-ref1">1</xref>]。我国国家科学技术部、财政部和国家税务总局2016年2月印发修订过的《高新技术企业认定管理办法》，办法中指出高新技术企业是指在《国家重点支持的高新技术领域》内，持续进行研究开发与技术成果转化，形成企业核心自主知识产权，并以此为基础开展经营活动，在中国境内(不包括港、澳、台地区)注册的居民企业 [<xref ref-type="bibr" rid="hanspub.32201-ref2">2</xref>]。美国对高科技企业的界定主要采用研究与开发强度(研究与开发支出占销售收入的比重)和科技人员(包括工程师、技术工人以及相关的研发人员)占企业职工总人数的比重两个指标 [<xref ref-type="bibr" rid="hanspub.32201-ref3">3</xref>]。
+      </p>
+      <p>
+        在国外，学术界对于影响企业研发活动产出的因素研究比较多，包括企业结构、市场结构、企业家精神、企业内部战略等多个方面。Schumpeter认为研发活动受市场结构影响，市场垄断更有助于促进企业进行研发活动 [<xref ref-type="bibr" rid="hanspub.32201-ref4">4</xref>]。在此基础上，Galbraith进一步研究认为由于大企业有人力资源以及资金优势，使得垄断性企业在研发活动中更具优势 [<xref ref-type="bibr" rid="hanspub.32201-ref5">5</xref>]。在当前创新全球化背景下，企业发展需要具备国际化视野，研发全球布局战略也越来越重要，Pearce和Papanastassiou等学者开始研究自1990年以来企业在全球布局研发情况，并得出研发的加速国际化是不可避免的 [<xref ref-type="bibr" rid="hanspub.32201-ref6">6</xref>]。Oliver Gassman和Max von Zedwitz研究了37个全球高科技的公司，归纳出四种不同的全球研发布局的战略，及其相对应的创新类别 [<xref ref-type="bibr" rid="hanspub.32201-ref7">7</xref>]。Asakawa对跨国公司进行研究，认为跨国公司需要协调海外研发机构和总部的关系，研发子公司的独立性、各个研发业务单元之间以及业务单元与总部之间的信息交流都对公司的研发绩效产生影响 [<xref ref-type="bibr" rid="hanspub.32201-ref8">8</xref>]。Atuahene-Gima和Ko对市场的导向作用进行研究，研究得出市场导向对企业家导向与产品创新绩效之间的关系具有线性调节作用，市场导向和企业家导向两者互补共同对创新绩效起推动作用 [<xref ref-type="bibr" rid="hanspub.32201-ref9">9</xref>]。Kyriakopoulos和Moorman研究得出企业在市场导向机制的调节下，企业项目市场开发和企业家主导会提高企业的新产品开发绩效 [<xref ref-type="bibr" rid="hanspub.32201-ref10">10</xref>]。还有一些学者从创新模式角度来研究研发绩效，Adegoke通过实证研究证明激进式创新和渐进式创新模式对企业研发绩效均有正向影响 [<xref ref-type="bibr" rid="hanspub.32201-ref11">11</xref>]。Lluis Santamaria等通过实证研究发现无论是在高科技还是在低科技公司，开放式创新战略对于提高企业内部的研发绩效均有正向作用。同时基于市场的创新战略对获取工艺创新有正向影响，合作策略对产品创新有正向影响，合资企业等展示的开放式创新战略则有助于获取专利 [<xref ref-type="bibr" rid="hanspub.32201-ref12">12</xref>]。在企业战略与研发绩效关系方面，Claudio Cruz-Cazares等基于1992~2005年间1478家西班牙制造业公司数据，通过实证研究证明研发战略对创新产出有正向影响，其中自制–外购式研发战略影响更为显著，持续性也较长，而外购式研发战略对创新产出的影响较小，且仅短期内对创新产出有影响 [<xref ref-type="bibr" rid="hanspub.32201-ref13">13</xref>]。
+      </p>
+      <p>国内对于企业研发绩效的影响因素的研究也主要包含企业结构、市场结构、企业家精神以及企业战略等几方面。</p>
+      <p>
+        在企业结构与研发绩效的关系方面，李宜静，李新春，王宣喻对战略导向、创新与组织绩效进行了研究，得出组织战略导向是技术创新前因变量，且对绩效有直接影响；技术创新有利于提高组织绩效。同时，该研究还得出企业规模对战略导向、技术创新与组织绩效三者间的相互关系存在影响 [<xref ref-type="bibr" rid="hanspub.32201-ref14">14</xref>]。其他学者，如郭研，刘一博通过研究得出高科技企业的规模对研发投入强度具有显著的负作用。企业性质也会对企业研发绩效产生影响，民营企业比国有企业研发的动力强 [<xref ref-type="bibr" rid="hanspub.32201-ref15">15</xref>]。
+      </p>
+      <p>
+        在市场结构与研发绩效方面，张永胜，刘新梅，王海珍通过实证研究认为企业的研发和市场两方面职能的整合与企业产品研发绩效之间呈倒U关系 [<xref ref-type="bibr" rid="hanspub.32201-ref16">16</xref>]。而学者张子健，刘伟则通过研究指出当企业处于研发卡特尔模式情况时，如果溢出效应大那么企业研发绩效会相应的增加；当企业处于研发竞争联盟模式和研发竞争模式情况时，企业的研发绩效会不确定 [<xref ref-type="bibr" rid="hanspub.32201-ref17">17</xref>]。辛云峰在对企业研发支出、企业绩效与市场反应的研究中发现企业研发当期的研发投入总额与企业绩效负相关，而前期研发投入总额与企业绩效却呈现正相关关系 [<xref ref-type="bibr" rid="hanspub.32201-ref18">18</xref>]。进一步，张近乐，张坤利用VEC模型和脉冲响应函数对我国大中型企业研发绩效进行分析。得出知识共享、研发投入转化对大中型企业研发绩效均有稳定的正向影响，研发绩效对研发投入转化会产生时滞为两年的正向反应 [<xref ref-type="bibr" rid="hanspub.32201-ref19">19</xref>]。此外，韩亚峰，樊秀峰，周文博利用Klette知识资本动态积累模型对不同行业的高新技术企业研发绩效进行分析，得出行业内企业间的技术外溢在一定程度上减弱了企业的研发绩效，但是同行业的企业集团或关联企业的技术外溢能提升企业的研发绩效 [<xref ref-type="bibr" rid="hanspub.32201-ref20">20</xref>]。
+      </p>
+      <p>
+        在企业家精神和企业战略与研发绩效方面，彭灿，杨玲通过实证研究得出中国企业创新绩效对创新战略具有反向作用，当同时采用模仿创新情况时，企业间的合作程度与企业的研发绩效之间相关关系并不显著 [<xref ref-type="bibr" rid="hanspub.32201-ref21">21</xref>]。宋浩亮提出通过技术引进无法提高我国企业技术创新能力的观点，须在引进技术的基础上缩短自主创新的时滞，从而提高企业的创新能力 [<xref ref-type="bibr" rid="hanspub.32201-ref22">22</xref>]。也有学者如宁宝超从企业研发能力和企业对研发活动的激励两个角度比较不同企业管理制度下的企业研发绩效，得出内部与外部研发制度下的两条研发绩效曲线交点为内外研发制度的分界点，企业可以通过在不同阶段选择合适的研发制度来使企业的研发绩效达到最优 [<xref ref-type="bibr" rid="hanspub.32201-ref23">23</xref>]。朱春玲通过研究发现我国企业经营管理者的创新精神与企业创新成果之间存在强相关关系：企业管理者变革求新倾向越强，所产生的创新产出越好，而管理者的冒险性倾向对提升企业创新成果的质量和数量没有作用 [<xref ref-type="bibr" rid="hanspub.32201-ref24">24</xref>]。李兵对装备制造企业研发绩效进行研究认为企业要提高研发技术创新的成功率，需要有科学和完善的技术创新战略做支撑，且企业研发绩效管理是企业技术创新战略的重要组成部分 [<xref ref-type="bibr" rid="hanspub.32201-ref25">25</xref>]。李中，周勤运用系统GMM研究发现：研发投入与研发效率有显著的正相关，研发效率是研发投入和企业绩效的中介变量，同时企业绩效反过来会对企业研发投入产生影响 [<xref ref-type="bibr" rid="hanspub.32201-ref26">26</xref>]。陈志军，王晓静，徐鹏通过对企业集团研发活动的研究证明了创新文化、激励和沟通机制均对集团的研发绩效有显著正向影响 [<xref ref-type="bibr" rid="hanspub.32201-ref27">27</xref>] [<xref ref-type="bibr" rid="hanspub.32201-ref28">28</xref>]。
+      </p>
+      <p>综合来看，目前国内外对于企业研发绩效的研究多为针对一个国家地区或者某单一行业的研究，而对于国际不同国家企业间的研发投入、研发产出以及研发影响因素的对比研究比较少，尤其是在研发国际化领域的研究还较少。因此，对中美高科技企业研发绩效的对比研究对我国企业发展具有一定实践参考意义。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 中美高科技企业研发绩效评估模型构建</title>
+      <sec id="s4_1">
+        <title>2.1. 研究假设</title>
+        <p>中美两国高科技企业的研发活动包括人员投入、资金投入以及相关的活动费用。考虑到中美两国企业财务数据披露的差异，参考学者常用的研发活动指标，本文选用研发投入强度，即研发费用占营业收入的比重作为衡量中美两国高科技企业研发活动投入的主要衡量指标。</p>
+        <p>企业经过一系列研发活动能够带来包括专利、发明、实用新型等具有间接经济效益的成果和新产品销售收入等具有直接经济效益的成果，并最终表现为企业盈利能力的提高和成长能力的提升。其中，盈利能力方面，本研究参考券商在进行上市公司盈利能力评估时通用的指标，选取总资产净利率(Return on Assets, ROA)和净资产收益率(Return on Equity, ROE)作为考核指标。在成长能力方面，选取营业收入增长率和利润总额增长率作为考核指标。据此，提出本文的假设：</p>
+        <p>H1：中国高科技企业研发投入强度与企业盈利能力成正相关关系。</p>
+        <p>H2：美国高科技企业研发投入强度与企业盈利能力成正相关关系。</p>
+        <p>H3：美国高科技企业研发投入强度与企业盈利能力的相关性大于中国高科技企业研发投入强度与企业盈利能力的相关性。</p>
+        <p>H4：中国高科技企业研发投入强度与企业成长能力成正相关关系。</p>
+        <p>H5：美国高科技企业研发投入强度与企业成长能力成正相关关系。</p>
+        <p>H6：美国高科技企业研发投入强度与企业成长能力的相关性大于中国高科技企业研发投入强度与企业成长能力的相关性。</p>
+        <p>由于企业研发活动带来的经济效益具有时滞性，本文提出如下后续假设：</p>
+        <p>H7：中国高科技企业研发投入强度对企业盈利能力的影响存在滞后性。</p>
+        <p>H8：美国高科技企业研发投入强度对企业盈利能力的影响存在滞后性。</p>
+        <p>H9：中国高科技企业研发投入强度对企业盈利能力影响的滞后性程度大于美国高科技企业研发投入强度对企业盈利能力影响的滞后性。</p>
+        <p>H10：中国高科技企业研发投入强度对企业成长能力的影响存在滞后性。</p>
+        <p>H11：美国高科技企业研发投入强度对企业成长能力的影响存在滞后性。</p>
+        <p>H12：中国高科技企业研发投入强度对企业成长能力影响的滞后性程度大于美国高科技企业研发投入强度对企业成长能力影响的滞后性。</p>
+        <p>企业研发活动还受到企业规模、资产负债结构、财政补贴等多方面影响，本文将这些影响因素作为控制变量进行分析，将企业研发投入强度的变动导致企业盈利能力和成长能力变动的过程称为研发活动，提出本文的其他假设：</p>
+        <p>H13：中国高科技企业企业规模对研发活动的影响程度大于美国高科技企业企业规模对研发活动的影响程度。</p>
+        <p>H14：中国高科技企业资产负债结构对研发活动的影响程度大于美国高科技企业资产负债结构对研发活动的影响程度。</p>
+        <p>H15：不同行业企业研发活动存在差异，中国高科技企业研发活动的行业差异性大于美国高科技企业。</p>
+        <p>由于美国政府对于企业的财政补贴的数据难以获取，本文提出的最后一个假设将只针对中国高科技企业样本进行论证。</p>
+        <p>H16：中国政府对高科技企业的财政补贴能够促进企业研发活动。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 变量选择与设计(见表1)</title>
+        <sec id="s4_2_1">
+          <title>2.2.1. 被解释变量选取</title>
+          <p>(1) 盈利能力PA (Profit Ability)</p>
+          <p>企业的各项活动包括研发投入的最终目标是提高企业的盈利水平。资本市场上常采用的企业盈利能力评估指标主要包括总资产净利率ROA和净资产收益率ROE。其中，总资产净利率ROA反映的是公司运用全部资产获取利润的水平，一个企业的ROA越高，就说明这家公司的投入产出能力越高，企业的资产运用效率也较高，净资产收益率ROE反应的是股东权益的收益水平，用以衡量公司运用自有资本的效率，一个企业的ROE越高，表明企业运用自有资本的效率越高。</p>
+          <p>(2) 成长能力GA (Growth Ability)</p>
+          <p>高科技企业通过研发活动中一系列过程形成产品或技术，最终通过出售、租赁等方式将高科技产品、技术以及服务市场化，实现收入进而推动企业不断发展。综合考虑中美两国数据可得性与可比性，本文选取营业收入同比增长率和利润总额同比增长率作为衡量高科技企业的成长能力的指标，分别用符号IR和RR表示。</p>
+        </sec>
+        <sec id="s4_2_2">
+          <title>2.2.2. 解释变量与控制变量选取</title>
+          <p>本文选择研发投入强度RDI (R&amp;D Intensity)作为主要解释变量，表示企业每单位收入中用于投入研发活动的金额，表达公式为：</p>
+          <p>研 发 投 入 强 度 = 研 发 总 投 入 主 营 业 务 收 入</p>
+          <p>企业研发投入对企业经营发展产生影响的同时，也会受到其他一些因素的影响，因此本文还加入了公司规模、资产负债率和政府的财政补贴等控制变量。其中公司规模、资产负债率在对中国和美国高科技企业进行分析时均加入分析。而最后一项财政补贴，由于美国企业公布的年报数据未对此项做出披露，故只针对中国高科技样本企业进行分析。本文用总资产的自然对数值来表示公司的规模，用LNS表示。资产负债率(Asset-liability Ratio)是衡量企业偿债能力的指标，用ALR表示。最后，选用政府财政补贴占总资产的比重这一比值作为财政补贴力度的衡量指标，用FS表示。财政政府补贴在实际数据搜集时，选用财务报表附注中的“营业外收入明细–政府补助”一项作为测算数据。</p>
+          <table-wrap id="table1" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>
+            </label>
+            <caption>
+              <title> Variables and calculation methods of this stud</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" ></th>
+                    <th align="center" valign="middle"  colspan="2"  >衡量变量</th>
+                    <th align="center" valign="middle" >计算方式</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="4"  >被解释变量</td>
+                  <td align="center" valign="middle"  rowspan="2"  >盈利能力</td>
+                  <td align="center" valign="middle" >总资产净利率(ROA）</td>
+                  <td align="center" valign="middle" >净利润/平均资产总额</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >净资产收益率(ROE)</td>
+                  <td align="center" valign="middle" >税后利润/所有者权益</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >成长能力</td>
+                  <td align="center" valign="middle" >营业收入增长率(IR)</td>
+                  <td align="center" valign="middle" >(本期营业收入 − 上期营业收入)/上期营业收入</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >利润总额增长率(RR)</td>
+                  <td align="center" valign="middle" >(本期利润总额 − 上期利润总额)/上期利润总额</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >解释变量</td>
+                  <td align="center" valign="middle"  colspan="2"  >研发投入强度(RDI)</td>
+                  <td align="center" valign="middle" >研发总投入/主营业务收入</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >控制变量</td>
+                  <td align="center" valign="middle"  colspan="2"  >公司规模(LNS)</td>
+                  <td align="center" valign="middle" >Ln (期末总资产)</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  colspan="2"  >资产负债率(ALR)</td>
+                  <td align="center" valign="middle" >负债总额/资产总额</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  colspan="2"  >财政补贴(FS)</td>
+                  <td align="center" valign="middle" >政府补助/资产总额</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表1. 本研究的各个变量及计算方式</p>
+        </sec>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 模型设计</title>
+        <p>根据前文提出的假设和选取相应的变量，本研究将建立如下三方面的模型，其中，前两部份模型适用于中国高科技企业和美国高科技企业样本，第三部分模型仅适用于中国高科技企业样本分析。</p>
+        <p>1. 研发投入强度对企业盈利能力影响的模型：</p>
+        <p>R O A t − k = β 0 + β 1 ( t − k ) R D I t − k + β 2 L N S t + β 3 A L R t + ε (1)</p>
+        <p>R O E t − k = β 0 + β 1 ( t − k ) R D I t − k + β 2 L N S t + β 3 A L R t + β 4 i I D N i + ε (2)</p>
+        <p>其中， β 0 是截距项， β 1 至 β 4 为各变量的回归系数， ε 为残差项，t表示年份，k为滞后期， k = 0 ,   1 ,   2 ,   3 ,   4 。</p>
+        <p>2. 研发投入强度对企业成长能力影响的模型：</p>
+        <p>I R t − k = β 0 + β 1 ( t − k ) R D I t − k + β 2 L N S t + β 3 A L R t + ε (3)</p>
+        <p>R R t − k = β 0 + β 1 ( t − k ) R D I t − k + β 2 L N S t + β 3 A L R t + ε (4)</p>
+        <p>其中， β 0 是截距项， β 1 至 β 4 为各变量的回归系数， ε 为残差项，t表示年份k为滞后期， k = 0 ,   1 ,   2 ,   3 ,   4 。</p>
+        <p>3. 中国政府补贴对企业研发活动影响的模型：</p>
+        <p>R O A t = β 0 + β 1 R D I t + β 2 L N S t + β 3 A L R t + β 4 F S t + ε (5)</p>
+        <p>R O E t = β 0 + β 1 R D I t + β 2 L N S t + β 3 A L R t + β 4 F S t + ε (6)</p>
+        <p>I R t = β 0 + β 1 R D I t + β 2 L N S t + β 3 A L R t + β 4 F S t + ε (7)</p>
+        <p>R R t = β 0 + β 1 R D I t + β 2 L N S t + β 3 A L R t + β 4 F S t + ε (8)</p>
+        <p>其中， β 0 是截距项， β 1 至 β 4 为各变量的回归系数， ε 为残差项，t表示年份。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 数据获取与实证分析</title>
+      <sec id="s5_1">
+        <title>3.1. 样本筛选与来源</title>
+        <p>1. 中国样本企业的筛选</p>
+        <p>首先，通过同花顺iFinD沪深数据浏览器选取相应的指标，按照全球行业分类系统GISC进行分行业数据提取；然后，对提取出的2917只沪深上市的股票数据进行处理，筛选出“公司简介”中含有“高新技术企业”字段并于2015年1月1日之前上市的公司；最后，剔除2010年至2014年间研发费用缺失的样本和同时在A股B股上市的样本，得到501家沪深上市高新技术企业样本。</p>
+        <p>2. 美国样本企业的筛选</p>
+        <p>首先，通过通达信客户端下载“美股——科技股”股票数据，得到136家美股科技股初步列表；然后，通过同花顺iFinD股票数据浏览器选取相应待研究的指标，输入136家美股科技股股票代码，提取数据；最后删除2010年至2014年间研发费用缺失和指标数据不全的样本，得到美国高科技企业有效样本59家。</p>
+        <p>本研究利用Excel2013对数据进行搜集和相关数据图线的绘制，利用SPSS19.0进行数据统计和相关检验。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 描述统计分析结果</title>
+        <p>1. 中美两国高科技企业大部分来自信息技术领域，美国企业中这一比例更高</p>
+        <p>对所选取的中美两国企业分别进行描述性统计分析。结果显示(见表2)，中国上市的高科技企业在GICS行业分类中各行业的分布相对分散，中国上市高科技企业分布在信息技术行业的占比为27.9%，其次为工业行业25.9%。而美国高科技企业大部分集中在信息技术行业，占比高达79.7%。表明中美两国高科技企业分布均具有行业差异，中国和美国的高科技企业大部分来自信息技术领域，且美国高科技企业来源于信息技术领域的比例更高。</p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> Statistics of GICS industry of valid sample enterprises in China and the United State</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"   rowspan="2"  ></th>
+                  <th align="center" valign="middle"  colspan="2"  >PRC</th>
+                  <th align="center" valign="middle"  colspan="2"  >USA</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >频率</td>
+                <td align="center" valign="middle" >百分比</td>
+                <td align="center" valign="middle" >频率</td>
+                <td align="center" valign="middle" >百分比</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="11"  >有效</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >7</td>
+                <td align="center" valign="middle" >11.9</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >非日常生活消费品</td>
+                <td align="center" valign="middle" >57</td>
+                <td align="center" valign="middle" >11.4</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >1.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >工业</td>
+                <td align="center" valign="middle" >130</td>
+                <td align="center" valign="middle" >25.9</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >1.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >医疗保健</td>
+                <td align="center" valign="middle" >49</td>
+                <td align="center" valign="middle" >9.8</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >1.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >原材料</td>
+                <td align="center" valign="middle" >94</td>
+                <td align="center" valign="middle" >18.8</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >1.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >电信业务</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.2</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >1.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >信息技术</td>
+                <td align="center" valign="middle" >140</td>
+                <td align="center" valign="middle" >27.9</td>
+                <td align="center" valign="middle" >47</td>
+                <td align="center" valign="middle" >79.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >日常消费品</td>
+                <td align="center" valign="middle" >18</td>
+                <td align="center" valign="middle" >3.6</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >能源</td>
+                <td align="center" valign="middle" >10</td>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >金融</td>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >0.4</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >合计</td>
+                <td align="center" valign="middle" >501</td>
+                <td align="center" valign="middle" >100</td>
+                <td align="center" valign="middle" >59</td>
+                <td align="center" valign="middle" >100</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. 中美两国有效样本企业所属GICS行业统计</p>
+        <p>资料来源：本文研究整理。</p>
+        <p>2. 美国高科技企业研发投入强度均值高于中国企业</p>
+        <p>大部分中国高科技企业研发投入强度处在10%以下，大部分美国高科技企业研发投入强度处在10%以上，且美国样本企业中研发投入强度高于20%的企业数量占比超过15%。中美两国样本企业研发强度研发投入强度有逐年增加趋势(见表3)。</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> Distribution of R&amp;D investment intensity in Sino-US high-tech enterprise</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  rowspan="2"  >RDI区间(%)</th>
+                  <th align="center" valign="middle"  colspan="2"  >2010年</th>
+                  <th align="center" valign="middle"  colspan="2"  >2011年</th>
+                  <th align="center" valign="middle"  colspan="2"  >2012年</th>
+                  <th align="center" valign="middle"  colspan="2"  >2013年</th>
+                  <th align="center" valign="middle"  colspan="2"  >2014年</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >USA</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >[0, 5)</td>
+                <td align="center" valign="middle" >70.46</td>
+                <td align="center" valign="middle" >6.78</td>
+                <td align="center" valign="middle" >73.25</td>
+                <td align="center" valign="middle" >8.47</td>
+                <td align="center" valign="middle" >64.67</td>
+                <td align="center" valign="middle" >6.78</td>
+                <td align="center" valign="middle" >62.28</td>
+                <td align="center" valign="middle" >6.78</td>
+                <td align="center" valign="middle" >66.47</td>
+                <td align="center" valign="middle" >6.78</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >[5, 10)</td>
+                <td align="center" valign="middle" >23.15</td>
+                <td align="center" valign="middle" >13.56</td>
+                <td align="center" valign="middle" >19.36</td>
+                <td align="center" valign="middle" >10.17</td>
+                <td align="center" valign="middle" >24.95</td>
+                <td align="center" valign="middle" >13.56</td>
+                <td align="center" valign="middle" >25.95</td>
+                <td align="center" valign="middle" >11.86</td>
+                <td align="center" valign="middle" >22.16</td>
+                <td align="center" valign="middle" >10.17</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >[10, 15)</td>
+                <td align="center" valign="middle" >4.39</td>
+                <td align="center" valign="middle" >44.07</td>
+                <td align="center" valign="middle" >4.59</td>
+                <td align="center" valign="middle" >47.46</td>
+                <td align="center" valign="middle" >5.99</td>
+                <td align="center" valign="middle" >33.90</td>
+                <td align="center" valign="middle" >6.19</td>
+                <td align="center" valign="middle" >28.81</td>
+                <td align="center" valign="middle" >5.59</td>
+                <td align="center" valign="middle" >27.12</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >[15, 20)</td>
+                <td align="center" valign="middle" >0.80</td>
+                <td align="center" valign="middle" >20.34</td>
+                <td align="center" valign="middle" >1.40</td>
+                <td align="center" valign="middle" >15.25</td>
+                <td align="center" valign="middle" >1.20</td>
+                <td align="center" valign="middle" >25.42</td>
+                <td align="center" valign="middle" >2.00</td>
+                <td align="center" valign="middle" >32.20</td>
+                <td align="center" valign="middle" >2.59</td>
+                <td align="center" valign="middle" >30.51</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >[20, ∞)</td>
+                <td align="center" valign="middle" >1.20</td>
+                <td align="center" valign="middle" >15.25</td>
+                <td align="center" valign="middle" >1.40</td>
+                <td align="center" valign="middle" >18.64</td>
+                <td align="center" valign="middle" >3.19</td>
+                <td align="center" valign="middle" >20.34</td>
+                <td align="center" valign="middle" >3.59</td>
+                <td align="center" valign="middle" >20.34</td>
+                <td align="center" valign="middle" >3.19</td>
+                <td align="center" valign="middle" >25.42</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >合计</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+                <td align="center" valign="middle" >100.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 中美高科技企业研发投入强度区间分布%</p>
+        <p>资料来源：本文研究整理。</p>
+        <p>表4显示，美国高科技企业样本总体研发投入强度的均值在各个年度均约为中国高科技企业研发投入强度的三倍，标准差也比中国大，表明中美两国高科技企业研发投入强度均存在行业差异，但是美国高科技企业研发投入强度在行业间的差异比中国大，假设H15部分成立。分行业来看，工业和电信业务领域中，中国高科技企业研发投入强度高于美国，而其他行业中，美国高科技企业研发投入强度均比中国高科技企业研发投入强度大。</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> Average R&amp;D investment intensity of high-tech enterprises in China and the United States (by industry) </title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  >行业</th>
+                  <th align="center" valign="middle" >2010年</th>
+                  <th align="center" valign="middle" >2011年</th>
+                  <th align="center" valign="middle" >2012年</th>
+                  <th align="center" valign="middle" >2013年</th>
+                  <th align="center" valign="middle" >2014年</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >非日常生活消费品</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >3.747</td>
+                <td align="center" valign="middle" >3.559</td>
+                <td align="center" valign="middle" >4.026</td>
+                <td align="center" valign="middle" >4.180</td>
+                <td align="center" valign="middle" >4.341</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >11.074</td>
+                <td align="center" valign="middle" >9.018</td>
+                <td align="center" valign="middle" >11.356</td>
+                <td align="center" valign="middle" >13.833</td>
+                <td align="center" valign="middle" >13.724</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >工业</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >4.050</td>
+                <td align="center" valign="middle" >4.240</td>
+                <td align="center" valign="middle" >4.919</td>
+                <td align="center" valign="middle" >4.854</td>
+                <td align="center" valign="middle" >4.732</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >3.610</td>
+                <td align="center" valign="middle" >3.187</td>
+                <td align="center" valign="middle" >2.925</td>
+                <td align="center" valign="middle" >2.804</td>
+                <td align="center" valign="middle" >2.953</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >医疗保健</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >4.752</td>
+                <td align="center" valign="middle" >4.490</td>
+                <td align="center" valign="middle" >4.963</td>
+                <td align="center" valign="middle" >5.757</td>
+                <td align="center" valign="middle" >5.807</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >20.545</td>
+                <td align="center" valign="middle" >22.357</td>
+                <td align="center" valign="middle" >22.290</td>
+                <td align="center" valign="middle" >19.985</td>
+                <td align="center" valign="middle" >20.600</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >原材料</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >3.038</td>
+                <td align="center" valign="middle" >3.096</td>
+                <td align="center" valign="middle" >3.550</td>
+                <td align="center" valign="middle" >3.859</td>
+                <td align="center" valign="middle" >3.848</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >11.495</td>
+                <td align="center" valign="middle" >11.724</td>
+                <td align="center" valign="middle" >11.234</td>
+                <td align="center" valign="middle" >10.316</td>
+                <td align="center" valign="middle" >10.880</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >电信业务</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >8.530</td>
+                <td align="center" valign="middle" >19.860</td>
+                <td align="center" valign="middle" >26.280</td>
+                <td align="center" valign="middle" >26.895</td>
+                <td align="center" valign="middle" >14.570</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >2.656</td>
+                <td align="center" valign="middle" >2.822</td>
+                <td align="center" valign="middle" >3.584</td>
+                <td align="center" valign="middle" >3.103</td>
+                <td align="center" valign="middle" >2.879</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >信息技术</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >6.746</td>
+                <td align="center" valign="middle" >7.156</td>
+                <td align="center" valign="middle" >8.473</td>
+                <td align="center" valign="middle" >8.864</td>
+                <td align="center" valign="middle" >8.580</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >15.715</td>
+                <td align="center" valign="middle" >15.770</td>
+                <td align="center" valign="middle" >15.579</td>
+                <td align="center" valign="middle" >16.922</td>
+                <td align="center" valign="middle" >16.747</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >日常消费品</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >2.014</td>
+                <td align="center" valign="middle" >2.369</td>
+                <td align="center" valign="middle" >2.644</td>
+                <td align="center" valign="middle" >2.455</td>
+                <td align="center" valign="middle" >2.418</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >能源</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >5.360</td>
+                <td align="center" valign="middle" >4.899</td>
+                <td align="center" valign="middle" >6.521</td>
+                <td align="center" valign="middle" >5.634</td>
+                <td align="center" valign="middle" >5.776</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >金融</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >0.413</td>
+                <td align="center" valign="middle" >0.559</td>
+                <td align="center" valign="middle" >0.405</td>
+                <td align="center" valign="middle" >0.335</td>
+                <td align="center" valign="middle" >0.375</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+                <td align="center" valign="middle" >-</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >总样本均值</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >4.595</td>
+                <td align="center" valign="middle" >4.750</td>
+                <td align="center" valign="middle" >5.533</td>
+                <td align="center" valign="middle" >5.755</td>
+                <td align="center" valign="middle" >5.642</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >15.366</td>
+                <td align="center" valign="middle" >15.568</td>
+                <td align="center" valign="middle" >15.617</td>
+                <td align="center" valign="middle" >16.776</td>
+                <td align="center" valign="middle" >16.654</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >标准差</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >4.867</td>
+                <td align="center" valign="middle" >5.701</td>
+                <td align="center" valign="middle" >5.826</td>
+                <td align="center" valign="middle" >5.774</td>
+                <td align="center" valign="middle" >5.491</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >13.316</td>
+                <td align="center" valign="middle" >11.922</td>
+                <td align="center" valign="middle" >8.404</td>
+                <td align="center" valign="middle" >12.227</td>
+                <td align="center" valign="middle" >9.459</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表4. 中美两国高科技企业样本研发投入强度均值(分行业)%</p>
+        <p>资料来源：本文研究整理。</p>
+        <p>3. 与中国高科技企业相比，美国高科技企业平均盈利能力高，平均成长能力低</p>
+        <p>关于中美两国高科技企业研发投入强度的比较已经在前文做过陈述，在资产负债率、总资产净利率和净资产收益率方面，美国高科技企业样本的均值高于中国高科技企业均值，营业收入增长率和利润总额增长率方面，美国高科技企业样本的均值均低于中国高科技企业均值(见图1)。表明2014年美国高科技企业平均盈利能力好于中国高科技企业，但是美国高科技企业平均成长能力却低于中国高科技企业。</p>
+        <p>图1. 中美两国样本企业数据对比</p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 多元线性回归分析结果</title>
+        <p>在进行回归分析之前，对变量进行相关分析检验，结果显示，中国高科技企业2010年和2013年的企业研发投入强度与2014年企业营业收入增长率IR在5%水平下存在显著相关关系。美国高科技企业2010年至2014年的各年度企业研发投入强度均与2014年企业总资产净利率ROA在1%水平下存在显著相关关系，2010年和2013年企业研发投入强度与2014年企业营业收入增长率IR在1%水平下存在显著相关关系。经进一步检验，得出中美两国高科技企业研发投入强度RDI与企业规模LNS、资产负债率ALR三个变量之间不存在共线性关系。</p>
+        <p>1. 中美高科技企业研发投入强度与企业盈利能力的关系检验</p>
+        <p>由前文相关分析结果可知，中美两国高科技企业研发投入强度与企业净资产收益率ROE均不存在显著相关关系，美国高科技企业研发投入强度与总资产净利率ROA存在相关关系，因此本文选用总资产净利率ROA作为企业盈利能力的代表，对比中美两国高科技企业研发投入强度与企业盈利能力的关系。</p>
+        <p>对中美两个国家的样本分别以2014年度企业总资产净利率ROA作为因变量，不同年份研发投入强度RDI作为自变量，企业规模LNS和资产负债率ALR作为控制变量，进行五次多元回归，将计算结果进行整理得到两国的比较数据(见表5)。</p>
+        <p>F检验结果显示，对于中国高科技企业和美国高科技企业来讲，模型的线性关系在5%的水平下均显著成立。</p>
+        <p>进一步对模型中的各解释变量进行t检验，发现中国高科技企业与美国高科技企业存在差别：</p>
+        <p>(1) 研发投入强度RDI</p>
+        <p>中国高科技企业不同年份的研发强度RDI均未通过显著性检验，但是美国高科技企业研发强度RDI均在5%的水平下显著，即通过了变量显著性检验，且相关系数为负数，表明美国高科技企业研发投入强度与企业盈利能力中的总资产净利率ROA负相关。从而推断出假设H1和假设H2不成立。通过2010年至2014年的研发投入强度与2014年企业总资产净利率ROA的相关系数以及t检验，可以看出美国高科技企业研发投入强度对ROA的影响存在滞后性，而中国高科技企业中这种情况不存在，从而推断出H7不成立，H8成立，H9不成立。进一步观察美国高科技企业样本的多元回归结果中的RDI回归系数，发现分别以各年度研发投入强度为自变量时，模型整体在5%水平下显著成立，回归系数均为负数，且绝对值由大到小排序：</p>
+        <p>β 1 ( 2012 ) &gt; β 1 ( 2014 ) &gt; β 1 ( 2011 ) &gt; β 1 ( 2013 ) &gt; β 1 (2010)</p>
+        <p>表明美国高科技企业基期总资产净利率受前面几年研发投入的影响程度不同，其中受前面第二年，即t − 2期的研发投入影响最大，其次为当期t年份的影响，而受t − 4年份的研发投入影响程度最小。</p>
+        <table-wrap id="table5" >
+          <label>
+            <xref ref-type="table" rid="table5">Table 5</xref>
+          </label>
+          <caption>
+            <title> Results of ROA regression by RDI in different years of high-tech enterprises in China and the United State</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  ></th>
+                  <th align="center" valign="middle" >2014年</th>
+                  <th align="center" valign="middle" >2013年</th>
+                  <th align="center" valign="middle" >2012年</th>
+                  <th align="center" valign="middle" >2011年</th>
+                  <th align="center" valign="middle" >2010年</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >Constant</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >−11.234 (−3.040)</td>
+                <td align="center" valign="middle" >−11.577 (−3.123)</td>
+                <td align="center" valign="middle" >−11.447 (−3.085)</td>
+                <td align="center" valign="middle" >−11.825 (−3.19)</td>
+                <td align="center" valign="middle" >−12.366 (−3.322)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >−8.305 (−1.094)</td>
+                <td align="center" valign="middle" >−10.156 (−1.427)</td>
+                <td align="center" valign="middle" >−8.266 (−1.094)</td>
+                <td align="center" valign="middle" >−9.691 (−1.408)</td>
+                <td align="center" valign="middle" >−13.002 (−1.844)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >RDI</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >−0.061 (−1.421)</td>
+                <td align="center" valign="middle" >−0.026 (−0.639)</td>
+                <td align="center" valign="middle" >−0.034 (−0.838)</td>
+                <td align="center" valign="middle" >−0.006 (−0.152)</td>
+                <td align="center" valign="middle" >0.037 (0.765)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >
+                  −0.308<sup>***</sup> (−3.452)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.258<sup>***</sup> (−3.921)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.352<sup>***</sup> (−3.517)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.289<sup>***</sup> (−4.423)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.218<sup>***</sup> (−3.626)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >ALR2014</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >
+                  −0.148<sup>***</sup> (−9.934)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.145<sup>***</sup> (−9.756)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.145<sup>***</sup> (−9.853)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.143<sup>***</sup> (−9.751)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.141<sup>***</sup> (−9.650)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >−0.064 (−1.465)</td>
+                <td align="center" valign="middle" >−0.060 (−1.423)</td>
+                <td align="center" valign="middle" >−0.066 (−1.507)</td>
+                <td align="center" valign="middle" >−0.061 (−1.483)</td>
+                <td align="center" valign="middle" >−0.044 (−1.050)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >LNS2014</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >
+                  1.747<sup>***</sup> (5.552)
+                </td>
+                <td align="center" valign="middle" >
+                  1.750<sup>***</sup> (5.551)
+                </td>
+                <td align="center" valign="middle" >
+                  1.743<sup>***</sup> (5.525)
+                </td>
+                <td align="center" valign="middle" >
+                  1.755<sup>***</sup> (5.561)
+                </td>
+                <td align="center" valign="middle" >
+                  1.778<sup>***</sup> (5.625)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >
+                  1.621<sup>***</sup> (3.097)
+                </td>
+                <td align="center" valign="middle" >
+                  1.685<sup>***</sup> (3.323)
+                </td>
+                <td align="center" valign="middle" >
+                  1.651<sup>***</sup> (3.174)
+                </td>
+                <td align="center" valign="middle" >
+                  1.665<sup>***</sup> (3.379)
+                </td>
+                <td align="center" valign="middle" >
+                  1.769<sup>***</sup> (3.444)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >
+                  R<sup>2</sup>
+                </td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >0.170</td>
+                <td align="center" valign="middle" >0.167</td>
+                <td align="center" valign="middle" >0.167</td>
+                <td align="center" valign="middle" >0.166</td>
+                <td align="center" valign="middle" >0.167</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >0.318</td>
+                <td align="center" valign="middle" >0.351</td>
+                <td align="center" valign="middle" >0.322</td>
+                <td align="center" valign="middle" >0.388</td>
+                <td align="center" valign="middle" >0.330</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >DW</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >1.417</td>
+                <td align="center" valign="middle" >1.416</td>
+                <td align="center" valign="middle" >1.417</td>
+                <td align="center" valign="middle" >1.419</td>
+                <td align="center" valign="middle" >1.416</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >1.80</td>
+                <td align="center" valign="middle" >1.844</td>
+                <td align="center" valign="middle" >1.77</td>
+                <td align="center" valign="middle" >1.794</td>
+                <td align="center" valign="middle" >1.873</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >F</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >33.843</td>
+                <td align="center" valign="middle" >33.199</td>
+                <td align="center" valign="middle" >33.317</td>
+                <td align="center" valign="middle" >33.045</td>
+                <td align="center" valign="middle" >33.270</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >8.540</td>
+                <td align="center" valign="middle" >9.929</td>
+                <td align="center" valign="middle" >8.72</td>
+                <td align="center" valign="middle" >11.611</td>
+                <td align="center" valign="middle" >9.035</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >Sig.</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表5. 中美两国高科技企业不同年份RDI对ROA回归结果</p>
+        <p>注：括号内为t值，***表示在5%的水平下显著相关，资料来源：本文研究整理。</p>
+        <p>(2) 资产负债率ALR</p>
+        <p>在分别对中国高科技企业样本和美国高科技企业样本进行的五次回归中，中国高科技企业资产负债率均在5%的水平下显著，即通过了变量显著性检验，而美国高科技企业资产负债率均未通过变量显著性检验。</p>
+        <p>(3) 企业规模LNS</p>
+        <p>在分别对中国高科技企业样本和美国高科技企业样本进行的五次回归中，中美两国的高科技企业规模均在5%的水平下显著，即均通过了变量显著性检验。同时，中国高科技企业的企业规模系数高于美国。</p>
+        <p>
+          对比中美两国高科技企业样本回归模型的R<sup>2</sup>，可以看出，中美两国高科技企业模型得到的R<sup>2</sup>都比较低，模型的整体解释力度不够高，但是美国高科技企业样本回归的R<sup>2</sup>值处在0.318~0.388之间，而中国高科技企业样本回归的R<sup>2</sup>值处在0.166~0.170之间。表明美国高科技企业样本的拟合效果好于中国高科技企业样本，推断出假设H3成立。
+        </p>
+        <p>2. 中美高科技企业研发投入强度与企业成长能力的关系检验</p>
+        <p>中美两国高科技企业研发投入强度均与企业营业收入增长率IR存在显著相关关系，与利润总额增长率RR不存在显著相关关系，因此本文选用企业营业收入增长率IR作为企业成长能力的代表，对比中美两国高科技企业研发投入强度与企业成长能力的关系。对两个国家的样本分别以2014年度企业营业收入增长率IR作为因变量，不同年份研发投入强度RDI作为自变量，企业规模LNS和资产负债率ALR作为控制变量，进行五次多元回归，将计算结果进行整理得到两国的比较数据(表6)。</p>
+        <table-wrap id="table6" >
+          <label>
+            <xref ref-type="table" rid="table6">Table 6</xref>
+          </label>
+          <caption>
+            <title> Relative result of RDI to IR of high-tech enterprises in China and America in different year</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  ></th>
+                  <th align="center" valign="middle" >2014年</th>
+                  <th align="center" valign="middle" >2013年</th>
+                  <th align="center" valign="middle" >2012年</th>
+                  <th align="center" valign="middle" >2011年</th>
+                  <th align="center" valign="middle" >2010年</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >Constant</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >8.557 (0.324)</td>
+                <td align="center" valign="middle" >−5.207 (−0.198)</td>
+                <td align="center" valign="middle" >−3.099 (−0.117)</td>
+                <td align="center" valign="middle" >−2.109 (−0.08)</td>
+                <td align="center" valign="middle" >−6.064 (−0.230)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >37.121 (1.224)</td>
+                <td align="center" valign="middle" >20.779 (0.742)</td>
+                <td align="center" valign="middle" >40.577 (1.339)</td>
+                <td align="center" valign="middle" >30.356 (1.057)</td>
+                <td align="center" valign="middle" >21.353 (0.809)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >RDI</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >−0.338 (−1.093)</td>
+                <td align="center" valign="middle" >
+                  0.822<sup>***</sup> (2.832)
+                </td>
+                <td align="center" valign="middle" >
+                  0.598<sup>***</sup> (2.086)
+                </td>
+                <td align="center" valign="middle" >
+                  0.585<sup>***</sup> (2.011)
+                </td>
+                <td align="center" valign="middle" >
+                  0.861<sup>***</sup> (2.535)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >0.099 (0.278)</td>
+                <td align="center" valign="middle" >
+                  0.564<sup>***</sup> (2.175)
+                </td>
+                <td align="center" valign="middle" >0.002 (0.005)</td>
+                <td align="center" valign="middle" >0.311 (1.140)</td>
+                <td align="center" valign="middle" >
+                  0.673<sup>***</sup> (2.988)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >ALR2014</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >−0.010 (−0.092)</td>
+                <td align="center" valign="middle" >0.090 (0.852)</td>
+                <td align="center" valign="middle" >0.063 (−0.605)</td>
+                <td align="center" valign="middle" >0.057 (0.544)</td>
+                <td align="center" valign="middle" >0.060 (0.579)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >
+                  −0.394<sup>***</sup> (−2.248)
+                </td>
+                <td align="center" valign="middle" >−0.327 (−1.970)</td>
+                <td align="center" valign="middle" >
+                  −0.407<sup>***</sup> (−2.315)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.367<sup>***</sup> (−2.153)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.343<sup>***</sup> (−2.168)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >LNS2014</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >1.056 (0.470)</td>
+                <td align="center" valign="middle" >1.367 (0.612)</td>
+                <td align="center" valign="middle" >1.382 (0.616)</td>
+                <td align="center" valign="middle" >1.363 (0.608)</td>
+                <td align="center" valign="middle" >1.581 (0.705)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >−0.319 (−0.152)</td>
+                <td align="center" valign="middle" >0.083 (0.042)</td>
+                <td align="center" valign="middle" >−0.411 (−0.197)</td>
+                <td align="center" valign="middle" >−0.146 (−0.071)</td>
+                <td align="center" valign="middle" >0.030 (0.016)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >
+                  R<sup>2</sup>
+                </td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >0.003</td>
+                <td align="center" valign="middle" >0.017</td>
+                <td align="center" valign="middle" >0.010</td>
+                <td align="center" valign="middle" >0.009</td>
+                <td align="center" valign="middle" >0.014</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >0.102</td>
+                <td align="center" valign="middle" >0.172</td>
+                <td align="center" valign="middle" >0.101</td>
+                <td align="center" valign="middle" >0.122</td>
+                <td align="center" valign="middle" >0.227</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >DW</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >1.735</td>
+                <td align="center" valign="middle" >1.756</td>
+                <td align="center" valign="middle" >1.749</td>
+                <td align="center" valign="middle" >1.727</td>
+                <td align="center" valign="middle" >1.723</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >1.578</td>
+                <td align="center" valign="middle" >1.583</td>
+                <td align="center" valign="middle" >1.569</td>
+                <td align="center" valign="middle" >1.591</td>
+                <td align="center" valign="middle" >1.555</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >F</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >0.554</td>
+                <td align="center" valign="middle" >2.831</td>
+                <td align="center" valign="middle" >1.607</td>
+                <td align="center" valign="middle" >1.505</td>
+                <td align="center" valign="middle" >2.300</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >2.093</td>
+                <td align="center" valign="middle" >3.820</td>
+                <td align="center" valign="middle" >2.065</td>
+                <td align="center" valign="middle" >2.547</td>
+                <td align="center" valign="middle" >5.375</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >Sig.</td>
+                <td align="center" valign="middle" >PRC</td>
+                <td align="center" valign="middle" >0.645</td>
+                <td align="center" valign="middle" >0.038</td>
+                <td align="center" valign="middle" >0.187</td>
+                <td align="center" valign="middle" >0.212</td>
+                <td align="center" valign="middle" >0.077</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >USA</td>
+                <td align="center" valign="middle" >0.112</td>
+                <td align="center" valign="middle" >0.015</td>
+                <td align="center" valign="middle" >0.115</td>
+                <td align="center" valign="middle" >0.065</td>
+                <td align="center" valign="middle" >0.003</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表6. 中美高科技企业不同年份RDI对IR回归结果</p>
+        <p>注：括号内为t值，***表示在5%的水平下显著相关，资料来源：本文研究整理。</p>
+        <p>F检验结果显示，中国高科技企业与美国高科技企业在模型整体的线性检验结果方面存在差异：在以2013年研发投入强度为自变量时，中国高科技企业模型的线性关系在5%的水平下显著成立，以其他年份的研发投入强度为自变量时，模型线性关系不显著成立；在分别以2013年和2010年研发投入强度为自变量时，美国高科技企业模型的线性关系在5%的水平下显著成立，以其他年份的研发投入强度为自变量时，模型线性关系不显著成立。</p>
+        <p>进一步对以2013年研发投入强度为自变量的中美高科技企业线性回归模型进行分析，对模型中的各解释变量进行t检验，发现中国高科技企业与美国高科技企业也存在差别：</p>
+        <p>(1) 研发投入强度RDI</p>
+        <p>中国和美国高科技企业研发强度RDI均在5%的水平下通过了变量显著性检验，且相关系数均为正，从而推断出假设H4和假设H5成立。同时，2013年企业研发投入强度均对2014年的营业收入增长率产生影响，说明中美两国企业研发投入强度对企业营业收入增长率的影响均存在滞后性，假设H10和H11成立，而2010年至2013年中国企业研发投入强度均对企业2014年的营业收入增长率产生了显著影响，且相关系数要高于美国同期的相关系数。因此，推断出中国高科技企业研发投入强度对企业成长能力的滞后性大于美国，假设H12成立。</p>
+        <p>进一步观察美国高科技企业样本的多元回归结果中的RDI回归系数，发现分别以各年度研发投入强度为自变量时，当模型整体在5%水平下显著成立时，回归系数均为正数，且绝对值由大到小排序：</p>
+        <p>β 1 ( 2010 ) &gt; β 1 (2013)</p>
+        <p>表明美国高科技企业基期营业收入增长率受前面几年研发投入的影响程度不同，其中受t − 4期的研发投入影响最大。中国高科技企业研发投入强度回归系数也是这样的关系。从而可以推断出对中美高科技企业来说，研发投入会对后面一年的营业收入产生显著促进作用，同时这种促进影响并不会结束，在之后第四年时会带来营业收入的又一次增长。</p>
+        <p>(2) 资产负债率ALR</p>
+        <p>在分别对中国高科技企业样本和美国高科技企业样本进行的五次回归中，中国的高科技企业资产负债率在5%的水平下均未通过变量显著性检验。美国的高科技企业资产负债率有四次通过了5%水平下的变量显著性检验，但是只有以2010年度的研发投入强度为解释变量时，模型线性关系在5%水平下显著成立。</p>
+        <p>(3) 企业规模LNS</p>
+        <p>在分别对中国高科技企业样本和美国高科技企业样本进行的五次回归中，中美两国的高科技企业的企业规模在5%的水平下均未通过变量显著性检验。</p>
+        <p>结合研发投入强度对企业盈利能力的回归结果，可以推断出，中国高科技企业的资产负债率和企业规模对研发活动的影响均大于美国，假设H13和假设H14成立。</p>
+        <p>
+          对比中美两国高科技企业样本回归模型的R<sup>2</sup>，可以看出，中美两国高科技企业模型得到的R<sup>2</sup>都比较低，模型的整体解释力度不够高。美国高科技企业样本回归的R<sup>2</sup>值处在0.102~0.227之间，而中国高科技企业样本回归的R<sup>2</sup>值均低于0.02。表明美国高科技企业样本的拟合效果好于中国高科技企业样本，推断出假设H6成立。
+        </p>
+        <p>3. 政府补贴对高科技企业研发活动影响的检验</p>
+        <p>由于美国高科技企业在财务披露中未涉及政府补贴，所以本部分只针对中国高科技企业样本进行分析。描述统计分析结果显示，中国政府对企业补贴差异性较大，补贴力度最大值为企业总资产的5.8%，最小值为企业总资产的0.001%，平均值为0.72%。</p>
+        <p>对各变量进行相关性分析，结果显示政府补贴与企业研发投入强度在1%的水平下存在有显著正相关关系。且中国高科技企业研发投入强度RDI与企业规模LNS、资产负债率ALR和政府补贴FS四个变量之间不存在共线性关系。</p>
+        <p>分别以2014年企业总资产净利率、净资产收益率、营业收入增长率和利润总额增长率为解释变量，2014年企业研发投入强度为解释变量，企业规模、资产负债率和政府补贴为控制变量，利用SPSS19.0进行多元线性回归，并与未加入FS时的回归结果进行比较(见表7)。结果显示，引入政府补贴变量FS后，提高了研发投入强度RDI对企业总资产净利率ROA和净资产收益率ROE的解释力度。加入政府补贴FS变量后，研发投入强度RDI在5%水平下显著，通过了变量显著性检验。对于研发投入强度RDI和营业收入增长率IR、利润总额增长率RR之间的关系并没有产生影响。表明政府补贴对企业研发活动产生正向影响，假设H16成立。</p>
+        <table-wrap id="table7" >
+          <label>
+            <xref ref-type="table" rid="table7">Table 7</xref>
+          </label>
+          <caption>
+            <title> Comparison of regression test results before and after adding FS variabl</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  ></th>
+                  <th align="center" valign="middle" >ROA</th>
+                  <th align="center" valign="middle" >ROE</th>
+                  <th align="center" valign="middle" >IR</th>
+                  <th align="center" valign="middle" >RR</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >Constant</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >
+                  −11.234<sup>***</sup> (−3.040)
+                </td>
+                <td align="center" valign="middle" >
+                  −26.743<sup>***</sup> (−4.446)
+                </td>
+                <td align="center" valign="middle" >8.557 (0.324)</td>
+                <td align="center" valign="middle" >
+                  −804.657<sup>***</sup> (−2.683)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >
+                  −13.587<sup>***</sup> (−3.772)
+                </td>
+                <td align="center" valign="middle" >
+                  −29.823<sup>***</sup> (−5.018)
+                </td>
+                <td align="center" valign="middle" >5.248 (0.198)</td>
+                <td align="center" valign="middle" >
+                  −831.321<sup>***</sup> (−2.748)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >RDI2014</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >−0.061 (−1.421)</td>
+                <td align="center" valign="middle" >−0.097 (−1.377)</td>
+                <td align="center" valign="middle" >−0.338 (−1.093)</td>
+                <td align="center" valign="middle" >−0.252 (−0.072)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >
+                  −0.128<sup>***</sup> (−2.896)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.186<sup>***</sup> (−2.561)
+                </td>
+                <td align="center" valign="middle" >−0.365 (−1.126)</td>
+                <td align="center" valign="middle" >−0.699 (−0.189)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >ALR2014</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >
+                  −0.148<sup>***</sup> (−9.934)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.162<sup>***</sup> (−6.686)
+                </td>
+                <td align="center" valign="middle" >−0.010 (−0.092)</td>
+                <td align="center" valign="middle" >−0.778 (−0.642)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >
+                  −0.150<sup>***</sup> (−10.349)
+                </td>
+                <td align="center" valign="middle" >
+                  −0.165<sup>***</sup> (−6.906)
+                </td>
+                <td align="center" valign="middle" >−0.013 (−0.123)</td>
+                <td align="center" valign="middle" >−0.774 (−0.635)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >LNS2014</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >
+                  1.747<sup>***</sup> (5.552)
+                </td>
+                <td align="center" valign="middle" >
+                  3.233<sup>***</sup> (6.313)
+                </td>
+                <td align="center" valign="middle" >1.056 (0.470)</td>
+                <td align="center" valign="middle" >
+                  69.352<sup>***</sup> (2.716)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >
+                  1.885<sup>***</sup> (6.168)
+                </td>
+                <td align="center" valign="middle" >
+                  3.414<sup>***</sup> (6.770)
+                </td>
+                <td align="center" valign="middle" >1.306 (0.581)</td>
+                <td align="center" valign="middle" >
+                  71.035<sup>***</sup> (2.767)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >FS2014</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >−</td>
+                <td align="center" valign="middle" >−</td>
+                <td align="center" valign="middle" >−</td>
+                <td align="center" valign="middle" >−</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >
+                  1.464<sup>***</sup> (5.096)
+                </td>
+                <td align="center" valign="middle" >
+                  1.963<sup>***</sup> (4.141)
+                </td>
+                <td align="center" valign="middle" >0.366 (0.173)</td>
+                <td align="center" valign="middle" >10.098 (0.418)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >
+                  R<sup>2</sup>
+                </td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >0.170</td>
+                <td align="center" valign="middle" >0.106</td>
+                <td align="center" valign="middle" >0.003</td>
+                <td align="center" valign="middle" >0.016</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >0.210</td>
+                <td align="center" valign="middle" >0.136</td>
+                <td align="center" valign="middle" >0.004</td>
+                <td align="center" valign="middle" >0.016</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >DW</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >1.417</td>
+                <td align="center" valign="middle" >1.387</td>
+                <td align="center" valign="middle" >1.735</td>
+                <td align="center" valign="middle" >0.484</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >1.408</td>
+                <td align="center" valign="middle" >1.393</td>
+                <td align="center" valign="middle" >1.763</td>
+                <td align="center" valign="middle" >0.487</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >F</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >33.843</td>
+                <td align="center" valign="middle" >19.740</td>
+                <td align="center" valign="middle" >0.554</td>
+                <td align="center" valign="middle" >2.610</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >32.799</td>
+                <td align="center" valign="middle" >19.424</td>
+                <td align="center" valign="middle" >0.479</td>
+                <td align="center" valign="middle" >2.051</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >Sig.</td>
+                <td align="center" valign="middle" >Before</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.645</td>
+                <td align="center" valign="middle" >0.051</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >After</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.000</td>
+                <td align="center" valign="middle" >0.751</td>
+                <td align="center" valign="middle" >0.086</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表7. 加入FS变量前后的回归检验结果对比</p>
+        <p>注：括号内为t值，***表示在5%的水平下显著相关，资料来源：本文研究整理。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 研究结论与建议</title>
+      <sec id="s6_1">
+        <title>4.1. 研究结论</title>
+        <p>本文对501家中国上市高科技企业和59家美国上市高科技企业数据进行描述统计分析、相关分析和多元线性回归分析。得出的结论如下：美国高科技企业研发投入强度与企业总资产净利率呈负相关，且这种影响具有滞后性；中美两国高科技企业研发投入强度与企业营业收入增长率均具有正相关关系，且美国高科技企业中这种正相关关系更为明显，但是中国高科技企业研发投入强度对企业营业收入增长率的影响滞后性程度大于美国；中国的高科技企业样本检验显示，资产负债率和企业规模对企业的研发活动具有显著影响，而在美国高科技企业中，这种影响不显著；美国高科技企业行业分布较中国更集中，行业间的研发投入差异性也更大；中国高科技企业中，政府补贴能够提高研发投入强度对企业盈利能力的解释力度。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 政策建议</title>
+        <p>1. 通过实验室建设、重大专项带动及领军人才培养解决中国重大原始创新问题</p>
+        <p>首先，解决中国缺乏重大原始创新问题需要加强科学应用方面建设，加强实验室建设和基础研究，中国绝大多数国家重点实验室目前还是建在社会科研机构和高等院校，国家应该尽可能地将一些重点实验室建在企业，并保障企业对所取得的技术成果有优先使用权，促进科技成果迅速转化为现实生产力。其次，利用国家重大专项带动创新，进一步推进《国家中长期科学和技术发展纲要(2006~2020)》中提出的16项重大科技专项，培育创新型企业。注重发挥政府在集聚创新要素方面的“引擎”作用。发挥行业领先企业的主导作用，促进创新型领先企业的成长。企业也需开设不同层次的技术创新项目。最后，突出领军人才培养。产业集中度较高、综合实力较强的企业应该明确更高的目标，创造条件培养更高层次的有国际影响力的技术领军人才。产业集中度不高、技术领军人才少的行业企业，一方面要通过兼并重组集聚高层次的技术领军人才；另一方面则要建立有力的激励机制，创造良好的成长环境，加快培养自身的技术领军人才。</p>
+        <p>2. 落实“大众创业、万众创新”</p>
+        <p>首先，创造好的环境，引导和扶持创新创业，发挥市场在资源配置中的决定性作用，加大简政放权力度，形成有利于创业创新的良好氛围；坚持开放共享，推动模式创新，依托“互联网+”、大数据等推动各行业创新商业模式。其次，打通成果转化通道，汇聚企业创新力量，深入实施创新驱动发展战略，构建创新成果收益分配机制，推动知识产权与经济社会发展的深度融合。建立以市场为导向的成果转化机制，实现国家、高校和科研人员、企业的多方共赢的格局，让企业、高校和科研院所真正成为科技创新的主力军。第三，加快金融体制改革，扩大风险投资。加快金融体制改革，提高金融服务实体经济效率，优化资本市场，支持符合条件的创业上市或发行票据，并鼓励创业企业通过债券市场筹集资金，鼓励银行提高针对创业创新企业的金融服务专业化水平，发展国有资本创业投资，推动创业投资“引进来”与“走出去”。</p>
+        <p>3. 传统行业加入“互联网+”思想和“中国制造2025”</p>
+        <p>支持“互联网+”、“双创”向传统产业延伸。鼓励龙头企业结合传统产业特点建立线上交易服务平台、商品集散平台和物流中心，推动农村依托互联网创业。鼓励电子商务第三方交易平台渠道下沉，带动传统产业创业人员依托其平台和经营网络开展创业。支持传统产业“再”创业集聚发展。建立有市场竞争力的协作创业模式，形成各具特色的传统产业创业联盟，完善传统产业创业支撑服务。</p>
+        <p>4. 知识产权保护与运用要适度，不能影响创新</p>
+        <p>我国政府相关部门需要提高知识产权管理能力，利用知识产权管理来调解利益关系，从而起到充分激励和保障技术创新的功能和作用。同时，要充分把握住产业重组和转移的良好机遇，积极参与全球分工，加大高新技术产业技术自主研发、消化吸收和再创新的力度。积极利用全球分工体系提供的商业机会和高级生产要素，逐步占据全球产业分工创新环节，不断推进我国产业结构优化升级。政府部门还需要积极鼓励各高新技术各行业建立行业协会或由多个公司形成技术联盟，积极参与国内外的本行业的相关技术标准的制定，逐步提高由我国为主制定的国际标准的比重，在实践中不断地探索和提高我国高新技术企业对知识产权的创造、管理、保护和运用的能力。</p>
+        <p>企业方面，我国企业需结合公司发展战略以及产业技术路径，高度重视集成创新和消化吸收再创新的价值，要正确处理自主创新与引进技术的关系。国内企业一方面要严把技术引进关，把技术引进同优化产业结构、提升企业竞争力结合起来；另一方面，要加大对消化吸收的投入，提升消化吸收再创新的能力，脱离对外技术依赖的恶性循环。同时，我国企业和科研单位必须进一步加强专利申请意识，运用专利武器来保护自身的技术安全。对于专利权的运用意识也需要逐渐培养并贯彻起来。</p>
+        <p>5. 产业政策与创新需要互动</p>
+        <p>建立健全产业政策，在广泛调研的基础上划定“鼓励、限制、禁止”产业引导目录，促使“创新驱动”战略成为行业内竞争的最优选择。规范“高新区、孵化器”管理，使其真正成为创新型企业集聚高地。加大政府购买“中国技术”含量，推动中国企业“原创性创新”，完善中国政府技术购买制度，形成与科技创新发展协调、高效合理的技术配置和供给体系，推动中国企业技术创新和新产品创新。购买内容向“中国技术”倾斜，购买机制向“中国企业原创”倾斜，简化项目申报、预算编制、组织采购、项目监管、绩效评价的流程。最后，还需要打破创新的国家封锁，一方面，针对技术优势国家的技术封锁，发挥中国国际话语权；另一方面，保护自主创新技术，构建“中国技术”授权转让制度。</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>基金项目</title>
+      <p>本研究受到科学技术部国际合作司“中外创新对话专项”2014年度美大地区研究课题支持。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>窦文章,陈 梦. 中美企业研发绩效比较研究R&amp;D Performance Comparison between Chinese and the United States Enterprises[J]. 管理科学与工程, 2019, 08(03): 248-263. https://doi.org/10.12677/MSE.2019.83031</p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.32201-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张凌, 胡未熹. 中国上市高科技企业资本结构影响因素研究[J]. 经济师, 2006(5): 80-82.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          中国国家科学技术部. 高新技术企业认定管理办法(国科发火[2016]32号) [EB/OL].
+          http://www.most.gov.cn/tztg/201602/t20160204_123994.htm, 2016-01-29.
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">梁莱歆, 黄振豊, 吴振荣. 基于企业生命周期的中美高科技上市公司融资结构比较研究[J]. 管理现代化, 2005(1): 33-37.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Schumpeter, J.A. (1943) Capitalism, Socialism and Democracy. McGraw-Hill, New York.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Galbraith, J.K. (1952) American Capitalism. Miffin Press, Houghton, Nor-folk.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Robert, P. and Marina, P. (1999) Overseas R &amp; D and the Strategic Evolution of MNEs: Evidence from Laboratories in the UK. Research Policy, 28, 23-41. https://doi.org/10.1016/S0048-7333(98)00104-8</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Gassman, O. and von Zedtwitz, M. (2003) Trends and Determinants of Managing Virtual R &amp; D Teams. R &amp; D Management, 33, 243-262. https://doi.org/10.1111/1467-9310.00296</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Asakawa, K. (2001) Evolving Headquarters-Subsidiary Dynamics in International R &amp; D: The Case of Japanese Multinational Corporations. R &amp; D Management, 31, 1-14. https://doi.org/10.1111/1467-9310.00192</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Atuahene-Gima, K. and Ko, A. (2001) An Empirical Investigation of the Effect of Market Orientation and Entrepreneurship Orientation Alignment on Product Innovation. Organization Science, 12, 54-74.
+          https://doi.org/10.1287/orsc.12.1.54.10121
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Kyriakopoulos, K. and Moorman, C. (2004) Tradeoffs in Marketing Exploitation and Exploration Strategies: The Overlooked Role of Market Orientation. International Journal of Research in Marketing, 21, 219-240.
+          https://doi.org/10.1016/j.ijresmar.2004.01.001
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Adegoke, O. (2007) Innovation Types and Innovation Management Practices in Service Companies. International Journal of Operations &amp; Production Management, 27, 564-587. https://doi.org/10.1108/01443570710750268</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Santamaria, L., Jesus Nieto, M. and Barge-Gil, A. (2010) The Relevance of Different Open Innovation Strategies for R &amp; D Performers. Cuadernos de Economia y Direccion de la Empresa, 13, 93-114.
+          https://doi.org/10.1016/S1138-5758(10)70025-6
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Cruz-Cazares, C., Bayona-Saez, C. and Garcia-Marco, T. (2011) R &amp; D Strategies and Firm Innovative Performance: A Panel Data Analysis. International Journal of Innovation Management, 14, 1013-1045.
+          https://doi.org/10.1142/S1363919610002982
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李宜静, 李新春, 王宣喻. 战略导向与组织绩效——技术创新的中介作用[J]. 经济管理, 2010, 32(5): 50-56.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">郭研, 刘一博. 高新技术企业研发投入与研发绩效的实证分析——来自中关村的证据[J]. 经济科学, 2011(2): 117-128.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张永胜, 刘新梅, 王海珍. 研发市场职能整合与产品创新绩效关系研究[J]. 科学学研究, 2009, 27(2): 309-314.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref17">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张子健, 刘伟. 不同竞合模式下企业研发投资决策及绩效——基于不确定条件的分析[J]. 管理工程学报, 2010, 24(2): 104-110.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref18">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">辛云峰. 研发支出、企业绩效与市场反应——基于中国中小企业板和创业板上市公司的实证研究[D]: [博士学位论文]. 北京: 财政部财政科学研究所, 2012.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref19">
+        <label>19</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张近乐, 张坤. 创新网络活动对大中型企业研发绩效动态影响研究——基于VEC模型的实证分析[J]. 财经理论与实践, 2014, 35(1): 86-90.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref20">
+        <label>20</label>
+        <mixed-citation publication-type="other" xlink:type="simple">韩亚峰, 樊秀峰, 周文博. R &amp; D投入、技术外溢对高新技术企业研发绩效的影响——基于知识资本积累模型[J].财经论丛(浙江财经学院学报), 2015(8): 81-88.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref21">
+        <label>21</label>
+        <mixed-citation publication-type="other" xlink:type="simple">彭灿, 杨玲. 技术能力、创新战略与创新绩效的关系研究[J]. 科研管理, 2009, 30(2): 26-32+69.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref22">
+        <label>22</label>
+        <mixed-citation publication-type="other" xlink:type="simple">宋浩亮. 战略导向、技术创新速度: 两者关系的实证研究[J]. 科学学与科学技术管理, 2010, 31(10): 88-92.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref23">
+        <label>23</label>
+        <mixed-citation publication-type="other" xlink:type="simple">宁宝超. 基于研发制度安排的企业研发绩效比较[D]: [硕士学位论文]. 长沙: 中南大学, 2011.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref24">
+        <label>24</label>
+        <mixed-citation publication-type="other" xlink:type="simple">朱春玲. 我国企业经营管理者创新精神对创新成果影响的实证研究[J]. 经济理论与经济管理, 2011(4): 72-79.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref25">
+        <label>25</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李兵. 装备制造企业研发绩效管理研究[J]. 机电信息, 2012(2): 15-19.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref26">
+        <label>26</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李中, 周勤. 内生性约束下研发投入、研发效率与企业绩效——中国高技术产业细分行业的样本[J]. 软科学, 2012, 27(7): 11-14.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref27">
+        <label>27</label>
+        <mixed-citation publication-type="other" xlink:type="simple">陈志军, 王晓静, 徐鹏. 集团研发管理机制与研发绩效关系研究[J]. 山东社会科学, 2013(12): 115-120.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32201-ref28">
+        <label>28</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王晓静. 企业集团研发协同与研发绩效的实证研究[D]: [博士学位论文]. 济南: 山东大学, 2012.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">CSA</journal-id>
+      <journal-title-group>
+        <journal-title>Computer Science and Application</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2161-8801</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/CSA.2020.105108</article-id>
+      <article-id pub-id-type="publisher-id">CSA-35793</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>CSA20200500000_40194567.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>信息通讯</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          基于改进模糊智能算法的路径规划的研究
+          Research on Path Planning Based on Improved Fuzzy Intelligent Algorithm
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>周</surname>
+            <given-names>加全</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>吴</surname>
+            <given-names>建生</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>广西科技师范学院，广西 来宾</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>04</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>05</issue>
+      <fpage>1044</fpage>
+      <lpage>1050</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          针对移动机器人面临环境的复杂性和不确定性，传统控制算法已经无法精确地避开障碍物，找到一条最优路径来完成相应的任务。针对这个问题，本文提出了一种改进的智能控制算法——参数自整定模糊逻辑控制算法，通过利用MATLAB编程，对模糊变量及模糊控制器进行设计，在随机的环境中对模糊控制器的相关参数进行自动校正，使其不受外界环境的影响，还可以精确地避开相应的障碍物，保证机器人能够准确地到达目标点，在此基础上可以得到一条最优路径。这种智能算法有效地解决了目前移动机器人所面临的主要问题，同时还可使控制系统保持较好的性能，实验结果表明该方法的优越性和可行性。 In view of the complexity and uncertainty of the mobile robot’s environment, traditional control algorithms have been unable to accurately avoid obstacles and find an optimal path to complete the corresponding task. Aiming at this problem, this paper proposes an improved intelligent control algorithm—parameter self-tuning fuzzy logic control algorithm. By using MATLAB programming, the fuzzy variables and fuzzy controllers are designed. The parameters are automatically corrected so that they are not affected by the external environment, and the corresponding obstacles can be accurately avoided to ensure that the robot can accurately reach the target point. Based on this, an optimal path can be obtained. This intelligent algorithm effectively solves the main problems currently faced by mobile robots, and at the same time can keep the control system with good performance. Experimental results show the superiority and feasibility of the method.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>路径规划，智能控制算法，最优路径，自整定，模糊逻辑控制, Path Planning</kwd>
+        <kwd> Intelligent Control Algorithm</kwd>
+        <kwd> Optimal Path</kwd>
+        <kwd> Self-Tuning</kwd>
+        <kwd> Fuzzy Logic Control</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        基于改进模糊智能算法的路径规划的研究<sup> </sup>
+      </title>
+      <p>周加全，吴建生</p>
+      <p>广西科技师范学院，广西 来宾</p>
+      <p>收稿日期：2020年5月5日；录用日期：2020年5月20日；发布日期：2020年5月27日</p>
+      <disp-formula id="hanspub.35793-formula30">
+        <graphic xlink:href="//html.hanspub.org/file/25-1541775x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>针对移动机器人面临环境的复杂性和不确定性，传统控制算法已经无法精确地避开障碍物，找到一条最优路径来完成相应的任务。针对这个问题，本文提出了一种改进的智能控制算法——参数自整定模糊逻辑控制算法，通过利用MATLAB编程，对模糊变量及模糊控制器进行设计，在随机的环境中对模糊控制器的相关参数进行自动校正，使其不受外界环境的影响，还可以精确地避开相应的障碍物，保证机器人能够准确地到达目标点，在此基础上可以得到一条最优路径。这种智能算法有效地解决了目前移动机器人所面临的主要问题，同时还可使控制系统保持较好的性能，实验结果表明该方法的优越性和可行性。</p>
+      <p>关键词 :路径规划，智能控制算法，最优路径，自整定，模糊逻辑控制</p>
+      <disp-formula id="hanspub.35793-formula31">
+        <graphic xlink:href="//html.hanspub.org/file/25-1541775x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2020 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/25-1541775x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/25-1541775x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        随着现在科学技术的发展，智能化的机器人不仅给人民的生活带来了便利，也进一步促进科学技术的发展。机器人的研究则成了现代许多研究者研究的一个趋势，而路径规划是机器人研究的一个基础，也是关键因素 [<xref ref-type="bibr" rid="hanspub.35793-ref1">1</xref>]。其主要任务是：当机器人在外部环境工作时，在由传统的控制算法对路径规划的研究转向为一些仿生智能的优化算法对最优路径的探讨。比如由传统的控制方法中的可视图法、人工势场法等 [<xref ref-type="bibr" rid="hanspub.35793-ref2">2</xref>] 转为遗传算法、模糊逻辑控制法等 [<xref ref-type="bibr" rid="hanspub.35793-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.35793-ref4">4</xref>]。可视图方法相对简单直观，比较快地求得最短路径，可视图方法相对简单直观，比较快地求得最短路径，但是它无法在动态的环境中求得相应的位置，缺少灵活性 [<xref ref-type="bibr" rid="hanspub.35793-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.35793-ref6">6</xref>]。而相对于人工势场法来说：虽然结构相对来说比较简单，在轨迹控制方面应用比较广泛，但由于局部最优解的问题，容易产生死锁 [<xref ref-type="bibr" rid="hanspub.35793-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.35793-ref7">7</xref>]。传统的遗传算法存在局部寻优精度不高，而且搜索时间较长，且容易存在局部最优的问题 [<xref ref-type="bibr" rid="hanspub.35793-ref8">8</xref>]；传统的模糊逻辑控制算法虽然不依赖环境，计算量比较小，但仍然不能精确地找到路径规划中的最优路径 [<xref ref-type="bibr" rid="hanspub.35793-ref9">9</xref>]。
+      </p>
+      <p>
+        在实际的工程中，不仅环境条件是复杂多变的，而且要求精确度非常高，综合以上算法及相应的因素，需要在模糊逻辑算法的基础上加以改进 [<xref ref-type="bibr" rid="hanspub.35793-ref10">10</xref>] [<xref ref-type="bibr" rid="hanspub.35793-ref11">11</xref>]。参数自整定模糊逻辑智能控制算法称为比例因子自整定模糊逻辑控制算法。这种控制算法是把仿生机器人中的感知和动作以及自身具有的强鲁棒性有机结合起来，避开了传统算法对移动机器人依赖环境强的缺点，对处理未知环境下的规划问题，具有很大的优势 [<xref ref-type="bibr" rid="hanspub.35793-ref12">12</xref>]。模糊控制器是模糊控制智能算法的核心 [<xref ref-type="bibr" rid="hanspub.35793-ref13">13</xref>]，因此模糊控制器的设计关系到模糊控制算法能否准确地对相应的路径规划产生精准的控制。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 改进型的模糊控制器的设计</title>
+      <sec id="s4_1">
+        <title>2.1. 模糊控制器的输入输出变量</title>
+        <p>
+          在仿生机器人运动规划路径的过程中，需要考虑机器人距障碍物的距离有多远，以便于机器人能够做出及时的调整。另外，如果遇到障碍物还要清晰的判断出在左边还是右边，这样能够及时的调整方向，所以基于此本文选取了距障碍物的距离和左右间的距离作为模糊控制器的输入 [<xref ref-type="bibr" rid="hanspub.35793-ref14">14</xref>]。在输出的过程中首先考虑的是机器人行走的步长和避开障碍物转动的角度，要保证机器人行走的步长小于距障碍物之间的距离以及遇到障碍物转动的角度较小，而且最后还要能够回到原来的轨迹上。
+        </p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 模糊化</title>
+        <p>
+          本文中选取了两个输入变量分别是：机器人与障碍物之间的距离(Distance Of Barrier)和以及左右之间的距离(Left-Right)，也就是机器人的位置的参数并不能作为模糊控制器的输入，它们必须经过模糊化处理变成模糊控制器的输入变量 [<xref ref-type="bibr" rid="hanspub.35793-ref15">15</xref>] [<xref ref-type="bibr" rid="hanspub.35793-ref16">16</xref>]。这也是设计模糊控制系统的第一步。将Distance Of Barrier的论域设定为[0,10]，采用的是梯形隶属度函数，其模糊输入变量的语言为：{VS, S, M, B, VB}，而另一个输入变量Left-Right的论域设定为[−10,10]，其模糊语言变量为{RVB, RB, CE, LB, LVB}，而输出变量有机器人行走的步长(Scale Of Step)和机器人转动的角度(Scale Of Angle)，其论域分别为：[0,2]和[−2,2]，模糊语言变量：分别为{VS, S, M, B, VB}和{RVB, TRB, CE, TLB, TLVB}，其各字母的含义为(V: Very, S: Small, M: Middle, B: Big, R: Right, L: Left, CE: centre, T: Turn)，采用的是都是梯形隶属度函数，其输入变量Distance Of Barrier的隶属度如图1所示。
+        </p>
+        <p>图1. Distance Of Barrier的隶属度函数</p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 建立模糊规则</title>
+        <p>机器人的路径规划是保证能够避开障碍物而且尽量到达目标位置。机器人根据目标和障碍物的位置的不同而发生相应的变化，如果在机器人的左右侧都有障碍物时，则需要根据机器人的距离左右侧距离的大小判断该左转还是右转，如果是左侧大于右侧，则左转，反之依然。模糊控制器的核心是规则库，其模糊控制器的规则一般形式如下：</p>
+        <p>Rl:   IFx 1   i s A 1l   andx 2   isA 2l ⋯   andx i   isA il ⋯   andx n   isA nl</p>
+        <p>THENyisB l ( i = 1 , 2 , 3 , ⋯ , n ;   l = 1 , 2 , 3 , ⋯ , m ) (1)</p>
+        <p>
+          其中：模糊输入输出量分别为x<sub>i</sub>，y；X，Y上的模糊子集分别为A<sub>il</sub>，B<sub>l</sub>。在模糊规则控制理论中，任何一条规则都有：A<sub>1l</sub> &#215; A<sub>2l</sub> &#215; … &#215; A<sub>nl</sub>→B<sub>l</sub> 它是x &#215; y = x<sub>1</sub> &#215; x<sub>2</sub> …x<sub>n</sub> &#215; y的模糊关系，即
+        </p>
+        <p>R l ( x , y ) = R l ( x 1 , x 2 , ⋯ , y ) = A 1l &#215; A 2l &#215; ⋯ &#215; A nl &#215; B l (2)</p>
+        <p>其隶属度函数为：</p>
+        <p>u Rl ( x,y ) = u Rl ( x 1 ,x 2 , ⋯ , y ) = u A1l ( x 1 ) &#215; u A2l ( x 2 ) &#215; ⋯ &#215; u Anl ( x n ) &#215; u Bl ( y ) (3)</p>
+        <p>本文中采用公式2的表达式，其模糊控制器的输入和输出都有两个，为了能够达到理想的效果，其控制规则也有两种情况，第一种是Distance Of Barrier和Scale Of Step，其目的就是保证机器人能够成功的避开障碍物，它们之间的规则是同步变化的，即当Distance Of Barrier取VS时，Scale Of Step也取VS。相对于机器人转动的角度要复杂一些，需要两个输入变量同时作用，其模糊控制器的规则如表1所示。</p>
+      
+      </sec>
+        </sec>
+          </body>
+          
+            <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.35793-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李宝霞. 基于模糊算法的移动机器人路径规划[D]: [硕士学位论文]. 秦皇岛: 燕山大学, 2010.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">林政, 吕霞付. 基于改进模糊算法的水面无人艇自主避障[J]. 计算机应用, 2019, 39(9): 2523-2528.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">胡静波, 陈定方, 吴俊峰, 梅杰, 李波. 基于改进模糊算法的移动机器人自主避障研究[J]. 自动化与仪表, 2018, 33(6): 48-52.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Elsheikh, E.A., El-Bardini, M.A. and Fkirin, M.A. (2016) Practical Design of a Path Following for a Non-Holonomic Mobile Robot Based on a Decentralized Fuzzy Logic Controller and Multiple Cameras. Arabian Journal for Science and Engineering, 41, 3215-3229. &lt;br&gt;https://doi.org/10.1007/s13369-016-2147-x</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张艺. 基于模糊逻辑的移动机器人路径规划[D]: [硕士学位论文]. 深圳: 深圳大学, 2018.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">陈卫东, 朱奇光. 基于模糊算法的移动机器人路径规划[J]. 电子学报, 2011, 39(4): 971-974.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">王妹婷, 陆柳延, 齐永锋, 吕学智, 蒋伟, 李生权. 基于模糊算法的水下机器人路径规划研究[J]. 机床与液压, 2014, 42(3): 1-4.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">董小帅, 毛政元. 基于改进遗传算法的动态路径规划研[J]. 计算机工程与应用, 2018, 54(19): 49-55.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">魏巍. 改进型自适应模糊控制算法研究及应用[D]: [硕士学位论文]. 青岛: 青岛理工大学, 2018.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">车雨红. 基于模糊控制算法的智能小车避障系统设计[J]. 首都师范大学学报(自然科学版), 2019, 40(5): 1-5.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref11">
+              <label>11</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Baasandorj, B., Reyaz, A., Ho, P.J., et al. (2014) A Mobile Robot Obstacle Avoidance Using Fuzzy Logic and Model Predictive Control. Applied Mechanics and Materials, 548-549, 922-927.
+                &lt;br&gt;https://doi.org/10.4028/www.scientific.net/AMM.548-549.922
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref12">
+              <label>12</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Wang, Y. and Chen, W. (2014) Path Planning and Obstacle Avoidance of Unmanned Aerial Vehicle Based on Improved Genetic Algorithms. 33rd Chinese Control Conference, Nanjing, 28-30 July 2014.
+                &lt;br&gt;https://doi.org/10.1109/ChiCC.2014.6896446
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref13">
+              <label>13</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张晓莉, 杨亚新, 谢永成. 改进的蚁群算法在机器人路径规划上的应用[J]. 计算机工程与应用, 2019: 1-7.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref14">
+              <label>14</label>
+              <mixed-citation publication-type="other" xlink:type="simple">赵宏才, 郭佳乐, 徐肖鲸, 刁少文. 基于模糊蚁群算法的移动机器人轨迹规划研究[J]. 计算机仿真, 2018, 35(5): 318-321.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref15">
+              <label>15</label>
+              <mixed-citation publication-type="other" xlink:type="simple">彭玉青, 李木, 张媛媛. 基于改进模糊算法的移动机器人避障[J]. 计算机应用, 2015, 35(8): 2256-2260.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref16">
+              <label>16</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Rashid, A.T., Ali, A.A., Frasca, M., et al. (2013) Path Planning with Obstacle Avoidance Based on Visibility Binary Tree Algorithm. Robotics and Autonomous Systems, 61, 1440-1449. &lt;br&gt;https://doi.org/10.1016/j.robot.2013.07.010</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref17">
+              <label>17</label>
+              <mixed-citation publication-type="other" xlink:type="simple">陈文钊, 张雨晨, 梁振奇. 基于改进模糊控制的机器人自主避障研究[J]. 工业控制计算机, 2018, 31(10): 22-24.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref18">
+              <label>18</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Kesarwani, A. and Khilar, P.M. (2019) De-velopment of Trust Based Access Control Models Using Fuzzy Logic in Cloud Computing. Journal of King Saud Uni-versity—Computer and Information Sciences.
+                &lt;br&gt;https://doi.org/10.1016/j.jksuci.2019.11.001
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref19">
+              <label>19</label>
+              <mixed-citation publication-type="other" xlink:type="simple">杨小菊, 张伟, 高宏伟, 米海山. 基于模糊控制的移动机器人避障研究[J]. 传感器与微系统, 2017, 36(3): 51-54.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35793-ref20">
+              <label>20</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李擎, 张超, 韩彩卫, 张婷, 张维存. 动态环境下基于模糊逻辑算法的移动机器人路径规划[J]. 中南大学学报(自然科学版), 2013, 44(S2): 104-108.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

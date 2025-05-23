@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">PM</journal-id>
+      <journal-title-group>
+        <journal-title>Pure  Mathematics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7583</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/PM.2019.93049</article-id>
+      <article-id pub-id-type="publisher-id">PM-30322</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>PM20190300000_47234242.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          整函数差分唯一性
+          Uniqueness of Difference about Entire Functions
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>黄</surname>
+            <given-names>小皇</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>丹</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>华南农业大学应用数学研究所，广东 广州</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>05</day>
+        <month>05</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>03</issue>
+      <fpage>370</fpage>
+      <lpage>376</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文探讨整函数的差分唯一性问题，证明了：设f(z)为开平面有穷级整函数，g（z）=m
+          <sub>i</sub>（z）f（z+c
+          <sub>i</sub>）+…+m
+          <sub>k</sub>（z）f（z+c）
+           为f(z)的差分多项式，其中m
+          <sub>i</sub>（z）（i=1，2，…，k）为f的整小函数， c
+          <sub>i</sub>（i=1，2，…，k）k个判别的有穷复数。又设a(z)≢0为f(z)的一个小函数，若f(z)与g(z)分担0，IM分担a(z) ，则f(z)=g(z) 。
+
+
+          &lt;br/&gt;In this paper, we investigate the uniqueness of difference operators about entire function, and prove: let
+          f(z) be an entire function of finite order, k be some positive integers, let
+          a(z) be a small function of
+          f(z) , and let g（z）=m
+          <sub>i</sub>（z）f（z+c
+          <sub>i</sub>）+…+m
+          <sub>k</sub>（z）f（z+c ） be the difference poly-nomial of 
+    f(z) , where m
+    <sub>i</sub>（z）（i=1，2，…，k）  are the small functions of
+          f(z) , and c
+          <sub>i</sub>（i=1，2，…，k）  are some finite distinct values. If
+          f(z) and
+          g(z) share 0 CM, and share
+          a(z)IM, then
+          f(z)=g(z) .
+          
+
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>整函数，分担小函数，差分多项式, Entire Function</kwd>
+        <kwd> Shared Small Function</kwd>
+        <kwd> Difference Polynomials</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        整函数差分唯一性<sup> </sup>
+      </title>
+      <p>黄小皇，刘丹</p>
+      <p>华南农业大学应用数学研究所，广东 广州</p>
+      <disp-formula id="hanspub.30322-formula33">
+        <graphic xlink:href="//html.hanspub.org/file/19-1250809x16_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年4月26日；录用日期：2019年5月6日；发布日期：2019年5月21日</p>
+      <disp-formula id="hanspub.30322-formula34">
+        <graphic xlink:href="//html.hanspub.org/file/19-1250809x17_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文探讨整函数的差分唯一性问题，证明了：设 f ( z ) 为开平面有穷级整函数，</p>
+      <p>g ( z ) = m 1 ( z ) f ( z + c 1 ) + ⋯ + m k ( z ) f ( z + c k )</p>
+      <p>
+        为 f ( z ) 的差分多项式，其中 m i ( z ) ( i = 1 , 2 , ⋯ , k ) 为f的整小函数， c i ( i = 1 , 2 , ⋯ , k ) k个判别的有穷复数。又设<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/19-1250809x23_hanspub.png" xlink:type="simple"/>
+        </inline-formula>为 f ( z ) 的一个小函数，若 f ( z ) 与 g ( z ) 分担0，IM分担 a ( z ) ，则 f ( z ) ≡ g ( z ) 。
+      </p>
+      <p>关键词 :整函数，分担小函数，差分多项式</p>
+      <disp-formula id="hanspub.30322-formula35">
+        <graphic xlink:href="//html.hanspub.org/file/19-1250809x29_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/19-1250809x30_hanspub.png" />
+        <img src="//html.hanspub.org/file/19-1250809x31_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        在本文中，假设读者熟知Nevanlinna值分布理论的相关基础知识以及常见符号 [<xref ref-type="bibr" rid="hanspub.30322-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.30322-ref2">2</xref>] 。设a为开平面内的亚纯函数，若 T ( r , a ) = S ( r , f ) ，则称a为f小函数。设f与g为复平面上非常数亚纯函数，a为f与g的公共小函数，如果 f − a 与 g − a 的零点相同且每个零点重级也相同，则称f与g CM分担a。如果 f − a 与 g − a 的零点相同，不计零点重级，则称f与g IM分担a。
+      </p>
+      <p>设k为正整数。记 N k ) ( r , 1 f − a ) 为 f − a 的重级 ≤ k 的零点密指量，计重数。 N ( k ( r , 1 f − a ) 为 f − a 的重级 ≥ k 的零点密指量，计重数。记 N &#175; k ) ( r , 1 f − a ) 为 f − a 的重级 ≤ k 的零点精简密指量，不计重数。 N &#175; ( k ( r , 1 f − a ) 为 f − a 的重级 ≥ k 的零点精简密指量，不计重数。记 N &#175; k ( r , 1 f − a ) 为 f − a 的重级为k的零点精简密指量，不计重数。</p>
+      <p>接下来，我们需要定义一些差分算子的符号。设 f ( z ) 为非常数亚纯函数， m 1 ( z ) , m 2 ( z ) , ⋯ , m k ( z ) 为 f ( z ) 的小函数， c 1 , c 2 , ⋯ , c k 为判别的有穷复数。令</p>
+      <p>g ( z ) = m 1 ( z ) f ( z + c 1 ) + m 2 ( z ) f ( z + c 2 )                     + ⋯ + m k ( z ) f ( z + c k )</p>
+      <p>
+        为 f ( z ) 的差分多项式。最近，许多人做了关于复差分唯一性的问题。2014年，Liu-Fang [<xref ref-type="bibr" rid="hanspub.30322-ref3">3</xref>] 证明了：
+      </p>
+      <p>定理A 设 f ( z ) 为开平面有穷级的超越整函数， c ∈ C 为非零有穷复数，n为正整数。设 a ( z ) ≡ 0 , b ( z ) ≡ 0 为 f ( z ) 的两个判别的小函数。若 f ( z ) 与 Δ c f ( z ) CM分担 a ( z ) 与 b ( z ) ，则 f ( z ) ≡ Δ c n f ( z ) 。</p>
+      <p>
+        2017年，Li-Duan-Chen [<xref ref-type="bibr" rid="hanspub.30322-ref4">4</xref>] 证明了：
+      </p>
+      <p>定理B 设 f ( z ) 为开平面有穷级整函数， c ∈ C 为非零有穷复数，n为正整数，a为有穷复数。若 f ( z ) 与 Δ c f ( z ) CM0，IM分担a，则 f ( z ) ≡ Δ c n f ( z ) 。</p>
+      <p>本文推广并改进上述定理，证明了：</p>
+      <p>定理1 设 f ( z ) 为开平面有穷级整函数，</p>
+      <p>g ( z ) = m 1 ( z ) f ( z + c 1 ) + m 2 ( z ) f ( z + c 2 ) + ⋯ + m k ( z ) f ( z + c k )</p>
+      <p>为 f ( z ) 的差分多项式，其中 m i ( z ) ( i = 1 , 2 , ⋯ , k ) 为f的整小函数， c i ( i = 1 , 2 , ⋯ , k ) k个判别的有穷复数。又设 a ( z ) ≡ 0 为 f ( z ) 的一个小函数，若 f ( z ) 与 g ( z ) 分担0，IM分担 a ( z ) ，则 f ( z ) ≡ g ( z ) 。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 几个引理</title>
+      <p>
+        引理1 [<xref ref-type="bibr" rid="hanspub.30322-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.30322-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.30322-ref7">7</xref>] 设f为非常数有穷级亚纯函数， c ∈ C 为非零有穷复数。则
+      </p>
+      <p>m ( r , f ( z + c ) f ( z ) ) = S ( r , f ) ,</p>
+      <p>其中 S ( r , f ) = o ( T ( r , f ) ) ，除去r的一个集合E，且集合E的对数测度为有穷的。</p>
+      <p>引理2 设f为非常数亚纯函数， P ( f ) = a p f p + a p − 1 f p − 1 + ⋯ + a 0 ( a p ≠ 0 ) 为阶数为p的多项式，且系数 a j ( j = 0 , 1 , ⋯ , p ) 为有穷复数。又设 b i ( i = 1 , ⋯ , q ) ( q &gt; p ) 为q个判别的复数，则</p>
+      <p>m ( r , P ( f ) f ′ ( f − b 1 ) ( f − b 2 ) ⋯ ( f − b q ) ) = S ( r , f ) .</p>
+      <p>引理3 设 f 1 与 f 2 均为 | z | &lt; ∞ 上的非常数亚纯函数，则</p>
+      <p>N ( r , f 1 f 2 ) − N ( r , 1 f 1 f 2 ) = N ( r , f 1 ) + N ( r , f 2 ) − N ( r , 1 f 1 ) − N ( r , 1 f 2 ) ,</p>
+      <p>其中 0 &lt; r &lt; ∞ 。</p>
+      <p>
+        引理4 [<xref ref-type="bibr" rid="hanspub.30322-ref8">8</xref>] 设f为有穷级 ρ 的超越亚纯函数，f是形式为方程 U ( z , f ) P ( z , f ) = Q ( z , f ) 的一个解，其中 U ( z , f ) , P ( z , f ) , Q ( z , f ) 为f的差分多项式满足全阶 deg U ( z , f ) = n 于 f ( z ) 与 f ( z + c 1 ) , ⋯ , f ( z + c j ) 中，且 deg Q ( z , f ) ≤ n 。又设所有的系数 a λ , λ ∈ I ，且对于所有的 λ ∈ I 有 m ( r , a λ ) = S ( r , f ) 。 U ( z , f ) 恰好含有全阶中最大一项。则
+      </p>
+      <p>m ( r , P ( z , f ) ) = S ( r , f ) .</p>
+      <p>引理5 设 f ( z ) 为非常数亚纯函数， a ( z ) 为 f ( z ) 的一个小函数， d j = a − j a ( j = 1 , 2 , ⋯ , q ) 。</p>
+      <p>g ( z ) = m 1 ( z ) f ( z + c 1 ) + m 2 ( z ) f ( z + c 2 ) + ⋯ + m k ( z ) f ( z + c k )</p>
+      <p>为 f ( z ) 的差分多项式，其中 m i ( z ) ( i = 1 , 2 , ⋯ , k ) 为 f ( z ) 的整小函数， c i ( i = 1 , 2 , ⋯ , k ) k个判别的有穷复数。则</p>
+      <p>i) L ( f ) = | f a f ′ a ′ | ≡ 0 与 L ( g ) = | g a g ′ a ′ | ≡ 0 。</p>
+      <p>ii) m ( r , L ( f ) f − d j ) = S ( r , f ) ，与 m ( r , L ( f ) f ( f − d 1 ) ( f − d 2 ) ⋯ ( f − d m ) ) = S ( r , f ) ，其中 2 ≤ m ≤ q 。</p>
+      <p>证</p>
+      <p>i) 只证 L ( f ) ≡ 0 。若不然，有 L ( f ) ≡ 0 ，即 a ′ f − a f ′ ≡ 0 。上式两边积分可得 f ≡ D a ，其中D为非零常数。由特征函数关系明显有 T ( r , f ) = T ( r , a ) = S ( r , f ) ，这显然不可能。故 L ( f ) ≡ 0 。同理可证 L ( g ) ≡ 0 。</p>
+      <p>ii) 显然有 m ( r , L ( f ) f − d ) = m ( r , a ′ ( f − d ) − ( f ′ − d ′ ) f − d ) ≤ S ( r , f ) ，故 m ( r , L ( f ) f − d j ) = S ( r , f ) 。因为 L ( f ) f ( f − d 1 ) ( f − d 2 ) ⋯ ( f − d m ) = ∑ i = 1 m L ( f ) f − d i ，从而根据上式可证得 m ( r , L ( f ) f ( f − d 1 ) ( f − d 2 ) ⋯ ( f − d m ) ) = S ( r , f ) 。</p>
+      <p>引理6 设f为非常数亚纯函数， a , b , c 为f的三个判别的小函数。则</p>
+      <p>T ( r , f ) ≤ N &#175; ( r , 1 f − a ) + N &#175; ( r , 1 f − b ) + N &#175; ( r , 1 f − c ) + S ( r , f ) .</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 定理1的证明</title>
+      <p>假设 f ≡ g 。因为f与g CM分担0，IM分担a，则由引理1与引理6可得</p>
+      <p>T ( r , f ) ≤ N &#175; ( r , 1 f ) + N &#175; ( r , 1 f − a ) + S ( r , f ) = N &#175; ( r , 1 g ) + N &#175; ( r , 1 g − a ) + S ( r , f ) ≤ N ( r , 1 f − g ) + S ( r , f ) ≤ T ( r , f − g ) + S ( r , f ) ≤ m ( r , f − g ) + S ( r , f ) ≤ m ( r , f ) + m ( r , 1 − g f ) + S ( r , f ) ≤ T ( r , f ) + S ( r , f ) ,</p>
+      <p>即 T ( r , f ) = N &#175; ( r , 1 f ) + N &#175; ( r , 1 f − a ) + S ( r , f ) 。 (1)</p>
+      <p>设 φ = L ( f ) ( f − g ) f ( f − a ) ， (2)</p>
+      <p>ϕ = L ( g ) ( f − g ) g ( g − a ) , (3)</p>
+      <p>其中 L ( f ) 与 L ( g ) 为引理5中所定义的。注意到f为非常数有穷级整函数，f与g CM分担0，IM分担a，我们可以知道 φ 的极点只能为a的极点，所以有 N ( r , φ ) = S ( r , f ) 。同理也有 N ( r , ϕ ) = S ( r , f ) 。由对数导数引理以及引理5可得</p>
+      <p>T ( r , φ ) = m ( r , φ ) + N ( r , φ ) = m ( r , L ( f ) ( f − g ) f ( f − a ) ) + S ( r , f ) ≤ m ( r , L ( f ) f ( f − a ) ) + m ( r , 1 − g f ) + S ( r , f ) = S ( r , f ) , (4)</p>
+      <p>即 T ( r , φ ) = S ( r , f ) 。设 d = a − j a ( j ≠ 0 , 1 ) ，根据引理5有</p>
+      <p>m ( r , 1 f ) = m ( r , 1 a φ ( L ( f ) f − L ( f ) f − a ) ( 1 − g f ) ) ≤ m ( r , 1 − g f ) + S ( r , f ) = S ( r , f ) , (5)</p>
+      <p>m ( r , 1 f − d ) = m ( r , L ( f ) ( f − g ) φ ( f − a ) ( f − d ) f ) ≤ m ( r , 1 − g f ) + m ( r , L ( f ) f f ( f − a ) ( f − d ) ) + S ( r , f ) = S ( r , f ) . (6)</p>
+      <p>因为f与g CM分担0，于是我们有</p>
+      <p>g f = e ∂ H , (7)</p>
+      <p>其中 α 与H为整函数，且H的零点为g的极点。由引理1可得</p>
+      <p>T ( r , g ) = T ( r , e α f ) + S ( r , f ) = T ( r , f ) + S ( r , f ) . (8)</p>
+      <p>由引理6，(1)与(8)可得</p>
+      <p>2 T ( r , f ) ≤ 2 T ( r , g ) + S ( r , f ) ≤ N &#175; ( r , 1 g ) + N &#175; ( r , 1 g − a ) + N &#175; ( r , 1 g − d ) + S ( r , f ) ≤ N &#175; ( r , 1 g ) + N &#175; ( r , 1 f − a ) + T ( r , 1 g − d ) − m ( r , 1 g − d ) + S ( r , f ) ≤ T ( r , f ) + T ( r , g ) − m ( r , 1 g − d ) + S ( r , f ) ≤ 2 T ( r , f ) − m ( r , 1 g − d ) + S ( r , f ) ,</p>
+      <p>即 m ( r , 1 g − d ) = S ( r , f ) 。 (9)</p>
+      <p>由Nevanlinna第一基本定理，引理1，引理3，(5)，(6)，(8)，(9)以及f为有穷级整函数，我们有</p>
+      <p>m ( r , f − d g − d ) ≤ m ( r , f g − d ) + m ( r , d g − d ) ≤ T ( r , f g − d ) − N ( r , f g − d ) + S ( r , f ) ≤ m ( r , g − d f ) + N ( r , g − d f ) − N ( r , f g − d ) + S ( r , f ) ≤ N ( r , 1 f ) − N ( r , 1 g − d ) + S ( r , f ) = T ( r , 1 f ) − T ( r , 1 g − d ) + S ( r , f ) = T ( r , f ) − T ( r , g ) + S ( r , f ) .</p>
+      <p>因此 m ( r , f − d g − d ) = S ( r , f ) 。 (10)</p>
+      <p>(3)又可写成 ϕ = [ a − d a L ( g ) g − a + d a L ( g ) g ] [ f − d g − d − 1 ] ，则由(10)可得到</p>
+      <p>T ( r , ϕ ) = m ( r , ϕ ) + N ( r , ϕ ) = m ( r , ϕ ) + S ( r , f ) = S ( r , f ) . (11)</p>
+      <p>设 H n , m = n φ − m ϕ ，其中 m , n 为正整数。接下来我们分为以下几种情形讨论。</p>
+      <p>情形1 n φ ≡ m ϕ 。通过简单计算可得</p>
+      <p>n ( f ′ f − f ′ − a ′ f − a ) ≡ m ( g ′ g − g ′ − a ′ g − a ) ,</p>
+      <p>这可推出 ( f f − a ) n ≡ A ( g g − a ) m ，其中A为非零常数。若 n ≠ m ，则从上式恒等式可得到</p>
+      <p>n T ( r , f ) = m T ( r , g ) + S ( r , f ) ,</p>
+      <p>这与(8)矛盾。因此 n = m ，于是</p>
+      <p>f f − a ≡ B g g − a , (12)</p>
+      <p>其中B为非零常数。若 B = 1 ，明显有 f ≡ g ，这与我们假设矛盾。故 B ≠ 1 。从(12)容易得到</p>
+      <p>f [ ( B − 1 ) g + a ] ≡ B a g . (13)</p>
+      <p>注意到 f [ ( B − 1 ) g + a ] 与 B a g 均为f的全阶为k的差分多项式。由引理4与(13)得</p>
+      <p>m ( r , ( B − 1 ) g + a ) = S ( r , f ) , (14)</p>
+      <p>即 m ( r , g ) = S ( r , f ) 。这可推出 T ( r , f ) = T ( r , g ) + S ( r , f ) = m ( r , g ) + S ( r , f ) = S ( r , f ) ，显然矛盾。</p>
+      <p>情形2 n φ ≡ m ϕ 对任意正整数 m , n 都成立。不妨设 z 1 ∈ S ( m , n ) ( 0 ) ∪ S ( m , n ) ( a ) ，即 z 1 分别为 f ( f − a ) 的n重零点与 g ( g − a ) 的m重零点。由(2)和(3)可推出 n φ ( z 1 ) − m ϕ ( z 1 ) = 0 。所以对于所有正整数 m , n ，我们有</p>
+      <p>N &#175; ( m , n ) ( r , 1 f ) + N &#175; ( m , n ) ( r , 1 f − a ) ≤ N &#175; ( r , 1 n φ − m ϕ ) + S ( r , f ) ≤ T ( r , n φ − m ϕ ) + S ( r , f ) ≤ T ( r , φ ) + T ( r , ϕ ) + S ( r , f ) = S ( r , f ) . (15)</p>
+      <p>于是根据引理6，(1)和(15)可以得到</p>
+      <p>T ( r , f ) = N &#175; ( r , 1 f ) + N &#175; ( r , 1 f − a ) + S ( r , f ) ≤ N &#175; 1 ) ( r , 1 f ) + ∑ k = 2 4 N &#175; k ( r , 1 f ) + N &#175; ( 5 ( r , 1 f ) + N &#175; 1 ) ( r , 1 f − a )     + ∑ k = 2 4 N &#175; k ( r , 1 f − a ) + N &#175; ( 5 ( r , 1 f − a ) + S ( r , f ) ≤ N &#175; ( 1 , 1 ) ( r , 1 f ) + ∑ k = 2 4 N &#175; k ( r , 1 f ) + N &#175; ( 5 ( r , 1 f ) + ∑ m = 1 5 N &#175; ( 1 , m ) ( r , 1 f − a )     + ∑ k = 2 4 N &#175; k ( r , 1 f − a ) + N &#175; ( 5 ( r , 1 f − a ) + S ( r , f )</p>
+      <p>≤ 1 5 [ N ( r , 1 f ) + N ( r , 1 f − a ) ] + 1 5 [ N ( r , 1 g ) + N ( r , 1 g − a ) ] + S ( r , f ) ≤ 2 5 ( T ( r , f ) + T ( r , g ) ) + S ( r , f ) = 4 5 T ( r , f ) + S ( r , f ) (16)</p>
+      <p>即 T ( r , f ) = S ( r , f ) 。矛盾。于是定理1得证。</p>
+    </sec>
+    <sec id="s6">
+      <title>基金项目</title>
+      <p>国家自然科学基金(NO. 11701188)资助。</p>
+    </sec>
+    <sec id="s7">
+      <title>文章引用</title>
+      <p>黄小皇,刘 丹. 整函数差分唯一性Uniqueness of Difference about Entire Functions[J]. 理论数学, 2019, 09(03): 370-376. https://doi.org/10.12677/PM.2019.93049</p>
+    </sec>
+    <sec id="s8">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.30322-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Yang, L. (1993) Value Distribution Theory. Springer-Verlag, Berlin.</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hayman, W.K. (1964) Meromorphic Functions. Oxford University Press, London.</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Liu, D., Yang. D.G. and Fang, M.L. (2014) Unicity of Entire Functions Concerning Shifts and Dif-ference Operators. Abstract and Applied Analysis, 2014, Article ID: 380910. https://doi.org/10.1155/2014/380910</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Li, S., Duan, M. and Chen, B.Q. (2017) Uniqueness of Entire Functions Sharing Two Values with Their Difference Operators. Advances in Difference Equations, Paper No. 390, 9 p. https://doi.org/10.1186/s13662-017-1444-3</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Heittokangas. Korhonen, R., Laine, I. and Rieppo, J. (2011) Uniqueness of Meromorphic Functions Sharing Values with their Shifts. Complex Variables and Elliptic Equations, 56, 81-92. https://doi.org/10.1080/17476930903394770</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Chiang, Y.M. and Feng, S.J. (2008) On the Nevanlinna Characteristic of f(z + η) and Difference Equations in the Complex Plane. The Ramanujan Journal, 16, 105-129. https://doi.org/10.1007/s11139-007-9101-1</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Halburd, R.G. and Korhonen, R.J. (2006) Nevanlinna Theory for the Difference Operator. Annales Academiæ Scientiarum Fennicæ, 31, 463-478.</mixed-citation>
+      </ref>
+      <ref id="hanspub.30322-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Laine, I. and Yang. C.C. (2007) Clunie Theorems for Difference and q-Difference Polynomials. Journal of the London Mathematical Society, 76, 556-566. https://doi.org/10.1112/jlms/jdm073</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

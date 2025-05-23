@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article"><front><journal-meta><journal-id journal-id-type="publisher-id">AAM</journal-id><journal-title-group><journal-title>Advances in Applied Mathematics</journal-title></journal-title-group><issn pub-type="epub">2324-7991</issn><publisher><publisher-name>Scientific Research Publishing</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.12677/AAM.2021.104120</article-id><article-id pub-id-type="publisher-id">AAM-41892</article-id><article-categories><subj-group subj-group-type="heading"><subject>AAM20210400000_59663791.pdf</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>数学与物理</subject></subj-group></article-categories><title-group><article-title>
+ 
+ 
+  关于分块矩阵相似性的探讨
+  On the Similarity of Block Matrix
+ 
+</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>程</surname><given-names>宇</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>null</addr-line></aff><aff id="aff2"><label>1</label><addr-line>保定学院数据科学与软件工程学院，河北 保定</addr-line></aff><pub-date pub-type="epub"><day>08</day><month>04</month><year>2021</year></pub-date><volume>10</volume><issue>04</issue><fpage>1109</fpage><lpage>1114</lpage><permissions><copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement><copyright-year>2014</copyright-year><license><license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p></license></permissions><abstract><p>
+ 
+ 
+  
+    本文在已有文献的基础上，给出了当A
+   <sub>1</sub>、B
+   <sub>1</sub>为对合矩阵时，分块矩阵
+   <inline-formula><inline-graphic xlink:href="Edit_96df6ca6-b3fc-43ba-b565-1c167611610e.png" xlink:type="simple"/></inline-formula>与
+   <inline-formula><inline-graphic xlink:href="Edit_b245b0f6-4041-44dc-96c4-428abb793e17.png" xlink:type="simple"/></inline-formula>相似的充分必要条件是A
+   <sub>1</sub>C+CB
+   <sub>1</sub>=0。当
+   A
+   <sub>1</sub>、
+   B
+   <sub>1</sub>为k-幂零矩阵时，上述两分块矩阵相似的充分条件是
+   <inline-formula><inline-graphic xlink:href="Edit_82227771-31c2-4f92-a085-6fda2dde01c8.png" xlink:type="simple"/></inline-formula>和
+   A
+   <sub>1</sub>
+   C+CB
+   <sub>1</sub>
+   =0。最后对
+   A
+   <sub>1</sub>
+   、B
+   <sub>1</sub>为k-幂零矩阵进行了进一步讨论。
+    This article, on the basis of the existing literature, applying Roth’s theory, proves that when the 
+   A
+   <sub>1</sub> and 
+   B
+   <sub>1</sub> are involutory matrix, the necessary and sufficient condition of similar partitioned of matrix 
+   <inline-formula><inline-graphic xlink:href="Edit_f3e6dc15-2327-4ad1-af66-59f61930dc6c.png" xlink:type="simple"/></inline-formula> and 
+   <inline-formula><inline-graphic xlink:href="Edit_2d826def-a78b-4194-9eac-01932cc52d0f.png" xlink:type="simple"/></inline-formula> is 
+   A
+   <sub>1</sub>
+   C+CB
+   <sub>1</sub>
+   =0. When 
+   A
+   <sub>1</sub>
+    and 
+   B
+   <sub>1</sub> are k-nilpotent matrix, the sufficient condition for the similarity of the two-block matrices is 
+   <inline-formula><inline-graphic xlink:href="Edit_6002d403-2ab5-479e-be8e-b101004c992e.png" xlink:type="simple"/></inline-formula> 
+   
+  
+    and 
+   A
+   <sub>1</sub>
+   C+CB
+   <sub>1</sub>
+   =0. At last, we further discuss that 
+   A
+   <sub>1</sub>
+    and 
+   B
+   <sub>1</sub> are k-nilpotent matrix. 
+   
+   
+    
+  
+ 
+</p></abstract><kwd-group><kwd>矩阵的相似，对合矩阵，幂零矩阵，Roth定理, Matrix’s Similarity</kwd><kwd> Involutory Matrix</kwd><kwd> Nilpotent Matrix</kwd><kwd> Roth’s Theory</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>摘要</title><p>本文在已有文献的基础上，给出了当 A 1 、 B 1 为对合矩阵时，分块矩阵 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似的充分必要条件是 A 1 C + C B 1 = 0 。当 A 1 、 B 1 为k-幂零矩阵时，上述两分块矩阵相似的充分条件是 r [ A 1 C 0 B 1 ] = r [ A 1 0 0 B 1 ] = r ( A 1 ) + r ( B 1 ) 和 A 1 C + C B 1 = 0 。最后对 A 1 、 B 1 为k-幂零矩阵进行了进一步讨论。</p></sec><sec id="s2"><title>关键词</title><p>矩阵的相似，对合矩阵，幂零矩阵，Roth定理</p><p><img src="//html.hanspub.org/file/32-2621518x14_hanspub.png" /></p></sec><sec id="s3"><title>On the Similarity of Block Matrix<sup> </sup></title><p>Yu Cheng</p><p>School of Data Science and Software Engineering, Baoding University, Baoding Hebei</p><p><img src="//html.hanspub.org/file/32-2621518x15_hanspub.png" /></p><p>Received: Mar. 22<sup>nd</sup>, 2021; accepted: Apr. 11<sup>th</sup>, 2021; published: Apr. 27<sup>th</sup>, 2021</p><p><img src="//html.hanspub.org/file/32-2621518x16_hanspub.png" /></p></sec><sec id="s4"><title>ABSTRACT</title><p>This article, on the basis of the existing literature, applying Roth’s theory, proves that when the A 1 and B 1 are involutory matrix, the necessary and sufficient condition of similar partitioned of matrix [ A 1 0 0 B 1 ] and [ A 1 C 0 B 1 ] is A 1 C + C B 1 = 0 . When A 1 and B 1 are k-nilpotent matrix, the sufficient condition for the similarity of the two-block matrices is r [ A 1 C 0 B 1 ] = r [ A 1 0 0 B 1 ] = r ( A 1 ) + r ( B 1 ) and A 1 C + C B 1 = 0 . At last, we further discuss that A 1 and B 1 are k-nilpotent matrix.</p><p>Keywords:Matrix’s Similarity, Involutory Matrix, Nilpotent Matrix, Roth’s Theory</p><disp-formula id="hanspub.41892-formula32"><graphic xlink:href="//html.hanspub.org/file/32-2621518x28_hanspub.png"  xlink:type="simple"/></disp-formula><p>Copyright &#169; 2021 by author(s) and Hans Publishers Inc.</p><p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p><p>http://creativecommons.org/licenses/by/4.0/</p><p><img src="//html.hanspub.org/file/32-2621518x29_hanspub.png" /> <img src="//html.hanspub.org/file/32-2621518x30_hanspub.png" /></p></sec><sec id="s5"><title>1. 引言</title><p>分块矩阵 [ A 0 0 B ] 与 [ A C 0 B ] 不仅具有相似的结构，而且具有许多相似的特征。Roth定理 [<xref ref-type="bibr" rid="hanspub.41892-ref1">1</xref>] 给出上述两矩阵相似的充分必要条件是矩阵方程</p><p>A X − X B = C (1)</p><p>有解，而文 [<xref ref-type="bibr" rid="hanspub.41892-ref1">1</xref>] 中又进一步给出了当A、B分别为幂等矩阵和2-幂零矩阵时，上述两分块矩阵相似的充要条件 [<xref ref-type="bibr" rid="hanspub.41892-ref1">1</xref>]。本文讨论并分析得出了当A、B都为对合矩阵时，上述两分块矩阵相似的充要条件，及当A、B都为k-幂零矩阵时，上述两分块矩阵相似的充分条件。文中r表示矩阵的秩， R ( A ) 表示矩阵的列空间。</p></sec><sec id="s6"><title>2. 预备知识</title><sec id="s6_1"><title>2.1. 对合矩阵的定义及性质</title><p>设n阶方阵A满足 A 2 = E ，则称方阵A为对合矩阵 [<xref ref-type="bibr" rid="hanspub.41892-ref2">2</xref>]。</p><p>本文用到的对合矩阵的性质</p><p>1) 对合矩阵 A − 1 = A ；</p><p>2) 若方阵A为对合矩阵，则A的特征值为1或−1 [<xref ref-type="bibr" rid="hanspub.41892-ref2">2</xref>]；</p><p>3) 对合矩阵的相似矩阵仍为对合矩阵；</p><p>4) 若n阶方阵A为对合矩阵，则A与对角矩阵 [ E r 0 0 − E n − r ] 相似，其中 0 ≤ r ≤ n 为A的特征值1的重数 [<xref ref-type="bibr" rid="hanspub.41892-ref2">2</xref>]。</p></sec><sec id="s6_2"><title>2.2. 幂零矩阵的定义及性质</title><p>设A为数域P上的n阶方阵，若存在正整数m，使得 A m − 1 ≠ 0 , A m = 0 ，则称A是幂零指数为m的幂零矩阵，记为m-幂零矩阵 [<xref ref-type="bibr" rid="hanspub.41892-ref3">3</xref>]。当m = 2, 3时，A为2-幂零矩阵和3-幂零矩阵 [<xref ref-type="bibr" rid="hanspub.41892-ref3">3</xref>]。本文用到的幂零矩阵的性质</p><p>1) A是幂零矩阵，则A不可逆；</p><p>2) A为幂零矩阵的充要条件是A的特征值全为0 [<xref ref-type="bibr" rid="hanspub.41892-ref3">3</xref>]；</p><p>3) 与幂零矩阵相似的矩阵仍为幂零矩阵，矩阵的幂零指数相同，并且相似于严格的上三角矩阵，进而幂零矩阵A都有以下分解形式：</p><p>A = P − 1 [ 0 A 1 0 0 ] P ，其中 A 1 是方阵；</p><p>4) 对k-幂零矩阵，若当标准型中幂零若当块的阶数小于等于k。</p></sec></sec><sec id="s7"><title>3. 主要结果</title><p>引理1 [<xref ref-type="bibr" rid="hanspub.41892-ref1">1</xref>] (Roth定理)分块矩阵 [ A 0 0 B ] 与 [ A C 0 B ] 相似的一个充要条件是矩阵方程 A X − X B = C 有解。</p><p>定理1 已知方阵 A , B , C , D ，其中A与B相似，C与D相似，则 [ A 0 0 C ] 与 [ B 0 0 D ] 相似。</p><p>由相似定义即可证明。</p><p>引理2 [<xref ref-type="bibr" rid="hanspub.41892-ref1">1</xref>] 设A和B都为幂等矩阵，则分块矩阵 [ A 0 0 B ] 与 [ A C 0 B ] 相似的充分必要条件是 A C + C B = C 。</p><p>定理2 设 A 1 和 B 1 均为对合矩阵，则分块矩阵 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似的充分必要条件为 A 1 C + C B 1 = 0 。</p><p>证明：必要性：因为 A 1 2 = E m ， B 1 2 = E n ，所以 [ A 1 0 0 B 1 ] 为对合矩阵，又因为分块矩阵 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似， [ A 1 C 0 B 1 ] 也为对合矩阵，</p><p>[ A 1 C 0 B 1 ] [ A 1 C 0 B 1 ] = [ A 1 2 A 1 C + C B 1 0 B 1 2 ] ,</p><p>即</p><p>A 1 C + C B 1 = 0 .</p><p>充分性：因为 A 1 C + C B 1 = 0 ，所以 A 1 2 C + A 1 C B 1 = 0 ， A 1 2 = E m ，从而 A 1 C B 1 = − C ，取 X 0 = 1 2 A 1 C ，则 X 0 为方程(1)的解。由Roth定理知分块矩阵 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似。</p><p>引理3 [<xref ref-type="bibr" rid="hanspub.41892-ref1">1</xref>] 设A和B是两个2-幂零矩阵，则分块矩阵 [ A 0 0 B ] 与 [ A C 0 B ] 相似的充分必要条件为 r [ A C 0 B ] = r ( A ) + r ( B ) 和 A C + C B = 0 。</p><p>现将此结论做以下推广。</p><p>定理3 设 A 1 和 B 1 均为k-幂零矩阵，若满足 r [ A 1 C 0 B 1 ] = r [ A 1 0 0 B 1 ] = r ( A 1 ) + r ( B 1 ) ，且 A 1 C + C B 1 = 0 ，则分块矩阵 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似。</p><p>证明：因为 A 1 和 B 1 均为k-幂零矩阵，由k-幂零矩阵的性质可得</p><p>A 1 = P − 1 [ 0 A 11 0 0 ] P , B 1 = Q [ 0 B 11 0 0 ] Q − 1 , (2)</p><p>其中 A 11 和 B 11 是方阵。</p><p>代入(1)式得</p><p>P − 1 [ 0 A 11 0 0 ] P X − X Q [ 0 B 11 0 0 ] Q − 1 = C , (3)</p><p>[ 0 A 11 0 0 ] P X Q − P X Q [ 0 B 11 0 0 ] = P C Q , (4)</p><p>此式是关于X的矩阵方程，下证明其有解。</p><p>设</p><p>P X Q = [ Y 1 Y 2 Y 3 Y 4 ] , P C Q = [ M 1 M 2 M 3 M 4 ] , (5)</p><p>展开(4)式得</p><p>[ A 11 Y 3 A 11 Y 4 0 0 ] − [ 0 Y 1 B 11 0 Y 3 B 11 ] = [ A 11 Y 3 A 11 Y 4 − Y 1 B 11 0 − Y 3 B 11 ] = [ M 1 M 2 M 3 M 4 ] , (6)</p><p>即</p><p>A 11 Y 3 = M 1 , Y 3 B 11 = − M 4 , M 3 = 0 , A 11 Y 4 − Y 1 B 11 = M 2 ,(7)</p><p>又据文 [<xref ref-type="bibr" rid="hanspub.41892-ref4">4</xref>] 中的结论，矩阵方程 A 11 Y 3 = M 1 和 Y 3 B 11 = − M 4 有一个公共解 Y 3 的充分必要条件是</p><p>R ( M 1 ) ⊆ R ( A 11 ) , R ( M 4 T ) ⊆ R ( B 11 T ) , A 11 M 4 + M 1 B 11 = 0 , (8)</p><p>(即 M 1 的列向量可由 A 11 的列向量组线性表出， M 4 的行向量可由 B 11 的行向量组线性表出，且 A 11 M 4 + M 1 B 11 = 0 ) [<xref ref-type="bibr" rid="hanspub.41892-ref4">4</xref>]。而文 [<xref ref-type="bibr" rid="hanspub.41892-ref5">5</xref>] 中给出了矩阵方程 A 11 Y 4 − Y 1 B 11 = M 2 有解的充分必要条件为</p><p>r [ A 11 M 2 0 B 11 ] = r ( A 11 ) + r ( B 11 ) [<xref ref-type="bibr" rid="hanspub.41892-ref5">5</xref>], (9)</p><p>因为 M 3 = 0 ，(8)式前两个包含关系和(9)式一起等价于矩阵秩的方程如下：</p><p>r [ 0 A 11 M 1 M 2 0 0 M 3 M 4 0 0 0 B 11 0 0 0 0 ] = r [ 0 A 11 0 0 ] + r [ 0 B 11 0 0 ] , (10)</p><p>因 M 1 的列向量可由 A 11 的列向量组线性表出， M 4 的行向量可由 B 11 的行向量组线性表出，所以由矩阵的初等变换即可得(10)式。又对(10)做分块矩阵的初等变换，给其左乘分块矩阵 [ P − 1 0 0 Q ] ，右乘分块矩阵 [ P 0 0 Q − 1 ] ，即化为 [ A 1 C 0 B 1 ] ，故(10)等价于</p><p>r [ A 1 C 0 B 1 ] = r ( A 1 ) + r ( B 1 ) . (11)</p><p>另外， A 11 M 4 + M 1 B 11 = 0 等价于</p><p>[ 0 A 11 0 0 ] [ M 1 M 2 M 3 M 4 ] + [ M 1 M 2 M 3 M 4 ] [ 0 B 11 0 0 ] = 0 , (12)</p><p>由(2)、(4)及(5)得</p><p>P − 1 [ 0 A 11 0 0 ] P C + C Q [ 0 B 11 0 0 ] Q − 1 = 0 , (13)</p><p>即</p><p>A 1 C + C B 1 = 0 . (14)</p><p>综上所述在(11)和(14)的情况下，矩阵方程(4)有解，即矩阵方程(1)有解，故 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似。</p><p>定理3仅给出了 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似的充分条件，其逆命题并不成立。 若 [ A 1 0 0 B 1 ] 与 [ A 1 C 0 B 1 ] 相似，因 A 1 和 B 1 均为k-幂零矩阵，故 [ A 1 0 0 B 1 ] 也为k-幂零矩阵。</p><p>从而 [ A 1 C 0 B 1 ] 为k-幂零矩阵。所以</p><p>[ A 1 C 0 B 1 ] k = [ A 1 k ∑ i = 0 k − 1 A 1 i C B 1 k − 1 − i 0 B 1 k ] = 0 ,</p><p>又因为</p><p>A 1 k = 0 , B 1 k = 0 ,</p><p>故</p><p>∑ i = 0 k − 1 A 1 i C B 1 k − 1 − i = 0 .</p><p>当k为奇数时</p><p>C B 1 k − 1 + A 1 C B 1 k − 2 + A 1 2 C B 1 k − 3 + ⋯ + A 1 k − 2 C B 1 + A 1 k − 1 C = C B 1 k − 1 + A 1 ( C B 1 + A 1 C ) B 1 k − 3 + ⋯ + A 1 k − 2 ( C B 1 + A 1 C ) = 0 ;</p><p>当k为偶数时</p><p>C B 1 k − 1 + A 1 C B 1 k − 2 + A 1 2 C B 1 k − 3 + ⋯ + A 1 k − 2 C B 1 + A 1 k − 1 C = ( C B 1 + A 1 C ) B 1 k − 2 + ⋯ + A 1 k − 2 ( C B 1 + A 1 C ) = 0 .</p><p>由此可知， A 1 C + C B 1 = 0 不是必要条件。</p></sec><sec id="s8"><title>基金项目</title><p>河北省教育厅高等学校科学技术研究项目(Z2015009)。</p></sec><sec id="s9"><title>文章引用</title><p>程 宇. 关于分块矩阵相似性的探讨On the Similarity of Block Matrix[J]. 应用数学进展, 2021, 10(04): 1109-1114. https://doi.org/10.12677/AAM.2021.104120</p></sec><sec id="s10"><title>参考文献</title></sec></body><back><ref-list><title>References</title><ref id="hanspub.41892-ref1"><label>1</label><mixed-citation publication-type="other" xlink:type="simple">程世珍. 两个分块矩阵相似性研究[J]. 数学的实践与认识, 2005, 35(3): 191-194.</mixed-citation></ref><ref id="hanspub.41892-ref2"><label>2</label><mixed-citation publication-type="other" xlink:type="simple">董庆华, 颜宁生. 对合矩阵的相似标准型与分解形式[J]. 邵阳学院学报(自然科学版), 2009, 6(4): 17-19.</mixed-citation></ref><ref id="hanspub.41892-ref3"><label>3</label><mixed-citation publication-type="other" xlink:type="simple">王萼芳. 高等代数[M]. 北京: 高等教育出版社, 2009.</mixed-citation></ref><ref id="hanspub.41892-ref4"><label>4</label><mixed-citation publication-type="other" xlink:type="simple">Mitra, S.K. (1984) The Matrix Equations AX = C, XB = D. Linear Algebra and Its Applications, 59, 171-181.  
+&lt;br&gt;https://doi.org/10.1016/0024-3795(84)90166-6</mixed-citation></ref><ref id="hanspub.41892-ref5"><label>5</label><mixed-citation publication-type="other" xlink:type="simple">Roth, R.E. (1952) The Equations AX-YB = C and AX-XB = C in Matrices. Proceedings of the AMS—American Mathematical Society, A3, 392-396. &lt;br&gt;https://doi.org/10.2307/2031890</mixed-citation></ref></ref-list></back></article>

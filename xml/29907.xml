@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">AAM</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Applied Mathematics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2324-7991</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/AAM.2019.84084</article-id>
+      <article-id pub-id-type="publisher-id">AAM-29907</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>AAM20190400000_11385859.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          无穷维恒等算子的伪宽度
+          Pseudo n-Width of Infinite Dimension Identity Operator
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陆</surname>
+            <given-names>文静</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>肖</surname>
+            <given-names>寒月</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>秦</surname>
+            <given-names>静</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>西华大学理学院，四川 成都</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>04</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>08</volume>
+      <issue>04</issue>
+      <fpage>747</fpage>
+      <lpage>752</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文讨论了无穷维恒等算子
+          <inline-formula>
+            <inline-graphic xlink:href="Edit_e1eb37e1-6391-4da3-a763-9e934ae74063.png" xlink:type="simple"/>
+          </inline-formula>的伪宽度，并计算了其精确渐近阶。
+          In this paper, we study the pseudo width of infinite dimension identity operator
+          <inline-formula>
+            <inline-graphic xlink:href="Edit_0134b9aa-a96a-4508-a0d9-bc292394c19d.png" xlink:type="simple"/>
+          </inline-formula>, and obtain its asymptotic degree.
+
+          
+    
+  
+ 
+</p>
+      </abstract>
+      <kwd-group>
+        <kwd>无穷维恒等算子，伪宽度，序列空间，渐近阶, Infinite Dimension Identity Operator</kwd>
+        <kwd> Pseudo Width</kwd>
+        <kwd> Sequence Space</kwd>
+        <kwd> Asymptotic Degree</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        无穷维恒等算子的伪宽度<sup> </sup>
+      </title>
+      <p>陆文静，肖寒月，秦静</p>
+      <p>西华大学理学院，四川 成都</p>
+      <disp-formula id="hanspub.29907-formula42">
+        <graphic xlink:href="//html.hanspub.org/file/21-2620926x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年4月3日；录用日期：2019年4月18日；发布日期：2019年4月25日</p>
+      <disp-formula id="hanspub.29907-formula43">
+        <graphic xlink:href="//html.hanspub.org/file/21-2620926x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文讨论了无穷维恒等算子 I p , q : l p , r → l q ( 1 ≤ q ≤ p &lt; ∞   , r &gt; 1 q − 1 p ) 的伪宽度，并计算了其精确渐近阶。</p>
+      <p>关键词 :无穷维恒等算子，伪宽度，序列空间，渐近阶</p>
+      <disp-formula id="hanspub.29907-formula44">
+        <graphic xlink:href="//html.hanspub.org/file/21-2620926x8_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/21-2620926x9_hanspub.png" />
+        <img src="//html.hanspub.org/file/21-2620926x10_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言及主要结果</title>
+      <p>
+        宽度理论是函数逼近论的重要内容之一，也是国内外研究的热点之一，它与计算复杂性有着密切的联系 [<xref ref-type="bibr" rid="hanspub.29907-ref1">1</xref>] 。其中，关于伪宽度的研究是当下宽度理论研究的热点之一，伪宽度在模式识别、消退估计、经验过程、学习理论中都有重要的应用。VC-维数的概念最早被Vapnik和Chervonenkis在参考文献 [<xref ref-type="bibr" rid="hanspub.29907-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.29907-ref3">3</xref>] 中提出，他们介绍了集合的指标函数的VC维数。在实值函数中，Pollard [<xref ref-type="bibr" rid="hanspub.29907-ref4">4</xref>] 和Haussler [<xref ref-type="bibr" rid="hanspub.29907-ref5">5</xref>] 将VC-维数的定义扩展到伪维数，VC维数和伪维数是集合或空间容量的度量，它与一个函数类的熵有联系 [<xref ref-type="bibr" rid="hanspub.29907-ref6">6</xref>] 。1998年，Maiorov和Ratsaby在参考文献 [<xref ref-type="bibr" rid="hanspub.29907-ref7">7</xref>] 中给出VC-宽度和伪宽度的定义，研究了有限维空间伪宽度在一致框架下的逼近特征，并确定了在一致框架下的VC-宽度 ρ n V C ( B p m , l q m ) 和伪宽度 ρ n P ( B p m , l q m ) 的精确渐近阶。2007年，陈广贵等 [<xref ref-type="bibr" rid="hanspub.29907-ref8">8</xref>] 讨论了具有共同光滑函数类的伪宽度，并且计算了其精确阶。本文主要讨论无穷维恒等算子的伪宽度。首先，介绍伪维数和伪宽度的定义。
+      </p>
+      <p>定义1.1：对实数 x ， sgn ( x ) 表示符号函数，当 x &gt; 0 时，其值为1，其它情形其值为−1。对向量 x ∈ R m , sgn ( x ) : = ( sgn ( x 1 ) , ⋯ , sgn ( x m ) ) ，如果 F 是 R m 上的一个实值函数集合，称满足下列条件的最大整数 k 为 F 的伪维数，即存在指标集 I ⊂ { 1 , 2 , ⋯ , m } 和 y ∈ R k 使得集合</p>
+      <p>{ sgn ( F | I , y ) : F | I , y = ( x i 1 + y 1 , ⋯ , x i k + y k ) , x = ( x 1 , ⋯ , x m ) ∈ F , i j ∈ I , 1 ≤ j ≤ k }</p>
+      <p>的基数为 2 k 。如果不存在这样的最大的 k ，那么 F 的伪维数是正无穷。我们将 F 的伪维数记为 dim p ( F ) 。</p>
+      <p>定义1.2：设 W 为赋范线性空间 ( Z , ‖ ⋅ ‖ ) 的一非空子集， n = 0 , 1 , 2 , ⋯ ，称</p>
+      <p>ρ n ( W , Z ) = inf F n sup x ∈ W inf y ∈ F n ‖ x − y ‖</p>
+      <p>为 W 在 Z 中的伪宽度，其中 F n 取遍 Z 中的伪维数不超过 n 的所有线性子空间。</p>
+      <p>定义1.3：设 X , Y 为两个赋范线性空间，其范数分别为 ‖ &#183; ‖ X 与 ‖ &#183; ‖ Y ， T 是 X 到 Y 的有界线性算子， n = 0 , 1 , 2 , ⋯ ，称</p>
+      <p>ρ n ( T : X → Y ) = ρ n ( T ( B z ) , Y &#175; )</p>
+      <p>为算子 T 的伪宽度，其中 B X 表示 X 的单位球，即 B X : = { x ∈ X | ‖ x ‖ X ≤ 1 } 。</p>
+      <p>关于伪宽度的一些重要性质已经得到了精彩的结果。本文将讨论无限维恒等算子 I p , q : l p ,   r → l q   ( 1 ≤ q ≤ p &lt; ∞ ,   r &gt; 1 q − 1 p ) 的伪宽度。为此，继续介绍有关概念。</p>
+      <p>设 1 ≤ p ≤ ∞ ，对任一实序列 x = { x n } n = 1 ∞ ，令</p>
+      <p>‖ x ‖ l p = { ( ∑ n = 1 ∞ | x n | p ) 1 / p , 1 ≤ p &lt; ∞ sup n ≥ 1 | x n | , p = ∞</p>
+      <p>l p 表示满足条件 ‖ x ‖ l p &lt; ∞ 的实序列 x 所构成的集合。众所周知， ‖ &#183; ‖ l p 为 l p 上的一个范数，而且 l p 是一个Banach空间。易见， l p 空间具有如下性质：</p>
+      <p>1) l p ⊂ l q ( 1 ≤ p ≤ q ≤ ∞ ) ，</p>
+      <p>2) l p ⊄ l q ( 1 ≤ p ≤ q ≤ ∞ ) 。</p>
+      <p>因此，无穷维恒等算子 I 是从 l p 到 l q ( 1 ≤ p ≤ q ≤ ∞ ) 的有界线性算子，而不是 l p 到 l q ( 1 ≤ q &lt; p ≤ ∞ ) 的算子。</p>
+      <p>对于 1 ≤ p ≤ ∞ , r &gt; 0 ， x = { x n } n = 1 ∞ ∈ l p ，令</p>
+      <p>x r : = { n r x n } n = 1 ∞ ， ‖ x ‖ l p , r = ‖ x ( r ) ‖ l p</p>
+      <p>和</p>
+      <p>l p , r : = { x ∈ l p | ‖ x ‖ l p , r &lt; ∞ }</p>
+      <p>则易见 ‖ &#183; ‖ l p , r 为 l p , r 上的范数，且 l p , r 为Banach空间。用 B p , r 表示 l p , r 中的单位球。</p>
+      <p>令 1 ≤ q &lt; p ≤ ∞ ， r &gt; 1 q − 1 p ，( p = ∞ 时，记 1 p = 0 )，对任意的 x = { x n } ∈ l p , r ，由H&#246;lder不等式有</p>
+      <p>‖ x ‖ l q ≤ { ‖ x ‖ l p . r ( ∑ n = 1 ∞ n − p r p − q ) 1 q − 1 p &lt; ∞ , 1 ≤ q &lt; p &lt; ∞ ‖ x ‖ l p . r ( ∑ n = 1 ∞ n − r q ) 1 q &lt; ∞ , p = ∞</p>
+      <p>因此 x ∈ l q 。从而无穷维恒等算子 ( 1 ≤ q &lt; p ≤ ∞ , r &gt; 1 q − 1 p )</p>
+      <p>I p , q : l p , r → l q</p>
+      <p>x ↦ x</p>
+      <p>为 l p , r 到 l q 的有界线性算子。</p>
+      <p>本文利用离散化的方法讨论了无穷维恒等算子 I p , q ( 1 ≤ q &lt; p ≤ ∞ ) 的伪宽度，并得到其精确渐近阶。这就是本文的主要结果，即</p>
+      <p>定理1：设 1 ≤ q &lt; p &lt; ∞ ， r &gt; 1 q − 1 p ， n = 0 , 1 , 2 , ⋯ 则</p>
+      <p>ρ n ( I p , q : l p , r → l q ) ≻ ≺ n − ( r − 1 q + 1 p )</p>
+      <p>其中，符号“ ≻ ≺ ”的定义如下：假设 c i ,   i = 0 ,   1 ,   ⋯ 是和参数 p , q , r 有关的非负常数。对两个正函数 a ( y ) 和 b ( y ) ， y ∈ D ，如果存在正常数 c 1 满足条件 a ( y ) ≤ c 1 b ( y ) ，则记 a ( y ) = b ( y ) 。若存在正常数 c 2 满足条件 c 2 a ( y ) ≥ b ( y ) ，则记 a ( y ) ≫ b ( y ) ，若 a ( y ) = b ( y ) 且 a ( y ) ≫ b ( y ) ，则记 a ( y ) ≻ ≺ b ( y ) 。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 主要结果的证明</title>
+      <p>为了证明定理1，首先讨论有限维空间的伪宽度。令 ℝ m = { x = ( x 1 , ⋯ , x m ) { x i ∈ R , i = 1 , ⋯ , m } 。</p>
+      <p>设 1 ≤ p ≤ ∞ ， x = ( x 1 , ⋯ , x m ) ∈ ℝ m 。令</p>
+      <p>‖ x ‖ l p m = { ( ∑ n = 1 m | x n | p ) 1 / p , 1 ≤ p &lt; ∞ , max 1 ≤ n ≤ m | x n | , p = ∞ .</p>
+      <p>则 ‖ &#183; ‖ l p m 为 ℝ m 上的范数。用 l p m 表示 ℝ m 按照范数 ‖ &#183; ‖ l p m 所构成的Banach空间。用 B p m 表示 l p m 中的单位球。易见 { e ′ n } n = 1 m 为 l p m 的基，其中 e ′ n = ( 0 , ⋯ , 0 , 1 , 0 , ⋯ 0 ) ∈ ℝ m (第n个分量为1，其余分量为0)。</p>
+      <p>
+        引理1： [<xref ref-type="bibr" rid="hanspub.29907-ref7">7</xref>] 设 1 ≤ q &lt; p ≤ ∞ ， n = 1 , 2 , ⋯ ， m ≥ c n ，则
+      </p>
+      <p>ρ n ( B p m , l q m ) ≈ ( m − n ) 1 q − 1 p .</p>
+      <p>下面建立估计定理1上界的离散化定理。首先介绍一些记号。</p>
+      <p>对 ∀ k ∈ ℕ ，其中 ℕ = { 1 , 2 , ⋯ } ，记 S k = { n ∈ N { 2 k − 1 ≤ n &lt; 2 k } 。则对任意的 k , k ′ ∈ ℕ ，且 k ≠ k ′ 有 S k ∩ S k ′ = ∅ ， ℕ = ∪ k = 1 ∞ S k 。用 m k 表示 S k 中元素的个数，则 m k = | S k | = 2 k − 1 。</p>
+      <p>以下我们总是假设 1 ≤ p &lt; ∞ 。用 e n 表示第 n 个分量为1，其余分量为0的无穷维实序列，则 { e n } n = 1 ∞ 为 l p ( 1 ≤ p &lt; ∞ ) 的Schauder基。从而对 ∀ x = { x n } ∈ l p ，有 x = ∑ n = 1 ∞ x n e n 。</p>
+      <p>对 k ∈ ℕ ，记 F k = span { e n | n ∈ S k } ，则 dim ρ ( F k ) = m k = 2 k − 1 。令</p>
+      <p>I k : F k → R m k</p>
+      <p>x = ∑ n ∈ S k x n e n ↦ ∑ j = 1 m x 2 k − 1 + j − 1 e ′ 2 k − 1 + j − 1</p>
+      <p>则对 ∀ x = ∑ n ∈ S k x n e n ∈ F k ，有</p>
+      <p>‖ x ‖ l p , r = ( ∑ n ∈ S k | n r x n | p ) 1 / p ≻ ≺ ( ∑ n ∈ S k | 2 r k x n | p ) 1 / p = 2 r k ( ∑ n ∈ S k | x n | p ) 1 / p = 2 r k ‖ I k x ‖ l p m k (2.1)</p>
+      <p>且</p>
+      <p>‖ x ‖ l p = ( ∑ n ∈ S k | x n | p ) 1 / p = ‖ I k x ‖ l p m k . (2.2)</p>
+      <p>从而 I k 为 l p ∩ F k 到 l p m k 上的等距同构映射。</p>
+      <p>引理2：设 1 ≤ q &lt; p &lt; ∞ ， r &gt; 1 q − 1 p ，非负整数序列 { n k } k = 1 ∞ 满足 0 ≤ n k ≤ m k ，且 ∑ k = 1 ∞ n k ≤ n 。则</p>
+      <p>ρ n ( B p , r , l q ) = ∑ n = 1 ∞ 2 − r k ρ n k ( B p m k , l q m k ) .</p>
+      <p>证明：对 ∀ k ，由(2.1)知，对 ∀ x ∈ B l p , r ∩ F k ，有</p>
+      <p>1 ≥ ‖ x ‖ l p , r = 2 r k ‖ I k x ‖ l p m k</p>
+      <p>∀ y ∈ F k ，由(2.2)知</p>
+      <p>‖ y ‖ l q = ‖ I k y ‖ l q m k</p>
+      <p>所以</p>
+      <p>ρ n k ( B p , r ∩ F k , l q ∩ F k ) = 2 − r k ρ n k ( B p m k , l q m k )</p>
+      <p>由伪宽度的定义知，存在 l q ∩ F k 的一个伪维数不超过 n k 的线性子空间 M k 使得</p>
+      <p>sup x ∈ B p , r ∩ F k inf y ∈ M k ‖ x − y ‖ l q = 2 − r k ρ n k ( B p m k , l q m k )</p>
+      <p>令 M = ∑ k = 1 ∞ M k (直和)。则 M 为 l q 的线性子空间，且</p>
+      <p>dim ρ ( M ) ≤ ∑ k = 1 ∞ dim ρ ( M k ) ≤ ∑ k = 1 ∞ n k ≤ n 。</p>
+      <p>从而</p>
+      <p>ρ n ( B p , r , l q ) = sup x ∈ B p , r inf y ∈ M ‖ x − y ‖ l q ≤ ∑ k = 1 ∞ sup x ∈ B p , r ∩ F k inf y ∈ M k ‖ x − y ‖ l q = ∑ k = 1 ∞ 2 − r k ρ n k ( B p m k , l q m k )</p>
+      <p>下面引理3是估计定理1下界的离散化定理。</p>
+      <p>引理3：令 1 ≤ q &lt; p &lt; ∞ ， r &gt; 1 q − 1 p ， n = 0 , 1 , 2 , ⋯ ，则</p>
+      <p>ρ n ( B p , r , l q ) = 2 − r k ρ n ( B p m k , l q m k )</p>
+      <p>其中 n ≻ ≺ 2 k = 2 n 。</p>
+      <p>证明：对 ∀ x ∈ B p m k ，则由(2.1)有</p>
+      <p>1 ≥ ‖ x ‖ l p m k ≥ 2 r k ‖ I k − 1 x ‖ l p , r</p>
+      <p>对 ∀ y ∈ l q m k ，则由(2.2)有</p>
+      <p>‖ y ‖ l q m k = ‖ I k − 1 y ‖ l q</p>
+      <p>所以</p>
+      <p>ρ n ( B p , r , l q ) ≥ ρ n ( B p , r ∩ F k , l q ∩ F k ) = 2 − r k ρ n ( B p m k , l q m k )</p>
+      <p>定理1的证明：</p>
+      <p>由定义1.1及定义1.2和无穷维恒等算子 I p , r 的定义，易见 ρ n ( I p , q : l p , r → l p ) = ρ n ( B p , r , l q ) 。</p>
+      <p>首先估计定理1的上界。</p>
+      <p>对 ∀ k ∈ ℕ ，令 k ′ = [ lg n ] ，</p>
+      <p>n k = { m k , 1 ≤ k &lt; k ′ 2 k ′ &#183; 2 β ( k ′ − k ) , k ≥ k ′</p>
+      <p>其中， 0 &lt; β &lt; 1 ，易见 { n k } 满足引理2的条件。</p>
+      <p>由引理2和引理1有</p>
+      <p>ρ n ( I p , q : l p , r → l q ) = ∑ n = 1 ∞ 2 − r k ρ n k ( B p m k , l q m k ) = ∑ k = k ′ ∞ 2 − r k ρ n k ( B p m k , l q m k ) = ∑ k = k ′ ∞ 2 − r k &#183; 2 ( 1 q − 1 p ) k = ∑ k = k ′ ∞ 2 − ( r − 1 q + 1 p ) k = 2 − ( r − 1 q + 1 p ) ) k ′ = n − ( r − 1 q + 1 p )</p>
+      <p>定理1的下界估计。</p>
+      <p>取满足引理3中条件的 k ，则由引理3和引理1有</p>
+      <p>ρ n ( I p , q : l p , r → l q ) = 2 − r k ρ n ( B p m k , l q m k ) = 2 − r k ⋅ n 1 q − 1 p = n − ( r − 1 q + 1 p )</p>
+      <p>综上，定理1得证。</p>
+    </sec>
+    <sec id="s5">
+      <title>文章引用</title>
+      <p>陆文静,肖寒月,秦 静. 无穷维恒等算子的伪宽度Pseudo n-Width of Infinite Dimension Identity Operator[J]. 应用数学进展, 2019, 08(04): 747-752. https://doi.org/10.12677/AAM.2019.84084</p>
+    </sec>
+    <sec id="s6">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.29907-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Traub, J.F. Wasilkowski, G.W. and Wozniakowski, H. (1988) Information-Based Complexity. Academic Press, Bos-ton.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Vapnik, V.N. and Chervonenkis, A.Ya. (1971) On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities. Theory of Probability &amp; Its Applications, 16, 264-280. &lt;br&gt;https://doi.org/10.1137/1116025</mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Vapnik, V.N. and Cbervonenkis, A.Ya. (1981) Necessary and Sufficient Conditions for the Uniform Convergence of Means to Their Expectations. Theory of Probability &amp; Its Applications, 26, 532-553. &lt;br&gt;https://doi.org/10.1137/1126059</mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Pollard, D. (1989) Empiricai Processes: Theory and Applications. NSF-CBMS Regional Conference Sews in Probability and Statistics, Vol. 2, Institute of Mathmatical Statistics and American Statistical Association.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Haussler, D. (1992) Decision Theoretic Generalizations of the PAC Model for Neural Net and Other Learning Applications. Information and Computation, 100, 78-150. &lt;br&gt;https://doi.org/10.1016/0890-5401(92)90010-D</mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Vapnik, V.N. (1982) Estimation of Dependences Based on Empirical Data. Springer. Berlin.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Maiorova, V. and Ratsaby, J. (1998) The Degree of Approximation of Sets in Euclidean Space Using Sets with Bounded Vapnik-Chervonenkis Dimension. Discrete Applied Mathematics, 86, 81-93.
+          &lt;br&gt;https://doi.org/10.1016/S0166-218X(98)00015-8
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.29907-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Chen, G.G., Fang, G.S. and Ruan, Y.L. (2007) Non-Linear Approximation of Functions with Mixed Smoothness by Sets of Finite Pseudo-Dimension. Acta Mathematica Sinica, English Series, 23, 671-676.
+          &lt;br&gt;https://doi.org/10.1007/s10114-005-0921-x
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

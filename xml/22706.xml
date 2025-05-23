@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ASS</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Social Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2169-2556</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/ASS.2017.611195</article-id>
+      <article-id pub-id-type="publisher-id">ASS-22706</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>ASS20171100000_91814650.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>人文社科</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          政府卫生资源配置公平性评价——基于洛伦兹曲线和基尼系数
+          Evaluation of Fairness of Government Health Resources Allocation—Based on Lorenz Curve and Gini Coefficient
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>玉晓</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sub>1</sub>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>江西财经大学，江西 南昌</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>1849185732@qq.com</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>06</volume>
+      <issue>11</issue>
+      <fpage>1388</fpage>
+      <lpage>1393</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文主要运用洛伦兹曲线和基尼系数法对全国卫生资源的配置公平性进行研究，对床位数和医疗卫生人员按照人口在31个省的配置进行评价，对2010~2015年卫生资源配置情况的趋势进行分析。床位数历年基尼系数分别为0.205、0.129、0.096、0.087、0.081、0.061，呈现出逐年下降趋势，都小于0.3，表明床位数处于基本合理和相对平均的状态；卫生人员历年基尼系数分别为0.356、0.337、0.323、0.321、0.312、0.593，前几年基本合理，处于逐年下降状态，但是在2015年出现一个大幅度反弹，严重超出“警戒值”。总的来说，医疗机构床位数在全国配置中基本处于公平状态，但是卫生人员的配置却亟待优化，需要进一步调整规模、合理布局、促进配置均衡性，有效提高医疗卫生服务的可及性，促进医疗卫生资源配置的健康发展。 In this paper, the Lorenz curve and the Gini coefficient method are used to study the fairness of the allocation of health resources in the country. The number of beds and medical and health personnel are evaluated according to the population configuration in 31 provinces. For the allocation of health resources in 2010-2015 trend analysis, Gini coefficients of the number of beds were 0.205, 0.129, 0.096, 0.087, 0.081, 0.061, showing a downward trend year by year. They are less than 0.3 which indicating that the number of beds is in the basic reasonable and relatively average state. Gini coefficients of the medical-related personnel over the years were 0.356, 0.337, 0.323, 0.321, 0.312, 0.593. A few years ago, it is basically reasonable which is in decline year by year. But in 2015, a substantial rebound is seriously beyond the “alert value”. In general, the number of beds in medical institutions is basically fair in the national configuration. But the configuration of health personnel is urgent to be optimized. It needs to further adjust the scale and rational layout, promote the balance of allocation, effectively improve the accessibility of medical and health services, and promote the healthy development of medical and health resources allocation.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>洛伦兹曲线，基尼系数，卫生资源配置，公平性, Lorenz Curve</kwd>
+        <kwd> Gini Coefficient</kwd>
+        <kwd> Medical and Health Resources Allocation</kwd>
+        <kwd> Fairness</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        政府卫生资源配置公平性评价——基于洛伦兹曲线和基尼系数<sup> </sup>
+      </title>
+      <p>王玉晓</p>
+      <p>江西财经大学，江西 南昌</p>
+      <p>收稿日期：2017年10月27日；录用日期：2017年11月10日；发布日期：2017年11月17日</p>
+      <disp-formula id="hanspub.22706-formula48">
+        <graphic xlink:href="//html.hanspub.org/file/8-2390813x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文主要运用洛伦兹曲线和基尼系数法对全国卫生资源的配置公平性进行研究，对床位数和医疗卫生人员按照人口在31个省的配置进行评价，对2010~2015年卫生资源配置情况的趋势进行分析。床位数历年基尼系数分别为0.205、0.129、0.096、0.087、0.081、0.061，呈现出逐年下降趋势，都小于0.3，表明床位数处于基本合理和相对平均的状态；卫生人员历年基尼系数分别为0.356、0.337、0.323、0.321、0.312、0.593，前几年基本合理，处于逐年下降状态，但是在2015年出现一个大幅度反弹，严重超出“警戒值”。总的来说，医疗机构床位数在全国配置中基本处于公平状态，但是卫生人员的配置却亟待优化，需要进一步调整规模、合理布局、促进配置均衡性，有效提高医疗卫生服务的可及性，促进医疗卫生资源配置的健康发展。</p>
+      <p>关键词 :洛伦兹曲线，基尼系数，卫生资源配置，公平性</p>
+      <disp-formula id="hanspub.22706-formula49">
+        <graphic xlink:href="//html.hanspub.org/file/8-2390813x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by author and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/8-2390813x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/8-2390813x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        十九大报告指出，中国特色社会主义进入了新时代，我国社会的主要矛盾已经转化为人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。卫生资源配置的公平性直接关系到广大人民群众的基本卫生服务的可及性和公平性。我国地域辽阔，人口众多，卫生资源配置是否合理直接关系到人民群众的健康水平，配置是否公平会影响到人民群众健康医疗的基础条件。为了考察我国卫生资源配置情况，加强公共卫生服务体系建设，健全医疗保障体系，深入推进医疗卫生体制改革 [<xref ref-type="bibr" rid="hanspub.22706-ref1">1</xref>] ，本文选取了2010~2015年全国31个省的卫生资源数据(以床位数为代表)，应用传统经济学理论，主要以洛伦兹曲线、基尼系数为主要评价工具，对全国卫生资源的配置公平进行实证研究，以期对卫生资源的优化配置提供参考依据。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 数据与研究方法</title>
+      <sec id="s4_1">
+        <title>2.1. 数据来源</title>
+        <p>研究对象为全国31个省(不包括港澳台)，研究样本包括各省的人口数、床位数，数据来源于历年《中国统计年鉴》和《中国卫生统计年鉴》。整个数据处理过程均采用Excel进行录入、整理、处理和分析，并用Excel计算基尼系数。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 研究方法</title>
+        <p>
+          洛伦兹曲线是统计学家洛伦兹提出的一种用于测量公平性的方法，经济学中用来反映社会收入的分配或财富分配的公平程度，本文用此方法来展现卫生资源配置的公平程度。通过洛伦兹曲线可以直观分析一个国家和社会收入分配平等或不平等的状况。基本原理是将资源按人口或地区分为若干等级，按百分比构成从小到大排列，分别累计用纵轴表现，对应的人口累计比用横轴表现，链接各点即可得到洛伦兹曲线。曲线弯曲程度越大分配越不公平，越靠近绝对公平线则越公平 [<xref ref-type="bibr" rid="hanspub.22706-ref2">2</xref>] 。
+        </p>
+        <p>基尼系数由洛伦兹曲线推导而来，用以测度洛伦兹曲线背离绝对公平线的程度。基尼系数的计算公式为：</p>
+        <p>G = 1 − ∑ i = 1 n ( x i + 1 − x i ) ( y i + 1 + y i )</p>
+        <p>
+          其中， x i 、 y i 分别指人口累计比例和卫生资源拥有量的累积比重，n为省总数， i = 1 , 2 , ⋯ , n [<xref ref-type="bibr" rid="hanspub.22706-ref3">3</xref>] 。G为基尼系数，取值介于0~1，基尼系数越接近于0，代表资源配置越公平，越接近于1，代表资源越集中。其值在0.2以下代表绝对平均，0.2~0.3代表比较公平，0.3~0.4代表基本合理，0.4~0.5代表差距较大，0.5以上代表差距很悬殊，0.6以上就属于高度不公平的危险状态。通常把0.4作为公平“警戒线” [<xref ref-type="bibr" rid="hanspub.22706-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.22706-ref4">4</xref>] 。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 实证结果</title></sec>
+      <sec id="s5_1">
+        <title>3.1. 卫生资源配置基本情况(以床位数为代表)</title>
+        <p>
+          2015年全国各个省份床位数如表1所示。从表1可以得知，各省份间的医疗卫生床位数配置存在较大差异 [<xref ref-type="bibr" rid="hanspub.22706-ref5">5</xref>] ，床位数拥有量最大的是山东，其床位拥有量是全国床位数总量的7.4%，西藏拥有量最少，占比仅为全国总量的0.2%；全国床位拥有量最高的省份是最低省份的37倍之多。
+        </p>
+        <p>从表2中人口情况来看，31个省份中人口最多的是广东，人口量达到了10,849万，人口最少的是324万，与表1中的床位拥有量来看，广东是拥有人口最多的省份，却不是医疗床位数拥有量最大的省份，很明显有的省份的人口拥有量与其医疗床位数的拥有量不相匹配，接下来就从基尼系数的角度对我国各省份医疗床位数的配置公平性进行实证分析。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 全国医疗床位数配置的人口分布公平性分析</title>
+        <p>根据全国各省人口和床位数拥有量数据计算每万人拥有床位数量，将各省数据按照每万人床位拥有量进行排序。以各省人口累积比为X轴，相对应的床位拥有量累积比为Y轴，绘制洛伦兹曲线。如图1所示为2015年全国床位数按人口配置的洛伦兹曲线。</p>
+        <p>从图1可以看出，医疗床位数按人口分布的洛伦兹曲线位于公平线之下，存在一定程度的不公平性</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> The number of beds in various provinces was in the country in 201</title>
+          </caption>
+          </table-wrap>
+        </sec>
+      </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22706-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">唐齐鸣, 项乐. 中国居民医疗保健支出的影响因素及区域差异性研究[J]. 金融研究, 2014(1): 85-98.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">郭振友, 石武祥. 广西医疗卫生资源配置的公平性研究[J]. 医学与哲学, 2012, 33(3A): 49-51.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">何军, 杨建, 孟玲, 等. 基于洛伦兹曲线和基尼系数的四川卫生资源配置公平性评价[J]. 西北人口, 2015(1): 44-47.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">罗娟, 汪泓, 崔开昌. 上海市医疗资源配置状况分析[J]. 中国卫生统计, 2009, 26(5): 466-469, 472.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">何军, 杨建, 孟玲, 等. 基于洛伦兹曲线和基尼系数的四川卫生资源配置公平性评价[J]. 西北人口, 2015(1): 44-47, 54.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">张倩, 李贞玉, 孔祥金. 基于基尼系数与洛伦茨曲线的辽宁卫生资源公平性分析[J]. 医学与哲学, 2012(8): 49-51.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">李丽, 王传斌. 安徽省卫生资源配置的公平性分析[J]. 中国卫生统计, 2010, 27(5): 535-536.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22706-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">施燕, 安娜, 顾骞, 等. 上海市社区公共卫生服务资源配置公平性分析[J]. 中国卫生资源, 2010, 13(6): 285-286, 293.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">WER</journal-id>
+      <journal-title-group>
+        <journal-title>World Economic Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2167-6607</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/WER.2018.73012</article-id>
+      <article-id pub-id-type="publisher-id">WER-26990</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>WER20180300000_32859578.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          托宾税对我国外汇储备适度规模的预期影响研究
+          Research on Expected Impact of Tobin Tax on Optimal Scale of Foreign Exchange Reserve in China
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>高</surname>
+            <given-names>洁</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>蒋</surname>
+            <given-names>楚才</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <addr-line>香港中文大学深圳高等金融研究院，广东 深圳</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>对外经济贸易大学金融学院，北京</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>08</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>03</issue>
+      <fpage>99</fpage>
+      <lpage>109</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          2016年我国国家外汇管理局考虑使用托宾税作为我国外汇管理工具之一。在此背景下，本文结合我国实际情况，借鉴智利实施托宾税的经验，对传统的Agarwal模型进行修正，测算我国外汇储备的适度规模，探讨使用托宾税将对我国外汇储备适度规模带来怎样的预期影响。研究表明，如果使用托宾税管理外汇，我国外汇储备适度规模会出现明显下降。本文研究分析之结果，为我国监管机构使用托宾税作为外汇管理工具，提供了一定的理论基础和实践价值。 In 2016, the State Administration of Foreign Exchange of China considered the use of Tobin tax as one of the tools in the foreign exchange management. Based on this, the paper tries to find out the optimal scale of China’s foreign exchange reserve by modifying the Agarwal model and discuss the expected effect of Tobin tax on the optimal scale of China’s foreign exchange reserve. The results of the study show that if using Tobin tax to manage foreign exchange, China’s foreign exchange reserve will decline significantly. It provides some theoretical basis and practical value for the foreign exchange reserve management of the State Administration of Foreign Exchange using Tobin’s tax as a tool.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>托宾税，外汇储备，适度规模, Tobin Tax</kwd>
+        <kwd> Foreign Exchange Reserve</kwd>
+        <kwd> Optimal Scale</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        托宾税对我国外汇储备适度规模的预期 影响研究<sup> </sup>
+      </title>
+      <p>
+        高洁<sup>1</sup>，蒋楚才<sup>2</sup>
+      </p>
+      <p>
+        <sup>1</sup>对外经济贸易大学金融学院，北京
+      </p>
+      <p>
+        <sup>2</sup>香港中文大学深圳高等金融研究院，广东 深圳
+      </p>
+      <p>
+        <img src="//html.hanspub.org/file/6-2350164x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2018年9月4日；录用日期：2018年9月21日；发布日期：2018年9月28日</p>
+      <disp-formula id="hanspub.26990-formula38">
+        <graphic xlink:href="//html.hanspub.org/file/6-2350164x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>2016年我国国家外汇管理局考虑使用托宾税作为我国外汇管理工具之一。在此背景下，本文结合我国实际情况，借鉴智利实施托宾税的经验，对传统的Agarwal模型进行修正，测算我国外汇储备的适度规模，探讨使用托宾税将对我国外汇储备适度规模带来怎样的预期影响。研究表明，如果使用托宾税管理外汇，我国外汇储备适度规模会出现明显下降。本文研究分析之结果，为我国监管机构使用托宾税作为外汇管理工具，提供了一定的理论基础和实践价值。</p>
+      <p>关键词 :托宾税，外汇储备，适度规模</p>
+      <disp-formula id="hanspub.26990-formula39">
+        <graphic xlink:href="//html.hanspub.org/file/6-2350164x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2018 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-2350164x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/6-2350164x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>自1994年中国汇率制度改革之后，我国的国家外汇储备规模开始高速增长。至2014年的20年间，我国外汇储备规模从516.20亿美元发展至38,430.18亿美元，增长了约74.4倍，其增长速度之快引发了诸多关注与争议。然而自2014年至2016年，我国的国家外汇储备规模开始大幅度下降，至2016年已经降至30,105.17亿美元，与5年前的国家外汇储备规模相近。尽管中国目前的国家外汇储备规模仍然接近全球外汇储备的30%，位居全球首位，但我国曾经的高额外汇储备规模在近两年的快速下降也是不争的事实。</p>
+      <p>外汇储备规模上升有利有弊，外汇储备规模下降亦是如此。虽然一般而言，国家外汇储备规模的上升是有益的，其不仅有利于加强国家对于宏观经济的管控和调节能力，也表明国家具备强大的国际收支平衡能力，能够有效地维护国家及企业在国际市场上的地位和信誉，便于与其他国家开展贸易合作，防范和应对国际金融风险及金融危机。但同时，国家加持外汇储备是有成本和代价的，因为外汇储备规模上升不仅意味着持有外汇储备的机会成本上升，同时也因外汇占款增加导致货币供应量上升，货币政策的实施难度增加。</p>
+      <p>
+        为了满足平衡国际收支、加强宏观经济调控等需求，同时又要合理减少外汇储备过高带来的机会成本增加，规避不利影响，就必须合理界定我国的国家外汇储备适度规模。鉴于外汇储备的重要性，外汇储备适度规模相关理论自20世纪40年代末期开始层出不穷，并不断深入、完善与发展。目前核心的分析方法和理论大致分为四种：比例分析法、成本收益分析法、线性回归分析法和定性分析法。本文外汇储备适度规模的测算模型的理论基础源于20世纪60年代至70年代提出的成本收益分析法，即J. Agarwal (1971) [<xref ref-type="bibr" rid="hanspub.26990-ref1">1</xref>] 为测算发展中国家外汇储备适度规模而建立的Agarwal模型。该模型描述情况与我国相似，但并不能直接适用我国，因此本文将基于我国实际情况，结合托宾税可能产生的影响，对模型进行拓展和修正，使其能够符合我国现状，从而较为准确地测算我国外汇储备适度规模。
+      </p>
+      <p>
+        2016年3月国家外汇管理局在新闻发布会上坦言，托宾税是其正在研发的外汇管理工具之一。1972年美国经济学家詹姆斯&#183;托宾(James Tobin)在普林斯顿大学的演讲中首次提出托宾税的概念。托宾研究的核心思想是，全球的资本市场投机行为无处不在，而这些投机行为在某种意义上提高了国际金融市场的波动性。他建议通过提高交易成本，从而在一定程度上降低资本流动性，稳定汇率，最终达到均衡经济的目的。早期托宾税并未受到重视，直至20世纪90年代，由于货币危机频发，学者们才逐步开始深入研究托宾税。托宾税表现形式包括外汇交易税、所得税、预扣税、无息准备金等。本文基于Eichengreen，Barry，J. Tobin and C. Wyplosz (1995) [<xref ref-type="bibr" rid="hanspub.26990-ref2">2</xref>] 提出的无息准备金这一表现形式，参考20世纪90年代智利实施无息准备金后的资本变动影响，将托宾税纳入外汇储备适度规模测算模型，以研究托宾税作为外汇管理工具长期使用，对我国外汇储备适度规模可能造成的影响。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 外汇储备适度规模及其测算理论</title>
+      <sec id="s4_1">
+        <title>2.1. 外汇储备适度规模的定义及测算意义</title>
+        <p>如何准确定义外汇储备适度规模至今未有定论。广义上外汇储备适度规模是指一国为满足国际间支付需求、实现国家经济目标，由中央银行和其他政府机构所持有的，用于平衡国际收支和维持汇率稳定的必要外汇资产。但是适度的外汇储备规模受不同需求影响因素诸多，例如本国经济发展，本国持有的外债余额、进出口额、国际收支逆差、居民用汇等，不同国家外汇储备适度规模又具有特异性，给出一个外汇储备适度规模的标准定义很难。虽然没有统一标准，但考虑一个国家不同因素对外汇储备规模的影响，就可以测算出该国的外汇储备适度规模。基于以上原因，我们可以测算出一个能够满足我国外汇储备需求的外汇储备规模。</p>
+        <p>测算外汇储备适度规模有助于我国在充分平衡国际收支、调节宏观经济、稳定汇率以及应对风险的前提下，使我国持有外汇储备所带来的成本最小化。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 测算理论——传统Agarwal模型</title>
+        <p>Agarwal (1971)认为发展中国家与发达国家存在显著区别，二者政治制度和经济发展不同可能导致外汇储备适度规模的测算上存在差异。Agarwal的核心思想是，与发达国家不同，发展中国家的外汇储备规模若能允许该国在现有的固定汇率水平上平衡计划外的国际收支逆差，并且在此外汇储备规模下该国持有外汇储备时的收益能够冲抵成本，此时的外汇储备规模即为外汇储备适度规模。</p>
+        <p>模型如下：</p>
+        <p>R = W ( ln k + ln q 2 − ln q 1 ) / ln θ</p>
+        <p>其中：</p>
+        <p>R 表示该国的外汇储备适度规模；</p>
+        <p>W 表示该国的国际收支逆差；</p>
+        <p>k 表示该国的资本产出效率，即资本产出比的倒数；</p>
+        <p>q 1 表示该国追加的可使用资本品的进口品的比例；</p>
+        <p>q 2 表示该国进口的生产性物品占一国经济总产出的比例；</p>
+        <p>θ 表示该国出现国际收支逆差的概率。</p>
+        <p>
+          Agarwal模型弥补了Heller模型的一些缺陷，将发展中国家外汇储备持有时的成本和收益纳入模型之中，诠释了国家外汇储备与其国际收支逆差间的相互作用与关系，给出发展中国家外汇储备适度规模的分析方法和模型。然而，Agarwal模型未能完全解决Heller (1996) [<xref ref-type="bibr" rid="hanspub.26990-ref3">3</xref>] 提出的模型中所存在的问题，例如该模型只考虑了用于平衡国际收支的外汇储备和国际贸易所用外汇储备，即影响外汇储备适度规模需求因素中的调节性需求与交易性需求，而忽略了影响外汇储备适度规模的其他需求因素，因此Agarwal模型依旧存在着进一步完善和发展的可能。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 外汇储备适度规模测算模型的修正及应用分析</title>
+      <sec id="s5_1">
+        <title>3.1. 传统Agarwal模型的修正原因及意义</title>
+        <p>上文可看出，Agarwal模型考虑到了发展中国家与发达国家的不同，模型本身也主要针对发展中国家外汇储备适度规模的测算，甚至我国目前面临的境况与Agarwal模型描述的不少情况相吻合，例如进出口波动性大导致的国际收支平衡速度较慢以及资源闲置等等，因此Agarwal模型一定程度上的确是适用于测算我国外汇储备适度规模的。但是Agarwal模型作为传统的经典模型，并不能直接适用于我国。Agarwal模型考虑的需求因素只有交易性需求和调节性需求，而我国还存在包括偿债性需求，预防性需求等在内的其他需求因素，模型本身不能完全满足，因此需要对其进行拓展和修正，使之符合我国现状并测算我国外汇储备适度规模。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 我国外汇储备适度规模的需求因素</title>
+        <p>1) 平衡国际收支逆差需求</p>
+        <p>由于进出口贸易额的经常变动，我国国际收支调节速度相对而言较为缓慢。为了平衡国际收支逆差，确保与他国的国际贸易活动正常进行，国家必须持有的外汇储备。</p>
+        <p>2) 外商直接投资(FDI)利润汇回需求</p>
+        <p>自改革开放以来，我国长期实施以吸引外资为目的的优惠政策。这些政策诸如税收优惠政策和土地优惠政策等为FDI提供了发展的空间与土壤。良好的投资环境，优惠的投资政策加上中国经济的高速发展带来的庞大的中国市场，外商投资信心也不断高涨，我国的FDI流入量出现了惊人的增长。2014年我国首度超过美国成为全球最大FDI流入国，流入量1290亿(美元)。每年这些外商在华投资产生的利润都能汇回本国，但实际上绝大多数利润留在我国，且具有一定稳定性。但当金融危机发生时，有可能产生羊群效应，致使大量资金汇出。因此外商直接投资利润汇回需求因素需要考虑。</p>
+        <p>3) 偿债性需求</p>
+        <p>为了防范可能的债务危机，我国必须持有一定的外汇储备用以及时偿还外债。外债有短期与长期之分。测算外汇储备时，前者需要考虑具体数量和利息以备偿付，后者虽然是到期偿还，但也需考虑每年利息。通过图1可以看出，2014年以前我国外债规模长期处于上升趋势，短期外债占比年年提高，我国所对应的偿债性需求也逐年上升。2014年后外债规模虽然开始下降，但是相较于2014年以前，外债规模和短期外债占比仍然偏高。显然，偿债性需求是影响我国外汇储备适度规模的一大重要因素。</p>
+        <p>图1. 2006年~2015年我国外债余额年度数据。(单位：亿美元)</p>
+        <p>4) 居民出境用汇需求</p>
+        <p>随着我国经济的快速发展，居民生活质量逐年上升，加之出境条件的不断放宽，以及外管局降低对个人用汇额度的限制，我国居民更多的出境旅游留学扩大了居民出境用汇需求。</p>
+        <p>5) 稳定汇率用汇需求</p>
+        <p>我国目前对于汇率实行的是有管理的浮动汇率制度。虽然相对固定汇率而言，有管制的浮动汇率制度下在汇率出现计划外的大规模波动时稳定汇率所需要的外汇储备更低，但是这部分稳定汇率的外汇储备需求数量仍然较高，需纳入模型之中。</p>
+        <p>6) 防范金融危机的预防性需求</p>
+        <p>由于我国经济的快速发展，国际贸易的不断深化，以及资本市场的日益开放，防范金融风险仍是首要考量，作为防范和化解外来资本冲击影响的手段之一，我国显然需要持有适量的外汇储备，防范可能发生的金融危机。</p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 修正的Agarwal模型</title>
+        <p>在传统的Agarwal模型的基础上，基于我国外汇储备适度规模需求因素构建修正的Agarwal模型,用以测算我国外汇储备适度规模。考虑到数据完整性，本文选取2006~2015作为模型测算时间范围进行研究。</p>
+        <p>修正的Agarwal模型如下：</p>
+        <p>R * = W ( ln k + ln q 2 − ln q 1 ) ln θ + α F D I ( ln r + ln q 2 ) ln p + S D + β T D + γ GDP + δ F X + ε</p>
+        <p>其中：</p>
+        <p>R * ：我国的外汇储备适度规模；</p>
+        <p>W ：国际收支逆差，此处选取1982~2015年期间国际贸易逆差最大值，即1993年的143亿美元，并假定未来不会超过这一数额；</p>
+        <p>F D I ：外商直接投资累计余额；</p>
+        <p>k ：资本产出效率；</p>
+        <p>
+          <inline-formula>
+            <inline-graphic xlink:href="//html.hanspub.org/file/6-2350164x22_hanspub.png" xlink:type="simple"/>
+          </inline-formula>：追加的可使用资本品的进口品的比例；
+        </p>
+        <p>q 2 ：进口的生产性物品占一国经济总产出的比例；</p>
+        <p>θ ：国际收支逆差出现的概率；</p>
+        <p>α ：FDI利润率；</p>
+        <p>r ：国际投资收益率；</p>
+        <p>p ：金融危机概率；</p>
+        <p>S D ：短期外债余额；</p>
+        <p>T D ：外债总额；</p>
+        <p>GDP：国内生产总值；</p>
+        <p>F X ：外汇市场交易总额。</p>
+        <p>各需求说明：</p>
+        <p>1) 平衡国际收支逆差需求：基于传统的Agarwal模型，设定这部分需求为 W ( ln k + ln q 2 − ln q 1 ) ln θ</p>
+        <p>2) 外商直接投资(FDI)利润汇回需求：基于传统的Agarwal模型，持有这部分外汇储备的机会成本为：</p>
+        <p>R C = R ⋅ r ，收益为 R B = R ⋅ p R α F D I / q 2 。持有这部分外汇储备的机会成本等于持有时的收益即 R B = R C ，解得满足FDI利润汇回需求的外汇储备适度规模为 α F D I ( ln r + ln q 2 ) ln p 。</p>
+        <p>3) 偿债性需求：由于短期外债随时可能到期，所以需要考虑可能偿还的全部短期外债余额以及外债总额利息。满足偿债性需求的外汇储备适度规模为 S D + β T D 。</p>
+        <p>4) 居民出境用汇需求：考虑居民出境用汇在国内生产总值中的比率，测算这部分外汇储备适度规模为 γ GDP 。</p>
+        <p>5) 稳定汇率用汇需求：考虑通过干预外汇市场以达到稳定汇率的目的，通过干预市场用汇和外汇市场交易总额的比率，测算外汇储备适度规模为 δ F X 。但由于2005年之后直至2015年，中国人民银行和国家外汇管理局(外汇局)均未公布我国外汇市场交易总额具体数据，2016年外汇局才恢复公布2015年数据。2013年2月外汇局称，2007~2011年间我国外汇市场交易总额年均增长40.3%，其中2011年外汇市场交易量约为142,000亿美元。基于外汇局在2006~2014年间除去2011年再没有公布其他年份具体数据，本文将基于2011我国外汇市场交易总额，考虑2011年后增长率迅速放缓以及2015年的外汇市场交易总额，假定2011~2014年间年均增长率为10%，得出这期间我国外汇市场交易总额的假定值。</p>
+        <p>6) 防范金融危机的预防性需求：由于防范金融危机的外汇储备规模是基于外汇储备总量而定，故将该部分外汇储备需求单独列出， ε 表示外汇储备规模中的一部分。</p>
+        <p>各参数说明如下：</p>
+        <p>k ：资本产出效率，即资本产出比的倒数，用GDP/全社会固定资产投资总额表示。</p>
+        <p>q 1 ：追加可使用资本品占进口品的比例，用初级产品进口额/新增固定资产投资表示。</p>
+        <p>q 2 ：进口生产性物品占一国经济总产出的比例，用初级产品进口额/GDP表示。</p>
+        <p>θ ：国际收支逆差出现概率，1982~2015年间，国际收支逆差发生概率为 θ = 7 / 34 。</p>
+        <p>
+          α ：FDI利润率，研究表明，我国FDI平均利润率为15% (韩佳峪，2013) [<xref ref-type="bibr" rid="hanspub.26990-ref4">4</xref>] (肖文等，2012) [<xref ref-type="bibr" rid="hanspub.26990-ref5">5</xref>] 左右，而据WB调查研究，发展中国家FDI利润率为16%~18%，根据IMF调查研究，我国FDI利润率为
+        </p>
+        <p>12%~14%，出于稳健考虑，本文取二者中间值 α = 12 % + 16 % 2 + 14 % + 18 % 2 2 = 15 % 。</p>
+        <p>r ：国际投资收益率，由于我国外汇储备资产大部分为美元资产，并多用于投资购买美国国债，其中长期国债占比较高，因此考虑用美国国债收益率表示我国的国际投资收益率。本文按照十年期美国国债/三年期美国国债7:3的比例计算加权平均收益率，作为我国的国际投资收益率，如表1所示。</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Data of US treasury bond yields from 2006 to 2015. (Unit: %</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >年份</th>
+                  <th align="center" valign="middle" >美国国债三年期收益率</th>
+                  <th align="center" valign="middle" >美国国债十年期收益率</th>
+                  <th align="center" valign="middle" >国际投资收益率 (加权平均收益率r)</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >2006</td>
+                <td align="center" valign="middle" >4.7613</td>
+                <td align="center" valign="middle" >4.7813</td>
+                <td align="center" valign="middle" >4.7753</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2007</td>
+                <td align="center" valign="middle" >4.2444</td>
+                <td align="center" valign="middle" >4.5748</td>
+                <td align="center" valign="middle" >4.4757</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2008</td>
+                <td align="center" valign="middle" >2.1663</td>
+                <td align="center" valign="middle" >3.5863</td>
+                <td align="center" valign="middle" >3.1603</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2009</td>
+                <td align="center" valign="middle" >1.4099</td>
+                <td align="center" valign="middle" >3.2723</td>
+                <td align="center" valign="middle" >2.7136</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2010</td>
+                <td align="center" valign="middle" >1.0273</td>
+                <td align="center" valign="middle" >3.1260</td>
+                <td align="center" valign="middle" >2.4964</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2011</td>
+                <td align="center" valign="middle" >0.7022</td>
+                <td align="center" valign="middle" >2.7318</td>
+                <td align="center" valign="middle" >2.1229</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2012</td>
+                <td align="center" valign="middle" >0.3565</td>
+                <td align="center" valign="middle" >1.7354</td>
+                <td align="center" valign="middle" >1.3217</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2013</td>
+                <td align="center" valign="middle" >0.5351</td>
+                <td align="center" valign="middle" >2.3605</td>
+                <td align="center" valign="middle" >1.8129</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2014</td>
+                <td align="center" valign="middle" >0.8821</td>
+                <td align="center" valign="middle" >2.4788</td>
+                <td align="center" valign="middle" >1.9998</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2015</td>
+                <td align="center" valign="middle" >1.0023</td>
+                <td align="center" valign="middle" >2.0940</td>
+                <td align="center" valign="middle" >1.7665</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 2006年~2015年美国国债收益率数据统计。(单位：%)</p>
+        <p>资料来源：美国财政部网站。</p>
+        <p>p ：金融危机概率，为了与国际收支逆差的时间范围保持一致性，因此只考虑1982~2015年间的金融危机概率。合计34年间共出现了两次金融危机，分别为1997~1998亚洲金融危机和2007~2008全球金融危机，即金融危机年份为4年，因此本文中取 p = 4 / 34 。</p>
+        <p>β ：外债还本付息率，依照国际经验，本文中取 β = 10 % 。</p>
+        <p>γ ：居民出境用汇占国内生产总值比率，由于我国出境旅游约占国内生产总值的1.8%，居民出境用</p>
+        <p>汇占国内生产总值的比率约为1%~4%，出于稳健考虑，本文中取中间值 γ = 1 % + 4 % 2 = 2.5 % 。</p>
+        <p>
+          δ ：干预外汇市场用汇与外汇市场交易总额比率，根据研究，我国干预外汇市场用汇与外汇市场交易总额比率约为10%~20% (王爱俭，2005) [<xref ref-type="bibr" rid="hanspub.26990-ref6">6</xref>] ，本文中取 δ = 10 % 。
+        </p>
+        <p>ε ：防范金融危机的外汇储备，为了防范突发性的金融危机我国需要持有一定的外汇储备 ε ，占外汇储备金额的10%，即 ε = 10 % R * 。</p>
+      </sec>
+      <sec id="s5_4">
+        <title>3.4. 我国外汇储备适度规模的测算——基于修正的Agarwal模型</title>
+        <p>考虑数据的获取及对我国现状的意义，本文选取2006~2015年共计10年的统计数据，利用修正的Agarwal模型测算我国外汇储备适度规模。</p>
+        <p>1) 相关经济统计数据如表2~表4所示。</p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> Relevant economic statistics data from 2006 to 2015. (Unit: US $100 million</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >年份</th>
+                  <th align="center" valign="middle" >GDP</th>
+                  <th align="center" valign="middle" >全社会固定资产投资总额</th>
+                  <th align="center" valign="middle" >新增固定资产投资</th>
+                  <th align="center" valign="middle" >初级产品进口额</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >2006</td>
+                <td align="center" valign="middle" >27,526.84</td>
+                <td align="center" valign="middle" >13,798.41</td>
+                <td align="center" valign="middle" >5207.63</td>
+                <td align="center" valign="middle" >1871.30</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2007</td>
+                <td align="center" valign="middle" >35,538.18</td>
+                <td align="center" valign="middle" >18,059.43</td>
+                <td align="center" valign="middle" >6833.65</td>
+                <td align="center" valign="middle" >2430.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2008</td>
+                <td align="center" valign="middle" >46,005.89</td>
+                <td align="center" valign="middle" >24,884.94</td>
+                <td align="center" valign="middle" >9463.85</td>
+                <td align="center" valign="middle" >3623.90</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2009</td>
+                <td align="center" valign="middle" >51,102.53</td>
+                <td align="center" valign="middle" >32,879.34</td>
+                <td align="center" valign="middle" >13,174.23</td>
+                <td align="center" valign="middle" >2898.04</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2010</td>
+                <td align="center" valign="middle" >61,013.41</td>
+                <td align="center" valign="middle" >37,179.08</td>
+                <td align="center" valign="middle" >16,819.56</td>
+                <td align="center" valign="middle" >4325.56</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2011</td>
+                <td align="center" valign="middle" >75,757.20</td>
+                <td align="center" valign="middle" >48,226.47</td>
+                <td align="center" valign="middle" >22,234.00</td>
+                <td align="center" valign="middle" >6043.76</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2012</td>
+                <td align="center" valign="middle" >85,602.76</td>
+                <td align="center" valign="middle" >59,357.58</td>
+                <td align="center" valign="middle" >39,769.61</td>
+                <td align="center" valign="middle" >6346.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2013</td>
+                <td align="center" valign="middle" >96,112.58</td>
+                <td align="center" valign="middle" >72,061.95</td>
+                <td align="center" valign="middle" >48,909.94</td>
+                <td align="center" valign="middle" >6576.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2014</td>
+                <td align="center" valign="middle" >104,833.95</td>
+                <td align="center" valign="middle" >83,352.97</td>
+                <td align="center" valign="middle" >57,104.70</td>
+                <td align="center" valign="middle" >6474.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2015</td>
+                <td align="center" valign="middle" >110,630.68</td>
+                <td align="center" valign="middle" >90,231.81</td>
+                <td align="center" valign="middle" >61,164.81</td>
+                <td align="center" valign="middle" >4730.12</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. 2006~2015年相关经济统计数据。(单位：亿美元)</p>
+        <p>资料来源：国家统计局。</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> Number value of parameter k, q1, q2 and relevant calculatio</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >年份</th>
+                  <th align="center" valign="middle" >k</th>
+                  <th align="center" valign="middle" >
+                    q<sub>1 </sub>
+                  </th>
+                  <th align="center" valign="middle" >
+                    q<sub>2 </sub>
+                  </th>
+                  <th align="center" valign="middle" >lnk</th>
+                  <th align="center" valign="middle" >
+                    lnq<sub>1</sub>
+                  </th>
+                  <th align="center" valign="middle" >
+                    lnq<sub>2 </sub>
+                  </th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >2006</td>
+                <td align="center" valign="middle" >1.99</td>
+                <td align="center" valign="middle" >0.36</td>
+                <td align="center" valign="middle" >0.07</td>
+                <td align="center" valign="middle" >0.69</td>
+                <td align="center" valign="middle" >−1.02</td>
+                <td align="center" valign="middle" >−2.69</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2007</td>
+                <td align="center" valign="middle" >1.97</td>
+                <td align="center" valign="middle" >0.36</td>
+                <td align="center" valign="middle" >0.07</td>
+                <td align="center" valign="middle" >0.68</td>
+                <td align="center" valign="middle" >−1.03</td>
+                <td align="center" valign="middle" >−2.68</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2008</td>
+                <td align="center" valign="middle" >1.85</td>
+                <td align="center" valign="middle" >0.38</td>
+                <td align="center" valign="middle" >0.08</td>
+                <td align="center" valign="middle" >0.61</td>
+                <td align="center" valign="middle" >−0.96</td>
+                <td align="center" valign="middle" >−2.54</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2009</td>
+                <td align="center" valign="middle" >1.55</td>
+                <td align="center" valign="middle" >0.22</td>
+                <td align="center" valign="middle" >0.06</td>
+                <td align="center" valign="middle" >0.44</td>
+                <td align="center" valign="middle" >−1.51</td>
+                <td align="center" valign="middle" >−2.87</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2010</td>
+                <td align="center" valign="middle" >1.64</td>
+                <td align="center" valign="middle" >0.26</td>
+                <td align="center" valign="middle" >0.07</td>
+                <td align="center" valign="middle" >0.50</td>
+                <td align="center" valign="middle" >−1.36</td>
+                <td align="center" valign="middle" >−2.65</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2011</td>
+                <td align="center" valign="middle" >1.57</td>
+                <td align="center" valign="middle" >0.27</td>
+                <td align="center" valign="middle" >0.08</td>
+                <td align="center" valign="middle" >0.45</td>
+                <td align="center" valign="middle" >−1.30</td>
+                <td align="center" valign="middle" >−2.53</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2012</td>
+                <td align="center" valign="middle" >1.44</td>
+                <td align="center" valign="middle" >0.16</td>
+                <td align="center" valign="middle" >0.07</td>
+                <td align="center" valign="middle" >0.37</td>
+                <td align="center" valign="middle" >−1.84</td>
+                <td align="center" valign="middle" >−2.60</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2013</td>
+                <td align="center" valign="middle" >1.33</td>
+                <td align="center" valign="middle" >0.13</td>
+                <td align="center" valign="middle" >0.07</td>
+                <td align="center" valign="middle" >0.29</td>
+                <td align="center" valign="middle" >−2.01</td>
+                <td align="center" valign="middle" >−2.68</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2014</td>
+                <td align="center" valign="middle" >1.26</td>
+                <td align="center" valign="middle" >0.11</td>
+                <td align="center" valign="middle" >0.06</td>
+                <td align="center" valign="middle" >0.23</td>
+                <td align="center" valign="middle" >−2.18</td>
+                <td align="center" valign="middle" >−2.78</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2015</td>
+                <td align="center" valign="middle" >1.23</td>
+                <td align="center" valign="middle" >0.08</td>
+                <td align="center" valign="middle" >0.04</td>
+                <td align="center" valign="middle" >0.20</td>
+                <td align="center" valign="middle" >−2.56</td>
+                <td align="center" valign="middle" >−3.15</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+          表3. 参数k、q<sub>1</sub>、q<sub>2</sub>数值及相关计算值
+        </p>
+        <p>资料来源：自行计算整理。</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> Data of FDI, SD, TD, FX and r. (Unit: US $100 million</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >年份</th>
+                  <th align="center" valign="middle" >FDI</th>
+                  <th align="center" valign="middle" >SD</th>
+                  <th align="center" valign="middle" >TD</th>
+                  <th align="center" valign="middle" >FX</th>
+                  <th align="center" valign="middle" >r</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >2006</td>
+                <td align="center" valign="middle" >6836.86</td>
+                <td align="center" valign="middle" >1992.30</td>
+                <td align="center" valign="middle" >3385.90</td>
+                <td align="center" valign="middle" >26,402.69</td>
+                <td align="center" valign="middle" >4.78</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2007</td>
+                <td align="center" valign="middle" >7584.54</td>
+                <td align="center" valign="middle" >2356.90</td>
+                <td align="center" valign="middle" >3892.20</td>
+                <td align="center" valign="middle" >36,963.77</td>
+                <td align="center" valign="middle" >4.48</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2008</td>
+                <td align="center" valign="middle" >8508.49</td>
+                <td align="center" valign="middle" >2262.80</td>
+                <td align="center" valign="middle" >3901.60</td>
+                <td align="center" valign="middle" >51,749.27</td>
+                <td align="center" valign="middle" >3.16</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2009</td>
+                <td align="center" valign="middle" >9408.82</td>
+                <td align="center" valign="middle" >2592.60</td>
+                <td align="center" valign="middle" >4286.50</td>
+                <td align="center" valign="middle" >72,448.98</td>
+                <td align="center" valign="middle" >2.71</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2010</td>
+                <td align="center" valign="middle" >10,466.17</td>
+                <td align="center" valign="middle" >3757.00</td>
+                <td align="center" valign="middle" >5489.40</td>
+                <td align="center" valign="middle" >101,428.57</td>
+                <td align="center" valign="middle" >2.50</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2011</td>
+                <td align="center" valign="middle" >11,626.28</td>
+                <td align="center" valign="middle" >5009.00</td>
+                <td align="center" valign="middle" >6950.00</td>
+                <td align="center" valign="middle" >142,000.00</td>
+                <td align="center" valign="middle" >2.12</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2012</td>
+                <td align="center" valign="middle" >12,743.44</td>
+                <td align="center" valign="middle" >5409.30</td>
+                <td align="center" valign="middle" >7369.90</td>
+                <td align="center" valign="middle" >156,200.00</td>
+                <td align="center" valign="middle" >1.32</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2013</td>
+                <td align="center" valign="middle" >13,919.30</td>
+                <td align="center" valign="middle" >6766.30</td>
+                <td align="center" valign="middle" >8631.70</td>
+                <td align="center" valign="middle" >171,820.00</td>
+                <td align="center" valign="middle" >1.81</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2014</td>
+                <td align="center" valign="middle" >15,114.92</td>
+                <td align="center" valign="middle" >12,982.00</td>
+                <td align="center" valign="middle" >17,799.00</td>
+                <td align="center" valign="middle" >189,002.00</td>
+                <td align="center" valign="middle" >2.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2015</td>
+                <td align="center" valign="middle" >16,377.59</td>
+                <td align="center" valign="middle" >9206.00</td>
+                <td align="center" valign="middle" >14,162.00</td>
+                <td align="center" valign="middle" >177,631.16</td>
+                <td align="center" valign="middle" >1.77</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表4. FDI、SD、TD、FX和r的数据。(单位：亿美元)</p>
+        <p>资料来源：本表FDI、SD、TD和FX来自国家统计局，r为计算所得。</p>
+        <p>2) 根据修正的Agarwal模型，利用以上数据，测算出我国外汇储备适度规模(见表7)。由表5可看出，我国实际外汇储备量远高于外汇储备适度规模。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 托宾税对我国外汇储备适度规模的预期影响</title></sec>
+      <sec id="s6_1">
+        <title>4.1. 托宾税对需求因素的预期影响</title>
+        <p>托宾税指对所有的现货外汇交易，无论资本流入还是流出交易，都征收统一的交易税，也称金融交易税。实行托宾税时，短期投机性资本流动的成本将会上升，交易中纯粹投机性交易的数量将会下降，从而防止因资本大量流进或流出导致市场紊乱，进而提高汇率的稳定性。</p>
+        <p>由于托宾税会提高短期投机性资本流动的成本，导致短期资本流动量下降，对于需要降低短期资本大幅度流出风险稳定汇率的我国而言，托宾税可以作为外汇管理工具，起到限制短期资本流出的作用，同时也会导致外汇储备适度规模下降。考虑上述因素，如若实施托宾税，则影响我国外汇储备适度规模的主要需求因素有：利润汇回需求、偿债性需求、稳定汇率需求以及金融危机的预防性需求</p>
+        <p>1) FDI利润汇回需求：减少了外商FDI利润这一短期资本的大规模汇出我国的数量和可能，FDI利润汇回需求下降，从而减少了为了满足这一需求所必须的外汇储备规模；</p>
+        <p>2) 偿债性需求：短期外债这一短期资本数量下降，偿债性需求下降，从而减少了为了满足短期偿债需求的外汇储备；</p>
+        <p>3) 稳定汇率需求：由于托宾税的目的之一就是提高汇率稳定性，由此降低了满足稳定汇率用汇需求所需要的外汇储备；</p>
+        <p>4)金融危机的预防性需求：外来资本冲击时，由于成本上升导致资本冲击力降低，防范金融危机的预防性需求下降，从而减少了满足需求所必须的外汇储备。</p>
+        <p>综上所述，实行托宾税会使上述4个需求因素引致的外汇储备有所下降，基于此分析，建立修正的Agarwal模型。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 托宾税对外汇储备适度规模的预期影响</title>
+        <p>实施托宾税的国际经验很多，由于两级托宾税设计考虑到平稳期和波动期，并不适用于观察托宾税对外汇储备适度规模的预期影响，所以本文不予以讨论。</p>
+        <p>托宾税的表现形式包括外汇交易税、所得税、预扣税、无息准备金等等。其中外汇交易税指传统的托宾税，即对全部外汇交易征收按统一税率征税；所得税指对非本国居民持有本国货币资产所得征税；预扣税指在税率不明或得到资金时，按照统一税率预先扣除一部分；无息准备金指跨国投资需要按照投资额的一定比率向本国央行缴纳本币或外币存款，该存款在一定期限内为零利率存款。以上表现形式中常见的托宾税形式是外汇交易税和无息准备金。</p>
+        <p>外汇交易税和无息准备金二者之中，哪种形式更适合中国? 以巴西为例，在1994年10月至1995年3月，巴西采取外汇交易税这种传统托宾税形式后，在短短半年中数次调整税率，显示这种传统托宾税存在一个明显缺陷，即税率在短期内需要不断调试。加之其实施后对境外资本流入产生长期显著的抑制作用，因此外汇交易税作为我国外汇管理工具无疑是不合适的，历史上其它采取托宾税的国家也都没有再采取这种形式的托宾税。基于此，本文主要考虑托宾税的另一种常见形式——无息准备金，即20世纪90年代智利所采取的征税形式。相较于前者，不需要高频率地调整税率。</p>
+        <p>
+          智利在实施无息准备金<sup>1</sup>后，通过限制短期资本流入，有效地改变了国家的资本流入期限结构(如表6所示)。显然，托宾税本质上是限制资金大规模流动。不但可以管理资本流入，也可以管理资本流出。
+        </p>
+        <table-wrap id="table5" >
+          <label>
+            <xref ref-type="table" rid="table5">Table 5</xref>
+          </label>
+          <caption>
+            <title> Actural value of foreign exchange and optimal scale. (Unit: US $100 million</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >年份</th>
+                  <th align="center" valign="middle" >R (实际值)</th>
+                  <th align="center" valign="middle" >
+                    R<sup>*</sup> (适度规模)
+                  </th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >2006</td>
+                <td align="center" valign="middle" >10,663.40</td>
+                <td align="center" valign="middle" >5217.47</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2007</td>
+                <td align="center" valign="middle" >15,282.49</td>
+                <td align="center" valign="middle" >6732.84</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2008</td>
+                <td align="center" valign="middle" >19,460.3</td>
+                <td align="center" valign="middle" >8240.01</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2009</td>
+                <td align="center" valign="middle" >23,991.52</td>
+                <td align="center" valign="middle" >10,570.11</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2010</td>
+                <td align="center" valign="middle" >28,473.38</td>
+                <td align="center" valign="middle" >14,556.82</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2011</td>
+                <td align="center" valign="middle" >31,811.48</td>
+                <td align="center" valign="middle" >19,811.14</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2012</td>
+                <td align="center" valign="middle" >33,115.89</td>
+                <td align="center" valign="middle" >21,712.04</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2013</td>
+                <td align="center" valign="middle" >38,213.15</td>
+                <td align="center" valign="middle" >24,679.23</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2014</td>
+                <td align="center" valign="middle" >38,430.18</td>
+                <td align="center" valign="middle" >32,843.20</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2015</td>
+                <td align="center" valign="middle" >33,303.62</td>
+                <td align="center" valign="middle" >28,273.40</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表5. 外汇储备实际值与适度规模(单位：亿美元)</p>
+        <p>
+          资料来源：R实际值来自国家统计局，R<sup>*</sup>由作者计算得到。
+        </p>
+        <table-wrap id="table6" >
+          <label>
+            <xref ref-type="table" rid="table6">Table 6</xref>
+          </label>
+          <caption>
+            <title> Capital inflow structure of Chile from 1990 to 1997. (Unit: %</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >年份</th>
+                  <th align="center" valign="middle" >短期资本流入</th>
+                  <th align="center" valign="middle" >长期资本流入</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >1990</td>
+                <td align="center" valign="middle" >90.3</td>
+                <td align="center" valign="middle" >9.7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1991</td>
+                <td align="center" valign="middle" >72.7</td>
+                <td align="center" valign="middle" >27.3</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1992</td>
+                <td align="center" valign="middle" >28.9</td>
+                <td align="center" valign="middle" >71.1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1993</td>
+                <td align="center" valign="middle" >23.6</td>
+                <td align="center" valign="middle" >76.4</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1994</td>
+                <td align="center" valign="middle" >16.5</td>
+                <td align="center" valign="middle" >83.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1995</td>
+                <td align="center" valign="middle" >6.2</td>
+                <td align="center" valign="middle" >93.8</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1996</td>
+                <td align="center" valign="middle" >3.2</td>
+                <td align="center" valign="middle" >96.8</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1997</td>
+                <td align="center" valign="middle" >2.8</td>
+                <td align="center" valign="middle" >97.2</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表6. 1990~1997年智利资本流入结构(单位：%)</p>
+        <p>
+          资料来源：Edwards (1999) [<xref ref-type="bibr" rid="hanspub.26990-ref7">7</xref>] ，NBER working paper 7233，1999。
+        </p>
+        <p>但我国不能盲目地学习智利的方法，因为我国不需要极端化的资本流入结构。同时由于征收范围难以确定，容易产生新的征收漏洞，导致新的投机问题。托宾税也并不是一个好的长期外汇管理工具，国际上的历史经验和教训已经证实，托宾税只适用于短期的限制资金流动管理，为其他经济政策和管理工具提供缓冲余地，并且需要灵活调整。</p>
+        <p>在前述图1中可以看到，我国短期外债余额占比较高，假设我国短期内采用托宾税作为外汇管理工具，我国的资本流动结构势必发生改变。以智利作为对照，我们假设托宾税实施后短期资本流动结构变动比例与智利实施托宾税一年内即1990~1991年的资本流入结构变动比例一致，有90.3% − 72.7% = 17.6%的短期资本流动转向长期资本流动，假设这就是托宾税实施后一年我国外汇储备适度规模由于短期资本流动的变动产生的变化幅度。</p>
+        <p>由于托宾税主要限制短期资本流动，既可以限制流入也可以限制流出。我国现阶段的外汇工具主要用于降低风险稳定汇率，主要限制资本流出。因此假设中17.6%的短期资本流动转向长期资本流动，实际上指17.6%的短期资本流出转向长期资本流出。这一资本流动结构的变化主要影响以下两个需求的短期资本流出：FDI利润汇回需求和偿债性需求，因为二者包含大量的短期资本流出。而稳定汇率用汇需求以及防范金融危机的预防性需求出于稳健性考虑，可以认为这两种需求弹性较低，二者所必须持有的外汇储备受影响较小，可以不予考虑。因此实施托宾税后外汇储备适度规模的相应需求降为1 − 17.6% = 82.4%。</p>
+        <p>因此我们可以得到一个如下的托宾税条件下的修正的Agarwal模型：</p>
+        <p>R * * = W ( ln k + ln q 2 − ln q 1 ) ln θ + α 0.824 F D I ( ln r + ln q 2 ) ln p + 0.824 S D + β T D + γ GDP + δ F X + ε</p>
+        <p>代入数据后可得出表7所示的我国外汇储备实际值及在实施托宾税与否情况下的适度规模。</p>
+      </sec>
+      <sec id="s6_3">
+        <title>4.3. 小结</title>
+        <p>不难看出，如果我国实施托宾税，将其作为外汇管理工具，限制短期资本流出，降低风险稳定汇率，则我国外汇储备适度规模会出现显著下降。因为实施托宾税后我国外汇风险降低，汇率稳定性增加，所以为了预防此类风险的外汇储备需求因素所必须的外汇储备需求下降，进而导致外汇储备适度规模相较于实施托宾税前有所下降。</p>
+        <table-wrap id="table7" >
+          <label>
+            <xref ref-type="table" rid="table7">Table 7</xref>
+          </label>
+          <caption>
+            <title> Optimal scale of China’s foreign exchange reserves and range of change under the Tobin tax. (Unit: US $100 million</title>
+          </caption>
+          </table-wrap>
+        </sec>
+    </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.26990-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Agarwal, J.P. (1971) Optimal Monetary Reserves for Developing Countries. Review of World Economics, 101, 76-91.</mixed-citation>
+              </ref>
+              <ref id="hanspub.26990-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Eichen-green, B., Tobin, J. and Wyplosz, C. (1995) Two Cases for Sand in the Wheels of International Finance. Economic Journal, 105, 162-172. &lt;br&gt;https://doi.org/10.2307/2235326</mixed-citation>
+              </ref>
+              <ref id="hanspub.26990-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Heller, H.R. (1996) Optimal International Reserves. Economic Journal, 296-311.</mixed-citation>
+              </ref>
+              <ref id="hanspub.26990-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">韩佳峪. 我国外汇储备规模的适度性分析[D]: [硕士学位论文]. 吉林: 东北师范大学, 2013.</mixed-citation>
+              </ref>
+              <ref id="hanspub.26990-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">肖文, 刘莉云, 刘寅飞. 中国外汇储备适度规模与需求结构研究——基于修正的Agarwal模型[J]. 财贸经济, 2012(3): 46-52.</mixed-citation>
+              </ref>
+              <ref id="hanspub.26990-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">王爱俭. 20世纪国际金融理论研究——进展与评述[M]. 北京: 中国金融出版社, 2005.</mixed-citation>
+              </ref>
+              <ref id="hanspub.26990-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Sebastian, E. (1999) Crisis Prevention: Lessons from Mexico and East Asia. NBER Working Paper 7233.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

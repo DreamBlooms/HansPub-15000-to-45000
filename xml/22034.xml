@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">JOGT</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Oil and Gas Technology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2471-7185</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/JOGT.2017.394042</article-id>
+      <article-id pub-id-type="publisher-id">JOGT-22034</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>JOGT20170400000_81430022.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>地球与环境</subject>
+          <subject> 工程技术</subject>
+          <subject> 合作期刊</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          元素、伽马能谱录井在川东地区下二叠统分层中的应用
+          The Application of Element and Gamma-Ray Spectrum Logging in Lower Permian Strata in the Eastern Sichuan Area
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>吴</surname>
+            <given-names>萍</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>尹</surname>
+            <given-names>平</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>黄</surname>
+            <given-names>定友</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>罗</surname>
+            <given-names>芳</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>伍</surname>
+            <given-names>燚</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>中石油川庆钻探工程有限公司地质勘探开发研究院，四川 成都</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>wup-sc@cnpc.com.cn(吴萍)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>09</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>39</volume>
+      <issue>04</issue>
+      <fpage>93</fpage>
+      <lpage>102</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          川东地区下二叠统除梁山组外是以大套灰岩为主的地层，岩性单一，传统录井主要依靠岩屑颜色来划分地层，随着钻井工艺的发展与广泛应用，粉末状岩屑颜色普遍变浅，小层划分难度加大。川东地区下二叠统历经多个沉积小旋回，应用元素录井，通过元素含量、元素比值的细微差别可以直观地反映岩石成分的变化，从而划分出小层；同时鉴于川东地区茅口组、栖霞组各小层颜色差异的主要原因为富含有机质多少，应用岩屑伽马能谱录井更有助于小层划分。通过对川东地区下二叠统元素录井、岩屑伽马能谱录井特征分析，形成了特征参数趋势法、比值法、指数法等录井地层划分方法，并在现场应用取得了较好效果，为下步在该区推广奠定了基础。 The Lower Permian in the eastern Sichuan Area was dominated by a large set of limestone except Liangshan Formation, it was simple lithology. Previously, traditional logging mainly relied on cuttings color for stratigraphic division. With the development and wide application of new drilling technology, powder-like cuttings were generally lighter in color; it was more difficult for division of sublayers. The Lower Permian in eastern Sichuan Area experienced several small cycles of deposition. Based on element logging, the subtle differences in element content and element ratio could visually reflect rock composition changes between sublayers, therefore identify the sublayers. Since the color difference of sublayers in Maokou Formation, Qixia Formation form eastern Sichuan Area was mainly due to organic matter content, the application of cuttings gamma spectrometer logging was more conducive to sublayer division. Based on the characteristics of element logging and gamma-ray spectrum logging in Lower Permian of the eastern Sichuan Area, characteristic parameter trend method, ratio method, and exponential method are established for strata division. Good results are achieved in the field application; they provide foundation for further promotion in the area.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>川东地区，下二叠统，元素录井，伽马能谱录井，小层划分, Eastern Sichuan Area</kwd>
+        <kwd> Lower Permian</kwd>
+        <kwd> Element Logging</kwd>
+        <kwd> Gamma-Ray Spectrum Logging</kwd>
+        <kwd> Sublayer Division</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        元素、伽马能谱录井在川东地区下二叠统分层中的应用<sup> </sup>
+      </title>
+      <p>吴萍，尹平，黄定友，罗芳，伍燚</p>
+      <p>中石油川庆钻探工程有限公司地质勘探开发研究院，四川 成都</p>
+      <p>作者简介：吴萍(1973-)，女，高级工程师，主要从事石油地质、录井技术研究工作。</p>
+      <p>收稿日期：2017年2月10日；录用日期：2017年5月10日；发布日期：2017年8月15日</p>
+      <disp-formula id="hanspub.22034-formula74">
+        <graphic xlink:href="http://html.hanspub.org/file/22034x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>川东地区下二叠统除梁山组外是以大套灰岩为主的地层，岩性单一，传统录井主要依靠岩屑颜色来划分地层，随着钻井工艺的发展与广泛应用，粉末状岩屑颜色普遍变浅，小层划分难度加大。川东地区下二叠统历经多个沉积小旋回，应用元素录井，通过元素含量、元素比值的细微差别可以直观地反映岩石成分的变化，从而划分出小层；同时鉴于川东地区茅口组、栖霞组各小层颜色差异的主要原因为富含有机质多少，应用岩屑伽马能谱录井更有助于小层划分。通过对川东地区下二叠统元素录井、岩屑伽马能谱录井特征分析，形成了特征参数趋势法、比值法、指数法等录井地层划分方法，并在现场应用取得了较好效果，为下步在该区推广奠定了基础。</p>
+      <p>关键词 :川东地区，下二叠统，元素录井，伽马能谱录井，小层划分</p>
+      <disp-formula id="hanspub.22034-formula75">
+        <graphic xlink:href="http://html.hanspub.org/file/22034x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors, Yangtze University and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="http://image.hanspub.org:8080/Html/htmlimages\1-2890033x\e70a10f1-7c93-45ea-9603-062237856e4b.png" />
+        <img src="http://image.hanspub.org:8080/Html/htmlimages\1-2890033x\e898c85e-ffc4-45c9-b817-14224a4d6960.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 前言</title>
+      <p>近年来川东地区石炭系气藏开发井主要以水平井和大斜度井为主，由于该区属高陡构造，井眼轨迹的调整主要集中在下二叠统，能否准确地划分出下二叠统各层段，是顺利钻达地质目标靶区的关键。</p>
+      <p>川东地区茅口组、栖霞组岩屑具有深浅相间特征，以栖霞组二段颜色最浅，易于识别，为区域性分层标志，而其余各小层间虽有颜色差，但差异不大，但岩性基本一致，通常难以随钻准确地识别出地层归属。近年来，随钻井工艺水平的大幅提升，PDC钻头 + 螺杆钻井工艺广泛应用，粉末状岩屑的颜色差异就更不明显，极大程度地制约了录井分层的及时性、准确性，进而影响地质目标靶区的顺利钻达。茅口组-栖霞组各小层间除了颜色上存在差异外，岩石组分及含有物也各有不同，深色地层富含泥质，浅色地层多具白云岩化。伽马能谱录井通过检测岩屑中泥质的含量、元素录井测量出的各特征元素含量来识别岩性。因此，在川东地区下二叠统开展元素录井、伽马能谱录井，能及时、准确地划分各组、段、亚段。通过2口井的实际应用，分层效果明显。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 川东地区下二叠统岩性组合</title>
+      <p>川东地区下二叠统自上而下发育茅口组、栖霞组、梁山组。茅口组、栖霞组为一套广海碳酸盐岩沉积。茅口组以颜色变化分为4段，即茅四段、茅三段、茅二段和茅一段。茅四段为深灰–黑灰色灰岩，局部夹燧石结核灰岩或页岩，泥质含量重。茅三段以浅灰褐、灰褐色灰岩为主，颜色较上、下层浅，底部夹薄层深灰色、深灰黑色灰岩，局部具重结晶、白云岩化作用，以生物碎屑含量高为特征。茅二段、茅一段自上而下均可分为a、b、c共3个亚段。其中茅二段a亚段为深灰、深灰黑、黑灰色灰岩，底部见燧石及具白云岩化现象，泥质含量较重，局部形成泥质薄层；b亚段为深灰褐色、深灰、灰褐色灰岩，白云岩化普遍，局部夹云岩或云质灰岩，底部局部地区有燧石分布；c亚段为深灰–黑灰色灰岩，含泥质重，硅化、白云岩化普遍且明显。茅一段a亚段为深灰黑-黑灰色灰岩，夹黑色泥质薄层，局部具硅化及滑石化，偶见“透镜状”泥质颗粒；b亚段为深灰–灰色灰岩，局部含泥质或燧石，色较上、下层浅，俗称“中灰岩”，厚度较为稳定(6~10 m)，分层标志作用较强；c亚段为深灰–灰黑色灰岩，以含拱石(滑石化)为特征，局部硅化，夹泥质条带或薄层。栖霞组分为2段，其中栖二段为浅灰–灰褐色灰岩，重结晶作用明显，局部具硅化，底部具白云岩化，生物结构或内碎屑结构特征明显，厚度稳定(15~25 m)，具有区域标志层作用；栖一段为深灰–灰黑色灰岩，夹白云石化灰岩，多含泥质，上部硅化明显，中部燧石较多，下部常夹泥质条带，距底15~20 m见一套燧石结核(硅质)灰岩，为区域性辅助标志层。梁山组为灰黑色页岩夹碳质页岩、砂质页岩，灰、灰绿色铝土质泥岩，深灰色泥灰岩薄层、粉砂岩及煤，岩性以种类多、厚度薄为特点。</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 元素录井分层技术</title>
+      <p>
+        元素录井技术是建立在X射线荧光光谱分析理论基础上，并结合岩石地球化学理论的一种创新技术 [<xref ref-type="bibr" rid="hanspub.22034-ref1">1</xref>] 。该技术为克服传统岩屑岩性识别依靠肉眼观察或借助光学仪器观察产生的局限性提供了新渠道。
+      </p>
+      <sec id="s5_1">
+        <title>3.1. 元素录井原理</title>
+        <p>地壳中各元素的平均含量称为克拉克值。地壳中最多的化学元素是氧，它占总重量的48.6%，其次是硅占26.3%，以下依次是铝、铁、钙、钠、钾、镁，这8种元素占地壳总重量的98.04%，称为主量元素。除氧以外的7种元素在地壳中与氧结合形成的氧化物，是构成3大类岩石的主体。</p>
+        <p>
+          XRF是X射线荧光光谱分析的简称，通过分析物质被高速运动电子或带电离子轰击后辐射出的二次X射线及光谱的特征，达到检测或分析物质元素组成的目的 [<xref ref-type="bibr" rid="hanspub.22034-ref2">2</xref>] 。
+        </p>
+        <p>该次研究采用的元素录井仪为SYX-1型X射线荧光元素录井仪。该元素录井仪是针对地质录井行业设计的X射线荧光光谱仪。SYX-1型X射线荧光元素录井仪由主机、真空泵、采集分析计算机、软件及其他附件组成(图1)。该仪器最多能测量26种元素，所需样品量小，仅需要10 g左右样品洗净烤干后即可进行岩屑的粉碎、制样、测量工作。该设备测量误差较小，测量结果重复性较好。</p>
+        <p>图1. SYX-1型X射线荧光元素录井仪构成示意图</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 元素录井分层方法</title>
+        <p>碎屑岩敏感元素有Al、Si、Fe、K等，Si元素含量可以间接地认为代表砂质含量，Fe元素含量代表泥质含量；碳酸盐岩敏感元素有Ca、Mg、S等，在碳酸盐岩为主的地层中，Ca元素代表石灰岩的含量，Mg元素代表白云岩含量。下面以Z201-H1井作为标准井进行介绍，利用各层段特征元素含量的细微差别进行地层划分。</p>
+        <sec id="s5_2_1">
+          <title>3.2.1. 曲线趋势法</title>
+          <p>川东地区茅口组和栖霞组均以灰岩为主，总体上茅口组泥质含量比栖霞组高，各组内茅一段和栖一段底部泥质增高，特征元素主要表现为Si升高、Ca降低(图2)。</p>
+          <p>图2. 下二叠统元素划分图</p>
+          <p>Si元素特征变化最明显，茅口组整体表现为中-高值，茅一段b亚段与上、下邻层相比含量均低。栖二段Si元素为极低值，地层厚度20 m左右，是表现最稳定的地层，可作为该区下二叠统划分的标准层。到梁山组Si元素升至高值。</p>
+          <p>其次是Ca、Mg元素，整个下二叠统灰岩Ca是主量元素，部分层段含云质，茅口组Mg元素含量高于栖霞组，进入栖霞组后Ca元素相对上升，Mg元素相对下降。梁山组Ca、Mg元素降低。</p>
+          <p>曲线趋势法简便快捷、直观明了，是最灵活适用的元素地层划分方法，该方法不但考虑了元素的绝对含量变化，还遵从了元素含量的相对变化趋势，非常符合基于混合岩屑元素的录井分层。</p>
+        </sec>
+        <sec id="s5_2_2">
+          <title>3.2.2. 曲线比值法</title>
+          <p>下二叠统下部梁山组碎屑岩具有高Si、高Al、高Fe，低Ca、低Mg的特点。茅口组和栖霞组灰岩具有高Ca、低Mg、低Al、低Fe的元素特征，曲线变化幅度小，但Si元素随泥质含量高低而变化，总体呈现出两段由低到高的趋势，即茅口组由上至下Si含量逐渐增加，进入栖二段泥质减少，至栖一段泥质再增加，因此栖霞组Si含量上、中部低，底部升高。纵向上，茅口组以茅一段c亚段、栖霞组以栖一段b亚段灰岩的Si/Al最高，特征最为明显，茅一段b亚段和栖二段相对较低，呈逐渐升高的趋势。梁山组Si/Al最低(图2)。</p>
+          <p>茅口组和栖霞组灰岩除Si元素有变化外，Fe元素也具有高→低→高的趋势，Si/Fe对地层划分有一定的辅助作用。Si/Fe在纵向上表现出茅一段底部高值，进入栖二段Si/Fe降低。因此，可利用Si/Al比、Si/Fe比变化特征划分地层。</p>
+        </sec>
+        <sec id="s5_2_3">
+          <title>3.2.3. 指数法</title>
+          <p>为了便于地层划分，将多种元素含量通过数学方法建立一个函数关系，即：</p>
+          <disp-formula id="hanspub.22034-formula76">
+            <label>(1)</label>
+            <graphic position="anchor" xlink:href="http://html.hanspub.org/file/22034x11_hanspub.png"  xlink:type="simple"/>
+          </disp-formula>
+          <p>
+            I<sub>sh</sub>是Al、Si、Fe、K几种元素含量的函数，岩性的变化必然会引起I<sub>sh</sub>的变化，通过I<sub>sh</sub>在纵向上的变化进行地层划分(图2)。总体上，上二叠统I<sub>sh</sub>在茅口组、栖霞组二段由上至下呈逐渐升高的趋势。Z201-H1井I<sub>sh</sub>与Si元素变化趋势相同，I<sub>sh</sub>随泥质含量高低而变化，茅四段–茅二段主要为低值，茅二段a亚段底部有一尖峰状高值，下部茅一段曲线呈峰状高低值变化，茅一段b亚段比上、下邻层低，为辅助标志层。进入栖霞组I<sub>sh</sub>明显降低，栖一段近底部逐渐升高。梁山组I<sub>sh</sub>为高值。
+          </p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 岩屑伽马能谱分层技术</title>
+      <sec id="s6_1">
+        <title>4.1. 伽马能谱录井原理</title>
+        <p>
+          岩屑的放射性是由岩屑中所含的铀(U)、钍(Th)、钾(K)系放射性同位素引起的。上述元素在自然界衰变过程中，原子核中多余的能量以高能电磁波的形式辐射出去，即放出γ射线，通过探测γ射线的数量，能确定岩屑放射性元素的含量，并进一步用来研究岩层性质 [<xref ref-type="bibr" rid="hanspub.22034-ref3">3</xref>] 。自然伽马能谱录井是根据U、Th、K的自然伽马能谱特征，用能谱分析的方法将测量到的U、Th、K的伽马射线的混合谱，进行谱的解析，从而确定岩样中U、Th、K含量的一种录井技术 [<xref ref-type="bibr" rid="hanspub.22034-ref4">4</xref>] 。
+        </p>
+        <p>该次测量使用CIT -3000F 低本底 γ能谱录井仪完成。CIT -3000F 低本底 γ能谱录井仪由四川新先达测控技术有限公司研制。通过室内标定及在川渝地区的使用经验，该设备满足现场快速测定并记录γ放射性测量的要求。</p>
+        <p>由NaI晶体采集到的自然放射性剂量经放大后进入多道脉冲分析器，根据不同核素具有不同放射性能量的特点，在脉冲分析器中解析出不同核素的含量，再由单片机根据特有的算法计算出活度值。</p>
+        <p>多道脉冲幅度分析器是核谱测量中的关键部件，它的作用是把被测得的模拟量转变成计算机可以接受的数值量，即完成对脉冲幅度的甄别。工作过程是：获取核谱信号(采样脉冲峰值)，ADC将脉冲转换成与幅度成正比的数值量，再以数值量作为存储器的道址码记录脉冲数，存储于存储器中的各道计数即表征了脉冲按幅度大小的分布情况，然后再进行数据处理。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 伽马能谱录井分层方法</title>
+        <p>
+          自然伽马能谱录井资料包含4个参数：岩样自然伽马(q<sub>API</sub>)和U、Th、K的含量。按一定录井间距对岩样的放射性强度进行测量，得到实时的随深度变化的曲线。Z201-H1井下二叠统选取172个岩屑样品进行伽马能谱测量，为地层划分研究奠定了基础。
+        </p>
+        <p>
+          不同的沉积岩中放射性核素含量变化范围较大，普通黏土岩中钾和钍的含量高，而铀相对含量较低。在还原环境中，铀的含量会增高，若黏土中富含有机物或硫化物时，铀含量明显增高 [<xref ref-type="bibr" rid="hanspub.22034-ref5">5</xref>] 。通过比较分析认为，岩屑q<sub>API</sub>和U曲线变化特征较明显。从岩屑无铀伽马(q<sub>KTh</sub>)曲线可以看出，不包含铀的曲线纵向上变化不大，说明茅口组、栖霞组各小层及梁山组含泥质的多少对U含量高低有直接影响。
+        </p>
+        <p>
+          岩性变化以及泥质含量高低会引起w<sub>sh(U)</sub>的变化，以此进行地层划分。w<sub>sh(U)</sub>曲线表现出与岩屑q<sub>API</sub>和U相似的变化特征。岩屑q<sub>API</sub>、U以及w<sub>sh(U)</sub>条曲线从茅三段到茅一段a亚段逐渐增大，到栖二段逐渐降至最低，到栖一段底又逐渐升高，到梁山组升至最高(图3)。在下二叠统，茅三段、茅一段b亚段、栖二段岩屑q<sub>API</sub>、U、w<sub>sh(U)</sub>曲线比上下邻层低(表1)。
+        </p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> The gamma spectral parameters of the Lower Permian Formatio</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  rowspan="2"  >层位(顶)</th>
+                  <th align="center" valign="middle"  colspan="3"  >伽马能谱</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >
+                  q<sub>API</sub>
+                </td>
+                <td align="center" valign="middle" >U</td>
+                <td align="center" valign="middle" >
+                  w<sub>sh(U)</sub>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅四段</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅三段</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅二段a亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅二段b亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅二段c亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅一段a亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅一段b亚段</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >茅一段c亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >栖二段</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+                <td align="center" valign="middle" >降</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >栖一段a亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >栖一段b亚段</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >梁山组</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+                <td align="center" valign="middle" >升</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 下二叠统地层伽马能谱参数表</p>
+        <p>图3. 下二叠统伽马能谱地层划分图</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>5. 应用效果</title>
+      <p>Z202井和X203井是川东地区不同构造的两口评价井，为保障下二叠统各小层的划分，采用元素录井和伽马能谱录井技术辅助分层。</p>
+      <p>
+        从岩性组合看茅二段c亚段、茅一段a亚段、茅一段c亚段以深色灰岩为主，富含泥质与泥质。分层特征元素主要有Si、Ca、Mg，Si/Al、Si/Fe及I<sub>sh</sub>纵向上变化特征明显。茅口组和栖霞组元素分层表现为Si、Mg降低，Ca升高，Si/Al、Si/Fe、I<sub>sh</sub>降低；颜色浅、泥质含量较低的茅三段、茅一段b亚段、栖二段表现为Si低、Ca高，Si/Al、Si/Fe、I<sub>sh</sub>低。进梁山组分层特征明显，为Si大幅升高，Ca、Mg降低，Si/Al、Si/Fe降低，I<sub>sh</sub>升高分界。
+      </p>
+      <p>
+        从岩屑伽马能谱资料分析，岩屑q<sub>API</sub>、U、φ<sub>sh(U)</sub>几项参数相对于下二叠统各小层划分特征明显，从茅口组具有由上到下逐渐增大、到栖二段降低、到梁山组升高的特征。茅口组和栖霞组以岩屑q<sub>API</sub>、U、w<sub>sh(U)</sub>降低分层，纯灰岩段茅三段、茅一段b亚段、栖二段具有岩屑q<sub>API</sub>、U、w<sub>sh(U)</sub>低值的特点(图4、图5)。
+      </p>
+      <p>图4. Z202井下二叠统元素能谱曲线地层划分图</p>
+      <p>图5. X203井下二叠统元素能谱曲线地层划分图</p>
+      <p>利用元素录井和伽马能谱录井资料实时进行地层对比，通过精细分析验证了分层方法的适用性。将Z202井与X203井元素录井、伽马能谱分层与岩屑分层、电测分层进行对比(表2)，测井分层、岩屑分层均只分到组，利用特殊录井技术可以进行小层划分，其分层底界井深与测井分层的误差在2 m以内，在岩电允许误差范围内，满足现场录井要求。</p>
+      
+       </sec>
+         </body>
+          <back>
+        <ref-list>
+          <title>References</title>
+          <ref id="hanspub.22034-ref1">
+            <label>1</label>
+            <mixed-citation publication-type="other" xlink:type="simple">胡元. XRF元素录井技术在四川地区的地质应用研究[J]. 中外能源, 2013, 18(1): 58-62.</mixed-citation>
+          </ref>
+          <ref id="hanspub.22034-ref2">
+            <label>2</label>
+            <mixed-citation publication-type="other" xlink:type="simple">梁钰. X射线荧光光谱分析基础[M]. 北京: 科学出版社, 2007.</mixed-citation>
+          </ref>
+          <ref id="hanspub.22034-ref3">
+            <label>3</label>
+            <mixed-citation publication-type="other" xlink:type="simple">柳晓风. 岩屑自然伽马检测技术在岩性识别和地层划分中的应用[J]. 录井工程, 2015, 26(3): 35-39.</mixed-citation>
+          </ref>
+          <ref id="hanspub.22034-ref4">
+            <label>4</label>
+            <mixed-citation publication-type="other" xlink:type="simple">庞江平. 自然伽马能谱录井技术在页岩气开发中的应用[J]. 天然气工业, 2017, 37(1): 54-59.</mixed-citation>
+          </ref>
+          <ref id="hanspub.22034-ref5">
+            <label>5</label>
+            <mixed-citation publication-type="other" xlink:type="simple">丁次乾. 矿场地球物理[M]. 东营: 石油大学出版社, 1992: 130-133.</mixed-citation>
+          </ref>
+        </ref-list>
+      </back>
+</article>

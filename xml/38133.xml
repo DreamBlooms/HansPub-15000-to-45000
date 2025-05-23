@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article"><front><journal-meta><journal-id journal-id-type="publisher-id">PM</journal-id><journal-title-group><journal-title>Pure  Mathematics</journal-title></journal-title-group><issn pub-type="epub">2160-7583</issn><publisher><publisher-name>Scientific Research Publishing</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.12677/PM.2020.1010108</article-id><article-id pub-id-type="publisher-id">PM-38133</article-id><article-categories><subj-group subj-group-type="heading"><subject>PM20201000000_26456844.pdf</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>数学与物理</subject></subj-group></article-categories><title-group><article-title>
+ 
+ 
+  海森堡群上与分数次积分相关的交换子的有界性
+  The Boundedness of Commutators Associated with Fractional Integrals on the Heisenberg Group
+ 
+</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>高</surname><given-names>春芳</given-names></name><xref ref-type="aff" rid="aff1"><sub>1</sub></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>青岛大学数学与统计学院，山东 青岛</addr-line></aff><pub-date pub-type="epub"><day>13</day><month>10</month><year>2020</year></pub-date><volume>10</volume><issue>10</issue><fpage>928</fpage><lpage>937</lpage><permissions><copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement><copyright-year>2014</copyright-year><license><license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p></license></permissions><abstract>
+  <p>
+ 
+ 
+   令L=-Δ<sub>H<sup>n</sup></sub>+V为海森堡群H<sup>n</sup>上具有Gaussian核上界的Schr&#246;dinger算子，其中非负位势V属于逆H&#246;lder类B<sub>q</sub>，q≥Q/2。对于0&lt; α&lt; Q，令L<sup>-α/2</sup>为L的分数次积分算子。假设b属于比经典BMO型空间大的BMO<sub>ρ</sub><sup>θ</sup>(H<sup>n</sup>)空间。该文证明了交换子[b,L<sup>-α/2</sup>]从L<sup>p1</sup>(H<sup>n</sup>)到L<sup>p2</sup>(H<sup>n</sup>)是有界的，其中1&lt; p<sub>1</sub>&lt; Q/α，1/ p<sub>2</sub> =1/p<sub>1</sub>-α/Q。 Let L=-Δ<sub>H<sup>n</sup></sub>+V be the Schr&#246;dinger operator on H<sup>n</sup> with Gaussian kernel bounds, where the nonnegative potential V belongs to the reverse H&#246;lder class B<sub>q</sub>, q≥Q/2. Let L<sup>-α/2</sup> be the frac-tional integrals of L for 0&lt; α&lt; Q. Suppose b∈BMO<sub>ρ</sub><sup>θ</sup>(H<sup>n</sup>), which is larger than classical BMO<sub>ρ</sub><sup>θ</sup>(H<sup>n</sup>). We obtain the boundedness of the commutator [b,L<sup>-α/2</sup>] from L<sup>p1</sup>(H<sup>n</sup>) to L<sup>p2</sup>(H<sup>n</sup>), where 1&lt; p<sub>1</sub>&lt; Q/α, 1/ p<sub>2</sub> =1/ p<sub>1</sub>-α/Q.
+ 
+</p></abstract><kwd-group><kwd>海森堡群，Gaussian上界，交换子，新BMO函数, Heisenberg Group</kwd><kwd> Gaussian Bound</kwd><kwd> Commutator</kwd><kwd> New BMO Function</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>摘要</title>
+
+<p>令 L = − Δ ℍ n + V 为海森堡群 ℍ n 上具有Gaussian核上界的Schr&#246;dinger算子，其中非负位势V属于逆H&#246;lder类 B q ， q ≥ Q / 2 。对于 0 &lt; α &lt; Q ，令 L − α / 2 为 L 的分数次积分算子。假设b属于比经典BMO型空间大的 B M O ρ θ ( ℍ n ) 空间。该文证明了交换子 [ b , L − α / 2 ] 从 L p 1 ( ℍ n ) 到 L p 2 ( ℍ n ) 是有界的，其中 1 &lt; p 1 &lt; Q / α ， 1 / p 2 = 1 / p 1 − α / Q 。</p></sec><sec id="s2"><title>关键词</title>
+
+<p>海森堡群，Gaussian上界，交换子，新BMO函数</p>
+
+<p><img src="//html.hanspub.org/file/2-1251102x16_hanspub.png" /></p></sec><sec id="s3"><title>The Boundedness of Commutators Associated with Fractional Integrals on the Heisenberg Group</title>
+
+<p>Chunfang Gao</p>
+
+<p>School of Mathematics and Statistics, Qingdao University, Qingdao Shandong</p>
+
+<p><img src="//html.hanspub.org/file/2-1251102x17_hanspub.png" /></p>
+
+<p>Received: Sep. 28<sup>th</sup>, 2020; accepted: Oct. 13<sup>th</sup>, 2020; published: Oct. 20<sup>th</sup>, 2020</p>
+<p><img src="//html.hanspub.org/file/2-1251102x18_hanspub.png" /></p></sec><sec id="s4"><title>ABSTRACT</title>
+<p>Let L = − Δ ℍ n + V be the Schr&#246;dinger operator on ℍ n with Gaussian kernel bounds, where the nonnegative potential V belongs to the reverse H&#246;lder class B q , q ≥ Q / 2 . Let L − α / 2 be the fractional integrals of L for 0 &lt; α &lt; Q . Suppose b ∈ B M O ρ θ ( ℍ n ) , which is larger than classical B M O ( ℍ n ) . We obtain the boundedness of the commutator [ b , L − α / 2 ] from L p 1 ( ℍ n ) to L p 2 ( ℍ n ) , where 1 &lt; p 1 &lt; Q / α , 1 / p 2 = 1 / p 1 − α / Q .</p>
+<p>Keywords:Heisenberg Group, Gaussian Bound, Commutator, New BMO Function</p><disp-formula id="hanspub.38133-formula8"><graphic xlink:href="//html.hanspub.org/file/2-1251102x33_hanspub.png"  xlink:type="simple"/></disp-formula>
+
+<p>Copyright &#169; 2020 by author(s) and Hans Publishers Inc.</p>
+<p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p>
+<p>http://creativecommons.org/licenses/by/4.0/</p>
+<p><img src="//html.hanspub.org/file/2-1251102x34_hanspub.png" /> <img src="//html.hanspub.org/file/2-1251102x35_hanspub.png" /></p></sec><sec id="s5"><title>1. 引言</title>
+<p>令 ℍ n 为海森堡群， Q = 2 n + 2 为其齐次维数。令 L = − Δ ℍ n + V 为 ℍ n 上的Schr&#246;dinger算子，其中 Δ ℍ n 为 ℍ n 上的次Laplace算子且非负位势V属于逆H&#246;lder类 B q ， q ≥ Q / 2 。</p>
+<p>现在，我们考虑 L 2 ( ℍ n ) 上的Schr&#246;dinger算子 L ，假设 L 生成一个收缩半群 { T t L : t &gt; 0 } = { e − t L : t &gt; 0 } 。令 P t ( g , h ) 表示收缩半群 e − t L 的核。 P t ( g , h ) 满足Gaussian上界(参见 [<xref ref-type="bibr" rid="hanspub.38133-ref1">1</xref>] Page 4)，即当 g , h ∈ ℍ n 且 t &gt; 0 时，</p>
+<p>| p t ( g , h ) | ≤ C t − Q / 2 e − c t − 1 | g h − 1 | 2 (1.1)</p>
+<p>近几年，一些与分数次积分相关的问题被许多学者广泛研究(参见 [<xref ref-type="bibr" rid="hanspub.38133-ref2">2</xref>] - [<xref ref-type="bibr" rid="hanspub.38133-ref7">7</xref>] )。其中X. Duong和L. Yan [<xref ref-type="bibr" rid="hanspub.38133-ref3">3</xref>] 研究的交换子 [ b , L − α / 2 ] 从 L p ( ℝ n ) 到 L q ( ℝ n ) 的有界性引起了我们的兴趣，这里 b ∈ B M O ( ℝ n ) 。E. Bongioanni，E. Harboure和O. Salinas [<xref ref-type="bibr" rid="hanspub.38133-ref8">8</xref>] 引入了一类新BMO型空间 B M O ρ θ ( ℝ n ) ，它是 B M O ( ℝ n ) 的推广。本文的目的是将 B M O ρ θ ( ℝ n ) 从 ℝ n 上推广到 ℍ n 上，证明交换子 [ b , L − α / 2 ] 从 L p 1 ( ℍ n ) 到 L p 2 ( ℍ n ) 是有界的，其 b ∈ B M O ρ θ ( ℍ n ) ， 1 / p 2 = 1 / p 1 − α / Q 。</p>
+<p>在本文中，我们用c和C表示独立于函数的未知正常数，在不同的情况下可能代表不同的值。 A ≈ B 表示存在一个常数c使得 c − 1 A ≤ B ≤ c A 。</p>
+<p>我们回顾一些有关海森堡群 ℍ n 的基本知识。 ℍ n 是具有底流行 ℝ n &#215; ℝ n &#215; ℝ 的李群，乘积为 ( x , y , t ) ( x ′ , y ′ , t ′ ) = ( x + x ′ , y + y ′ , t + t ′ + 2 x ′ y − 2 x y ′ ) 。它的李代数由如下左不变向量场给出</p>
+<p>X j = ∂ ∂ x j + 2 y j ∂ ∂ t , Y j = ∂ ∂ y j + 2 x j ∂ ∂ t , T = ∂ ∂ t , j = 1 , 2 , ⋯ , n 。</p>
+<p>它们满足 [ X j , Y j ] = − 4 T , j = 1 , 2 , ⋯ , n 。次Laplace算子 Δ ℍ n 定义为 Δ ℍ n = ∑ j = 1 n ( X j 2 + Y j 2 ) 。梯度算子 ∇ ℍ n 定义为 ∇ ℍ n = ( X 1 , X 2 , ⋯ , X n , Y 1 , Y 2 , ⋯ , Y n ) 。 ℍ n 上的伸缩变换为 δ λ ( x , y , t ) = ( λ x , λ y , λ 2 t ) , λ &gt; 0 。 ℍ n 上的Harr测度与 ℝ n &#215; ℝ n &#215; ℝ 上的Lebesgue测度是一致的。我们用 | E | 表示任意可测集E上的测度，那么有 | δ λ E | = λ Q | E | ，其中 Q = 2 n + 2 称为 ℍ n 的齐次维数。我们用 | g | = ( ( | x | 2 + | y | 2 ) + | t | 2 ) 1 / 4 ， g = ( x , y , t ) ∈ ℍ n 定义 ℍ n 上的一个齐次范数。该范数满足三角不等式且可导出左不变距离 d ( g , h ) = | g − 1 h | 。 ℍ n 上以g为中心，r为半径的球定义为 B ( g , r ) = { h ∈ ℍ n : | g − 1 h | &lt; r } 。球 B ( 0 , r ) 左平移g得到球 B ( g , r ) ，所以我们有 | B ( g , r ) | = α 1 r Q ，其中 α 1 = | B ( 0 , 1 ) | 。</p></sec><sec id="s6"><title>2. 准备工作</title><sec id="s6_1"><title>2.1. 分数次积分和辅助函数</title>
+<p>定义2.1 对 0 &lt; α &lt; Q ，Schr&#246;dinger算子 L 的分数次积分 L − α / 2 定义为</p>
+<p>L − α / 2 f ( g ) = 1 Γ ( α / 2 ) ∫ 0 ∞ e − t L ( f ) d t t − α / 2 + 1 ( h ) 。</p>
+<p>引理2.2 对 0 &lt; α &lt; Q ，如果 1 &lt; p 1 &lt; Q / α ， 1 / p 2 = 1 / p 1 − α / Q ，那么</p>
+<p>‖ L − α / 2 ( f ) ‖ L p 2 ( ℍ n ) ≤ C ‖ f ‖ L p 1 ( ℍ n ) 。</p>
+<p>证明：令 0 &lt; α &lt; Q ，经典的分数次积分 I α 定义为</p>
+<p>I α ( f ) ( g ) = ∫ ℍ n f ( h ) | g h − 1 | Q − α d h 。</p>
+<p>因为半群 e − t L 的核 p t ( g , h ) 满足Gaussian上界(1.1)，容易验证，对于任意的 g ∈ ℍ n ， | L − α / 2 ( f ) ( g ) | ≤ C I α ( | f | ) ( g ) 。根据 I α 的 L p 有界性，我们可以得到</p>
+<p>‖ L − α / 2 ( f ) ‖ L p 2 ( ℍ n ) ≤ C ‖ I α ( | f | ) ‖ L p 2 ( ℍ n ) ≤ C ‖ f ‖ L p 1 ( ℍ n ) ，</p>
+<p>其中 1 &lt; p 1 &lt; Q / α 且 1 / p 2 = 1 / p 1 − α / Q 。因此，引理2.2得证。</p>
+<p>定义2.3 令 f ∈ L l o c q ( ℍ n ) 和 B = B ( g , r ) ⊂ ℍ n 。Hardy-Littlewood极大函数 M f 及其变式 M σ , s f 分别定义为</p>
+<p>M f ( g ) = sup g ∈ B 1 B ∫ B | f ( h ) | d h ， M σ , s f ( g ) = sup g ∈ B ( 1 | B | 1 − σ s / Q ∫ B | f ( h ) | s d h ) 1 / s 。</p>
+<p>如果 σ = 0 ，那么 M 0 , s f ( g ) 记为 M s f ( g ) 。</p>
+<p>定义2.4 令 f ∈ L p ( ℍ n ) 和 p ≥ 1 。与收缩半群 { e − t L , t &gt; 0 } 相关的Sharp极大函数 M L # f 定义为</p>
+<p>M L # f ( g ) = sup g ∈ B 1 | B | ∫ B | f ( h ) − e − t B L f ( h ) | d h ，</p>
+<p>其中 t B = r B 2 且 r B 为球 B ⊂ ℍ n 的半径。</p>
+<p>引理2.5 假设收缩半群 e − t L 的核 P t ( g , h ) 满足Gaussian上界(1.1)。令 λ &gt; 0 和 f ∈ L p ( ℍ n ) ( 1 &lt; p &lt; ∞ ) 。那么对于每一个 0 &lt; η &lt; 1 ，我们可以找到独立于 λ 和f的 γ &gt; 0 ，使得 | { g ∈ ℍ n : M f ( g ) &gt; A λ , M L # f ( g ) ≤ γ λ } | ≤ η | g ∈ ℍ n : M f ( g ) &gt; λ | ，其中 A &gt; 1 是依赖于Q的适当常数。</p>
+<p>作为一个结果，对于任意 f ∈ L p ( ℍ n ) ， 1 &lt; p &lt; ∞ ，我们有下述不等式：</p>
+<p>‖ f ‖ L p ( ℍ n ) ≤ ‖ M f ‖ L p ( ℍ n ) ≤ C ‖ M L # f ‖ L p ( ℍ n ) 。</p>
+<p>证明：证明过程参见 [<xref ref-type="bibr" rid="hanspub.38133-ref9">9</xref>]，命题4.1。</p>
+<p>定义2.6 ℍ n 上的一个非负局部 L q 可积函数V被称为属于逆H&#246;lder类 B q ( 1 &lt; q &lt; ∞ ) ，如果存在 C &gt; 0 ，对于 ℍ n 上的任意球B，如下逆H&#246;lder不等式成立：</p>
+<p>( 1 | B | ∫ B V ( g ) q d g ) 1 / q ≤ C | B | ∫ B V ( g ) d g 。</p>
+<p>定义2.7 对于 g ∈ ℍ n ，辅助函数 ρ ( g ) 定义为</p>
+<p>ρ ( g ) = sup r &gt; 0 { r : 1 r Q − 2 ∫ B ( g , r ) V ( h ) d h ≤ 1 } 。</p>
+<p>引理2.8 ( [<xref ref-type="bibr" rid="hanspub.38133-ref1">1</xref>]，引理4)假设 V ∈ B q ， q &gt; Q / 2 。对任意 g , h ∈ ℍ n ，存在常数 C &gt; 0 和 k 0 &gt; 0 使得</p>
+<p>1 / C ( 1 + | g − 1 h | / ρ ( g ) ) − k 0 ≤ ρ ( h ) / ρ ( g ) ≤ C ( 1 + | g − 1 h | / ρ ( g ) ) K 0 / ( K 0 + 1 ) (2.1)</p>
+<p>一个以g为中心， ρ ( g ) 为半径的球称为临界球。我们用 ℚ = B ( g , ρ ( g ) ) 表示临界球。</p></sec><sec id="s6_2"><title>2.2. 新BMO型空间</title>
+<p>定义2.9 新BMO型空间 B M O ρ θ ( ℍ n ) ( 0 &lt; θ &lt; ∞ ) 定义为 ℍ n 上所有局部可积函数b的集合，对任意 g ∈ ℍ n 和 r &gt; 0 ，b满足如下条件</p>
+<p>1 | B ( g , h ) | ∫ B ( g , h ) | b ( h ) − b B | d h ≤ C ( 1 + r / ρ ( g ) ) θ ， (2.2)</p>
+<p>其中 b B = 1 | B | ∫ B b ( h ) d h 。 b ∈ B M O ρ θ ( ℍ n ) 的范数由满足(2.2)的常数的下确界给出，记为 [ b ] θ 。</p>
+<p>下面，我们给出一些关于函数 b ∈ B M O ρ θ ( ℍ n ) 的引理。</p>
+<p>引理2.10 令 θ &gt; 0 和 1 ≤ s &lt; ∞ 。如果 b ∈ B M O ρ θ ( ℍ n ) ，那么</p>
+<p>( 1 | B | ∫ B | b ( h ) − b B | s d h ) 1 / s ≤ C [ b ] θ ( 1 + r ρ ( g ) ) θ ′ (2.3)</p>
+<p>对所有 B = B ( g , r ) ， g ∈ ℍ n 及 r &gt; 0 均成立，其中 θ ′ = ( k 0 + 1 ) θ 且 k 0 为(2.1)中出现的常数。</p>
+<p>证明：根据经典的John-Nirenberg不等式可知，给定一个球 B 0 和一个函数 f ∈ B M O ( B 0 ) ，对于任意球 B ⊂ B 0 ，当 1 ≤ s &lt; ∞ 时，我们有</p>
+<p>( 1 | B | ∫ B | f ( h ) − f B | s d h ) 1 / s ≤ C ‖ f ‖ B M O ( B 0 ) ， (2.4)</p>
+<p>其中C是独立于球 B 0 的常数。</p>
+<p>因此，为了证明(2.3)，我们只需证明如下假设：如果 R ≥ 1 且 ℚ 为临界球，那么我们可以得到 b ∈ B M O ( R ℚ ) 和 ‖ b ‖ B M O ( R ℚ ) ≤ C [ b ] θ ( 1 + R ) ( k 0 + 1 ) θ 。如果这个假设是正确的，那么对于任意的球 B ⊂ R ℚ ，由(2.4)可得</p>
+<p>( 1 | B | ∫ B | b ( h ) − b B | s d h ) 1 / s ≤ C [ b ] θ ( 1 + R ) ( k 0 + 1 ) θ 。 (2.5)</p>
+<p>现在，令 B = B ( g , r ) 和 ℚ = B ( g , ρ ( g ) ) ，这里的 g ∈ ℍ n 且 r &gt; 0 。如果 r ≤ ρ ( g ) ，选择 R = 1 。</p>
+<p>通过(2.5)，我们得到(2.3)。如果 r &gt; ρ ( g ) ，注意到 B = ( r / ρ ( g ) ) ℚ 。那么，当 R = r / ρ ( g ) 时，由(2.5)可得(2.3)。</p>
+<p>接下来，我们证明上述假设成立。令 B = B ( z , r ) ⊂ R ℚ ， z ∈ ℍ n 和 r &gt; 0 。由(2.1)可知 ρ ( g ) ( 1 + R ) − k 0 ≤ C ρ ( z ) ，又 r &lt; R ρ ( g ) ，因此 r / ρ ( z ) ≤ C ( 1 + R ) k 0 + 1 。由 b ∈ B M O ρ θ ( ℍ n ) 可得</p>
+<p>1 | B | ∫ B | b ( h ) − b B | d h ≤ C [ b ] θ ( 1 + R ) ( k 0 + 1 ) θ 。</p>
+<p>综上，我们完成了引理2.10的证明。</p>
+<p>引理2.11 令 b ∈ B M O ρ θ ( ℍ n ) ， B = B ( g , r ) 和 s ≥ 1 。那么</p>
+<p>( 1 | 2 k B | ∫ 2 k B | b ( h ) − b B | s d h ) 1 / s ≤ C [ b ] θ k ( 1 + 2 k r ρ ( g ) ) θ ′</p>
+<p>对所有 k ∈ ℕ 及 r &gt; 0 均成立，其中 θ ′ = ( k 0 + 1 ) θ 且 k 0 为(2.1)中出现的常数。</p>
+<p>证明：根据引理2.10，可得</p>
+<p>( 1 | 2 k B | ∫ 2 k B | b ( h ) − b B | s d h ) 1 / s ≤ C ( 1 | 2 k B | ∫ 2 k B | b ( h ) − b 2 k B | s d h ) 1 / s + C ∑ j = 1 k | b 2 j B − b 2 j − 1 B | ≤ C [ b ] θ ∑ j = 1 k ( 1 + 2 j r ρ ( g ) ) θ ′ ≤ C [ b ] θ k ( 1 + 2 k r ρ ( g ) ) θ ′</p>
+<p>引理2.12如果收缩半群 e − t L 的核 p t ( g , h ) 满足Gaussian上界(1.1)且 b ∈ B M O ρ θ ( ℍ n ) ，那么，对于任意 f ∈ L p ( ℍ n ) ， p &gt; 1 ， g ∈ ℍ n 和 1 &lt; r &lt; ∞ ，我们有</p>
+<p>sup g ∈ B 1 | B | ∫ B | e − t B L ( b − b B ) f ( h ) | d h ≤ C [ b ] θ ( M ( | f | ) s ) 1 / s ( g ) ，</p>
+<p>其中 t B = r B 2 。</p><p>证明：对于 f ∈ L p ( ℍ n ) ， p &gt; 1 ， g ∈ ℍ n 以及 g ∈ B ，我们有</p>
+<p>1 | B | ∫ B | e − t B L ( b − b B ) f ( h ) | d h ≤ C ( M 1 + M 2 ) ，</p>
+<p>其中</p>
+<p>{ M 1 : = 1 | B | ∫ B ∫ 2 B | P t ( g , h ) | | ( b − b B ) f ( h ) | d h d g M 2 : = ∑ k = 1 ∞ 1 | B | ∫ B ∫ 2 k + 1 B \ 2 k B | P t ( g , h ) | | ( b − b B ) f ( h ) | d h d g</p>
+<p>对于 M 1 ，应用(1.1)和引理2.10，我们通过H&#246;lder不等式可以推出</p>
+<p>M 1 ≤ 1 | B | ∫ B ∫ 2 B C t B Q / 2 e − c | g h − 1 | 2 / t B | ( b ( h ) − b B ) f ( h ) | d h d g ≤ 1 | B | ∫ B ∫ 2 B C r B Q e − c | ( b ( h ) − b B ) f ( h ) | d h d g ≤ C | B | ∫ B ∫ 2 B | ( b ( h ) − b B ) f ( h ) | d h d g ≤ C ( 1 | 2 B | ∫ 2 B | b ( h ) − b B | s ′ d h ) 1 / s ′ ( 1 | 2 B | ∫ 2 B | f ( h ) | s d h ) 1 / s ≤ C [ b ] θ ( 1 + r / ρ ( g ) ) θ ′ ⋅ M s f ( g ) ≤ C [ b ] θ M s f ( g )</p>
+<p>对于 M 2 ，因为 g ∈ B ( g 0 , r B ) ， h ∈ 2 k + 1 B \ 2 k B ，所以 | g h − 1 | ≈ 2 k r B 。根据(1.1)和引理2.11，由H&#246;lder不等式可以得到</p>
+<p>M 2 ≤ ∑ k = 1 ∞ 1 | B | ∫ B ∫ 2 k + 1 B \ 2 k B C t B Q / 2 e − c | g h − 1 | 2 / t B | ( b ( h ) − b B ) f ( h ) | d h d g ≤ ∑ k = 1 ∞ 1 | B | ∫ B ∫ 2 k + 1 B \ 2 k B C r B Q e − c 2 2 k r B 2 / r B 2 | ( b ( h ) − b B ) f ( h ) | d h d g ≤ C ∑ k = 1 ∞ e − c 2 2 k 1 | B | ∫ 2 k + 1 B | ( b ( h ) − b B ) f ( h ) | d h d g</p>
+<p>≤ C ∑ k = 1 ∞ e − c 2 2 k ( 1 | 2 k + 1 B | ∫ 2 k + 1 B | b ( h ) − b 2 k + 1 B | s ′ d h ) 1 / s ′ ( 1 | 2 k + 1 B | ∫ 2 k + 1 B | f ( h ) | s d h ) 1 / s       + C ∑ k = 1 ∞ e − c 2 2 k | b 2 k + 1 B − b B | ( 1 | 2 k + 1 B | ∫ 2 k + 1 B | f ( h ) | s d h ) 1 / s ≤ C [ b ] θ ∑ k = 1 ∞ e − c 2 2 k ( 1 + 2 k r / ρ ( g ) ) θ ′ ⋅ M s f ( g ) + C ∑ k = 1 ∞ e − c 2 2 k M s f ( g ) ≤ C M s f ( g )</p>
+<p>综上，我们完成了引理2.12的证明。</p></sec></sec><sec id="s7"><title>3. 主要结果的证明</title>
+<p>我们首先给出微分算子 L − α / 2 − e − t L L − α / 2 的核估计，它对于证明主要结果有很重要的作用。</p>
+<p>引理3.1 假设收缩半群 e − t L 的核 P t ( g , h ) 满足Gaussian上界(1.1)。那么对于 0 &lt; α &lt; 1 ，与微分算子 L − α / 2 − e − t L L − α / 2 相关的核 K α , t ( g , h ) 满足</p>
+<p>| K α , t ( g , h ) | ≤ C t | g h − 1 | Q − α + 2 。</p>
+<p>证明：根据 [<xref ref-type="bibr" rid="hanspub.38133-ref10">10</xref>] Page 258，令 f α , t ( z ) = z − α / 2 ( 1 − e − t z ) 。我们首先用半群 e − z L 表示算子 f α , t ( L ) 。 f α , t ( L )</p>
+<p>定义为 f α , t ( L ) = 1 2 π i ∫ γ ( L - λ I ) − 1 f α , t ( λ ) d λ ，其中 γ = γ + ∪ γ − ，当 t ≥ 0 时， γ + ( t ) = t e i v ，当 t &lt; 0 时， γ − ( t ) = − t e − i v ，并且 v &gt; π / 2 。</p>
+<p>对于 λ ∈ γ ，令 ( L - λ I ) − 1 = ∫ 0 ∞ e λ s e − s L d s 。改变积分顺序得 f α , t ( L ) = ∫ 0 ∞ e − s L n ( s ) d s ，其中 n ( s ) = 1 2 π i ∫ γ e λ s f α , t ( λ ) d λ 。因此， f α , t ( L ) 的核 K α , t ( g , h ) 可以表示为 K α , t ( g , h ) = ∫ 0 ∞ P s ( g , h ) n ( s ) d s 。</p>
+<p>由(1.1)可得</p>
+<p>| K α , t ( g , h ) | ≤ C ∫ 0 ∞ s − Q / 2 e − c | g h − 1 | / s ( ∫ 0 ∞ | e s λ λ − α / 2 ( 1 − e − t λ ) | d | λ | ) d s 。 (3.1)</p>
+<p>注意到，当 t | λ | &gt; 1 时， | 1 − e − t λ | ≤ c 且当 t | λ | ≤ 1 时， | 1 − e − t λ | ≤ c t | λ | 。对应于 t | λ | &gt; 1 和 t | λ | ≤ 1 上的积分，我们将(3.1)中右边积分分为第一部分 A 1 和第二部分 A 2 。那么， A 1 ≤ C ∫ 0 ∞ s − Q / 2 e − c | g h − 1 | / s ∫ 1 / t ∞ e − β s v v − α / 2 d v d s ， β &gt; 0 。令 u = t v 和 h = s / t ，我们有</p>
+<p>A 1 ≤ C t − Q / 2 ∫ 0 ∞ h − Q / 2 e − c | g h − 1 | 2 / t h ∫ 1 ∞ e − β h u u − α / 2 t α / 2 d u d h ≤ C t ( α − Q ) / 2 ∫ 0 ∞ h ( α − Q − 2 ) / 2 e − c | g h − 1 | 2 / t h d h h ≤ C t | g h − 1 | Q − α + 2 。</p>
+<p>与 A 1 相类似，我们得到</p>
+<p>A 2 ≤ C ∫ 0 ∞ s − Q / 2 e − c | g h − 1 | 2 / s ∫ 0 1 / t e − β s v v − α / 2 ( t v ) d v d s ≤ C t ( α − Q ) / 2 ∫ 0 ∞ h − Q / 2 e − c | g h − 1 | 2 / t h ∫ 0 1 e − β h u u ( 2 − α ) / 2 d u d h ≤ C t ( α − Q ) / 2 ∫ 0 ∞ h ( α − Q − 2 ) / 2 e − c | g h − 1 | 2 / t h d h h ≤ C t | g h − 1 | Q − α + 2 。</p>
+<p>结合 A 1 和 A 2 ，我们完成了引理3.1的证明。</p><p>下面，我们给出主要结果及其证明。</p>
+<p>定理3.2 假设收缩半群 e − t L 的核 P t ( g , h ) 满足Gaussian上界(1.1)。令 b ∈ B M O ρ θ ( ℍ n ) 。那么对于 0 &lt; α &lt; Q ， 1 &lt; 1 / p 1 &lt; Q / α 以及 1 / p 2 = 1 / p 1 − α / Q ，我们有</p>
+<p>‖ [ b , L − α / 2 ] f ‖ L p 2 ( ℍ n ) ≤ C [ b ] θ ‖ f ‖ L p 1 ( ℍ n ) 。</p>
+<p>证明：我们分两种情形来证明此定理。</p>
+<p>情形一：我们考虑 0 &lt; α &lt; 1 的情形。选择两个大于1的实数r和s使得 r s &lt; p &lt; Q / α 。我们将证明存在一个常数C使得对于所有的 g ∈ ℍ n 和 g ∈ B ，如下不等式成立：</p>
+<p>1 | B | ∫ B | ( 1 − e − t B L ) [ b , L − α / 2 ] f ( h ) | d h ≤ C [ b ] θ ( M s ( L − α / 2 f ) ( g ) + M α , r s ( f ) ( g ) ) ， (3.2)</p>
+<p>其中 t B = r B 2 且 r B 为球B的半径。</p><p>由(1.1)，(3.2)和极大函数的有界性可得</p>
+<p>‖ [ b , L − α / 2 ] f ‖ L p 2 ( ℍ n ) ≤ C ‖ M L # ( [ b , L − α / 2 ] f ) ( g ) ‖ L p 2 ( ℍ n ) ≤ C [ b ] θ ‖ M s ( L − α / 2 f ) ( g ) ‖ L p 2 ( ℍ n ) + C [ b ] θ ‖ M α , r s f ( g ) ‖ L p 2 ( ℍ n ) ≤ C [ b ] θ ‖ f ‖ L p 1 ( ℍ n ) ，</p>
+<p>其中 1 / p 2 = 1 / p 1 − α / Q 且 1 &lt; 1 / p 1 &lt; Q / α 。</p>
+<p>我们现在证明(3.2)。对于 g ∈ ℍ n 和 B = B ( g 0 , r B ) ，令 f 1 = f χ 2 B 和 f 2 = f − f 1 。我们有</p>
+<p>[ b , L − α / 2 ] f = ( b − b B ) L − α / 2 f − L − α / 2 ( b − b B ) f 1 − L − α / 2 ( b − b B ) f 2</p>
+<p>和</p>
+<p>e − t B L ( [ b , L − α / 2 ] f ) = e − t B L { ( b − b B ) L − α / 2 f − L − α / 2 ( b − b B ) f 1 − L − α / 2 ( b − b B ) f 2 } 。</p>
+<p>那么</p>
+<p>1 | B | ∫ B | [ b , L − α / 2 ] f ( h ) − e − t B L [ b , L − α / 2 ] f ( h ) | d h ≤ M 1 + M 2 + M 3 + M 4 + M 5 ，</p>
+<p>其中</p><p>{ M 1 : = 1 | B | ∫ B | ( b ( h ) − b B ) L − α / 2 f ( h ) | d h M 2 : = 1 | B | ∫ B | L − α / 2 ( b ( h ) − b B ) f 1 ( h ) | d h M 3 : = 1 | B | ∫ B | e − t B L ( b ( h ) − b B ) L − α / 2 f ( h ) | d h M 4 : = 1 | B | ∫ B | e − t B L L − α / 2 ( b ( h ) − b B ) L − α / 2 f 1 ( h ) | d h M 5 : = 1 | B | ∫ B | ( L − α / 2 − e − t B L L − α / 2 ) ( b ( h ) − b B ) f 2 ( h ) | d h</p>
+<p>令 s ′ 为s的共轭使得 1 / s + 1 / s ′ = 1 。由H&#246;lder不等式和引理2.10可得</p>
+<p>M 1 ≤ ( 1 | B | ∫ B | b ( h ) − b B | s ′ d h ) 1 / s ′ ( 1 | B | ∫ B | L − α / 2 f ( h ) | s d h ) 1 / s ≤ C [ b ] θ ( 1 + r / ρ ( g ) ) θ ′ M s ( L − α / 2 f ) ( g ) ≤ C [ b ] θ M s ( L − α / 2 f ) ( g ) 。</p>
+<p>令 1 / w = 1 / r − α / Q 。根据引理2.2和引理2.10，我们有</p>
+<p>M 2 ≤ ( 1 | B | ∫ ℍ n | L − α / 2 ( b ( h ) − b B ) f 1 ( h ) | w d h ) 1 / w ≤ C | B | 1 / w ( ∫ B | ( b ( h ) − b B ) f ( h ) | r d h ) 1 / r ≤ C ( 1 | B | ∫ B | b ( h ) − b B | s r ′ d h ) 1 / s r ′ ( 1 | B | 1 − α s r / Q ∫ B | f ( h ) | s r d h ) 1 / s r ≤ C [ b ] θ M α , r s f ( g ) 。</p>
+<p>类似的，我们根据引理2.2，引理2.10和极大函数的有界性可得</p>
+<p>M 3 + M 4 ≤ C [ b ] θ M s ( L − α / 2 f ) ( g ) + C [ b ] θ M α , r s ( f ) ( g ) 。</p>
+<p>因为 g ∈ B ( g 0 , r B ) ， z ∈ 2 k + 1 B \ 2 2 k B ，所以 | g 0 − 1 u | ≈ 2 k r B 。由引理3.1可得</p>
+<p>M 5 ≤ 1 | B | ∫ B ∫ ( 2 B ) ∁ | K α , t B ( h , z ) | | ( b ( z ) − b B ) f ( z ) | d z d h ≤ C ∑ k = 1 ∞ ∫ 2 k + 1 B \ 2 k B t B | g 0 − 1 z | Q − α + 2 | ( b ( z ) − b B ) f ( z ) | d z ≤ C ∑ k = 1 ∞ 2 − k 1 | 2 k + 1 B | 1 − α / Q ∫ 2 k + 1 B | ( b ( z ) − b B ) f ( z ) | d z</p>
+<p>≤ C ∑ k = 1 ∞ 2 − k 1 | 2 k + 1 B | 1 − α / Q ∫ 2 k + 1 B | ( b ( z ) − b 2 k + 1 B ) f ( z ) | d z       + C ∑ k = 1 ∞ 2 − k | b 2 k + 1 B − b B | 1 | 2 k + 1 B | 1 − α / Q ∫ 2 k + 1 B | f ( z ) | d z ≤ C [ b ] θ ∑ k = 1 ∞ k 2 − k ( 1 + 2 k r B / ρ ( g ) ) θ ′ M α , r s f ( g ) + C ∑ k = 1 ∞ 2 − k M α , 1 f ( g ) ≤ C [ b ] θ M α , r s f ( g )</p><p>结合以上五部分，我们得到(3.2)。</p><p>情形二：我们考虑 0 &lt; α &lt; Q 的情形。对于任意的 k = 0 , 1 , ⋯ , Q − 1 ，我们将 p 1 , k ， p 2 , k 和 p 3 , k 记为</p><p>1 p 1 , k = 1 p 2 + α k Q 2 ， 1 p 2 , k = 1 p 1 , k + α Q 2 ， 1 p 3 , k = 1 p 2 , k + α ( Q − 1 − k ) Q 2 。</p><p>注意到， [ b , L − α / 2 ] f = [ b , ( L − α / 2 Q ) Q ] f = ∑ k = 0 Q − 1 L − α k / 2 Q [ b , L − α / 2 Q ] L − α ( Q − 1 − k ) / 2 Q f 。由引理2.1和情形一，我们得到</p><p>‖ [ b , L − α / 2 ] f ‖ L p 2 ( ℍ n ) ≤ ∑ k = 0 Q − 1 ‖ L − α k / 2 Q [ b , L − α / 2 Q ] L − α ( Q − 1 − k ) / 2 Q f ‖ L p 2 ( ℍ n ) ≤ C [ b ] θ ∑ k = 0 Q − 1 ‖ f ‖ L p 3 , k ( ℍ n ) ≤ C [ b ] θ ‖ f ‖ L p 1 ( ℍ n ) ，</p><p>因为对于任意的 k = 0 , 1 , ⋯ , Q − 1 ，有 1 p 3 , k = 1 p 2 , k + α ( Q − 1 − k ) Q 2 = 1 p 2 + α Q = 1 p 1 ，即 p 3 , k = p 1 。</p><p>综上，我们完成了定理3.2的证明。</p></sec><sec id="s8"><title>基金项目</title><p>山东省自然科学基金(ZR2017JL008)资助。</p></sec><sec id="s9"><title>致谢</title><p>作者衷心感谢导师李澎涛教授以及各位学者研究文献的帮助。</p></sec><sec id="s10"><title>文章引用</title><p>高春芳. 海森堡群上与分数次积分相关的交换子的有界性The Boundedness of Commutators Associated with Fractional Integrals on the Heisenberg Group[J]. 理论数学, 2020, 10(10): 928-937. https://doi.org/10.12677/PM.2020.1010108</p></sec><sec id="s11"><title>参考文献</title></sec></body><back><ref-list><title>References</title><ref id="hanspub.38133-ref1"><label>1</label><mixed-citation publication-type="other" xlink:type="simple">Lin, C.C., Liu, H.P. and Liu, Y. (2011) Hardy Spaces Associated with Schrödinger Operators on Heisenberg Group. arXiv 1106.4960 (Preprint)</mixed-citation></ref><ref id="hanspub.38133-ref2"><label>2</label><mixed-citation publication-type="other" xlink:type="simple">Chanillo, S. (1982) A Note on Commutators. Indiana University Mathematics Journal, 31, 7-16.  
+&lt;br&gt;https://doi.org/10.1512/iumj.1982.31.31002</mixed-citation></ref><ref id="hanspub.38133-ref3"><label>3</label><mixed-citation publication-type="other" xlink:type="simple">Duong, X.T. and Yan, L.X. (2008) On Commutators of Frac-tional Integrals. Proceedings of the American Mathematical Society, 132, 3549-3557. &lt;br&gt;https://doi.org/10.1090/S0002-9939-04-07437-4</mixed-citation></ref><ref id="hanspub.38133-ref4"><label>4</label><mixed-citation publication-type="other" xlink:type="simple">Jiang, Y.S. (2011) Endpoint Estimates for Fractional Integral Associated to Schrödinger Operators on Heisenberg Groups. Acta Mathematica Scientia, 3, 247-254. &lt;br&gt;https://doi.org/10.1016/S0252-9602(11)60291-9</mixed-citation></ref><ref id="hanspub.38133-ref5"><label>5</label><mixed-citation publication-type="other" xlink:type="simple">Stein, E.M. (1970) Singular Integral and Differentiability Properties of Functions. Princeton University Press, MR, 7280.</mixed-citation></ref><ref id="hanspub.38133-ref6"><label>6</label><mixed-citation publication-type="other" xlink:type="simple">Tang, L. and Dong, J.F. (2009) Boundedness for Some Schrödinger Type Operators on Morrey Spaces Related to Certain Nonnegatove Potentials. Journal of Mathe-matical Analysis and Applications, 355, 101-109. 
+ &lt;br&gt;https://doi.org/10.1016/j.jmaa.2009.01.043</mixed-citation></ref><ref id="hanspub.38133-ref7"><label>7</label><mixed-citation publication-type="other" xlink:type="simple">Yang, D.C., Yang, D.Y. and Zhou, Y. (2009) Endpoint Proper-ties of Localized Riesz Transforms and Fractional Integrals Associated to Schrödinger Operators. Potential Analysis, 30, 271-300.  
+&lt;br&gt;https://doi.org/10.1007/s11118-009-9116-x</mixed-citation></ref><ref id="hanspub.38133-ref8"><label>8</label><mixed-citation publication-type="other" xlink:type="simple">Bongioanni, E., Harboure, E. and Salinas, O. (2011) Commutators of Riesz Transform Related to Schrödingers. Journal of Fourier Analysis &amp; Applications, 17, 115-134. &lt;br&gt;https://doi.org/10.1007/s00041-010-9133-6</mixed-citation></ref><ref id="hanspub.38133-ref9"><label>9</label><mixed-citation publication-type="other" xlink:type="simple">Martell, J.M. (2004) Sharp Maximal Functions Associated with Approximations of Identity in Spaces of Homogeneous Type and Applications. Studia Mathematica, 161, 113-145. &lt;br&gt;https://doi.org/10.4064/sm161-2-2</mixed-citation></ref><ref id="hanspub.38133-ref10"><label>10</label><mixed-citation publication-type="other" xlink:type="simple">Duong, X.T. and McIntosh, A. (1999) Singular Integral Operators with Non-Smooth Kernels on Irregular Domains. Revista Matematica Iberoamericana, 15, 233-265. &lt;br&gt;https://doi.org/10.4171/RMI/255</mixed-citation></ref></ref-list></back></article>

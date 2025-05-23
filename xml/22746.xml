@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">HJCE</journal-id>
+      <journal-title-group>
+        <journal-title>Hans Journal of Civil Engineering</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2326-3458</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/HJCE.2017.66075</article-id>
+      <article-id pub-id-type="publisher-id">HJCE-22746</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>HJCE20170600000_16484769.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>工程技术</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          不同水胶比下磷渣在蒸养混凝土中的应用
+          Application of Phosphorus Slag in Steam-Cured Concrete with DifferentWater to Binder Ratios
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>周</surname>
+            <given-names>予启</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>进</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>栋民</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <addr-line>中国矿业大学(北京)化学与环境工程学院，北京</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>中建一局集团建设发展有限公司，北京</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>liujin001@vip.qq.com(刘进)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>06</volume>
+      <issue>06</issue>
+      <fpage>635</fpage>
+      <lpage>642</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          分别以普通纯水泥混凝土和高强纯水泥混凝土为对照组，在不改变蒸养制度的前提下，通过降低水胶比来提高掺磷渣的蒸养混凝土的拆模强度，并探究其后期抗压强度发展规律及抗氯离子渗透性。研究表明，在不改变水胶比时，掺入磷渣会显著降低蒸养混凝土的拆模强度；适当降低水胶比后，掺磷渣的蒸养混凝土的拆模强度接近甚至超过对照组，且后期具有较高的抗压强度增长速率和抗氯离子渗透性。 The ordinary plain concrete and high strength plain concrete were set as control samples. Decreasing water to binder ratio (W/B) was used to elevate the demolding strength of steam-cured concrete containing phosphorus slag under the same curing condition. The compressive strength and chloride ion penetration of steam-cured concrete containing phosphorus slag with decreased W/B were also investigated. The results show that addition of phosphorus slag decreases the de-molding strength of the concrete containing phosphorus slag with the same W/B as control sample. The demolding strength of concrete containing phosphorus slag with decreased W/B is close to or even higher than that of control sample. What’s more, the compressive strength development and chloride ion penetration resistance of the concrete containing phosphorus slag are higher than those of the control samples at late ages.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>磷渣，蒸养混凝土，水胶比，抗压强度，氯离子渗透性, Phosphorus Slag</kwd>
+        <kwd> Steam-Cured Concrete</kwd>
+        <kwd> Water to Binder Ratio</kwd>
+        <kwd> Compressive Strength</kwd>
+        <kwd> Chloride Ion Penetration</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        不同水胶比下磷渣在蒸养混凝土中的应用<sup> </sup>
+      </title>
+      <p>
+        周予启<sup>1</sup>，刘进<sup>2</sup>，王栋民<sup>2</sup>
+      </p>
+      <p>
+        <sup>1</sup>中建一局集团建设发展有限公司，北京
+      </p>
+      <p>
+        <sup>2</sup>中国矿业大学(北京)化学与环境工程学院，北京
+      </p>
+      <p>收稿日期：2017年11月4日；录用日期：2017年11月18日；发布日期：2017年11月23日</p>
+      <disp-formula id="hanspub.22746-formula19">
+        <graphic xlink:href="//html.hanspub.org/file/11-2750438x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>分别以普通纯水泥混凝土和高强纯水泥混凝土为对照组，在不改变蒸养制度的前提下，通过降低水胶比来提高掺磷渣的蒸养混凝土的拆模强度，并探究其后期抗压强度发展规律及抗氯离子渗透性。研究表明，在不改变水胶比时，掺入磷渣会显著降低蒸养混凝土的拆模强度；适当降低水胶比后，掺磷渣的蒸养混凝土的拆模强度接近甚至超过对照组，且后期具有较高的抗压强度增长速率和抗氯离子渗透性。</p>
+      <p>关键词 :磷渣，蒸养混凝土，水胶比，抗压强度，氯离子渗透性</p>
+      <disp-formula id="hanspub.22746-formula20">
+        <graphic xlink:href="//html.hanspub.org/file/11-2750438x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/11-2750438x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/11-2750438x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        混凝土预制构件具有生产效率高，成本低，质量稳定，环境污染小等诸多优点，已被广泛应用于现代建筑结构中 [<xref ref-type="bibr" rid="hanspub.22746-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.22746-ref2">2</xref>] 。在生产混凝土预制构件的过程中，通常采用高温蒸汽养护工艺 [<xref ref-type="bibr" rid="hanspub.22746-ref3">3</xref>] 。高温蒸养能够加速胶凝材料的早期水化，提高混凝土的早期强度 [<xref ref-type="bibr" rid="hanspub.22746-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.22746-ref5">5</xref>] 。但早期高温蒸养会导致硬化浆体后期的孔结构较疏松，使混凝土具有较低的强度增长速率和较差的耐久性 [<xref ref-type="bibr" rid="hanspub.22746-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22746-ref7">7</xref>] 。
+      </p>
+      <p>
+        磷渣是工业上生产黄磷时的废渣，排放量为黄磷产量的8~10倍 [<xref ref-type="bibr" rid="hanspub.22746-ref8">8</xref>] 。磷渣的矿物组成以玻璃体为主，化学组成主要为CaO，SiO<sub>2</sub>，Al<sub>2</sub>O<sub>3</sub>，P<sub>2</sub>O<sub>5</sub>等 [<xref ref-type="bibr" rid="hanspub.22746-ref9">9</xref>] 。研究表明，磷渣是一种具有火山灰活性的物质，作为矿物掺合料应用于混凝土中时，具有提高新拌混凝土工作性，减少水泥早期的水化放热，改善硬化浆体后期的孔结构，提高混凝土后期的强度和耐久性等优点；但磷渣会延缓水泥的水化反应，导致其早期强度发展缓慢 [<xref ref-type="bibr" rid="hanspub.22746-ref10">10</xref>] [<xref ref-type="bibr" rid="hanspub.22746-ref11">11</xref>] [<xref ref-type="bibr" rid="hanspub.22746-ref12">12</xref>] [<xref ref-type="bibr" rid="hanspub.22746-ref13">13</xref>] 。磷渣应用于蒸养混凝土中时，高温养护可以显著提高水泥和磷渣早期的水化速率，进而改善早期磷渣对水泥水化速率的不利影响 [<xref ref-type="bibr" rid="hanspub.22746-ref13">13</xref>] 。
+      </p>
+      <p>较高的拆模强度是保障蒸养混凝土高效生产并安全使用的前提。同时，蒸养混凝土后期的抗压强度发展和耐久性对其服役寿命也至关重要。本文的研究中，在不改变蒸养制度的前提下，通过降低水胶比，以提高掺磷渣的混凝土的拆模强度，并探究其后期强度发展规律及抗氯离子渗透性。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 原材料与试验方法</title> </sec>
+      <sec id="s4_1">
+        <title>2.1. 原材料</title>
+        <p>试验所用水泥为金隅P&#183;O 42.5水泥。磷渣为水淬磷渣。水泥和磷渣的化学成分如表1所示。采用激光粒度分析仪测试水泥和磷渣的粒度分布，结果如图1所示。粗骨料为粒径5~20 mm的石灰石碎石，细骨料为粒径&lt;5 mm的天然河砂。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 试验方法</title>
+        <p>纯水泥混凝土的水胶比为0.4和0.32，分别对应普通混凝土与高强混凝土，并作为对照组。普通混凝土和高强混凝土的配合比分别如表2、表3所示。混凝土成型10 cm &#215; 10 cm &#215; 10 cm的立方体试块后，</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> The chemical compositions of the cement and phosphorus slag /</title>
+          </caption>
+          </table-wrap>
+             </sec>
+    </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22746-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Ma, K.L., Long, G.C. and Xie, Y.J. (2017) A Real Case of Steam-Cured Concrete Track Slab Premature Deterioration Due to ASR and DEF. Case Studies in Construction Materials, 6, 63-71. &lt;br&gt;https://doi.org/10.1016/j.cscm.2016.12.001</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Long, G.C., Yang, J.G. and Xie, Y.J. (2017) The Mechanical Characteristics of Steam-Cured High Strength Concrete Incorporating with Lightweight Aggregate. Construction and Building Materials, 136, 456-464.
+                  &lt;br&gt;https://doi.org/10.1016/j.conbuildmat.2016.12.171
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Hanif, A., Kim, Y., Lu, Z.Y. and Park, C. (2017) Early-Age Behavior of Recycled Aggregate Concrete under Steam Curing Regime. Journal of Cleaner Production, 152, 103-114. &lt;br&gt;https://doi.org/10.1016/j.jclepro.2017.03.107</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Wang Q., Li MY., Zhang, B. (2014) Influence of Pre-Curing Time on the Hydration of Binder and the Properties of Concrete under Steam Curing Condition. Journal of Thermal Analysis and Calorimetry, 118, 1505-1512.
+                  &lt;br&gt;https://doi.org/10.1007/s10973-014-4053-3
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Liu, J. and Wang, D.M. (2017) Application of Ground Granulate Blast Furnace Slag-Steel Slag Composite Binder in a Massive Concrete Structure under Severe Sulphate Attack. Advances in Materials Science and Engineering, 9493043, 1-9. &lt;br&gt;https://doi.org/10.1155/2017/9493043</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">He, Z.M., Long, G.C. and Xie, Y.J. (2012) Influence of Subsequent Curing on Water Sorptivity and Pore Structure of Steam-Cured Concrete. Journal of Central South University, 19, 1155-162. &lt;br&gt;https://doi.org/10.1007/s11771-012-1122-2</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Wang Q., Feng JJ., Miao M., et al. (2012) The Influence of High Temperature Curing on the Hydration Characteristics of a Cement-GGBS Binder. Advances in Cement Research, 24, 33-40. &lt;br&gt;https://doi.org/10.1680/adcr.2012.24.1.33</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Qian GP., Bai SY., Ju SJ., et al. (2013) Laboratory Evaluation on Recycling Waste Phosphorus Slag as the Mineral Filler in Hot-Mix Asphalt. Journal of Materials in Civil Engineering, 25, 846-850.
+                  &lt;br&gt;https://doi.org/10.1061/(ASCE)MT.1943-5533.0000770
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref9">
+                <label>9</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Shi, C.J. and Qian, J.S. (2000) High Performance Cementing Materials from Industrial Slags—A Review. Resources, Conservation and Recycling, 29, 195-207. &lt;br&gt;https://doi.org/10.1016/S0921-3449(99)00060-9</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref10">
+                <label>10</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Chen, X., Fang, K.H., Yang, H.Q., et al. (2011) Hydration Kinetics of Phosphorus Slag-Cement Paste. Journal Wuhan University of Technology-Materials Science Edition, 26, 142-146. &lt;br&gt;https://doi.org/10.1007/s11595-011-0186-4</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref11">
+                <label>11</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Gao, P.W., Lu, X.L., Yang, C.X., et al. (2008) Microstructure and Pore Struc-ture of Concrete Mixed with Superfine Phosphorous Slag and Superplasticizer. Construction and Building Materials, 22, 837-840.
+                  &lt;br&gt;https://doi.org/10.1016/j.conbuildmat.2006.12.015
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref12">
+                <label>12</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Zhang, Z.Q., Wang, Q. and Yang, J. (2017) Hydration Mechanisms of Composite Binders Containing Phosphorus Slag at Different Temperatures. Construction and Building Materials, 147, 720-732.
+                  &lt;br&gt;https://doi.org/10.1016/j.conbuildmat.2017.04.202
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref13">
+                <label>13</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Liu, J. and Wang, D.M. (2017) The Role of Phosphorus Slag in Steam-Cured Concrete. Advances in Materials Science and Engineering, 8392435, 1-14. &lt;br&gt;https://doi.org/10.1155/2017/8392435</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref14">
+                <label>14</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Liu, J. and Wang, D.M. (2017) Influence of Steel Slag-Silica Fume Composite Mineral Admixture on the Properties of Concrete. Powder Technology, 320, 230-238. &lt;br&gt;https://doi.org/10.1016/j.powtec.2017.07.052</mixed-citation>
+              </ref>
+              <ref id="hanspub.22746-ref15">
+                <label>15</label>
+                <mixed-citation publication-type="other" xlink:type="simple">刘进, 王栋民. 等强度条件下钢渣混凝土的抗氯离子渗透和抗硫酸盐侵蚀性能[J]. 新型建筑材料, 2016(10): 45-48.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

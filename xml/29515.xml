@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">MM</journal-id>
+      <journal-title-group>
+        <journal-title>Modern Management</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7311</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/MM.2019.92024</article-id>
+      <article-id pub-id-type="publisher-id">MM-29515</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>MM20190200000_19823819.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          少数民族地区民宿互联网化运营能力研究分析——以甘孜丹巴甲居藏寨为例
+          Research and Analysis on the Internet Operation Ability of B&amp;B in Minority Areas—A Case Study of Ganzi, Danba
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>张</surname>
+            <given-names>超</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>null</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>1</label>
+        <addr-line>成都信息工程大学管理学院，四川 成都</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>03</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>02</issue>
+      <fpage>231</fpage>
+      <lpage>238</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          从“互联网+”视角下出发，根据系统工程的理论，在对少数民族地区民宿运营能力分析基础上，从民宿运营支撑力、吸引力、发展力三个方面进行挖掘，设置3个准则层、9个二级层次指标和32个具体指标，建立了针对少数民族地区民宿运营能力影响绩效评价指标体系，以甘孜丹巴甲居藏寨为样本进行研究。研究显示：互联网平台内容呈现度对民宿互联网化运营起基础性作用，其完成情况直接影响到民宿运营水平；互联网平台价值转化率和口碑传播力是民宿运营能力提升的重要因素，权重占较高但实现情况与绩效得分有待提高。
+          In order to establish the performance evaluation index system for the influence of B&amp;B operation ability in ethnic minority areas such as Jiaju Village. We studied the operation ability of homestays according to the system engineering theory on the basis of B&amp;B operation ability analysis from the B&amp;B operation support, attraction, development force in three aspects of to set up three criteria layers, nine second-level indicators and thirty-two specific indicators. The research shows that the content presentation degree of the Internet platform plays a fundamental role in the Internet op-eration of B&amp;B, and its completion directly affects the operation level of B&amp;B. Internet platform value conversion rate and word-of-mouth communication power are important factors to improve the operation ability of B&amp;B. However, the implementation situation and performance need to be improved.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>互联网+，少数民族地区民宿，AHP层次分析法，民宿运营能力，甲居藏寨, Internet+</kwd>
+        <kwd> Minority Ares B</kwd>
+        <kwd> AHP</kwd>
+        <kwd> Operational Capacity of B</kwd>
+        <kwd> Jiaju Village</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>少数民族地区民宿互联网化运营能力 研究分析</title>
+      <p>——以甘孜丹巴甲居藏寨为例</p>
+      <p>张超</p>
+      <p>成都信息工程大学管理学院，四川 成都</p>
+      <p>
+        <img src="//html.hanspub.org/file/5-1121050x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年3月8日；录用日期：2019年3月22日；发布日期：2019年3月29日</p>
+      <disp-formula id="hanspub.29515-formula65">
+        <graphic xlink:href="//html.hanspub.org/file/5-1121050x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>从“互联网+”视角下出发，根据系统工程的理论，在对少数民族地区民宿运营能力分析基础上，从民宿运营支撑力、吸引力、发展力三个方面进行挖掘，设置3个准则层、9个二级层次指标和32个具体指标，建立了针对少数民族地区民宿运营能力影响绩效评价指标体系，以甘孜丹巴甲居藏寨为样本进行研究。研究显示：互联网平台内容呈现度对民宿互联网化运营起基础性作用，其完成情况直接影响到民宿运营水平；互联网平台价值转化率和口碑传播力是民宿运营能力提升的重要因素，权重占较高但实现情况与绩效得分有待提高。</p>
+      <p>关键词 :互联网+，少数民族地区民宿，AHP层次分析法，民宿运营能力，甲居藏寨</p>
+      <disp-formula id="hanspub.29515-formula66">
+        <graphic xlink:href="//html.hanspub.org/file/5-1121050x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/5-1121050x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/5-1121050x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>近年来，我国民宿旅游市场发展迅速，据中国旅游协会民宿客栈与精品酒店分会数据统计：截止2017年，我国大陆客栈民宿总数达42,658家，从业人员已接近100万人，随着国家利好政策的倾斜，预计到2020年，我国民宿产业营收收入将达到362.8亿元人民币。其中，少数民族地区民宿旅游发展势头尤为迅猛。国家旅游局在《十三五规划纲要》中明确提出着重打造一批民族风情小镇和少数民族特色村寨，通过民宿旅游的发展拉动区域经济，落实旅游扶贫政策，传承少数民族文化。国家民委发布《关于命名第二批中国少数民族特色村寨的通知》，提出进一步推动少数民族特色村寨保护与发展，通过打造示范样本扩大具有民族特色的村寨品牌营销影响力与辐射力。各种利好政策的倾斜，民宿旅游市场发展潜力将得到进一步释放。</p>
+      <p>随着互联网技术快速发展以及互联网工具多元化、多样化的使用，依托互联网平台强大的聚合发散作用，民宿运营在新的时代条件下迎来了重大挑战和全新机遇。依托“互联网 + 民宿”，培植在线民宿旅游平台企业发展，通过整合优化民宿行业上下游产业链及平行企业资源，发挥技术优势打造新的民宿旅游生态圈，助推“互联网 + 民宿”跨产业融合，实现信息技术与民宿产业深度融合，以打造新型营销模式为重要渠道促进少数民族地区民宿经济发展。同时，少数民族地区由于互联网技术人才的缺失和硬件软件设备的不足，严重制约了其民宿互联网化运营能力，给民宿运营带来了重大挑战。</p>
+      <p>在此趋势和背景下，研究“互联网+”对少数民族地区民宿运营能力的影响，成为把握当前发展机遇，破解发展难题的重要一环。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 文献综述</title>
+      <p>
+        关于互联网对民宿运营方面的研究之中，国内外学者以互联网技术为基础构建特定人机界面，实现旅游者与民宿目的地、旅游者与民宿运营者之间的互动。一些学者从旅游者感知和品牌认知角度强调了民宿目的地网络界面设计的重要性。Kline S. F. (2005)对美国印第安纳州各民宿网站进行分析，强调民宿网站运营在打造民宿品牌吸引力的同时应加强用户友好性、网站架构技术性、市场有效性建设 [<xref ref-type="bibr" rid="hanspub.29515-ref1">1</xref>]。Jeong M. (2004)通过分析B＆B网站建设与入住率之间的关系，指出旅游者对于民宿网站所提供信息的满意度是其使用该网站进行预定并进行入住的最主要决定因素 [<xref ref-type="bibr" rid="hanspub.29515-ref2">2</xref>]。Fesenmaier, et al.认为，在旅游构成复杂化和散客化趋势下，应重视旅游网站所提供的信息对自助游游客的帮助，民宿网站要能满足自助游游客需求 [<xref ref-type="bibr" rid="hanspub.29515-ref3">3</xref>]。Rita指出，民宿互联网营销应从管理和技术两个层面考虑，在管理层面，应重视信息提供、市场研究以及营销提升等功能，打造民宿互联网化运营营销系统；在技术层面，要以网页设计、网站推广、网站测评三个指标进行民宿互联网营销 [<xref ref-type="bibr" rid="hanspub.29515-ref4">4</xref>]。
+      </p>
+      <p>
+        颜燕(2016)提出内生型、介入型、出让型三种“互联网 + 民宿”运营模式，进行深入分析研究 [<xref ref-type="bibr" rid="hanspub.29515-ref5">5</xref>]。陈春燕(2015)指出强化民宿体验参与性、服务温情性、主客互动性、文化主题性这四个要素，以期破解当下旅游民宿同质化经营、主题性不够凸显、经营方式单一等问题 [<xref ref-type="bibr" rid="hanspub.29515-ref6">6</xref>]。邹林杰、王志凌(2016)研究了互联网对民宿运营的推动作用，并构建了“互联网 + 民宿产业”新模式并提出了相应提升策略 [<xref ref-type="bibr" rid="hanspub.29515-ref7">7</xref>]。吴亚平、李剑、王璟怡(2016)从政府推动和行业发展两个角度，探讨了少数民族贫困地区传统的村寨民宿业智慧营销发展策略路径，为研究少数民族地区民宿发展提供了新的启示 [<xref ref-type="bibr" rid="hanspub.29515-ref8">8</xref>]。
+      </p>
+    </sec>
+    <sec id="s5">
+      <title>3. 选址分析</title>
+      <p>甲居藏寨景区地处甘孜州丹巴县聂呷乡，被誉为“康巴风情名片”、“藏区童话世界”。景区面积约5平方公里，由三个村庄构成，居住人口149户共477人，其中嘉绒藏族占96.8%，特色鲜明的民居建筑及浓郁的嘉绒藏族风情吸引了大批民宿旅游者。甲居藏寨民宿行业发展起步时间早，发展脉络清晰，民宿互联网化运营优势和问题典型突出。甲居民宿自上世纪90年代起步，时间较早，并逐步提升服务质量与规模，民宿运营经验丰富；近30年的持续发展使得甲居藏寨发展脉络清晰。</p>
+      <p>当前甲居一村、二村、三村公路硬化工程，观景平台和旅游栈道已经完工。随着投资力度加大，自来水供应和排污系统建设进一步完善，极大地改善了当地基础设施水平。当地政府及民间行业协会对民宿运营者定期展开培训，不断提高民宿运营能力。景区管理引入专业运营管理公司，实现景区的专业化经营管理，实现当地民宿旅游资源提档升级。在民宿互联网化运营方面，甲居民宿经历了被动接受、主动互联、积极发展三个阶段，优势与问题突出，在少数民族地区民宿旅游行业中具有典型代表性。</p>
+    </sec>
+    <sec id="s6">
+      <title>4. 民宿运营能力绩效评估指标体系的构建</title>
+      <sec id="s6_1">
+        <title>4.1. 指标体系构建依据</title>
+        <p>研究“互联网+”对少数民宿地区民宿运营能力的影响，应着重从互联网发散聚合思维及联动效应、多元化利用互联网技术与工具方面深入挖掘，充分利用少数民族地区区域特色与异文化吸引力，考虑政策影响、技术背景、实施效果以及发展现状和潜力等因素，分析民宿运营能力评估体系间的关联度与逻辑关系。既强调互联网技术应用和平台工具使用，又突出民宿运营各层面发展，从民宿经营者、政府、民宿互联网平台、旅游者、民宿上下游产业链等利益相关者角度入手，依托“互联网 + 民宿”生态圈与商业模式选取评估指标。</p>
+        <p>
+          根据相关要求，在充分整理相关文献与实地调研基础上，借鉴了郭珊珊、黄安民、段冰杰、张思豆、李君轶 [<xref ref-type="bibr" rid="hanspub.29515-ref9">9</xref>] - [<xref ref-type="bibr" rid="hanspub.29515-ref16">16</xref>] 等学者的研究成果，从互联网平台内容呈现度、互联网平台价值转化率、口播传播了三个方面入手，设置了1个目标层，3个准则层，9个关键问题层和32项具体指标，进而构建了民宿运营能力绩效评估指标体系结构(如图1)。
+        </p>
+        <p>
+          1) 互联网平台内容呈现度。民宿互联网化运营以互联网技术为基础构建特定人机界面，进行相关信息呈现并构建旅游意向，实现旅游者与民宿目的地、旅游者与民宿运营者之间的互动。互联网平台内容呈现度准则主要围绕平台民宿信息呈现、平台信息质量、民宿旅游意向构建3个方面，设置11个具体评估指标，包括D<sub>1</sub>民宿基础设施展示、D<sub>2</sub>民宿特色呈现、D<sub>3</sub>平台呈现内容评估、D<sub>4</sub>民宿信息信度、D<sub>5</sub>个性化信息呈现、D<sub>6</sub>民宿信息精准度、D<sub>7</sub>民宿信息更新率、D<sub>8</sub>个性化定制、D<sub>9</sub>差异化呈现、D<sub>10</sub>意向满意度、D<sub>11</sub>民宿旅游意向指数。
+        </p>
+        <p>
+          2) 互联网平台价值转化率。就已有的民宿运营能力评估标准来看，大多集中于互联网平台内容呈现、民宿经营者能力和政府相关政策方面，缺乏对互联网平台价值转化率进一步量化处理的分析。价值转化率是民宿运营能力重要的指标，本文主要围绕平台使用率、平台价值转化指数和平台发展力指数3个方面构建了12个具体评估指标，包括D<sub>12</sub>平台用户基数、D<sub>13</sub>平台用户活跃度、D<sub>14</sub>平台渠道规模、D<sub>15</sub>平台渠道互动性、D<sub>16</sub>平台点击率与日活指数、D<sub>17</sub>多平台渠道使用程度、D<sub>18</sub>平台预定率、D<sub>19</sub>平台引流入住率、D<sub>20</sub>线上线下契合度、D<sub>21</sub>平台融资能力、D<sub>22</sub>平台情感构建、D<sub>23</sub>平台操作管理系数。
+        </p>
+        <p>
+          3) 口碑传播力。依托互联网聚合发散作用与联动效应，民宿的口碑传播相当程度上推进了民宿运营能力的提升，实现民宿品质提档升级、民宿供给侧改革、民宿运营能力提升、民宿口碑传播的良性循环。本文口碑传播准则层主要从主客交流指数、宿客评价指数、返宿率与带动住宿率3个方面，构建了9个评估指标。包括D<sub>24</sub>主客平台交流渠道畅通度、D<sub>25</sub>线上咨询回复率、D<sub>26</sub>线上咨询回复时效性、D<sub>27</sub>宿客评价率、D<sub>28</sub>宿客好评率、D<sub>29</sub>平台民宿得分均值、D<sub>30</sub>平台再次预定及入住率、D<sub>31</sub>线下二次及多次入住率、D<sub>32</sub>民宿推荐指数。
+        </p>
+        <p>图1. 民宿互联网化运营能力绩效评估指标体系结构图</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 绩效评估方法</title>
+        <p>1) 确定各指标评分标准与权重。评分标准按照较差、一般、良好、优秀划分为4个层级。本文运用层次分析法即AHP层次分析来确定各指标权重。通过将决策思维过程模型化、数量化实现对复杂系统的分析与决策。首先设计民宿运营能力评估的递阶层次结构图，然后根据文献资料与实地调研考察，对层次结构图中各元素两两比较判断，为了便于将比较判断定量化，引入1~9比率标度方法，构建判断矩阵A = (aij)，由此计算判断矩阵A最大特征根Xmax及相应特征向量，根据层次单排序与总排序得出整个系统各元素的权重系数(见表1)。</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Standard for evaluatio</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >分值</th>
+                  <th align="center" valign="middle" >互联网平台内容呈现度</th>
+                  <th align="center" valign="middle" >互联网平台价值转化率</th>
+                  <th align="center" valign="middle" >口碑传播力</th>
+                  <th align="center" valign="middle" >综合绩效</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >呈现度低</td>
+                <td align="center" valign="middle" >转化率低</td>
+                <td align="center" valign="middle" >效果差</td>
+                <td align="center" valign="middle" >较差(0~1)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >呈现度较低</td>
+                <td align="center" valign="middle" >转化率一般</td>
+                <td align="center" valign="middle" >效果一般</td>
+                <td align="center" valign="middle" >一般(1~2)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >3</td>
+                <td align="center" valign="middle" >呈现度较高</td>
+                <td align="center" valign="middle" >转化率高</td>
+                <td align="center" valign="middle" >效果较好</td>
+                <td align="center" valign="middle" >良好(2~3)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >4</td>
+                <td align="center" valign="middle" >呈现度高</td>
+                <td align="center" valign="middle" >转化率非常高</td>
+                <td align="center" valign="middle" >效果很好</td>
+                <td align="center" valign="middle" >优秀(3~4)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 评分标准</p>
+        <p>2) 利用综合评价法进行计算。采用综合评价法，对各项指标正向化处理后，结合实地调研数据对各指标进行赋值并计算各指标得分情况，并加总得出民宿运营能力总体得分，以作为民宿运营能力绩效评估的量化依据。</p>
+      </sec>
+      <sec id="s6_3">
+        <title>4.3. 评估指标权重及得分的确定</title>
+        <table-wrap-group id="2">
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> Evaluate indicators, weights and scores of B&amp;B’s internet operation ability in Jiaju villag</title>
+          </caption>
+          <table-wrap id="2_1">
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >二级指标</th>
+                    <th align="center" valign="middle" >权重</th>
+                    <th align="center" valign="middle" >得分</th>
+                    <th align="center" valign="middle" >三级指标</th>
+                    <th align="center" valign="middle" >权重</th>
+                    <th align="center" valign="middle" >综合权重</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >
+                    C<sub>1</sub>平台民宿信息呈现
+                  </td>
+                  <td align="center" valign="middle"  rowspan="3"  >0.48018</td>
+                  <td align="center" valign="middle"  rowspan="3"  >3.1684</td>
+                  <td align="center" valign="middle" >
+                    D<sub>1</sub>民宿基础设施展示
+                  </td>
+                  <td align="center" valign="middle" >0.51896</td>
+                  <td align="center" valign="middle" >0.03348</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>2</sub>民宿特色呈现
+                  </td>
+                  <td align="center" valign="middle" >0.16643</td>
+                  <td align="center" valign="middle" >0.02025</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>3</sub>平台呈现内容评估
+                  </td>
+                  <td align="center" valign="middle" >0.31461</td>
+                  <td align="center" valign="middle" >0.02613</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="4"  >
+                    C<sub>2</sub>民宿特色呈现
+                  </td>
+                  <td align="center" valign="middle"  rowspan="4"  >0.33286</td>
+                  <td align="center" valign="middle"  rowspan="4"  >2.5931</td>
+                  <td align="center" valign="middle" >
+                    D<sub>4</sub>民宿信息信度
+                  </td>
+                  <td align="center" valign="middle" >0.30280</td>
+                  <td align="center" valign="middle" >0.02405</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>5</sub>个性化信息呈现
+                  </td>
+                  <td align="center" valign="middle" >0.22065</td>
+                  <td align="center" valign="middle" >0.02312</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>6</sub>民宿信息精准度
+                  </td>
+                  <td align="center" valign="middle" >0.27542</td>
+                  <td align="center" valign="middle" >0.02397</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>7</sub>民宿信息更新率
+                  </td>
+                  <td align="center" valign="middle" >0.20113</td>
+                  <td align="center" valign="middle" >0.02261</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="4"  >
+                    C<sub>3</sub>民宿旅游意向构建
+                  </td>
+                  <td align="center" valign="middle"  rowspan="4"  >0.18696</td>
+                  <td align="center" valign="middle"  rowspan="4"  >2.0000</td>
+                  <td align="center" valign="middle" >
+                    D<sub>8</sub>个性化定制
+                  </td>
+                  <td align="center" valign="middle" >0.19674</td>
+                  <td align="center" valign="middle" >0.02256</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>9</sub>差异化呈现
+                  </td>
+                  <td align="center" valign="middle" >0.38523</td>
+                  <td align="center" valign="middle" >0.04502</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>10</sub>意向满意度
+                  </td>
+                  <td align="center" valign="middle" >0.20236</td>
+                  <td align="center" valign="middle" >0.02288</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>11</sub>民宿旅游意向指数
+                  </td>
+                  <td align="center" valign="middle" >0.21567</td>
+                  <td align="center" valign="middle" >0.02307</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="6"  >
+                    C<sub>4</sub>平台使用率
+                  </td>
+                  <td align="center" valign="middle"  rowspan="6"  >0.50683</td>
+                  <td align="center" valign="middle"  rowspan="6"  >2.7835</td>
+                  <td align="center" valign="middle" >
+                    D<sub>12</sub>平台用户基数
+                  </td>
+                  <td align="center" valign="middle" >0.21856</td>
+                  <td align="center" valign="middle" >0.02312</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>13</sub>平台用户活跃度
+                  </td>
+                  <td align="center" valign="middle" >0.10212</td>
+                  <td align="center" valign="middle" >0.02026</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>14</sub>平台渠道规模
+                  </td>
+                  <td align="center" valign="middle" >0.20058</td>
+                  <td align="center" valign="middle" >0.02224</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>15</sub>平台渠道互动性
+                  </td>
+                  <td align="center" valign="middle" >0.16679</td>
+                  <td align="center" valign="middle" >0.02029</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>16</sub>平台点击率与日活指数
+                  </td>
+                  <td align="center" valign="middle" >0.18022</td>
+                  <td align="center" valign="middle" >0.02128</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>17</sub>多平台多渠道使用情况
+                  </td>
+                  <td align="center" valign="middle" >0.13173</td>
+                  <td align="center" valign="middle" >0.01943</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >
+                    C<sub>5</sub>平台价值转化指数
+                  </td>
+                  <td align="center" valign="middle"  rowspan="3"  >0.16045</td>
+                  <td align="center" valign="middle"  rowspan="3"  >2.5015</td>
+                  <td align="center" valign="middle" >
+                    D<sub>18</sub>平台预订率
+                  </td>
+                  <td align="center" valign="middle" >0.49256</td>
+                  <td align="center" valign="middle" >0.03618</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>19</sub>平台引流入住率
+                  </td>
+                  <td align="center" valign="middle" >0.30018</td>
+                  <td align="center" valign="middle" >0.03056</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>20</sub>线上线下契合度
+                  </td>
+                  <td align="center" valign="middle" >0.20726</td>
+                  <td align="center" valign="middle" >0.02891</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <table-wrap id="2_2">
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle"  rowspan="3"  >
+                      C<sub>6</sub>平台发展力指数
+                    </th>
+                    <th align="center" valign="middle"  rowspan="3"  >0.33272</th>
+                    <th align="center" valign="middle"  rowspan="3"  >2.4614</th>
+                    <th align="center" valign="middle" >
+                      D<sub>21</sub>平台融资能力
+                    </th>
+                    <th align="center" valign="middle" >0.19736</th>
+                    <th align="center" valign="middle" >0.02786</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>22</sub>平台情感构建
+                  </td>
+                  <td align="center" valign="middle" >0.32089</td>
+                  <td align="center" valign="middle" >0.02662</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>23</sub>平台操作管理系数
+                  </td>
+                  <td align="center" valign="middle" >0.48175</td>
+                  <td align="center" valign="middle" >0.07487</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >
+                    C<sub>7</sub>主客交流指数
+                  </td>
+                  <td align="center" valign="middle"  rowspan="3"  >0.48843</td>
+                  <td align="center" valign="middle"  rowspan="3"  >2.8083</td>
+                  <td align="center" valign="middle" >
+                    D<sub>24</sub>主客交流渠道畅通度
+                  </td>
+                  <td align="center" valign="middle" >0.26338</td>
+                  <td align="center" valign="middle" >0.02785</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>25</sub>在线咨询回复率
+                  </td>
+                  <td align="center" valign="middle" >0.30517</td>
+                  <td align="center" valign="middle" >0.03258</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>26</sub>在线咨询回复时效性
+                  </td>
+                  <td align="center" valign="middle" >0.43145</td>
+                  <td align="center" valign="middle" >0.07059</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >
+                    C<sub>8</sub>宿客评价指数
+                  </td>
+                  <td align="center" valign="middle"  rowspan="3"  >0.28515</td>
+                  <td align="center" valign="middle"  rowspan="3"  >2.8956</td>
+                  <td align="center" valign="middle" >
+                    D<sub>27</sub>宿客评价率
+                  </td>
+                  <td align="center" valign="middle" >0.33058</td>
+                  <td align="center" valign="middle" >0.03134</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>28</sub>宿客好评度
+                  </td>
+                  <td align="center" valign="middle" >0.21560</td>
+                  <td align="center" valign="middle" >0.04328</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>29</sub>民宿平台得分均值
+                  </td>
+                  <td align="center" valign="middle" >0.42382</td>
+                  <td align="center" valign="middle" >0.04765</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >
+                    C<sub>9</sub>返宿率与带动住宿率
+                  </td>
+                  <td align="center" valign="middle"  rowspan="3"  >0.22642</td>
+                  <td align="center" valign="middle"  rowspan="3"  >2.6810</td>
+                  <td align="center" valign="middle" >
+                    D<sub>30</sub>平台再次预订及入住率
+                  </td>
+                  <td align="center" valign="middle" >0.30105</td>
+                  <td align="center" valign="middle" >0.03321</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>31</sub>线下二次入住率
+                  </td>
+                  <td align="center" valign="middle" >0.21006</td>
+                  <td align="center" valign="middle" >0.02665</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >
+                    D<sub>32</sub>民宿推荐指数
+                  </td>
+                  <td align="center" valign="middle" >0.48889</td>
+                  <td align="center" valign="middle" >0.04808</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </table-wrap-group>
+        <p>表2. 甲居藏寨民宿运营能力绩效评估指标、权重及得分情况</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>5. 甲居藏寨民宿互联网化运营能力分析</title>
+      <sec id="s7_1">
+        <title>5.1. 运营能力绩效分析</title>
+        <p>通过实地调研获得初始数据，结合统计年鉴和公开资料整理基础上，依据综合评价法计算出各指标得分和实现程度。由表2可看出，甲居藏寨民宿运营能力各指标实现程度良好，总体得分均在2分以上，其中互联网平台内容呈现度、互联网平台价值转化率、口碑传播力分别得分2.76分、2.63分、2.80分。互联网平台价值转化率得分相对较低，在利用互联网平台和工具，实现民宿增收和平台发展力指数方面能力欠缺，有待进一步提升。</p>
+        <p>从表2、表3可以看出，互联网平台内容呈现方面绩效评级为呈角度较高，其中，平台民宿信息呈现和平台信息质量方面优势较为突出，相比而言，民宿旅游意向构建层面存在较大差距，权重占比较低且得分较低，折射出民宿运营者、政府管理机构、互联网平台等供给侧端与民宿旅游者在民宿旅游意向构建方面的错位，有待强化意向构建意识、加强意向构建能力，同时进一步完善平台民宿信息呈现的数量与质量。互联网平台价值转化率方面权重较高，但评级分值低于内容呈现度和口碑传播力，效益较差。口碑传播力指标权重占比与得分均位于前列，其中返宿率和带动住宿率方面有所欠缺，关注度、投入度以及实现度较低。</p>
+      </sec>
+      <sec id="s7_2">
+        <title>5.2. 运营能力绩效评估结果</title>
+        <p>通过对互联网平台内容呈现度、互联网平台价值转化率、口碑传播力3个准则的定性定量评估，核定其绩效等级及评级分值后，甲居藏寨民宿运营能力绩效评估等级为“良好”(如表3)。</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> Results of performance evaluation of operating capacity of B&amp;B in Jiaju villag</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >评价准则</th>
+                  <th align="center" valign="middle" >权重</th>
+                  <th align="center" valign="middle" >绩效等级</th>
+                  <th align="center" valign="middle" >评级分值</th>
+                  <th align="center" valign="middle" >加权平均得分</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >互联网平台内容呈现度</td>
+                <td align="center" valign="middle" >0.28714</td>
+                <td align="center" valign="middle" >呈现度较高</td>
+                <td align="center" valign="middle" >2.75846</td>
+                <td align="center" valign="middle" >0.79206</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >互联网平台价值转化率</td>
+                <td align="center" valign="middle" >0.35162</td>
+                <td align="center" valign="middle" >转化率非常高</td>
+                <td align="center" valign="middle" >2.63108</td>
+                <td align="center" valign="middle" >0.92514</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >口碑传播力</td>
+                <td align="center" valign="middle" >0.36124</td>
+                <td align="center" valign="middle" >效果很好</td>
+                <td align="center" valign="middle" >2.80437</td>
+                <td align="center" valign="middle" >1.01305</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >综合绩效</td>
+                <td align="center" valign="middle" >100%</td>
+                <td align="center" valign="middle" >良好</td>
+                <td align="center" valign="middle" >/</td>
+                <td align="center" valign="middle" >2.73025062</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 甲居藏寨民宿运营能力绩效评估结果</p>
+        <p>1) 在互联网平台内容呈现度方面，民宿经营运用互联网平台和工具使用呈现出多元化趋势。借助信息技术，从民宿信息上传发布、网络营销、在线交流咨询及预定服务、后续反馈评价等各方面全面优化，充分发挥互联网集聚发散效应。第三方网络平台使用和自媒体平台使用均快速增长，知名度与价值转化率得到极大提升。另一方面，随着个性化定制和散客化趋势，在满足平台基础设施展示的基础上，民宿经营中特色呈现、个性化差异化定制的权重占比将日渐突出，从而构建民宿旅游意向，吸引旅游者并提高旅游满意度。</p>
+        <p>当前甲居藏寨民宿在互联网平台内容呈现指标评估中，得分评级为良好，得益于甲居藏寨民宿多年的持续发展，脉络清晰，传承性和互联网化程度高。其中民宿特色呈现权重占比有较大提升空间，依托于平台呈现优质内容和信息的基础上，甲居民宿经营者应当重视对民宿特色的呈现，按照“高信度、优精度、个性化、差异化”的原则进行平台运营，提升互联网平台及工具使用的能力，打造甲居特色。民宿旅游意向构建方面，权重及得分情况较差，未能在优化互联网化运营能力的基础上挖掘旅游意向，进而激发旅游需求进行价值转化，在今后民宿旅游开发过程中，应当注重对甲居民宿旅游意向构建的投入力度，提升意向指数并实现价值转化。</p>
+        <p>2) 在互联网平台价值转化率方面，随着民宿运营者年龄呈现年轻化趋势，返乡民宿创业大学生比例进一步攀升，民宿运营者整体素质提高，利用互联网平台和工具水平不断进步，目前在个性化定制、民宿特色呈现、主客文化交流等各方面运营水平显著提高，有效缓解了同质化竞争、入住体验差、文化性缺乏等问题，并提升了互联网平台价值转化率，甲居民宿互联网化运营质量显著提升。</p>
+        <p>借助互联网平台发散聚合作用，民宿经营者依托多种平台，通过平台内容呈现和旅游意向构建进行引流并实现价值转化。在平台使用率方面，甲居藏寨平台使用率绩效评级为良好，但在平台用户活跃度和多平台多渠道使用情况方面能力较差，制约了甲居民宿互联网运营能力发展，在今后发展中应当重视网络营销和跨平台跨渠道协作，实现在线引流进一步提升平台点击率与日活指数，利用流量曝光度提高平台预定率，避免低价恶性竞争促进平台价值转化指数能力发展。同时，应当鼓励当地政府、民间协会、第三方平台等相关主体组织培训工作，一方面提升民宿经营者平台使用能力，另一方面促进平台发展能力，根据甲居民宿发展的实际诉求，从平台融资能力、平台情感构建、平台操作管理三个方面带动平台发展力指数提升。</p>
+        <p>3) 在口碑传播力方面，其在民宿运营中重要性日益突出。运营是民宿旅游发展中重要一环，口碑传播因素贯穿运营始终。民宿运营者对宿客评价和主客交流重视程度日渐提升，更广泛借助互联网平台与工具达成目标，继而实现较高的返宿率和带动住宿率。第三方民宿平台也着力改善平台操作管理便捷性，融通交流渠道，实现现象级传播与高口碑并重。</p>
+        <p>本文从主客交流指数、宿客评价指数、返宿率与带动住宿率三个方面分析甲居民宿口碑传播力指数。当前甲居民宿主客交流和宿客评价方面评级较高，其中在线咨询回复率及时效性有进一步提升空间，民宿经营者应当重视在线咨询，解决游客诉求进而提升宿客评价率和好评率，实现甲居民宿口碑传播力指数的整体进步。同时应当重视宿客评价，对于投诉、差评应当进行纠察工作，改善运营能力，在此基础上实现二级传播，借助游客口碑宣传与推荐，提升平台再次预定及入住率、线下二次入住率。</p>
+      </sec>
+    </sec>
+    <sec id="s8">
+      <title>6. 结论</title>
+      <p>本文根据系统工程的理论，在对民宿互联网化运营能力分析的基础上，从互联网平台内容呈现度、互联网平台价值转化率和口碑传播力三个方面入手，共设置了1个目标层、3个准则层、9个关键问题层和32项具体指标，建立了针对甲居民宿互联网化运营能力绩效评估指标体系进行动态评估。研究结论显示：互联网平台内容呈现度对民宿互联网化运营起基础性作用，其完成情况直接影响到民宿运营水平；互联网平台价值转化率和口碑传播力是民宿运营能力提升的重要因素，权重占较高但实现情况与绩效得分有待提高。为进一步提升甲居民宿互联网化运营能力，提出了加强民宿特色呈现、构建民宿旅游意向、组织相关培训提升平台发展力指数及强化主客交流等方面的整改建议，以期能切实破解甲居发展桎梏，提升其互联网化运营能力，实现甲居民宿提档升级，打造甲居名片，找到一条适合在少数民族地区发展民宿旅游之路，进行普适性、延展性推广，将甲居民宿发展经验迁移至其他少数民族地区，促进民族地区经济发展，助力旅游扶贫及城镇化进程。</p>
+      <p>由于时间与条件限制，本文存在着以下不足之处：首先由于各方面资料不够翔实，可能会影响到评估结果；其次绩效评估是一项综合性评估，影响因素繁多、运行过程复杂，无法完全控制进而对研究结果有一定影响。在今后的研究中，笔者将对甲居藏寨进行再次实地调研考察，收集更多资料及数据信息，进一步完善评价指标体系并进行动态评估；紧随互联网及信息技术发展趋势及甲居民宿互联网化运营发展态势，对影响因子及其权重占比、绩效评级进行实时调整，解决新问题，实现新发展，以甲居民宿为基点，推动少数民族地区民宿旅游业的发展。</p>
+    </sec>
+    <sec id="s9">
+      <title>基金项目</title>
+      <p>成都信息工程大学创新训练计划校级立项(201710621123)。</p>
+    </sec>
+    <sec id="s10">
+      <title>文章引用</title>
+      <p>张超. 少数民族地区民宿互联网化运营能力研究分析——以甘孜丹巴甲居藏寨为例 Research and Analysis on the Internet Operation Ability of B&amp;B in Minority Areas—A Case Study of Ganzi, Danba[J]. 现代管理, 2019, 09(02): 231-238. https://doi.org/10.12677/MM.2019.92024</p>
+    </sec>
+    <sec id="s11">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.29515-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Sline, S.F., Morrison, A.M. and John, A.S. (2005) Exploring Bed &amp; Breakfast Websites. Journal of Travel &amp; Tourism Marketing, 17, 98-102.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Jeong, M. (2004) An Exploratory Study of Perceived Importance of Web Site Characteristics: The Case of the Bed and Breakfast Industry. Journal of Hospitality Marketing and Management, 11, 29-44.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Fesenmaier, D.R. (2000) Information and Communication Technologies in Tourism 2000. In: Proceedings of the International Conference on Information Technology and Tourism, Springer-Verlag, New York, 244-250.
+          &lt;br&gt;https://doi.org/10.1007/978-3-7091-6291-0
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Rita, P. (2000) Web Marketing Tourism Destinations. In: The 8th European Conference on Information Systems, Springer, Vienna, 1096-1103.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">颜燕. 基于互联网 + 民宿的村落发展新模式研究——以海南中部地区少数民族村落为例[J]. 区域经济, 2014(3): 40-41.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">陈春燕. 杭州西湖风景区民宿的现状及发展对策分析[J]. 区域经济, 2015(4): 122-125.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">邹林杰, 王志凌. “互联网+民宿产业”的旅游扶贫研究——以贵州省为例[J]. 财富经济, 2016(11): 66-68.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">吴亚平, 王璟怡, 李剑. 智慧旅游视角下的民族村寨民宿业营销策略——贵州黎平县滚正村个案研究[J]. 贵州学院报, 2016(7): 53-57.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">郭珊珊. 基于个性化定制的旅游电商网站产品设计研究[J]. 经营管理者, 2015(8): 39.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">黄安民. 互联网+旅游: 创意旅游、旅游融资及平台整合[J]. 科技与产业, 2015(2): 34.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">段冰杰. 自媒体与大学生旅游动机的调查分析——以延边大学学生为例[J]. 旅游纵览, 2016(7): 258-259.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张思豆, 李君轶. 旅游电商平台在线评论的可信度研究——以“阿里旅行西安东线一日游”旅游产品为例[J]. 旅游学刊, 2016(11): 74-77.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杨晓. 乡村旅游电商平台亟待破解两个痛点[J]. 中国旅游报, 2016(3): 44.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">阮雯. 民宿业发展新态势与政府行为分析——基于杭州民宿的调查研究[J]. 山东行政学院学报, 2016(1): 77-81.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">吴思锐, 章煜. 南京市旅游电子商务发展现状[J]. 商场现代化, 2016(20): 40-47.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29515-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">刘旺, 吴雪. 少数民族地区社区旅游参与的微观机制研究-以丹巴县甲居藏寨为例[J]. 四川师范大学学报社会科学版, 2008, 35(2): 140-144.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

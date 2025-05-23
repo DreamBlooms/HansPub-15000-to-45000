@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ASS</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Social Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2169-2556</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/ASS.2017.611196</article-id>
+      <article-id pub-id-type="publisher-id">ASS-22707</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>ASS20171100000_45355325.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>人文社科</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          图书馆数据挖掘技术研究的现状与发展
+          Status Quo and Development of Technology of Library Data Mining
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>马</surname>
+            <given-names>征亚</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sub>1</sub>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>西安工业大学图书馆，陕西 西安</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>997369313@qq.com</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>06</volume>
+      <issue>11</issue>
+      <fpage>1394</fpage>
+      <lpage>1399</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          以中国知网的“中国学术期刊网络出版总库”为数据源，检索2010年~2016年国内图书馆数据挖掘研究论文，对其从读者个性化服务、文献采访、数字资源建设、信息服务等方面进行主题评述，指出现阶段图书馆数据挖掘研究存在的问题。 This paper retrieves the papers on library data mining published from 2010 to 2016, based on the academic literature in the field of academy culture database research from CNKI. Some aspects of them are analyzed such as the reader service, personalized document acquisition and digital resources, information service. This paper points out the problems existing in the research of library data mining.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>数据挖掘，图书馆，综述, Data Mining</kwd>
+        <kwd> Library</kwd>
+        <kwd> Overview</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        图书馆数据挖掘技术研究的现状与发展<sup> </sup>
+      </title>
+      <p>马征亚</p>
+      <p>西安工业大学图书馆，陕西 西安</p>
+      <p>收稿日期：2017年10月27日；录用日期：2017年11月10日；发布日期：2017年11月17日</p>
+      <disp-formula id="hanspub.22707-formula55">
+        <graphic xlink:href="//html.hanspub.org/file/9-2390821x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>以中国知网的“中国学术期刊网络出版总库”为数据源，检索2010年~2016年国内图书馆数据挖掘研究论文，对其从读者个性化服务、文献采访、数字资源建设、信息服务等方面进行主题评述，指出现阶段图书馆数据挖掘研究存在的问题。</p>
+      <p>关键词 :数据挖掘，图书馆，综述</p>
+      <disp-formula id="hanspub.22707-formula56">
+        <graphic xlink:href="//html.hanspub.org/file/9-2390821x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by author and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/9-2390821x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/9-2390821x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 前言</title>
+      <p>
+        随着计算机技术、通信技术和多媒体技术的迅速发展与综合利用，人类已经进入信息时代。如今各行各业都建立了信息化系统，每天都会产生大量的数据。这些数据通常数量很多，并且以其原始形式显示时并没有什么直接用处。数据挖掘就是通过数据库、机器学习、人工智能、统计学等领域的技术，从这些原始数据中提取出那些隐含的、未知的和有价值的潜在的信息的过程 [<xref ref-type="bibr" rid="hanspub.22707-ref1">1</xref>] 。图书馆的各种信息资源(如图书借还日志、WEB访问记录、书目检索记录等)包含着大量潜在、有价值的信息，这些信息往往能反映出读者实际的信息需求。通过数据挖掘技术所挖掘出有意义的隐藏信息，不仅有益图书馆了解读者信息需求，而且对于图书馆的各项业务如开展个性化服务、文献采访工作、数字图书馆建设、参考咨询工作等都具有重要的参考价值。近几年来由于数据挖掘在图书馆行业得到不断广泛的应用，吸引了更多的图书馆研究人员关注这个领域的发展，研究成果颇多。笔者统计了近六年我国有关图书馆数据挖掘领域的论文，对其进行整理和归纳，分析数据挖掘在国内图书馆领域研究的现状，并指出研究的不足之处，为进一步的研究指明了方向。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 数据挖掘技术在图书馆应用的研究现状分析</title> </sec>
+      <sec id="s4_1">
+        <title>2.1. 文献计量分析</title>
+        <p>通过对中国知网“中国学术期刊网络出版总库”收录的2010~2016年间有关国内数据挖掘技术在图书馆应用研究方面的论文进行定量、归纳分析，以展示其研究现状。采用检索表达式“主题 = (图书馆)并且主题 = (数据挖掘)并且时间 = (2010~2016)”进行检索，得到有效记录856条(以上检索时间为2016年11月24日)。</p>
+        <p>从发表论文的年代分布看，国内数据挖掘技术在图书馆的应用研究所发表的论文数量先逐年递增，在2014年达到最高值后又逐年递减。发表论文的数量说明学者在这一领域的研究热情很高，数据挖掘技术在图书馆的应用具有广阔前景；2014年以后逐年递减说明学者在这一领域的研究可能遇到了瓶颈。</p>
+        <p>从发表论文的来源期刊看(表1)，856篇公开发表的期刊论文均分布在省级以上刊物中。其中发表在核心期刊上的论文为176篇，占总发表量的20.6%，被中国社会科学引文索引(CSSCI)收录的论文87篇，占论文总数的10.2%。这表明其研究成果主要集中在普通刊物，学术成果价值较高的论文不多。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 研究方向和算法</title>
+        <p>
+          图书馆应用数据挖掘研究主要集中在三个研究方向：关联分析、聚类分析和决策树，其中应用关联分析数据挖掘的文献量占总量的60%，聚类分析的文献量占30%，决策树应用比率较低，只占10%。也有些文献进行数据挖掘时综合应用两种手段，如《基于Weka读者借阅行为分析》应用了聚类和关联规则两种技术 [<xref ref-type="bibr" rid="hanspub.22707-ref2">2</xref>] ，《基于数据挖掘的高校图书馆个性化信息推荐方法研究》先从读者借阅图书类别入手对读者进行聚类分析，把高校图书馆中的读者细分为不同的群体，然后再进行有针对性的关联挖掘 [<xref ref-type="bibr" rid="hanspub.22707-ref3">3</xref>] 。《基于数据挖掘的图书馆书目推荐服务的研究》采用决策树和聚类分析 [<xref ref-type="bibr" rid="hanspub.22707-ref4">4</xref>] 。大部分关联分析采用最常用的Apriori算法，也有用CARMA算法或者基于邻接矩阵的算法；聚类分析大部分采用K-Means算法，也有用两步聚类模型及使用基于目标函数的模糊聚类算法。决策树采用C4.5算法。有的研究探讨了一些算法
+        </p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Shows the distribution of the domestic library data mining technology research paper</title>
+          </caption>
+          </table-wrap>
+            </sec>
+      </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22707-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Han, J.W. and Kamber, M., 著. 数据挖掘概念与技术[M]. 范明, 等, 译. 北京: 机械工业出版社, 2001.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">储文静, 奉国和. 基于Weka读者借阅行为分析[J]. 情报科学, 2010, 28(3): 424-429.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">刘显显. 基于数据挖掘的高校图书馆个性化信息推荐方法研究[D]: [硕士学位论文]. 沈阳: 辽宁大学, 2013.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">荆月敏. 基于数据挖掘的图书馆书目推荐服务的研究[D]: [硕士学位论文]. 太原: 中北大学, 2014.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">杨蓉. Apriori算法在图书馆个性化服务中的应用研究[D]: [硕士学位论文]. 长沙: 中南大学, 2013.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">郑晖. 基于Web挖掘的图书馆个性化推荐系统的设计与实现[D]: [硕士学位论文]. 成都: 电子科技大学, 2013.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">李静. 数据挖掘技术在高校图书馆个性化服务中的应用研究[D]: [硕士学位论文]. 天津: 天津大学, 2012.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">王哲. 数据挖掘技术在高校图书馆个性化服务中的应用研究[D]: [硕士学位论文]. 重庆: 重庆大学, 2012.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref9">
+                <label>9</label>
+                <mixed-citation publication-type="other" xlink:type="simple">袁媛. 数据挖掘在高校图书馆个性化服务中的应用研究[D]: [硕士学位论文]. 郑州: 郑州大学, 2011.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref10">
+                <label>10</label>
+                <mixed-citation publication-type="other" xlink:type="simple">王婧怡. 征订信息管理与订购决策支持系统研究[D]: [硕士学位论文]. 镇江: 江苏大学, 2010.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref11">
+                <label>11</label>
+                <mixed-citation publication-type="other" xlink:type="simple">张宏伟. 数据挖掘在高校图书馆文献采访决策中的应用[C]//中华中医药学会. 全国中医药图书信息学术会议暨第十一届中医药院校图书馆馆长会议论文集, 2014.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref12">
+                <label>12</label>
+                <mixed-citation publication-type="other" xlink:type="simple">唐吉深. 基于数据挖掘的应用型高校图书馆文献采访研究[J]. 农业网络信息, 2014(3): 22-24.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref13">
+                <label>13</label>
+                <mixed-citation publication-type="other" xlink:type="simple">赵研科. 基于数据挖掘的高校图书釆访决策系统设计与实现[D]: [硕士学位论文]. 长沙: 湖南大学, 2012.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref14">
+                <label>14</label>
+                <mixed-citation publication-type="other" xlink:type="simple">黄筱玲, 李雯. 基于数据分析的高校图书馆数字资源建设优化——以湖南大学图书馆为例[J]. 高校图书馆工作, 2012, 32(1): 58-60.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref15">
+                <label>15</label>
+                <mixed-citation publication-type="other" xlink:type="simple">何毅. 资源发现 知识导航——大数据时代图书馆的数字资源建设与服务[J]. 中国索引, 2013(4): 23-27.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref16">
+                <label>16</label>
+                <mixed-citation publication-type="other" xlink:type="simple">史敏鸽, 孙勇, 崔玲玲. 基于用户需求的高校图书馆数字资源系统评价方法研究——以长安大学图书馆为例[J]. 情报探索, 2016(9): 80-85.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref17">
+                <label>17</label>
+                <mixed-citation publication-type="other" xlink:type="simple">魏笑笑. 高校图书馆数字资源现状调查与模式分析——以陕西42所本科院校为例[J]. 农业图书情报学刊, 2016, 28(2): 32-35.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref18">
+                <label>18</label>
+                <mixed-citation publication-type="other" xlink:type="simple">汤辉. 数据挖掘在图书馆知识咨询中的应用研究[J]. 农业图书情报学刊, 2015, 27(2): 91-93.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref19">
+                <label>19</label>
+                <mixed-citation publication-type="other" xlink:type="simple">姚展. 高校图书馆信息咨询服务体系构建研究[J]. 通讯世界, 2016(6): 220-221.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref20">
+                <label>20</label>
+                <mixed-citation publication-type="other" xlink:type="simple">乔幸娟. 数据挖掘技术在数字图书馆中的应用研究[J]. 农业图书情报学刊, 2014, 26(12): 118-120.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref21">
+                <label>21</label>
+                <mixed-citation publication-type="other" xlink:type="simple">杨峰. 大数据环境下开拓参考咨询服务新领域[J]. 农业图书情报学刊, 2014, 26(12): 206-208.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref22">
+                <label>22</label>
+                <mixed-citation publication-type="other" xlink:type="simple">黄如花, 李白杨. 数据密集型科研环境下的知识组织与导航模式研究[J]. 图书馆学研究, 2015(11): 51-55.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22707-ref23">
+                <label>23</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Nicholson, S. (2003) Bibliomining for Automated Collection Development in a Digital Library Setting: Using Data Mining to Discover Web-Based Scholarly Research Works. Journal of the American Society for Information Science and Technology, 54, 1081-1090. &lt;br&gt;https://doi.org/10.1002/asi.10313</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

@@ -1,0 +1,1904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">FIN</journal-id>
+      <journal-title-group>
+        <journal-title>Finance</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2161-0967</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/FIN.2019.96068</article-id>
+      <article-id pub-id-type="publisher-id">FIN-32804</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>FIN20190600000_25692957.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          中国蓝筹股的长期股权投资回报
+          The Long-Term Investment Return of Chinese Blue-Chip Stocks
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>楚</surname>
+            <given-names>义芳</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>许</surname>
+            <given-names>源</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>夏</surname>
+            <given-names>思博</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>南开大学经济学院，天津</addr-line>
+      </aff>
+      <aff id="aff3">
+        <addr-line>江苏金融租赁股份有限公司，江苏 南京</addr-line>
+      </aff>
+      <aff id="aff4">
+        <addr-line>美国维克森林大学商学院，美国</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>10</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>06</issue>
+      <fpage>611</fpage>
+      <lpage>624</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          蓝筹股的长期投资回报作为投资收益率的重要标杆，既受到金融市场投资者，也受到实体经济领域投资者的普遍重视。本文以中国沪深300这一蓝筹股指数为样本，首先从回溯的角度，测算了中国蓝筹股的历史投资回报；之后，再从未来现金流的角度，估计了中国蓝筹股的预期股权回报。并在此基础上，将之与美国标普500指数对应的长期股权投资回报作了对比。最后，对目前阶段适用的中国蓝筹股长期股权投资回报值作了讨论。 The long-term investment return of blue-chip stocks is a key benchmark rate for both financial market investors and main street investors. This paper probes into the long-term investment re-turn of Chinese blue-chip stocks, which is represented by Shanghai-Shenzhen 300 Index (CSI 300 Index). CSI 300 Index was published on April 8th, 2005, and started with the base of 1000 points set on Dec. 31, 2004. From the start of 1000 points to the end of 2018, CSI 300 Index has yielded 8.19% annually. At the same time, S&amp;P 500 has a 7.49% annual return. For the last 10 years since the financial crisis, CSI 300 Index has only returned 5.18% annually, but S&amp;P 500 annual return reached as high as 12.98%. To estimate the expected return of CSI 300, we applied the Dividend Discount Model (DDM) with some modifications. According to the calculation of the historical in-vestment return and the estimate of expected return of CSI 300, we conclude that the long-term investment annual return of CSI 300 is at the range of 8% - 10%, but currently, it is at the lower end of the range. So, recently we may take 8% as the benchmark annual return rate for long-term investment of Chinese blue-chip stocks.
+
+
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>蓝筹股，沪深300，历史投资回报，预期股权回报，股权风险溢价，标普500, Blue-Chip Stocks</kwd>
+        <kwd> CSI 300</kwd>
+        <kwd> Historical Investment Return</kwd>
+        <kwd> Expected Return on Stocks</kwd>
+        <kwd> S P 500</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        中国蓝筹股的长期股权投资回报<sup> </sup>
+      </title>
+      <p>
+        楚义芳<sup>1</sup>，许源<sup>2</sup>，夏思博<sup>3</sup>
+      </p>
+      <p>
+        <sup>1</sup>南开大学经济学院，天津
+      </p>
+      <p>
+        <sup>2</sup>江苏金融租赁股份有限公司，江苏 南京
+      </p>
+      <p>
+        <sup>3</sup>美国维克森林大学商学院，美国
+      </p>
+      <p>
+        <img src="//html.hanspub.org/file/7-1140454x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年10月14日；录用日期：2019年10月29日；发布日期：2019年11月5日</p>
+      <disp-formula id="hanspub.32804-formula43">
+        <graphic xlink:href="//html.hanspub.org/file/7-1140454x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>蓝筹股的长期投资回报作为投资收益率的重要标杆，既受到金融市场投资者，也受到实体经济领域投资者的普遍重视。本文以中国沪深300这一蓝筹股指数为样本，首先从回溯的角度，测算了中国蓝筹股的历史投资回报；之后，再从未来现金流的角度，估计了中国蓝筹股的预期股权回报。并在此基础上，将之与美国标普500指数对应的长期股权投资回报作了对比。最后，对目前阶段适用的中国蓝筹股长期股权投资回报值作了讨论。</p>
+      <p>关键词 :蓝筹股，沪深300，历史投资回报，预期股权回报，股权风险溢价，标普500</p>
+      <disp-formula id="hanspub.32804-formula44">
+        <graphic xlink:href="//html.hanspub.org/file/7-1140454x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/7-1140454x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/7-1140454x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 问题的提出</title>
+      <p>在股票市场上，投资者习惯将市值大、市场流动性好、经营稳健、回报丰厚的行业龙头企业称为蓝筹股。由蓝筹股构建的市场指数，具有良好的市场代表性。世所公认，美国的标普500指数是发达市场代表性的蓝筹股指数；而中国市场上的沪深300指数，具有与标普500指数类似的属性，可以说是中国的蓝筹股指数。</p>
+      <p>一定时期内蓝筹股指数的涨跌(收益率)，反映的是投资者的股权投资回报。蓝筹股指数变动所代表的股权投资回报，一方面自然地成为金融市场上权益类投资的比较基准；另一方面，发生在实体经济领域的投资，投资者都有自己的投资回报要求(权益资本成本)，而股票市场上蓝筹股的长期投资收益率，也是实业投资者长期股权投资回报的重要比较基准。</p>
+      <p>与固定收益类投资中10年期国债收益率的地位一样，蓝筹股的股权投资回报是日趋成熟的市场经济体的一个投资标杆(benchmark)。这个基准的确立与成熟，实际上是建立了一个权益投资的标准，而这个标准的存在，对于全社会权益类资源的配置，有着重要的信号指示与引导意义。</p>
+      <p>
+        经过100多年的发展，美国的股票市场已经相当成熟，作为美国蓝筹股的汇聚和代表，标普500指数的标杆作用已经确立 [<xref ref-type="bibr" rid="hanspub.32804-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.32804-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.32804-ref3">3</xref>]。中国现代资本市场的重建与恢复还不到30年的时间，而与此同时，中国已经快速崛起成为世界第二大经济体。相应地，对于2005年4月8日发布并运行的沪深300指数这个蓝筹股集群，自然可以有如下的提问：
+      </p>
+      <p>&#183; 沪深300指数所代表的中国股票市场的成熟程度如何？</p>
+      <p>&#183; 沪深300指数是否已经具备长期投资的条件与价值？</p>
+      <p>&#183; 沪深300指数的长期股权投资回报如何？</p>
+      <p>&#183; 在中国的实业投资中，将沪深300指数收益率作为实业投资回报的重要参照基准，是否已经可行？</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 蓝筹股的历史投资回报</title>
+      <p>要回答上述问题，至少必须从两个方面着手：</p>
+      <p>第一，计算沪深300指数的历史回报。蓝筹股指数的历史回报，是市场运行的结果。虽然股票市场永远是波动的，但市场在走向成熟的过程中，蓝筹股指数所代表的市场回报，在一个较长尺度的时间内，会逐渐稳定在一定的水平，而某个具体年份的市场回报，长期来看会围绕着市场回报均值上下波动，是为均值回归(Mean Regression)。股市历史不会重复，但现在与将来毕竟是历史的延续，蓝筹股指数真实的历史回报因而有意义。在现实实践中，金融市场与实体经济的投资者，对于蓝筹股指数历史回报的指示作用和基准地位，都是非常看重的。</p>
+      <p>从历史推演未来，对于历史悠久的成熟市场比较适用，而对于像中国股市这样建立不久、尚处于发展阶段的新兴市场，适用性或许相对就差一些？但中国股市终究是要走向成熟的，计算出沪深300指数的历史回报，并将之与美国标普500指数的历史回报进行比较，对于中国股票市场的未来发展，应该会有所启迪。</p>
+      <p>第二，贴现估计沪深300指数的预期回报。计算蓝筹股指数的历史回报，无疑是往回看，相信历史虽不会重演，但总是惊人地相似(History does not repeat itself, but it does often rhyme——马克&#183;吐温)。而贴现估计沪深300指数的预期回报，着眼的是未来，是与计算历史回报反方向的一种思路。这种估计，理论上根植于股息折现模型(Dividend Discount Model, DDM)，具有完美的逻辑基础。虽然，贴现计算沪深300指数过去时点的预期回报时，会有已经发生的历史分红和回购数据，但由于涉及未来，必然还会有关于未来的参数设置，因此，贴现计算沪深300指数的预期回报，在性质上是一种估计(an estimate of expected return on stocks)。</p>
+      <p>
+        不过，相对于历史回报的计算，只要能够获得市场新的参数值(利润增长、分红比率等)，投资者就可以更新计算蓝筹股的预期回报，并进一步获得相应的股权风险溢价(Equity Risk Premium, ERP) [<xref ref-type="bibr" rid="hanspub.32804-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.32804-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.32804-ref6">6</xref>]，对于资本市场的长线投资者，这种估值是非常有意义的，有很好的实用价值。而且，对于中国这样的新兴市场，随着时间的推移，市场逐渐走向成熟，通过贴现获得的估计值样本逐渐增加，样本的均值与中位数的实用价值就会显现出来。
+      </p>
+      <p>首先，我们可以从两个角度，来考察蓝筹股的历史投资回报：一是固定投资基期，来计算不同投资期限的回报，比如，以2004年年底沪深300指数1000点时为投资起点，分别计算投资期为1年、2年、3年……14年的投资回报。这是一种偏静态的考察方式，可以获得固定时点长期股权投资回报的基本情况。</p>
+      <p>二是固定投资期限长度，从不同的投资起始点去测算各投资期限的回报，如以2004年年底沪深300指数1000点时为第一个投资起始点，然后投资起点后推一个交易日，再后推一日，……这样来滚动计算投资期为1年、2年、3年……14年的投资回报，这是一种动态的考察方式，它更多地揭示了投资收益的波动特性，而对成熟市场来说，对于较长期限的投资，股权投资回报应该是相对稳定的。</p>
+      <p>(一) 固定基期的投资回报</p>
+      <p>中国股市建立不足30年，而沪深300指数运行更是不足15年的时间。美国标普500指数正式包含500只成份股是在1957年，已经运行超过62年。对比2004年底以来，两个指数105个固定基期的投资回报(见表1和表2，均未考虑现金分红因素)，发现：</p>
+      <p>1) 沪深300指数只有投资12年以上的6个固定基期的年均(几何平均，后同)投资回报全部为正，而标普500指数投资6年以上的90个固定基期的年均投资回报全部为正。换言之，2004年底以来，如果投资者选择在年底投资买入并长期持有，标普500指数基金投资者持有6年以上(自然年，整数)的，都可以确保年均投资回报为正；而沪深300指数基金投资者持有12年以上的，才可以确保年均投资回报为正。</p>
+      <p>2) 如果投资者年底投资买入长期持有，两个指数全部105个固定基期的投资回报中，投资沪深300指数基金，有32个投资回报为负，占比30.48%；而投资标普500指数基金，只有14个投资回报为负，占比仅为13.33%。</p>
+      <p>由此可见，沪深300与标普500两个指数的可投资性有相当大的差别，中国股市高波动性的新兴市场特征还很明显。</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> CSI 300: year-end closing and related fixed-term investment retur</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  rowspan="2"  >时点</th>
+                <th align="center" valign="middle"  rowspan="2"  >沪深300</th>
+                <th align="center" valign="middle"  colspan="14"  >投资期限(时长，自然年)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >1</td>
+              <td align="center" valign="middle" >2</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >4</td>
+              <td align="center" valign="middle" >5</td>
+              <td align="center" valign="middle" >6</td>
+              <td align="center" valign="middle" >7</td>
+              <td align="center" valign="middle" >8</td>
+              <td align="center" valign="middle" >9</td>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >11</td>
+              <td align="center" valign="middle" >12</td>
+              <td align="center" valign="middle" >13</td>
+              <td align="center" valign="middle" >14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2004- 12-31</td>
+              <td align="center" valign="middle" >1000.00</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2005- 12-30</td>
+              <td align="center" valign="middle" >923.45</td>
+              <td align="center" valign="middle" >−7.66%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006- 12-29</td>
+              <td align="center" valign="middle" >2041.05</td>
+              <td align="center" valign="middle" >121.02%</td>
+              <td align="center" valign="middle" >42.87%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2007- 12-28</td>
+              <td align="center" valign="middle" >5338.28</td>
+              <td align="center" valign="middle" >161.55%</td>
+              <td align="center" valign="middle" >140.43%</td>
+              <td align="center" valign="middle" >74.77%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2008- 12-31</td>
+              <td align="center" valign="middle" >1817.72</td>
+              <td align="center" valign="middle" >−65.95%</td>
+              <td align="center" valign="middle" >−5.63%</td>
+              <td align="center" valign="middle" >25.33%</td>
+              <td align="center" valign="middle" >16.11%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009- 12-31</td>
+              <td align="center" valign="middle" >3575.68</td>
+              <td align="center" valign="middle" >96.71%</td>
+              <td align="center" valign="middle" >−18.16%</td>
+              <td align="center" valign="middle" >20.55%</td>
+              <td align="center" valign="middle" >40.28%</td>
+              <td align="center" valign="middle" >29.02%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2010- 12-31</td>
+              <td align="center" valign="middle" >3128.26</td>
+              <td align="center" valign="middle" >−12.51%</td>
+              <td align="center" valign="middle" >31.19%</td>
+              <td align="center" valign="middle" >−16.32%</td>
+              <td align="center" valign="middle" >11.27%</td>
+              <td align="center" valign="middle" >27.64%</td>
+              <td align="center" valign="middle" >20.93%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2011- 12-30</td>
+              <td align="center" valign="middle" >2345.74</td>
+              <td align="center" valign="middle" >−25.01%</td>
+              <td align="center" valign="middle" >−19.00%</td>
+              <td align="center" valign="middle" >8.87%</td>
+              <td align="center" valign="middle" >−18.58%</td>
+              <td align="center" valign="middle" >2.82%</td>
+              <td align="center" valign="middle" >16.81%</td>
+              <td align="center" valign="middle" >12.95%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2012- 12-31</td>
+              <td align="center" valign="middle" >2522.95</td>
+              <td align="center" valign="middle" >7.55%</td>
+              <td align="center" valign="middle" >−10.19%</td>
+              <td align="center" valign="middle" >−10.97%</td>
+              <td align="center" valign="middle" >8.54%</td>
+              <td align="center" valign="middle" >−13.92%</td>
+              <td align="center" valign="middle" >3.60%</td>
+              <td align="center" valign="middle" >15.44%</td>
+              <td align="center" valign="middle" >12.26%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2013- 12-31</td>
+              <td align="center" valign="middle" >2330.03</td>
+              <td align="center" valign="middle" >−7.65%</td>
+              <td align="center" valign="middle" >−0.34%</td>
+              <td align="center" valign="middle" >−9.35%</td>
+              <td align="center" valign="middle" >−10.15%</td>
+              <td align="center" valign="middle" >5.09%</td>
+              <td align="center" valign="middle" >−12.90%</td>
+              <td align="center" valign="middle" >1.91%</td>
+              <td align="center" valign="middle" >12.26%</td>
+              <td align="center" valign="middle" >9.85%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2014- 12-31</td>
+              <td align="center" valign="middle" >3533.71</td>
+              <td align="center" valign="middle" >51.66%</td>
+              <td align="center" valign="middle" >18.35%</td>
+              <td align="center" valign="middle" >14.63%</td>
+              <td align="center" valign="middle" >3.09%</td>
+              <td align="center" valign="middle" >−0.24%</td>
+              <td align="center" valign="middle" >11.72%</td>
+              <td align="center" valign="middle" >−5.72%</td>
+              <td align="center" valign="middle" >7.10%</td>
+              <td align="center" valign="middle" >16.08%</td>
+              <td align="center" valign="middle" >13.45%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2015- 12-31</td>
+              <td align="center" valign="middle" >3731.00</td>
+              <td align="center" valign="middle" >5.58%</td>
+              <td align="center" valign="middle" >26.54%</td>
+              <td align="center" valign="middle" >13.93%</td>
+              <td align="center" valign="middle" >12.30%</td>
+              <td align="center" valign="middle" >3.59%</td>
+              <td align="center" valign="middle" >0.71%</td>
+              <td align="center" valign="middle" >10.82%</td>
+              <td align="center" valign="middle" >−4.38%</td>
+              <td align="center" valign="middle" >6.93%</td>
+              <td align="center" valign="middle" >14.98%</td>
+              <td align="center" valign="middle" >12.72%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2016- 12-30</td>
+              <td align="center" valign="middle" >3310.08</td>
+              <td align="center" valign="middle" >−11.28%</td>
+              <td align="center" valign="middle" >−3.22%</td>
+              <td align="center" valign="middle" >12.42%</td>
+              <td align="center" valign="middle" >7.02%</td>
+              <td align="center" valign="middle" >7.13%</td>
+              <td align="center" valign="middle" >0.95%</td>
+              <td align="center" valign="middle" >−1.10%</td>
+              <td align="center" valign="middle" >7.78%</td>
+              <td align="center" valign="middle" >−5.17%</td>
+              <td align="center" valign="middle" >4.95%</td>
+              <td align="center" valign="middle" >12.31%</td>
+              <td align="center" valign="middle" >10.49%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2017- 12-29</td>
+              <td align="center" valign="middle" >4030.85</td>
+              <td align="center" valign="middle" >21.78%</td>
+              <td align="center" valign="middle" >3.94%</td>
+              <td align="center" valign="middle" >4.49%</td>
+              <td align="center" valign="middle" >14.69%</td>
+              <td align="center" valign="middle" >9.82%</td>
+              <td align="center" valign="middle" >9.44%</td>
+              <td align="center" valign="middle" >3.69%</td>
+              <td align="center" valign="middle" >1.51%</td>
+              <td align="center" valign="middle" >9.25%</td>
+              <td align="center" valign="middle" >−2.77%</td>
+              <td align="center" valign="middle" >6.38%</td>
+              <td align="center" valign="middle" >13.07%</td>
+              <td align="center" valign="middle" >11.32%</td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2018- 12-28</td>
+              <td align="center" valign="middle" >3010.65</td>
+              <td align="center" valign="middle" >−25.31%</td>
+              <td align="center" valign="middle" >−4.63%</td>
+              <td align="center" valign="middle" >−6.90%</td>
+              <td align="center" valign="middle" >−3.93%</td>
+              <td align="center" valign="middle" >5.26%</td>
+              <td align="center" valign="middle" >2.99%</td>
+              <td align="center" valign="middle" >3.63%</td>
+              <td align="center" valign="middle" >−0.48%</td>
+              <td align="center" valign="middle" >−1.89%</td>
+              <td align="center" valign="middle" >5.18%</td>
+              <td align="center" valign="middle" >−5.07%</td>
+              <td align="center" valign="middle" >3.29%</td>
+              <td align="center" valign="middle" >9.52%</td>
+              <td align="center" valign="middle" >8.19%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表1. 沪深300指数年收盘及固定时点各期限投资回报</p>
+      <p>那么，自沪深300指数发布运行以来，其历史投资回报如何？标普500指数的长期历史投资回报又如何？</p>
+      <p>计算表明(见表3)：自2004年底1000点到2018年底，14年沪深300的年均回报为8.19%，同期，标普500为7.49%；而发生金融危机以来的10年，沪深300的年均回报只有5.18%，标普500的年均回报则高达12.98%。值得注意的是，在50年及以上的三个长期限里，标普500的历史年均回报都在10%左右。</p>
+      <table-wrap id="table2" >
+        <label>
+          <xref ref-type="table" rid="table2">Table 2</xref>
+        </label>
+        <caption>
+          <title> S&amp;P 500: year-end closing and related fixed-term investment retur</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  rowspan="2"  >时点</th>
+                <th align="center" valign="middle"  rowspan="2"  >标普500</th>
+                <th align="center" valign="middle"  colspan="14"  >投资期限(时长，自然年)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >1</td>
+              <td align="center" valign="middle" >2</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >4</td>
+              <td align="center" valign="middle" >5</td>
+              <td align="center" valign="middle" >6</td>
+              <td align="center" valign="middle" >7</td>
+              <td align="center" valign="middle" >8</td>
+              <td align="center" valign="middle" >9</td>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >11</td>
+              <td align="center" valign="middle" >12</td>
+              <td align="center" valign="middle" >13</td>
+              <td align="center" valign="middle" >14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2004-12-31</td>
+              <td align="center" valign="middle" >1211.92</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2005-12-30</td>
+              <td align="center" valign="middle" >1248.29</td>
+              <td align="center" valign="middle" >3.00%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006-12-29</td>
+              <td align="center" valign="middle" >1418.30</td>
+              <td align="center" valign="middle" >13.62%</td>
+              <td align="center" valign="middle" >8.18%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2007-12-31</td>
+              <td align="center" valign="middle" >1468.36</td>
+              <td align="center" valign="middle" >3.53%</td>
+              <td align="center" valign="middle" >8.46%</td>
+              <td align="center" valign="middle" >6.61%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2008-12-31</td>
+              <td align="center" valign="middle" >903.25</td>
+              <td align="center" valign="middle" >−38.49%</td>
+              <td align="center" valign="middle" >−20.20%</td>
+              <td align="center" valign="middle" >−10.22%</td>
+              <td align="center" valign="middle" >−7.09%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009-12-31</td>
+              <td align="center" valign="middle" >1115.10</td>
+              <td align="center" valign="middle" >23.45%</td>
+              <td align="center" valign="middle" >−12.86%</td>
+              <td align="center" valign="middle" >−7.70%</td>
+              <td align="center" valign="middle" >−2.78%</td>
+              <td align="center" valign="middle" >−1.65%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2010-12-31</td>
+              <td align="center" valign="middle" >1257.64</td>
+              <td align="center" valign="middle" >12.78%</td>
+              <td align="center" valign="middle" >18.00%</td>
+              <td align="center" valign="middle" >−5.03%</td>
+              <td align="center" valign="middle" >−2.96%</td>
+              <td align="center" valign="middle" >0.15%</td>
+              <td align="center" valign="middle" >0.62%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2011-12-30</td>
+              <td align="center" valign="middle" >1257.60</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >6.20%</td>
+              <td align="center" valign="middle" >11.66%</td>
+              <td align="center" valign="middle" >−3.80%</td>
+              <td align="center" valign="middle" >−2.38%</td>
+              <td align="center" valign="middle" >0.12%</td>
+              <td align="center" valign="middle" >0.53%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2012-12-31</td>
+              <td align="center" valign="middle" >1426.19</td>
+              <td align="center" valign="middle" >13.41%</td>
+              <td align="center" valign="middle" >6.49%</td>
+              <td align="center" valign="middle" >8.55%</td>
+              <td align="center" valign="middle" >12.10%</td>
+              <td align="center" valign="middle" >−0.58%</td>
+              <td align="center" valign="middle" >0.09%</td>
+              <td align="center" valign="middle" >1.92%</td>
+              <td align="center" valign="middle" >2.06%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2013-12-31</td>
+              <td align="center" valign="middle" >1848.36</td>
+              <td align="center" valign="middle" >29.60%</td>
+              <td align="center" valign="middle" >21.23%</td>
+              <td align="center" valign="middle" >13.70%</td>
+              <td align="center" valign="middle" >13.47%</td>
+              <td align="center" valign="middle" >15.40%</td>
+              <td align="center" valign="middle" >3.91%</td>
+              <td align="center" valign="middle" >3.86%</td>
+              <td align="center" valign="middle" >5.03%</td>
+              <td align="center" valign="middle" >4.80%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2014-12-31</td>
+              <td align="center" valign="middle" >2058.90</td>
+              <td align="center" valign="middle" >11.39%</td>
+              <td align="center" valign="middle" >20.15%</td>
+              <td align="center" valign="middle" >17.86%</td>
+              <td align="center" valign="middle" >13.11%</td>
+              <td align="center" valign="middle" >13.05%</td>
+              <td align="center" valign="middle" >14.72%</td>
+              <td align="center" valign="middle" >4.95%</td>
+              <td align="center" valign="middle" >4.77%</td>
+              <td align="center" valign="middle" >5.72%</td>
+              <td align="center" valign="middle" >5.44%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2015-12-31</td>
+              <td align="center" valign="middle" >2043.94</td>
+              <td align="center" valign="middle" >−0.73%</td>
+              <td align="center" valign="middle" >5.16%</td>
+              <td align="center" valign="middle" >12.74%</td>
+              <td align="center" valign="middle" >12.91%</td>
+              <td align="center" valign="middle" >10.20%</td>
+              <td align="center" valign="middle" >10.63%</td>
+              <td align="center" valign="middle" >12.37%</td>
+              <td align="center" valign="middle" >4.22%</td>
+              <td align="center" valign="middle" >4.14%</td>
+              <td align="center" valign="middle" >5.05%</td>
+              <td align="center" valign="middle" >4.87%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2016-12-30</td>
+              <td align="center" valign="middle" >2238.83</td>
+              <td align="center" valign="middle" >9.54%</td>
+              <td align="center" valign="middle" >4.28%</td>
+              <td align="center" valign="middle" >6.60%</td>
+              <td align="center" valign="middle" >11.93%</td>
+              <td align="center" valign="middle" >12.23%</td>
+              <td align="center" valign="middle" >10.09%</td>
+              <td align="center" valign="middle" >10.47%</td>
+              <td align="center" valign="middle" >12.02%</td>
+              <td align="center" valign="middle" >4.80%</td>
+              <td align="center" valign="middle" >4.67%</td>
+              <td align="center" valign="middle" >5.45%</td>
+              <td align="center" valign="middle" >5.25%</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2017-12-29</td>
+              <td align="center" valign="middle" >2673.61</td>
+              <td align="center" valign="middle" >19.42%</td>
+              <td align="center" valign="middle" >14.37%</td>
+              <td align="center" valign="middle" >9.10%</td>
+              <td align="center" valign="middle" >9.67%</td>
+              <td align="center" valign="middle" >13.39%</td>
+              <td align="center" valign="middle" >13.39%</td>
+              <td align="center" valign="middle" >11.38%</td>
+              <td align="center" valign="middle" >11.55%</td>
+              <td align="center" valign="middle" >12.81%</td>
+              <td align="center" valign="middle" >6.18%</td>
+              <td align="center" valign="middle" >5.93%</td>
+              <td align="center" valign="middle" >6.55%</td>
+              <td align="center" valign="middle" >6.28%</td>
+              <td align="center" valign="middle" ></td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2018-12-31</td>
+              <td align="center" valign="middle" >2506.85</td>
+              <td align="center" valign="middle" >−6.24%</td>
+              <td align="center" valign="middle" >5.82%</td>
+              <td align="center" valign="middle" >7.04%</td>
+              <td align="center" valign="middle" >5.04%</td>
+              <td align="center" valign="middle" >6.28%</td>
+              <td align="center" valign="middle" >9.86%</td>
+              <td align="center" valign="middle" >10.36%</td>
+              <td align="center" valign="middle" >9.01%</td>
+              <td align="center" valign="middle" >9.42%</td>
+              <td align="center" valign="middle" >10.75%</td>
+              <td align="center" valign="middle" >4.98%</td>
+              <td align="center" valign="middle" >4.86%</td>
+              <td align="center" valign="middle" >5.51%</td>
+              <td align="center" valign="middle" >5.33%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表2. 标普500指数年收盘及固定时点各期限投资回报</p>
+      <table-wrap id="table3" >
+        <label>
+          <xref ref-type="table" rid="table3">Table 3</xref>
+        </label>
+        <caption>
+          <title> Historical investment return: CSI300 vs. S&amp;P 50</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >沪深300</th>
+                <th align="center" valign="middle" >标普500</th>
+                <th align="center" valign="middle" >时间长度(年)</th>
+                <th align="center" valign="middle" >基期</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >2005~2018</td>
+              <td align="center" valign="middle" >8.19%</td>
+              <td align="center" valign="middle" >7.49%</td>
+              <td align="center" valign="middle" >14</td>
+              <td align="center" valign="middle" >以2004年底为基期</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009~2018</td>
+              <td align="center" valign="middle" >5.18%</td>
+              <td align="center" valign="middle" >12.98%</td>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >以2008年底为基期</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >1969~2018</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >9.73%</td>
+              <td align="center" valign="middle" >50</td>
+              <td align="center" valign="middle" >以1968年底为基期</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >1958~2018</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >10.24%</td>
+              <td align="center" valign="middle" >61</td>
+              <td align="center" valign="middle" >以1957年底为基期</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >1928~2018</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >9.49%</td>
+              <td align="center" valign="middle" >91</td>
+              <td align="center" valign="middle" >以1927年底为基期</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表3. 沪深300与标普500的历史投资回报</p>
+      <p>说明：标普500指数的回报系根据埃斯瓦斯&#183;达莫达兰(Aswath Damodaran)的原始数据(Damodaran, 2019, Datasets 2)计算；标普500指数的回报包括现金分红，沪深300不包括。标普500指数1926年开始发布时，只包含90只成份股，1957年扩展到500只。</p>
+      <p>(二) 固定期限的滚动投资回报</p>
+      <p>计算固定基期投资回报，只是选择了少数一些特定的时点。而接下来要计算的滚动投资回报，是在确定投资的期限长度后，计算所有时点的投资回报，显然，这里考察的，是在确定投资期限后，除了投资收益的高低，还注重投资收益的稳定性与波动性。</p>
+      <p>我们计算出沪深300与标普500从2004年12月31日到2019年5月31日，各投资期限(1年期~14年期)的滚动收益率，从滚动收益率统计结果及两个指数统计指标的比较(见表4、图1)，可以看出：</p>
+      <p>1) 沪深300指数各期限的滚动投资收益率平均值及中位数都大于0，3年期及以上的滚动投资收益率平均值及中位数都大于3.5%。因此，整体来看，沪深300指数同标普500指数一样，是具有长期投资价值的。</p>
+      <table-wrap id="table4" >
+        <label>
+          <xref ref-type="table" rid="table4">Table 4</xref>
+        </label>
+        <caption>
+          <title> Traits of rolling yields: CSI300 vs. S&amp;P 50</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  rowspan="2"  >投资期限</th>
+                <th align="center" valign="middle"  colspan="3"  >沪深300指数滚动收益率</th>
+                <th align="center" valign="middle"  rowspan="2"  >指数观察值个数(交易日)</th>
+                <th align="center" valign="middle"  colspan="3"  >标普500指数滚动收益率</th>
+                <th align="center" valign="middle"  rowspan="2"  >指数观察值个数(交易日)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >平均值</td>
+              <td align="center" valign="middle" >中位数</td>
+              <td align="center" valign="middle" >标准差</td>
+              <td align="center" valign="middle" >平均值</td>
+              <td align="center" valign="middle" >中位数</td>
+              <td align="center" valign="middle" >标准差</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >1年期</td>
+              <td align="center" valign="middle" >22.57%</td>
+              <td align="center" valign="middle" >1.98%</td>
+              <td align="center" valign="middle" >65.12%</td>
+              <td align="center" valign="middle" >3260</td>
+              <td align="center" valign="middle" >7.79%</td>
+              <td align="center" valign="middle" >11.32%</td>
+              <td align="center" valign="middle" >15.77%</td>
+              <td align="center" valign="middle" >3375</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2年期</td>
+              <td align="center" valign="middle" >14.69%</td>
+              <td align="center" valign="middle" >2.21%</td>
+              <td align="center" valign="middle" >37.32%</td>
+              <td align="center" valign="middle" >3019</td>
+              <td align="center" valign="middle" >7.01%</td>
+              <td align="center" valign="middle" >8.97%</td>
+              <td align="center" valign="middle" >11.75%</td>
+              <td align="center" valign="middle" >3123</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >3年期</td>
+              <td align="center" valign="middle" >8.30%</td>
+              <td align="center" valign="middle" >6.12%</td>
+              <td align="center" valign="middle" >18.71%</td>
+              <td align="center" valign="middle" >2777</td>
+              <td align="center" valign="middle" >6.20%</td>
+              <td align="center" valign="middle" >8.77%</td>
+              <td align="center" valign="middle" >9.11%</td>
+              <td align="center" valign="middle" >2873</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >4年期</td>
+              <td align="center" valign="middle" >6.89%</td>
+              <td align="center" valign="middle" >6.25%</td>
+              <td align="center" valign="middle" >13.98%</td>
+              <td align="center" valign="middle" >2531</td>
+              <td align="center" valign="middle" >6.36%</td>
+              <td align="center" valign="middle" >9.89%</td>
+              <td align="center" valign="middle" >7.80%</td>
+              <td align="center" valign="middle" >2620</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >5年期</td>
+              <td align="center" valign="middle" >6.01%</td>
+              <td align="center" valign="middle" >5.67%</td>
+              <td align="center" valign="middle" >11.30%</td>
+              <td align="center" valign="middle" >2287</td>
+              <td align="center" valign="middle" >7.28%</td>
+              <td align="center" valign="middle" >9.53%</td>
+              <td align="center" valign="middle" >6.48%</td>
+              <td align="center" valign="middle" >2368</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >6年期</td>
+              <td align="center" valign="middle" >4.80%</td>
+              <td align="center" valign="middle" >4.69%</td>
+              <td align="center" valign="middle" >8.94%</td>
+              <td align="center" valign="middle" >2045</td>
+              <td align="center" valign="middle" >7.65%</td>
+              <td align="center" valign="middle" >9.88%</td>
+              <td align="center" valign="middle" >5.38%</td>
+              <td align="center" valign="middle" >2116</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >7年期</td>
+              <td align="center" valign="middle" >4.14%</td>
+              <td align="center" valign="middle" >3.67%</td>
+              <td align="center" valign="middle" >6.72%</td>
+              <td align="center" valign="middle" >1801</td>
+              <td align="center" valign="middle" >7.68%</td>
+              <td align="center" valign="middle" >7.64%</td>
+              <td align="center" valign="middle" >4.26%</td>
+              <td align="center" valign="middle" >1864</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >8年期</td>
+              <td align="center" valign="middle" >4.30%</td>
+              <td align="center" valign="middle" >3.57%</td>
+              <td align="center" valign="middle" >5.22%</td>
+              <td align="center" valign="middle" >1558</td>
+              <td align="center" valign="middle" >7.59%</td>
+              <td align="center" valign="middle" >5.51%</td>
+              <td align="center" valign="middle" >3.70%</td>
+              <td align="center" valign="middle" >1614</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >9年期</td>
+              <td align="center" valign="middle" >5.05%</td>
+              <td align="center" valign="middle" >4.25%</td>
+              <td align="center" valign="middle" >6.38%</td>
+              <td align="center" valign="middle" >1320</td>
+              <td align="center" valign="middle" >7.32%</td>
+              <td align="center" valign="middle" >5.68%</td>
+              <td align="center" valign="middle" >3.42%</td>
+              <td align="center" valign="middle" >1362</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >10年期</td>
+              <td align="center" valign="middle" >6.37%</td>
+              <td align="center" valign="middle" >5.08%</td>
+              <td align="center" valign="middle" >6.44%</td>
+              <td align="center" valign="middle" >1075</td>
+              <td align="center" valign="middle" >6.65%</td>
+              <td align="center" valign="middle" >5.50%</td>
+              <td align="center" valign="middle" >2.64%</td>
+              <td align="center" valign="middle" >1110</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >11年期</td>
+              <td align="center" valign="middle" >6.02%</td>
+              <td align="center" valign="middle" >9.25%</td>
+              <td align="center" valign="middle" >6.33%</td>
+              <td align="center" valign="middle" >831</td>
+              <td align="center" valign="middle" >5.72%</td>
+              <td align="center" valign="middle" >5.64%</td>
+              <td align="center" valign="middle" >0.61%</td>
+              <td align="center" valign="middle" >858</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >12年期</td>
+              <td align="center" valign="middle" >9.00%</td>
+              <td align="center" valign="middle" >10.62%</td>
+              <td align="center" valign="middle" >4.08%</td>
+              <td align="center" valign="middle" >587</td>
+              <td align="center" valign="middle" >6.11%</td>
+              <td align="center" valign="middle" >6.06%</td>
+              <td align="center" valign="middle" >0.50%</td>
+              <td align="center" valign="middle" >606</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >13年期</td>
+              <td align="center" valign="middle" >10.56%</td>
+              <td align="center" valign="middle" >10.53%</td>
+              <td align="center" valign="middle" >1.07%</td>
+              <td align="center" valign="middle" >343</td>
+              <td align="center" valign="middle" >6.40%</td>
+              <td align="center" valign="middle" >6.47%</td>
+              <td align="center" valign="middle" >0.39%</td>
+              <td align="center" valign="middle" >355</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >14年期</td>
+              <td align="center" valign="middle" >9.88%</td>
+              <td align="center" valign="middle" >10.00%</td>
+              <td align="center" valign="middle" >0.97%</td>
+              <td align="center" valign="middle" >100</td>
+              <td align="center" valign="middle" >6.29%</td>
+              <td align="center" valign="middle" >6.27%</td>
+              <td align="center" valign="middle" >0.38%</td>
+              <td align="center" valign="middle" >104</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表4. 沪深300指数与标普500指数的滚动收益率特征</p>
+      <p>说明：计算期间为2004年12月31日~2019年5月31日，这里的投资期限(交易年)按首次计算时的实际交易日长度确定。</p>
+      <p>图1. 不同投资期限的滚动投资收益率情况</p>
+      <p>2) 随着投资期限的加长，沪深300指数与标普500指数滚动投资收益率的标准差都在收敛(长端或受观察值减少的影响)。这说明，沪深300指数与标普500指数投资者承担的投资风险，都随着投资期限的加长而逐渐降低。</p>
+      <p>3) 比较风险与收益的匹配情况(标准差 − 平均值)，5年期标普500指数滚动投资收益率的标准差就开始小于收益率平均值，投资期限越长，收益率的标准差就越小。然而，从1年期到11年期，沪深300指数投资收益率的标准差一直高于收益率平均值，直到12年期才发生转折，这说明，沪深300指数的整体投资风险明显高于标普500指数。</p>
+      <p>4) 无论是沪深300指数，还是标普500指数，2年期限以内的投资风险都比较高。但在各期限的滚动投资收益率中，沪深300指数1年期、2年期的投资收益率平均值最高，标准差最大，而中位数却最小。这说明，期限在2年以内的沪深300指数投资，对择时能力要求很高，投资者需要冒很大的风险。换言之，2年投资期限以内，沪深300指数的可投资性偏低。</p>
+      <p>5) 有趣的是，如果两个市场都不考虑1年投资期、2年投资期的滚动收益率，沪深300指数3年期到14年期各期限滚动投资收益率的平均值是6.78%，而标普500指数的同一指标为6.77%。世界前两大经济体蓝筹股长期投资平均收益率的趋同，或许不是巧合？</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 蓝筹股的预期股权回报</title>
+      <p>完成了对沪深300指数历史回报的测算，我们再从未来现金流的方向，来估计沪深300指数的预期回报。贴现估计沪深300指数的预期回报，采用的是股利折现模型(Dividend Discount Model, DDM)。传统的股息折现模型只考虑对公司发放的现金红利进行折现，但随着时代的演进，成熟市场企业采用回购方式回报股东的做法越来越普遍。因此，我们在贴现估计沪深300指数的预期股权回报时，借鉴成熟市场的做法，将股东回报替换单纯的股息，把股息和回购加总后进行折现。</p>
+      <p>(一) 模型和参数</p>
+      <p>基于股东回报历史数据、企业盈利预测数据等的可得性，我们选择三阶段股利折现模型，对沪深300指数成份股的股东回报进行折现计算，具体的模型如下：</p>
+      <p>V = ∑ t = 1 ∞ D t ( 1 + r ) t = D 1 1 + r + D 2 ( 1 + r ) 2 + ⋯ + D m ( 1 + r ) m + ⋯ + D n ( 1 + r ) n + D n * ( 1 + g ) ( r − g ) * ( 1 + r ) n</p>
+      <p>V：研究期内每个年度最后一个交易日沪深300的总市值。</p>
+      <p>
+        D<sub>t</sub>：第t年的股东回报，股东回报 = 现金红利 + 股份回购。
+      </p>
+      <p>g：假设第n年之后，每年的股东回报以不变的增长率增长，g为固定不变的预期年增长率。</p>
+      <p>r：折现率，是隐含的股权收益率，即预期股权回报。</p>
+      <p>本文涉及的沪深300指数的所有财务指标，凡是没有特别说明的，都是将沪深300成份股的个股数据予以加总，获得的是沪深300指数的整体数据，相当于将沪深300视同为一家公司；标普500指数的数据类同。</p>
+      <p>上述模型中，三个阶段的具体划分是：</p>
+      <p>第一阶段：2004年12月31日~2017年12月31日。在这一阶段，由于沪深300指数成分股的现金分红、股票回购情况已经全部披露，因此模型中使用实际的股东回报年度数据。</p>
+      <p>第二阶段：2018年12月31日~2021年12月31日。虽然2018年度净利润与当年的股票回购都已披露，但现金分红尚未实施完毕，故目前还无完整的股东回报数据，2019~2021这三年的股东回报数据都不可得，我们就利用万得系统中机构对净利润的一致预测数据，来推算2019~2021三年的股东回报。</p>
+      <p>推算的具体方法是，首先，计算沪深300成分股公司2005~2017年间历年股东回报占净利润的比重，结果是，这13年沪深300成分股公司股东回报占净利润比率的平均值为32.53%；再根据万得数据库里2018沪深300成分股的实际净利润，及采集到的权威机构对2019~2021三年沪深300成分股净利润的一致预测(数据截止时间是2019年6月26日)，将沪深300成分股净利润加总后乘以32.53%，推算得出2018~2021四年各年沪深300总的股东回报数据。</p>
+      <p>
+        第三阶段：2021年之后设置为永续增长阶段，设定每年的股东回报以不变的增长率g增长。g的取值对整个沪深300指数预期股权回报的估算影响很大，根据成熟市场的经验，加上估算结果便于做国际比较，我们参照纽约大学埃斯瓦斯&#183;达莫达兰(Aswath Damodaran)的做法，达莫达兰在测算美国标普500指数1960~2018年的预期股权回报时，都是使用当期美国10年期国债到期收益率，作为永续增长阶段的固定增长率 [<xref ref-type="bibr" rid="hanspub.32804-ref7">7</xref>] - [<xref ref-type="bibr" rid="hanspub.32804-ref12">12</xref>]。因此，我们也选择每年最后一个交易日的中国10年期国债到期收益率(见图2)，作为当期永续增长阶段股东回报的固定增长率(g)，并依此计算第三阶段整个沪深300的股东回报。
+      </p>
+      <p>图2. 2004.12.31~2018.12.31期间十年期国债到期收益率情况</p>
+      <p>(二) 数据及其处理</p>
+      <p>沪深300指数以2004年12月31日为基期，基期指数为 1000 点。沪深300成分股是沪深A股市场上市值规模最大、流动性最好的300只代表性股票，从万得系统获得沪深300各成份股股票的市值予以加总，就获得研究期间沪深300成分股每年度最后一个交易日的市值，结果如表5、图3。</p>
+      <p>股东回报是现金股利与股票回购之和。由于2011年之后中国才逐渐放宽对上市公司回购股票的限制，沪深300成分股2011年才有股票回购发生，在一系列鼓励政策出台之后，从2013年起，沪深300成分股公司的股票回购规模逐渐开始增大(如表6)。</p>
+      <p>(三) 计算预期股权回报</p>
+      <p>有了上述数据与参数，根据三阶段股利折现模型，我们求解获得沪深300各个时点的预期股权回报值，结果如表7。其中，隐含的股权风险溢价(Implied Equity Risk Premium, ERP)系按下式计算，取十年期国债收益率作为无风险收益率：</p>
+      <p>股权风险溢价 = 预期股权回报 − 无风险收益率。</p>
+      <p>从计算获得的15个年末时点，沪深300指数的预期股权回报值可以看出(见图4、表7)，经过最初两年的高位徘徊之后，沪深300的预期股权回报从2006年起明显下降，并逐渐收敛到一定的区间：从2004到2018年的全时段，沪深300的预期股权回报平均值为9.629%，中位数为7.975%；相应的股权风险溢价平均数为6.05%，中位数为4.197%。去掉最初两年的数据，考察2006~2018共十三个年末时点，沪深300的预期股权回报平均值降低到8.013%，中位数为7.427%；对应的股权风险溢价平均数为4.487%，中位数为4.148%。</p>
+      <table-wrap id="table5" >
+        <label>
+          <xref ref-type="table" rid="table5">Table 5</xref>
+        </label>
+        <caption>
+          <title> CSI300 Year-end capitalizations, 2004-201</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >时点</th>
+                <th align="center" valign="middle" >总市值</th>
+                <th align="center" valign="middle" >流通市值</th>
+                <th align="center" valign="middle" >调整市值</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >2004.12.31</td>
+              <td align="center" valign="middle" >22,760.07</td>
+              <td align="center" valign="middle" >5,897.93</td>
+              <td align="center" valign="middle" >6,823.92</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2005.12.30</td>
+              <td align="center" valign="middle" >23,172.33</td>
+              <td align="center" valign="middle" >5,600.04</td>
+              <td align="center" valign="middle" >6,403.02</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006.12.29</td>
+              <td align="center" valign="middle" >82,218.33</td>
+              <td align="center" valign="middle" >14,036.42</td>
+              <td align="center" valign="middle" >16,014.22</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2007.12.28</td>
+              <td align="center" valign="middle" >298,144.08</td>
+              <td align="center" valign="middle" >48,920.10</td>
+              <td align="center" valign="middle" >55,373.43</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2008.12.31</td>
+              <td align="center" valign="middle" >118,475.42</td>
+              <td align="center" valign="middle" >23,986.10</td>
+              <td align="center" valign="middle" >26,715.93</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009.12.31</td>
+              <td align="center" valign="middle" >219,137.47</td>
+              <td align="center" valign="middle" >51,285.71</td>
+              <td align="center" valign="middle" >57,178.72</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2010.12.31</td>
+              <td align="center" valign="middle" >201,537.73</td>
+              <td align="center" valign="middle" >50,276.51</td>
+              <td align="center" valign="middle" >56,109.57</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2011.12.30</td>
+              <td align="center" valign="middle" >171,553.55</td>
+              <td align="center" valign="middle" >40,955.24</td>
+              <td align="center" valign="middle" >45,715.79</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2012.12.31</td>
+              <td align="center" valign="middle" >184,816.79</td>
+              <td align="center" valign="middle" >47,331.52</td>
+              <td align="center" valign="middle" >53,020.62</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2013.12.31</td>
+              <td align="center" valign="middle" >173,239.66</td>
+              <td align="center" valign="middle" >47,306.90</td>
+              <td align="center" valign="middle" >52,982.58</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2014.12.31</td>
+              <td align="center" valign="middle" >278,363.00</td>
+              <td align="center" valign="middle" >77,307.55</td>
+              <td align="center" valign="middle" >86,388.73</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2015.12.31</td>
+              <td align="center" valign="middle" >302,672.47</td>
+              <td align="center" valign="middle" >91,977.25</td>
+              <td align="center" valign="middle" >104,184.44</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2016.12.30</td>
+              <td align="center" valign="middle" >276,847.14</td>
+              <td align="center" valign="middle" >86,618.71</td>
+              <td align="center" valign="middle" >97,104.80</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2017.12.29</td>
+              <td align="center" valign="middle" >356,561.43</td>
+              <td align="center" valign="middle" >111,481.97</td>
+              <td align="center" valign="middle" >125,399.05</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2018.12.31</td>
+              <td align="center" valign="middle" >293,965.15</td>
+              <td align="center" valign="middle" >89,457.51</td>
+              <td align="center" valign="middle" >101,758.54</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表5. 2004~2018年各年年末沪深300指数市值情况</p>
+      <p>单位：亿元</p>
+      <p>数据来源：个股的总市值、流通市值数据来源于Wind，全部成份股的总市值、流通市值由作者加总计算，调整市值是计算沪深300指数所用的市值，系作者按沪深300指数分级靠档的编制规则计算。</p>
+      <p>图3. 2005~2017年沪深300各年股东回报与沪深300指数(右轴)</p>
+      <table-wrap id="table6" >
+        <label>
+          <xref ref-type="table" rid="table6">Table 6</xref>
+        </label>
+        <caption>
+          <title> CSI300 return to shareholders, 2005-201</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >年度</th>
+                <th align="center" valign="middle" >现金分红</th>
+                <th align="center" valign="middle" >现金分红/股东回报</th>
+                <th align="center" valign="middle" >股票回购</th>
+                <th align="center" valign="middle" >股票回购/股东回报</th>
+                <th align="center" valign="middle" >股东回报</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >2005</td>
+              <td align="center" valign="middle" >671.12</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >671.12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006</td>
+              <td align="center" valign="middle" >1,044.37</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >1,044.37</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2007</td>
+              <td align="center" valign="middle" >2,357.98</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >2,357.98</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2008</td>
+              <td align="center" valign="middle" >3,113.99</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >3,113.99</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009</td>
+              <td align="center" valign="middle" >3,464.85</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >3,464.85</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2010</td>
+              <td align="center" valign="middle" >4,313.42</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >4,313.42</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2011</td>
+              <td align="center" valign="middle" >5,192.30</td>
+              <td align="center" valign="middle" >99.94%</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >0.06%</td>
+              <td align="center" valign="middle" >5,195.30</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2012</td>
+              <td align="center" valign="middle" >5,842.42</td>
+              <td align="center" valign="middle" >100.00%</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >0.00%</td>
+              <td align="center" valign="middle" >5,842.42</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2013</td>
+              <td align="center" valign="middle" >6,629.70</td>
+              <td align="center" valign="middle" >98.98%</td>
+              <td align="center" valign="middle" >68.54</td>
+              <td align="center" valign="middle" >1.02%</td>
+              <td align="center" valign="middle" >6,698.24</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2014</td>
+              <td align="center" valign="middle" >6,878.77</td>
+              <td align="center" valign="middle" >99.85%</td>
+              <td align="center" valign="middle" >10.57</td>
+              <td align="center" valign="middle" >0.15%</td>
+              <td align="center" valign="middle" >6,889.33</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2015</td>
+              <td align="center" valign="middle" >7,042.81</td>
+              <td align="center" valign="middle" >99.64%</td>
+              <td align="center" valign="middle" >25.78</td>
+              <td align="center" valign="middle" >0.36%</td>
+              <td align="center" valign="middle" >7,068.59</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2016</td>
+              <td align="center" valign="middle" >7,639.51</td>
+              <td align="center" valign="middle" >99.34%</td>
+              <td align="center" valign="middle" >51.11</td>
+              <td align="center" valign="middle" >0.66%</td>
+              <td align="center" valign="middle" >7,690.62</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2017</td>
+              <td align="center" valign="middle" >8,616.04</td>
+              <td align="center" valign="middle" >99.87%</td>
+              <td align="center" valign="middle" >10.90</td>
+              <td align="center" valign="middle" >0.13%</td>
+              <td align="center" valign="middle" >8,626.94</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2018F</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >9,983.35</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2019F</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >10,700.05</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2020F</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >11,941.78</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2021F</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >-</td>
+              <td align="center" valign="middle" >13,256.11</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表6. 2005~2017年沪深300的股东回报情况</p>
+      <p>单位：亿元</p>
+      <p>数据来源：个股的现金分红、股票回购来源于wind，其他数据系作者计算；2018~2021年的股东回报系推算。</p>
+      <p>图4. 沪深300指数预期股权回报和ERP变动情况</p>
+      <table-wrap id="table7" >
+        <label>
+          <xref ref-type="table" rid="table7">Table 7</xref>
+        </label>
+        <caption>
+          <title> The expected return of CSI 300 and related ER</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >时间</th>
+                <th align="center" valign="middle" >总市值</th>
+                <th align="center" valign="middle" >当年股东回报</th>
+                <th align="center" valign="middle" >十年期国债收益率</th>
+                <th align="center" valign="middle" >预期股权回报</th>
+                <th align="center" valign="middle" >股权风险溢价(ERP)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >2004.12.31</td>
+              <td align="center" valign="middle" >22,760.07</td>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" >4.73%</td>
+              <td align="center" valign="middle" >19.477%</td>
+              <td align="center" valign="middle" >14.747%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2005.12.30</td>
+              <td align="center" valign="middle" >23,172.33</td>
+              <td align="center" valign="middle" >671.12</td>
+              <td align="center" valign="middle" >3.12%</td>
+              <td align="center" valign="middle" >20.793%</td>
+              <td align="center" valign="middle" >17.673%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006.12.29</td>
+              <td align="center" valign="middle" >82,218.33</td>
+              <td align="center" valign="middle" >1,044.37</td>
+              <td align="center" valign="middle" >3.03%</td>
+              <td align="center" valign="middle" >10.647%</td>
+              <td align="center" valign="middle" >7.617%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2007.12.28</td>
+              <td align="center" valign="middle" >298,144.08</td>
+              <td align="center" valign="middle" >2,357.98</td>
+              <td align="center" valign="middle" >4.43%</td>
+              <td align="center" valign="middle" >6.755%</td>
+              <td align="center" valign="middle" >2.325%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2008.12.31</td>
+              <td align="center" valign="middle" >118,475.42</td>
+              <td align="center" valign="middle" >3,113.99</td>
+              <td align="center" valign="middle" >2.75%</td>
+              <td align="center" valign="middle" >9.207%</td>
+              <td align="center" valign="middle" >6.457%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009.12.31</td>
+              <td align="center" valign="middle" >219,137.47</td>
+              <td align="center" valign="middle" >3,464.85</td>
+              <td align="center" valign="middle" >3.64%</td>
+              <td align="center" valign="middle" >7.318%</td>
+              <td align="center" valign="middle" >3.678%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2010.12.31</td>
+              <td align="center" valign="middle" >201,537.73</td>
+              <td align="center" valign="middle" >4,313.42</td>
+              <td align="center" valign="middle" >3.88%</td>
+              <td align="center" valign="middle" >7.975%</td>
+              <td align="center" valign="middle" >4.095%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2011.12.30</td>
+              <td align="center" valign="middle" >171,553.55</td>
+              <td align="center" valign="middle" >5,195.30</td>
+              <td align="center" valign="middle" >3.42%</td>
+              <td align="center" valign="middle" >8.570%</td>
+              <td align="center" valign="middle" >5.150%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2012.12.31</td>
+              <td align="center" valign="middle" >184,816.79</td>
+              <td align="center" valign="middle" >5,842.42</td>
+              <td align="center" valign="middle" >3.57%</td>
+              <td align="center" valign="middle" >8.320%</td>
+              <td align="center" valign="middle" >4.750%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2013.12.31</td>
+              <td align="center" valign="middle" >173,239.66</td>
+              <td align="center" valign="middle" >6,698.24</td>
+              <td align="center" valign="middle" >4.55%</td>
+              <td align="center" valign="middle" >9.813%</td>
+              <td align="center" valign="middle" >5.263%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2014.12.31</td>
+              <td align="center" valign="middle" >278,363.00</td>
+              <td align="center" valign="middle" >6,889.33</td>
+              <td align="center" valign="middle" >3.62%</td>
+              <td align="center" valign="middle" >7.310%</td>
+              <td align="center" valign="middle" >3.690%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2015.12.31</td>
+              <td align="center" valign="middle" >302,672.47</td>
+              <td align="center" valign="middle" >7,068.59</td>
+              <td align="center" valign="middle" >2.82%</td>
+              <td align="center" valign="middle" >6.504%</td>
+              <td align="center" valign="middle" >3.684%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2016.12.30</td>
+              <td align="center" valign="middle" >276,847.14</td>
+              <td align="center" valign="middle" >7,690.62</td>
+              <td align="center" valign="middle" >3.01%</td>
+              <td align="center" valign="middle" >7.158%</td>
+              <td align="center" valign="middle" >4.148%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2017.12.29</td>
+              <td align="center" valign="middle" >356,561.43</td>
+              <td align="center" valign="middle" >8,626.94</td>
+              <td align="center" valign="middle" >3.88%</td>
+              <td align="center" valign="middle" >7.162%</td>
+              <td align="center" valign="middle" >3.282%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2018.12.31</td>
+              <td align="center" valign="middle" >293,965.15</td>
+              <td align="center" valign="middle" >9,983.35</td>
+              <td align="center" valign="middle" >3.23%</td>
+              <td align="center" valign="middle" >7.427%</td>
+              <td align="center" valign="middle" >4.197%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表7. 沪深300指数的预期股权回报和股权风险溢价</p>
+      <p>单位：亿元；%</p>
+      <p>说明：2004年沪深300的股东回报未做加总计算，因测算2004年末的预期股权回报时不需要此数据。</p>
+      <p>(四) 中美比较</p>
+      <p>由于达莫达兰运用同样的方法，持续更新计算了美国标普500指数1961~2018年的预期股权回报，因此，我们可以利用达莫达兰的计算结果，将沪深300指数与标普500指数的预期股权回报及其隐含的股权风险溢价(ERP)做一对比(见表8)。</p>
+      <p>图5. 标普500指数预期股权回报和ERP变动情况</p>
+      <table-wrap id="table8" >
+        <label>
+          <xref ref-type="table" rid="table8">Table 8</xref>
+        </label>
+        <caption>
+          <title> Expected return and ERP: CSI300 vs. S&amp;P50</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  rowspan="2"  >时间</th>
+                <th align="center" valign="middle"  colspan="3"  >沪深300</th>
+                <th align="center" valign="middle"  colspan="3"  >标普500</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >预期股权回报</td>
+              <td align="center" valign="middle" >中国10年期国债收益率</td>
+              <td align="center" valign="middle" >股权风险溢价(ERP)</td>
+              <td align="center" valign="middle" >预期股权回报</td>
+              <td align="center" valign="middle" >美国10年期国债收益率</td>
+              <td align="center" valign="middle" >股权风险溢价(ERP)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2004</td>
+              <td align="center" valign="middle" >19.477%</td>
+              <td align="center" valign="middle" >4.73%</td>
+              <td align="center" valign="middle" >14.747%</td>
+              <td align="center" valign="middle" >7.87%</td>
+              <td align="center" valign="middle" >4.22%</td>
+              <td align="center" valign="middle" >3.65%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2005</td>
+              <td align="center" valign="middle" >20.793%</td>
+              <td align="center" valign="middle" >3.12%</td>
+              <td align="center" valign="middle" >17.673%</td>
+              <td align="center" valign="middle" >8.47%</td>
+              <td align="center" valign="middle" >4.39%</td>
+              <td align="center" valign="middle" >4.08%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006</td>
+              <td align="center" valign="middle" >10.647%</td>
+              <td align="center" valign="middle" >3.03%</td>
+              <td align="center" valign="middle" >7.617%</td>
+              <td align="center" valign="middle" >8.86%</td>
+              <td align="center" valign="middle" >4.70%</td>
+              <td align="center" valign="middle" >4.16%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2007</td>
+              <td align="center" valign="middle" >6.755%</td>
+              <td align="center" valign="middle" >4.43%</td>
+              <td align="center" valign="middle" >2.325%</td>
+              <td align="center" valign="middle" >8.39%</td>
+              <td align="center" valign="middle" >4.02%</td>
+              <td align="center" valign="middle" >4.37%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2008</td>
+              <td align="center" valign="middle" >9.207%</td>
+              <td align="center" valign="middle" >2.75%</td>
+              <td align="center" valign="middle" >6.457%</td>
+              <td align="center" valign="middle" >8.64%</td>
+              <td align="center" valign="middle" >2.21%</td>
+              <td align="center" valign="middle" >6.43%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2009</td>
+              <td align="center" valign="middle" >7.318%</td>
+              <td align="center" valign="middle" >3.64%</td>
+              <td align="center" valign="middle" >3.678%</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >3.84%</td>
+              <td align="center" valign="middle" >4.36%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2010</td>
+              <td align="center" valign="middle" >7.975%</td>
+              <td align="center" valign="middle" >3.88%</td>
+              <td align="center" valign="middle" >4.095%</td>
+              <td align="center" valign="middle" >8.49%</td>
+              <td align="center" valign="middle" >3.29%</td>
+              <td align="center" valign="middle" >5.20%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2011</td>
+              <td align="center" valign="middle" >8.570%</td>
+              <td align="center" valign="middle" >3.42%</td>
+              <td align="center" valign="middle" >5.150%</td>
+              <td align="center" valign="middle" >7.89%</td>
+              <td align="center" valign="middle" >1.88%</td>
+              <td align="center" valign="middle" >6.01%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2012</td>
+              <td align="center" valign="middle" >8.320%</td>
+              <td align="center" valign="middle" >3.57%</td>
+              <td align="center" valign="middle" >4.750%</td>
+              <td align="center" valign="middle" >7.54%</td>
+              <td align="center" valign="middle" >1.76%</td>
+              <td align="center" valign="middle" >5.78%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2013</td>
+              <td align="center" valign="middle" >9.813%</td>
+              <td align="center" valign="middle" >4.55%</td>
+              <td align="center" valign="middle" >5.263%</td>
+              <td align="center" valign="middle" >8.00%</td>
+              <td align="center" valign="middle" >3.04%</td>
+              <td align="center" valign="middle" >4.96%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2014</td>
+              <td align="center" valign="middle" >7.310%</td>
+              <td align="center" valign="middle" >3.62%</td>
+              <td align="center" valign="middle" >3.690%</td>
+              <td align="center" valign="middle" >7.95%</td>
+              <td align="center" valign="middle" >2.17%</td>
+              <td align="center" valign="middle" >5.78%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2015</td>
+              <td align="center" valign="middle" >6.504%</td>
+              <td align="center" valign="middle" >2.82%</td>
+              <td align="center" valign="middle" >3.684%</td>
+              <td align="center" valign="middle" >8.39%</td>
+              <td align="center" valign="middle" >2.27%</td>
+              <td align="center" valign="middle" >6.12%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2016</td>
+              <td align="center" valign="middle" >7.158%</td>
+              <td align="center" valign="middle" >3.01%</td>
+              <td align="center" valign="middle" >4.148%</td>
+              <td align="center" valign="middle" >8.14%</td>
+              <td align="center" valign="middle" >2.45%</td>
+              <td align="center" valign="middle" >5.69%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2017</td>
+              <td align="center" valign="middle" >7.162%</td>
+              <td align="center" valign="middle" >3.88%</td>
+              <td align="center" valign="middle" >3.282%</td>
+              <td align="center" valign="middle" >7.49%</td>
+              <td align="center" valign="middle" >2.41%</td>
+              <td align="center" valign="middle" >5.08%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2018</td>
+              <td align="center" valign="middle" >7.427%</td>
+              <td align="center" valign="middle" >3.23%</td>
+              <td align="center" valign="middle" >4.197%</td>
+              <td align="center" valign="middle" >8.64%</td>
+              <td align="center" valign="middle" >2.68%</td>
+              <td align="center" valign="middle" >5.96%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表8. 沪深300与标普500的预期股权回报和股权风险溢价比较</p>
+      <p>说明：均是年末时点数据，与标普500相关的数据来源于AswathDamodaran, A Reminder That Equities Are Risky, In Case You Forgot, Jan. 3, 2019, Datasets-Historical Implied Equity Risk Premiums for US—1960 to 2018.xls.</p>
+      <p>从图4、图5和表9可以看出，美国标普500指数的预期股权回报相对稳定，其2004~2018年与2006~2018年两个时间段的平均值都是8.20%；沪深300的预期股权回报从2006年起也逐渐趋于稳定，2006~2018年的平均值是8.013%，略低于标普500，但是相差不大。但从2006年起，来考察两个市场隐含的股权风险溢价，沪深300隐含的股权风险溢价反而比标普500隐含的股权风险溢价稳定。显然，2008年发生金融危机以后，标普500指数隐含的股权风险溢价明显上升，美联储量化宽松政策的推出应该是其幕后推手。</p>
+      <table-wrap id="table9" >
+        <label>
+          <xref ref-type="table" rid="table9">Table 9</xref>
+        </label>
+        <caption>
+          <title> Traits of expected return: CSI300 vs. S&amp;P 50</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  rowspan="2"  ></th>
+                <th align="center" valign="middle"  rowspan="2"  >时段</th>
+                <th align="center" valign="middle"  rowspan="2"  >时点个数</th>
+                <th align="center" valign="middle"  colspan="2"  >预期股权回报</th>
+                <th align="center" valign="middle"  colspan="2"  >股权风险溢价(ERP)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >平均值</td>
+              <td align="center" valign="middle" >中位数</td>
+              <td align="center" valign="middle" >平均值</td>
+              <td align="center" valign="middle" >中位数</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  rowspan="2"  >沪深300</td>
+              <td align="center" valign="middle" >2004~2018</td>
+              <td align="center" valign="middle" >15</td>
+              <td align="center" valign="middle" >9.629%</td>
+              <td align="center" valign="middle" >7.975%</td>
+              <td align="center" valign="middle" >6.050%</td>
+              <td align="center" valign="middle" >4.197%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006~2018</td>
+              <td align="center" valign="middle" >13</td>
+              <td align="center" valign="middle" >8.013%</td>
+              <td align="center" valign="middle" >7.427%</td>
+              <td align="center" valign="middle" >4.487%</td>
+              <td align="center" valign="middle" >4.148%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  rowspan="2"  >标普500</td>
+              <td align="center" valign="middle" >2004~2018</td>
+              <td align="center" valign="middle" >15</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >5.18%</td>
+              <td align="center" valign="middle" >5.20%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006~2018</td>
+              <td align="center" valign="middle" >13</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >5.38%</td>
+              <td align="center" valign="middle" >5.69%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表9. 沪深300与标普500指数的预期股权回报特征值</p>
+      <p>说明：均是年末时点数据。</p>
+    </sec>
+    <sec id="s6">
+      <title>4. 进一步的讨论</title>
+      <p>在开篇，本文提出过四个问题：沪深300指数所代表的中国股票市场的成熟程度如何？沪深300指数是否已经具备长期投资的条件与价值？沪深300指数的长期股权投资回报如何？在中国的实业投资中，将沪深300指数收益率作为实业投资回报的重要参照基准，是否已经可行？</p>
+      <p>从对沪深300指数历史投资回报的测算和预期股权回报的估计，及其与标普500指数有关指标的比较，可以得出如下基本结论：</p>
+      <p>&#183; 沪深300指数已经具备长期投资的条件与价值。但期限在2年以内的沪深300指数投资，对择时能力要求很高，因而可投资性偏低；</p>
+      <p>&#183; 沪深300指数的整体投资风险依然明显高于标普500指数；</p>
+      <p>&#183; 沪深300指数所代表的中国股票市场，正在逐步走向成熟；</p>
+      <p>&#183; 沪深300指数收益率已经可以作为实业投资回报的参照基准；</p>
+      <p>&#183; 沪深300指数的长期股权投资回报，是在8%~10%之间。</p>
+      <p>从表3和表10可以看到，从2004年算起到2018年年末，沪深300指数的预期股权回报平均值达到9.629%；标普500指数43年以上期限的历史投资回报与预期股权回报也都在10%附近。10%是沪深300指数可能达到的长期股权投资回报高端值。</p>
+      <table-wrap id="table10" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>0
+        </label>
+        <caption>
+          <title> Expected return of selected time period: CSI300 vs. S&amp;P 50</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  rowspan="2"  ></th>
+                <th align="center" valign="middle"  rowspan="2"  >时段</th>
+                <th align="center" valign="middle"  rowspan="2"  >时点个数</th>
+                <th align="center" valign="middle"  colspan="2"  >预期股权回报</th>
+                <th align="center" valign="middle"  colspan="2"  >股权风险溢价(ERP)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >平均值</td>
+              <td align="center" valign="middle" >中位数</td>
+              <td align="center" valign="middle" >平均值</td>
+              <td align="center" valign="middle" >中位数</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  rowspan="3"  >标普500</td>
+              <td align="center" valign="middle" >1961~2018</td>
+              <td align="center" valign="middle" >58</td>
+              <td align="center" valign="middle" >10.19%</td>
+              <td align="center" valign="middle" >8.86%</td>
+              <td align="center" valign="middle" >4.190%</td>
+              <td align="center" valign="middle" >3.87%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >1961~2003</td>
+              <td align="center" valign="middle" >43</td>
+              <td align="center" valign="middle" >10.89%</td>
+              <td align="center" valign="middle" >10.18%</td>
+              <td align="center" valign="middle" >3.840%</td>
+              <td align="center" valign="middle" >3.58%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2004~2018</td>
+              <td align="center" valign="middle" >15</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >8.20%</td>
+              <td align="center" valign="middle" >5.180%</td>
+              <td align="center" valign="middle" >5.20%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  rowspan="2"  >沪深300</td>
+              <td align="center" valign="middle" >2004~2018</td>
+              <td align="center" valign="middle" >15</td>
+              <td align="center" valign="middle" >9.629%</td>
+              <td align="center" valign="middle" >7.975%</td>
+              <td align="center" valign="middle" >6.050%</td>
+              <td align="center" valign="middle" >4.197%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >2006~2018</td>
+              <td align="center" valign="middle" >13</td>
+              <td align="center" valign="middle" >8.013%</td>
+              <td align="center" valign="middle" >7.427%</td>
+              <td align="center" valign="middle" >4.487%</td>
+              <td align="center" valign="middle" >4.148%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表10. 标普500与沪深300指数的预期股权回报</p>
+      <p>说明：均是年末时点数据。</p>
+      <p>不过，在目前阶段，沪深300指数的长期股权投资回报处于8%~10%区间的低端。因为，以2004年年底指数1000点为基期，到2018年年底，沪深300指数的历史投资回报为年均8.19%；而去掉最初两个(年)异常高的预期股权回报值，2006~2018年13个年末时点，沪深300指数的预期股权回报平均值为8.013%。与此同时，标普500指数2004年以来的预期股权回报平均值为8.20%。因此，8%可以作为近期中国蓝筹股长期股权投资回报的一个基准值。</p>
+      <p>通过计算沪深300指数的历史回报、贴现估计沪深300指数的预期回报，从这两条路径，我们已经探索获得，到目前为止中国蓝筹股的长期股权投资回报。诚然，同标普500指数相比，沪深300指数运行的时间依然不长，但我们相信，随着中国资本市场的进一步开放，以沪深300指数为代表的中国蓝筹股，其长期股权投资回报会逐渐收敛、稳定在一定的水平。</p>
+      <p>在金融市场之外的实体经济领域，每天都发生着大量的实业项目投资，而实业项目投资评价、决策的基本方法也是现金流贴现。由于沪深300指数预期回报的测算方法同实业项目投资的评价方法一致，因此，当中国股票市场逐步走向成熟，沪深300指数的预期回报值逐渐稳定下来，其作为实业投资回报参照基准的作用就会突显出来。可以说，中国蓝筹股作为全社会投资活动的重要标杆已经呼之欲出。</p>
+    </sec>
+    <sec id="s7">
+      <title>文章引用</title>
+      <p>楚义芳,许 源,夏思博. 中国蓝筹股的长期股权投资回报The Long-Term Investment Return of Chinese Blue-Chip Stocks[J]. 金融, 2019, 09(06): 611-624. https://doi.org/10.12677/FIN.2019.96068</p>
+    </sec>
+    <sec id="s8">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.32804-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Maverick, J.B. (2019) What Is the Average Annual Return for the S&amp;P 500? https://www.investopedia.com/</mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Kenton, W. and Murphy, C.B. (2019) S&amp;P 500 Index—Standard &amp; Poor’s 500 Index Definition.
+          https://www.investopedia.com/
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Langager, C. (2019) How Is the Value of the S&amp;P 500 Calculated? https://www.investopedia.com/</mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Kenton, W. (2019) Equity Premium Puzzle (EPP). https://www.investopedia.com/</mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Harper, D.R. (2019) Calculating the Equity Risk Premium. https://www.investopedia.com/</mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Harper, D.R. (2018) The Equity-Risk Premium: More Risk for Higher Returns. https://www.investopedia.com/</mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Damodaran, A. (2019) January 2019 Data Update 1: A Reminder That Equities Are Risky, in Case You Forgot.
+          https://seekingalpha.com/
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Damodaran, A. (2019) January 2019 Data Update 2: The Message from Bond Markets.
+          https://seekingalpha.com/
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Damodaran, A. (2019) January 2019 Data Update 8: Dividends and Buybacks—Fact and Fiction.
+          https://seekingalpha.com/
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Damodaran, A. (2018) Testing Times: Market Turmoil and Investment Serenity. http://www.valuewalk.com/</mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Damodaran, A. (2018) January 2018 Data Update 2: The Buoyancy of US Equities.
+          http://aswathdamodaran.blogspot.ca/
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32804-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Damodaran, A. (2017) Dividends, Cash Return and Potential Dividends: A Global History.
+          http://www.valuewalk.com/
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

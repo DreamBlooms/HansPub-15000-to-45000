@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">SSC</journal-id>
+      <journal-title-group>
+        <journal-title>Studies in Synthetic Chemistry</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2332-7944</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/SSC.2019.74007</article-id>
+      <article-id pub-id-type="publisher-id">SSC-33512</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>SSC20190400000_11418406.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>化学与材料</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          Co/Mo/γ-Al
+          <sub>2</sub>O
+          <sub>3</sub>的制备、表征及其催化合成邻苯二甲醛
+          Preparation, Characterization of Co/Mo/γ-Al
+          <sub>2</sub>O
+          <sub>3</sub> Catalyst and Its Catalytic Performance in the Preparation of Phthalaldehyde
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>唐</surname>
+            <given-names>璇</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>薛</surname>
+            <given-names>姗</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>诗雨</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>张</surname>
+            <given-names>晓夏</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>成</surname>
+            <given-names>西涛</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>西安石油大学化学化工学院，陕西 西安</addr-line>
+      </aff>
+      <aff id="aff3">
+        <addr-line>陕西省石油化工研究设计院，陕西 西安</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>04</issue>
+      <fpage>37</fpage>
+      <lpage>45</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          本文以硝酸钴为钴源、钼酸铵为钼源，&amp;gamma;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;为载体，采用浸渍法得到一系列不同钴钼含量的Co/Mo/&amp;gamma;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;催化剂。采用热失重分析、扫描电镜、X射线衍射、NH&lt;sub&gt;3&lt;/sub&gt;程序升温脱附、X射线光电子能谱及BET物理吸附等方法对样品进行了表征，并考察了催化剂在邻苯二甲醇过氧化氢氧化反应中的催化性能。结果表明，所制备的Co/Mo/&amp;gamma;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;具有较大的比表面积和孔径，有利于邻苯二甲醛的生成，可使目标产物获得较高转化率。&lt;br/&gt;A series of Co/Mo/&amp;gamma;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; with different cobalt and molybdenum loadings were synthesized under the impregnation method, using cobalt nitrate as the cobalt source and ammonium molybdate as the molybdenum source respectively. The catalyst samples were characterized by thermogravi-metric analysis, scanning electron microscope, X-ray diffraction, NH&lt;sub&gt;3&lt;/sub&gt; temperature programmed desorption, X-ray photoelectron spectroscopy and BET. The catalytic performance of the catalysts was evaluated for oxidation of 1,2-benzenedimethanol into phthalaldehyde by H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;. The results show that the prepared catalysts have larger surface area and pore size, which was beneficial to the formation of phthalaldehyde, and could make the target product obtain high conversion rate.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          Co/Mo/-Al<sub>2</sub>O<sub>3</sub>，催化氧化，邻苯二甲醇，邻苯二甲醛, Co/Mo/-Al<sub>2</sub>O<sub>3</sub>
+        </kwd>
+        <kwd> Catalytic Oxidation</kwd>
+        <kwd> 1</kwd>
+        <kwd>2-Benzenedimethanol</kwd>
+        <kwd> Phthalaldehyde</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>的制备、表征及其催化合成邻苯二甲醛<sup> </sup>
+      </title>
+      <p>
+        唐璇<sup>1</sup>，薛姗<sup>1</sup>，王诗雨<sup>1</sup>，张晓夏<sup>1</sup>，成西涛<sup>2</sup>
+      </p>
+      <p>
+        <sup>1</sup>西安石油大学化学化工学院，陕西 西安
+      </p>
+      <p>
+        <sup>2</sup>陕西省石油化工研究设计院，陕西 西安
+      </p>
+      <p>收稿日期：2019年11月28日；录用日期：2019年12月11日；发布日期：2019年12月18日</p>
+      <disp-formula id="hanspub.33512-formula46">
+        <graphic xlink:href="//html.hanspub.org/file/1-3160075x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>
+        本文以硝酸钴为钴源、钼酸铵为钼源，γ-Al<sub>2</sub>O<sub>3</sub>为载体，采用浸渍法得到一系列不同钴钼含量的Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂。采用热失重分析、扫描电镜、X射线衍射、NH<sub>3</sub>程序升温脱附、X射线光电子能谱及BET物理吸附等方法对样品进行了表征，并考察了催化剂在邻苯二甲醇过氧化氢氧化反应中的催化性能。结果表明，所制备的Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>具有较大的比表面积和孔径，有利于邻苯二甲醛的生成，可使目标产物获得较高转化率。
+      </p>
+      <p>
+        关键词 :Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>，催化氧化，邻苯二甲醇，邻苯二甲醛
+      </p>
+      <disp-formula id="hanspub.33512-formula47">
+        <graphic xlink:href="//html.hanspub.org/file/1-3160075x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/1-3160075x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/1-3160075x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        邻苯二甲醛是重要的有机化工原料，用途较为广泛 [<xref ref-type="bibr" rid="hanspub.33512-ref1">1</xref>]，可用作胺类生物碱的试剂、荧光计组胺的测定及合成新抗血小板聚集药吲哚波芬等，Alfa [<xref ref-type="bibr" rid="hanspub.33512-ref2">2</xref>] 于1994年发现邻苯二甲醛具有广谱高效的杀菌效果，可作为医用消毒剂的主要成分，并于1999年通过了美国FDA认证。其合成方法主要有：卤化水解法 [<xref ref-type="bibr" rid="hanspub.33512-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.33512-ref4">4</xref>]、臭氧化加氢法 [<xref ref-type="bibr" rid="hanspub.33512-ref5">5</xref>]、硝酸氧化法 [<xref ref-type="bibr" rid="hanspub.33512-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.33512-ref7">7</xref>] 及高温氧化法 [<xref ref-type="bibr" rid="hanspub.33512-ref8">8</xref>] [<xref ref-type="bibr" rid="hanspub.33512-ref9">9</xref>] 等。目前邻苯二甲醛的工业生产主要采用氯代水解法，该工艺存在着收率较低、污染严重等缺陷。随着环境问题的日益突出，开发出邻苯二甲醛的环境友好合成工艺是亟待解决的问题。过氧化氢具有反应较安全、氧化产物无污染、操作简便等优点，是氧化性较强的理想的氧化剂，被广泛应用在环境友好氧化反应中 [<xref ref-type="bibr" rid="hanspub.33512-ref10">10</xref>]。本研究将Co、Mo修饰到γ-Al<sub>2</sub>O<sub>3</sub>载体上，制得了催化活性较高的Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>的催化剂，并将其应用于邻苯二甲醛的过氧化氢催化氧化工艺中，并对该催化剂的应用性能进行了研究。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 实验方法</title>
+      <sec id="s4_1">
+        <title>2.1. 实验试剂</title>
+        <p>
+          硝酸钴(分析纯)，成都市科龙化工试剂厂；钼酸铵(分析纯)，天津市河东区红岩试剂厂；过氧化氢(30%，分析纯)，国药集团化学试剂有限公司；乙酸乙酯(分析纯)，重庆茂业化学试剂有限公司；60~90石油醚，天津市津东天正精细化学试剂厂；邻苯二甲醇(98%，工业品)，陕西省石油化工研究设计院，SAPO-34分子筛(Si:P:Al = 0.3~0.4:1:1)、HZSM-5分子筛(Z型)、γ-Al<sub>2</sub>O<sub>3</sub> (工业品)，杭州吉康新材料有限公司。
+        </p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 催化剂的制备</title>
+        <p>
+          将定量的硝酸钴溶于蒸馏水中，充分搅拌，将定容的硝酸钴溶液滴加至定量的γ-Al<sub>2</sub>O<sub>3</sub>载体上，放入真空干燥箱中，干燥至恒重；然后将定量的钼酸铵溶于蒸馏水中，充分搅拌，将定容的硝酸钴溶液滴加至上述制备的含钴催化剂上，放入真空干燥箱中，干燥至恒重，放入马弗炉中焙烧，得到催化剂Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>。
+        </p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 催化剂的表征</title>
+        <p>
+          采用梅特勒托利多TG-SDTA851热重分析仪对催化剂进行热失重分析，升温速率：10℃/min (0℃~900℃)，载气及速率：N<sub>2</sub>，20 ml/min。
+        </p>
+        <p>催化剂形貌采用日立公司JSM-6390A型扫描电子显微镜在15 KV加速电压，16.3 mm工作距离下观察其形态。</p>
+        <p>采用布鲁克公司生产的D8 ADVANCE型X射线衍射仪对制备的催化剂进行物相分析，Cu靶Kα线为辐射源，管电压40 kV，管电流30 mA，扫描速度5˚/min，扫描范围2θ为10˚~80˚。</p>
+        <p>XPS以Ulvac-Phi 5300型X射线光电子能谱仪进行测试(Mg，Kα)，以为发射源，全扫描为89.45 eV，步长为1 eV；窄扫描为35.75 eV，步长为0.2 eV。</p>
+        <p>
+          催化剂酸中心强度及分布采用实验室自组装的连续固定床装置NH<sub>3</sub>-TPD (NH<sub>3</sub>程序升温脱附)进行评测，测试前样品在氩气氛围下以10℃/min的升温速率加热到300℃，预热30 min，接着按照10℃/min降温速率降至80℃，以NH<sub>3</sub>-Ar (30 ml/min)进行吸附30 min，氩气(30 ml/min)吹扫30 min进行NH<sub>3</sub>-TPD评价实验，升温速率10℃/min，温度范围50℃~650℃，采用北分瑞利气相色谱仪检测器SP-2100A热导池检测器检测。
+        </p>
+        <p>催化剂比表面积(BET)、孔直径和孔容积测试采用美国麦克公司ASAP2020型物理吸附仪测试，样品在200℃干燥6 h后，在−196℃下测定，采用气体吸附容积法测定催化剂比表面积、孔直径和孔容积。</p>
+      </sec>
+      <sec id="s4_4">
+        <title>2.4. 催化剂应用及评价</title>
+        <p>通过过氧化氢催化氧化合成邻苯二甲醛，对制备的催化剂性能进行评测。实验如下：向配有转子、冷凝管、温度计的50 mL的三口烧瓶中加入5 g的邻苯二甲醇、0.3 g催化剂，开启恒温磁力搅拌水浴，加热至80℃，保温搅拌，1 h向体系中滴加8.21 g的过氧化氢，继续反应3 h，冷却至室温。用乙酸乙酯次等体积萃取3次，分出有机相，用气相色谱进行定量分析。</p>
+        <p>采用美国Agilent公司产GC7890A型气相色谱仪对产物进行表征，色谱条件如下：采用安捷伦Agilent-7890A型气相色谱仪进行分析，气相色谱条件如下：</p>
+        <p>采用氢离子火焰检测器，高纯氮气做载体，弱极性色谱柱(型号HP-5，规格为30 m &#215; 0.3 mm &#215; 0.25 mm，最高柱温为320℃)，进样口温度250℃，FID检测器温度270℃，载气流量20 mL/min，进样量0.5 μL，流速2 ml/min，分流比10:1，程序升温：初温80℃，保留5分钟，以20℃/min升至180℃，再以5℃/min升至240℃，保留10分钟。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 结果与讨论</title>
+      <sec id="s5_1">
+        <title>3.1. TG-DTA表征</title>
+        <p>
+          图1为Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂前驱体(硝酸钴和钼酸铵)的热失重曲线。由图可知，DTA曲线在75℃有较强吸收，此时TG线显示有4.6%的重量损失，此时失重峰由于催化剂前驱体中的水合晶体中结晶水的失水所致；在200℃开始的失重峰来源于氧化物的还原过程，TG曲线较为平缓；DTA曲线在450℃左右有强吸收峰出现，随之又一定的热量流失，这来源于加入的复合盐分解为氧化物的缘故 [<xref ref-type="bibr" rid="hanspub.33512-ref11">11</xref>] [<xref ref-type="bibr" rid="hanspub.33512-ref12">12</xref>] [<xref ref-type="bibr" rid="hanspub.33512-ref13">13</xref>]；500℃以后，分解过程结束，催化剂前驱体全部分解为相应的氧化物，曲线上几乎无热重损失，故适宜的焙烧温度为500℃。
+        </p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. SEM表征</title>
+        <p>
+          图2为制备催化剂Mo/Co/γ-Al<sub>2</sub>O<sub>3</sub>的SEM图。
+        </p>
+        <p>
+          图1. Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂前驱体的TG-DTA曲线
+        </p>
+        <p>
+          图2. Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂的SEM图
+        </p>
+        <p>
+          由图2可以看出，制备的催化剂Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>样品基本是直径为1~3 μm的颗粒状形貌，活性组分载体表面分散均匀，无团聚现象，作为催化剂使用效果较佳 [<xref ref-type="bibr" rid="hanspub.33512-ref14">14</xref>]。
+        </p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. XRD表征</title>
+        <p>
+          图3是不同负载量的Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂的XRD谱图，2θ在37.6˚，45.9˚，67.0˚，位置的峰归属于载体的特征衍射峰，与三氧化二铝的标准特征衍射吻合。催化剂的XRD谱图中没有观察到三氧化钼和氧化钴物种相关的特征衍射峰，表明两种氧化物可以较好的分散于载体的表面。XRD图中，28˚左右出现了一个尖峰，经过与标准图谱对比可知，催化剂在焙烧过程中，除了生成大量的氧化钴和氧化钼，同时生成少量的CoMoO<sub>4</sub>化合物 [<xref ref-type="bibr" rid="hanspub.33512-ref15">15</xref>]。
+        </p>
+      </sec>
+      <sec id="s5_4">
+        <title>3.4. XPS表征</title>
+        <p>
+          图4是制备的Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂的XPS谱图。从图中可以看出，制备催化剂元素特征峰分别归属于O、Al、Co、Mo，其中O1s的峰的强度最大。
+        </p>
+        <p>图3. 不同负载量下催化剂的X射线衍射图</p>
+        <p>图4. Co、Mo基催化剂的X射线光电子能谱分析</p>
+        <p>
+          图5是制备催化剂中Co的2p轨道图谱，从图5可知：谱图中有两个较强的分裂峰(Co 2p<sub>1/2</sub>峰和Co 2p<sub>2/3</sub>峰)，即在795.1 eV和780.5 eV处的两个峰分别归属于Co<sup>2+</sup>和Co<sup>3+</sup>，Co存在+2、+3两种价态，这也表明负载在催化剂表面上的是Co<sub>3</sub>O<sub>4</sub>。
+        </p>
+        <p>
+          图6是对制备催化剂中Mo的3d轨道图谱，从图6可知：谱图中有两个较强的分裂峰(Mo 3d<sub>5/2</sub>峰和Mo 3d<sub>3/2</sub>峰)，即229.5 eV和233.4 eV处的两个峰分别归属于Mo<sup>6+</sup>的E3d<sub>5/2</sub>和E3d<sub>3/2</sub>，催化剂中Mo为+6价，这也表明负载在催化剂表面上的是MoO<sub>3</sub>。
+        </p>
+        <p>
+          图5. Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂中Co的XPS谱图
+        </p>
+        <p>
+          图6. Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂中Mo的XPS 图谱
+        </p>
+      </sec>
+      <sec id="s5_5">
+        <title>
+          3.5. NH<sub>3</sub>-TPD表征
+        </title>
+        <p>
+          图7为分别以SAPO-34、HZSM-5和γ-Al<sub>2</sub>O<sub>3</sub>为载体制备了金属组成相同的催化剂的TPD谱图，由图可知：脱附峰面积从大到小依次为：SAPO-34、HZSM-5和γ-Al<sub>2</sub>O<sub>3</sub>，这表明γ-Al<sub>2</sub>O<sub>3</sub>载体的氨吸附量和酸性最小 [<xref ref-type="bibr" rid="hanspub.33512-ref16">16</xref>]。Al<sub>2</sub>O<sub>3</sub>的表面不完全配位铝原子导致其显示一定的酸性，从TPD图看出，Al<sub>2</sub>O<sub>3</sub>的脱附峰仅出现在低温区，表明其仅有一个弱酸中心，而SAPO-34和HZSM-5的酸性均较强。而OPA的氧化合成工艺是在弱酸性环境下进行，有利于主产物的生成 [<xref ref-type="bibr" rid="hanspub.33512-ref6">6</xref>]，故以γ-Al<sub>2</sub>O<sub>3</sub>为载体。
+        </p>
+        <p>
+          图7. 催化剂的NH<sub>3</sub>-TPD曲线
+        </p>
+      </sec>
+      <sec id="s5_6">
+        <title>3.6. BET表征</title>
+        <p>
+          表1为制备的不同负载量Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂比表面积及孔道结构参数。由表1可知，与负载前相比，Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂的比表面积变小，而孔体积和孔径变化不大，说明活性组分均匀分散在载体上，由于负载后的稀释效应，使得催化剂的比表面积稍有减小，孔体积和平均孔径无明显变化，表明负载金属后对γ-Al<sub>2</sub>O<sub>3</sub>载体结构未产生大的影响。
+        </p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> The pore structure analysis of Co/Mo/γ-Al2O3 catalys</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >催化剂</th>
+                  <th align="center" valign="middle" >Co/%</th>
+                  <th align="center" valign="middle" >Mo/%</th>
+                  <th align="center" valign="middle" >
+                    比表面积/m<sup>2</sup>∙g<sup>−1</sup>
+                  </th>
+                  <th align="center" valign="middle" >平均孔径/A</th>
+                  <th align="center" valign="middle" >
+                    孔体积/cm<sup>3</sup>∙g<sup>−1</sup>
+                  </th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  rowspan="8"  >
+                  Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>
+                </td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >165.5</td>
+                <td align="center" valign="middle" >16.2</td>
+                <td align="center" valign="middle" >0.68</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >153.6</td>
+                <td align="center" valign="middle" >16.0</td>
+                <td align="center" valign="middle" >0.68</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >137.4</td>
+                <td align="center" valign="middle" >16.1</td>
+                <td align="center" valign="middle" >0.66</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >11</td>
+                <td align="center" valign="middle" >130.5</td>
+                <td align="center" valign="middle" >15.4</td>
+                <td align="center" valign="middle" >0.65</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >128.4</td>
+                <td align="center" valign="middle" >15.9</td>
+                <td align="center" valign="middle" >0.65</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >15</td>
+                <td align="center" valign="middle" >120.1</td>
+                <td align="center" valign="middle" >15.8</td>
+                <td align="center" valign="middle" >0.66</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >4</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >130.1</td>
+                <td align="center" valign="middle" >16.0</td>
+                <td align="center" valign="middle" >0.64</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >6</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >120.2</td>
+                <td align="center" valign="middle" >16.0</td>
+                <td align="center" valign="middle" >0.67</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+          表1. Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂的孔结构分析
+        </p>
+      </sec>
+      <sec id="s5_7">
+        <title>3.7. 催化剂的催化性能</title>
+        <p>
+          表2为制备的不同Co/Mo含量的催化剂在邻苯二甲醇氧化反应中催化性能。从结果可以看出，与未加催化剂和仅加入单一的Co或Mo催化剂相比，添加Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂后，邻苯二甲醛转化率提高，表明制备的催化剂催化性能良好。
+        </p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> The effect of different active components and contents of catalysts on the conversion of o-phthalaldehyd</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >催化剂名称</th>
+                  <th align="center" valign="middle" >Co/%</th>
+                  <th align="center" valign="middle" >Mo/%</th>
+                  <th align="center" valign="middle" >邻苯二甲醛转化率/%</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.84</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >21.95</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >3</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >12.36</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >4</td>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >11</td>
+                <td align="center" valign="middle" >38.86</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >5</td>
+                <td align="center" valign="middle" >15</td>
+                <td align="center" valign="middle" >41.52</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >6</td>
+                <td align="center" valign="middle" >
+                  5<sup>(1)</sup>
+                </td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >42.14</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >7</td>
+                <td align="center" valign="middle" >4</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >35.50</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >8</td>
+                <td align="center" valign="middle" >6</td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >42.27</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >9</td>
+                <td align="center" valign="middle" >
+                  5<sup>(2)</sup>
+                </td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >43.04</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >10</td>
+                <td align="center" valign="middle" >
+                  5<sup>(3)</sup>
+                </td>
+                <td align="center" valign="middle" >13</td>
+                <td align="center" valign="middle" >42.66</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. 不同催化剂活性组分及含量对邻苯二甲醛转化率的影响</p>
+        <p>
+          注：5<sup>(1)</sup>、5<sup>(2)</sup>、5<sup>(3)</sup>分别指该催化剂重复使用次数。
+        </p>
+        <p>
+          在Co含量为定值时，随着Mo的增加，邻苯二甲醛转化率呈先增加后减小趋势；而在Mo含量为定值，随着Co的增加，其转化率呈先增加后平稳趋势，从结果可以看出Co在Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂中起主催化作用，Mo起调节催化活性的作用，其中，制备的Co、Mo的负载量分别为5%和13%催化剂的催化活性较好。对上述催化剂重复使用性进行评测，重复使用3次，催化活性未有明显变化，均达42%以上。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 结论</title>
+      <p>
+        制备了不同载体、不同钴、钼含量的Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>催化剂样品，通过热失重分析确定制备催化剂适宜的焙烧温度为500℃；扫描电镜对催化剂形貌分析表明制备的催化剂Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>，在焙烧后几乎无团聚现象，活性组分载体表面分散均匀，无团聚现象，结合X射线粉末衍射、NH<sub>3</sub>程序升温脱附、X射线光电子能谱分析、及BET物理吸附表征确定其具有γ-Al<sub>2</sub>O<sub>3</sub>的物相结构，晶粒分布较集中，确定钴、钼进入了γ-Al<sub>2</sub>O<sub>3</sub>骨架，且没有对载体孔结构造成破坏。该催化剂在对邻苯二甲醇的过氧化氢催化氧化反应中起到催化作用，有利于邻苯二甲醛的生成，综合比较，在所考察的催化剂体系中Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub> (Co 5%，Mo 13%)催化剂有最高的转化率。
+      </p>
+    </sec>
+    <sec id="s7">
+      <title>基金项目</title>
+      <p>陕西省科学技术研究发展计划项目(2014K10-9)。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>
+        唐 璇,薛 姗,王诗雨,张晓夏,成西涛. Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub>的制备、表征及其催化合成邻苯二甲醛Preparation, Characterization of Co/Mo/γ-Al<sub>2</sub>O<sub>3</sub> Catalyst and Its Catalytic Performance in the Preparation of Phthalaldehyde[J]. 合成化学研究, 2019, 07(04): 37-45. https://doi.org/10.12677/SSC.2019.74007
+      </p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.33512-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Juhlin, L. and Shelley, W.B. (1966) Detection of Histamine by New Fluorescent o-Phthalaldehyde Stain. Journal of Histochemistry &amp; Cytochemistry, 14, 525-528.&lt;br&gt; https://doi.org/10.1177/14.7.525</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Alfa, M.J. and Sitter, D.L. (1994) In Hospital Evaluation of Orthophthalaldehyde as a High Level Disinfectant for Flexible Endoscopes. Journal of Hospital Infection, 26, 15-26. &lt;br&gt;  https://doi.org/10.1016/0195-6701(94)90075-2</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Cabrera-Martinez, R.M., Setlow, B. and Setlow, P. (2002) Studies on the Mechanisms of the Sporicidal Action of Ortho-Phthalaldehyde. Journal of Applied Microbiology, 92, 675-680. &lt;br&gt; https://doi.org/10.1046/j.1365-2672.2002.01572.x</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">刘鸿. 邻苯二甲醛合成新工艺[J]. 精细化工中间体, 2004, 34(4): 45-47.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">徐克勋. 精细有机化工原料及中间体手册[M]. 北京: 化学工业出版社, 2004.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">成西涛, 唐璇, 王思晨, 等. 邻苯二甲醛合成新工艺研究[J]. 应用化工, 2007, 36(8): 767-769.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">成西涛. 邻苯二甲醛消毒剂的合成工艺研究[D]: [硕士学位论文]. 西安: 西北大学, 2006.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Jacques, G. (1979) Multiple Substituted o-Phthalaldehyde. US Patent EP19793230.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Naruhisa, H. and Shi, H. (1999) Process for Producing Dialdehyde. US Patent EP1078908.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Anderson, E.B., Buchmeiser, M.R., Hermanutz, F. and Ingildeev, D. (2012) Synthesis and Dry-Spinning Fibers of Sulfinyl-Based Poly(P-Phenylene Vi-nylene) (PPV) for Semi-Conductive Textile Applications. Journal of Materials Chemistry, 22, 11851-11860. &lt;br&gt; https://doi.org/10.1039/c2jm30186e</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Sarvesh, K., Pulikottil, C., Sharma, A., et al. (2007) Adsorbent Composition for Removal of Refractory Sulphur Compounds from Refinery Streams and Process Thereof. US Patent 20070023325.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">徐世杰, 季祥, 刘彬, 等. 响应面法优化新型磁性固体酸催化地沟油甘油酯化的工艺[J]. 湖北农业科学, 2016, 55(5): 1261-1263.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Jiao, F. and Frei, H. (2009) Nanostructured Cobalt Oxide Clusters in Mesoporous Silica as Efficient Oxygen-Evolving Catalysts. Angewandte Chemie International Edition, 48, 1841-1844. &lt;br&gt;  https://doi.org/10.1002/anie.200805534</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Borg, Ø., Blekkan, E., Eri, S., et al. (2007) Effect of Calcination Atmosphere and Temperature on γ-Al2O3 Supposed Cobalt Fischer-Tropsch Catalysts. Topics in Catalysis, 45, 39-43. &lt;br&gt; https://doi.org/10.1007/s11244-007-0237-4</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Martinez, A., Gonzalo, P. and Rollan, J. (2009) Nano Brous-A12O3 as Suppo for Co-Based Fischer∙Tropsch Catalysts: Pondering the Relevance of Diffusional and Dispersion Effects on Catalytic Performance. Journal of Catalysis, 263, 292-305. &lt;br&gt; https://doi.org/10.1016/j.jcat.2009.02.021</mixed-citation>
+      </ref>
+      <ref id="hanspub.33512-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">俞超. Ga2O3/HZSM-5催化剂在乙烷脱氢反应中的积碳行为与表面酸性能的调变作用[J]. 化学学报, 2011(5): 28-35.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

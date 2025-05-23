@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">PM</journal-id>
+      <journal-title-group>
+        <journal-title>Pure  Mathematics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7583</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/PM.2020.101001</article-id>
+      <article-id pub-id-type="publisher-id">PM-33713</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>PM20200100000_72759232.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          斜幂级数剩余类环的同调性质
+          The Homological Properties of the Residue Rings of Skew Power Series
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>龚</surname>
+            <given-names>朝庆</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>欧</surname>
+            <given-names>阳伦群</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>湖南科技大学，数学与计算科学学院，湖南 湘潭</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>01</issue>
+      <fpage>1</fpage>
+      <lpage>5</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          设R是一个完全凝聚的交换环，α是环R的自同构，f(x)是R[[x;a]]中的一个斜幂级数。该文对一些特殊的f(x)，即f(x)的某些系数满足一定条件时，得到了斜幂级数剩余类环R[[x;a]]/(f(x))作为R-模的平坦与忠实平坦等同调性质。 Let R be a perfect coherent commutative ring, α be an automorphism of a ring R, and f(x) be a skew power series of R[[x;a]]. In this paper, we mainly investigate the flat property or the faithfully flat property of the residue ring R[[x;a]]/(f(x)) when the coefficients of f(x) satisfy some additional conditions.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd> -相容理想，平坦模，忠实平坦模,   -Compatible Ideal</kwd>
+        <kwd> Flat Module</kwd>
+        <kwd> Faithfully Flat Module</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        斜幂级数剩余类环的同调性质<sup> </sup>
+      </title>
+      <p>龚朝庆，欧阳伦群</p>
+      <p>湖南科技大学，数学与计算科学学院，湖南 湘潭</p>
+      <disp-formula id="hanspub.33713-formula3">
+        <graphic xlink:href="//html.hanspub.org/file/1-1250949x10_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年12月4日；录用日期：2019年12月23日；发布日期：2019年12月31日</p>
+      <disp-formula id="hanspub.33713-formula4">
+        <graphic xlink:href="//html.hanspub.org/file/1-1250949x11_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>设R是一个完全凝聚的交换环， α 是环R的自同构， f ( x ) 是 R 〚 x ; α 〛 中的一个斜幂级数。该文对一些特殊的 f ( x ) ，即 f ( x ) 的某些系数满足一定条件时，得到了斜幂级数剩余类环 R 〚 x ; α 〛 / ( f ( x ) ) 作为R-模的平坦与忠实平坦等同调性质。</p>
+      <p>关键词 : α -相容理想，平坦模，忠实平坦模</p>
+      <disp-formula id="hanspub.33713-formula5">
+        <graphic xlink:href="//html.hanspub.org/file/1-1250949x19_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2020 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/1-1250949x20_hanspub.png" />
+        <img src="//html.hanspub.org/file/1-1250949x21_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 前言</title>
+      <p>设R是有单位元1的完全凝聚的交换环， α 是环R上的一个自同构。记 R 〚 x ; α 〛 = { ∑ i = 0 ∞ a i x i | a i ∈ R , i ∈ N } ，其中加法运算为普通的幂级数加法，乘法运算为满足下列关系式的乘法运算：对于任意 r ∈ R ， x r = α ( r ) x ，则 R 〚 x ; α 〛 按上述运算构成一个环，称为环R上的斜幂级数环。设I是环R的理想，如果对任意 a , b ∈ R ， a b ∈ I ⇔ a α ( b ) ∈ I ，则称I是环R的 α -相容理想。如果环R的任意理想都是 α -相容理想，则称环R是 α -相容环。</p>
+      <p>令 f ( x ) ∈ R 〚 x ; α 〛 ，本文主要研究当 f ( x ) 的某些系数满足一定条件时，斜幂级数剩余类环 R 〚 x ; α 〛 / ( f ( x ) ) 作为R-模是一个平坦R-模以及忠实平坦R-模，并且将该结论推广到了幂级数剩余类环上。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 预备知识</title>
+      <p>引理1 设R是有单位元1的结合环， α 是环R的自同构，I是环R的 α -相容理想，则对任意 a , b ∈ R ，下列结论成立：</p>
+      <p>1) 若 a b ∈ I ，则对任意正整数n，有 a α − n ( b ) ∈ I ， α − n ( a ) b ∈ I ；</p>
+      <p>2) 若存在正整数n，使得 a α − n ( b ) ∈ I 或 α − n ( a ) b ∈ I ，则必有 a b ∈ I 。</p>
+      <p>证明：1) 若 a b ∈ I ，则有 a α ( α − 1 ( b ) ) ∈ I 。于是由 α -相容理想的定义可得 a α − 1 ( b ) ∈ I ，再由 a α − 1 ( b ) ∈ I 可推出 a α ( α − 2 ( b ) ) ∈ I ，从而同样可推出 a α − 2 ( b ) ∈ I 。依此类推可得对任意正整数n，有 a α − n ( b ) ∈ I 。</p>
+      <p>若 a b ∈ I ，则有 α n ( α − n ( a ) α − n ( b ) ) = 1 ⋅ α n ( α − n ( a ) α − n ( b ) ) ∈ I ，其中n是正整数，于是由上面的证明可得 1 ⋅ α − n ( α n ( α − n ( a ) α − n ( b ) ) ) = α − n ( a ) α − n ( b ) ∈ I 。由于I是环R的 α -相容理想，于是可得 α − n ( a ) α − n + 1 ( b ) ∈ I ，依此类推可得 α − n ( a ) b ∈ I 。</p>
+      <p>
+        2) 若存在正整数n，使得 a α − n ( b ) ∈ I 或 α − n ( a ) b ∈ I ，则由文献 [<xref ref-type="bibr" rid="hanspub.33713-ref1">1</xref>] 中的命题2.3可得 a α n ( α − n ( b ) ) = a b ∈ I 及 α n ( α − n ( a ) ) b = a b ∈ I 。
+      </p>
+      <p>推论1：设R是有单位元1的结合环， α 是环R的自同构，I是环R的 α -相容理想，则对任意 a , b ∈ R ，下列结论成立：</p>
+      <p>1) 若 a b ∈ I ，则对任意非零整数n，有 a α n ( b ) ∈ I ， α n ( a ) b ∈ I ；</p>
+      <p>2) 若存在非零整数n，使得 a α n ( b ) ∈ I 或 α n ( a ) b ∈ I ，则必有 a b ∈ I 。</p>
+      <p>
+        证明：由引理1及文献 [<xref ref-type="bibr" rid="hanspub.33713-ref1">1</xref>] 中的命题2.3可知上述结论成立。
+      </p>
+      <p>引理2：设R是有单位元1的结合环， α 是环R的自同构，对任意正整数n，任意 r ∈ R ，有 x n r = α n ( r ) x n ， r x n = x n α − n ( r ) 。</p>
+      <p>证明：由于 x r = α ( r ) x ，于是可得 x 2 r = x ( x r ) = x ( α ( r ) x ) = ( x α ( r ) ) x = α 2 ( r ) x 2 ，依此类推可得 x n r = α n ( r ) x n 。</p>
+      <p>由 x n r = α n ( r ) x n ，可得 r x n = α n ( α − n ( r ) ) x n = x n α − n ( r ) 。</p>
+      <p>引理3：设R是有单位元1的结合环， α 是环R的自同构，I是环R的 α -相容理想， f ( x ) = a 0 + a 1 x + ⋯ + a n x n + ⋯ 。则对任意正整数n，任意 b ∈ I ，有 f ( x ) b ∈ I 〚 x ; α 〛 ， f ( x ) b x n ∈ ( f ( x ) ) ⋅ I 。</p>
+      <p>证明：由于 f ( x ) b = ( ∑ i = 0 ∞ a i x i ) b = ∑ i = 0 ∞ a i ( x i b ) = ∑ i = 0 ∞ a i α i ( b ) x i ，由 b ∈ I 可得对任意 0 ≤ i &lt; ∞ ， a i b ∈ I ，于是由推论1可得 a i α i ( b ) ∈ I ，从而可得 f ( x ) b ∈ I 〚 x ; α 〛 。</p>
+      <p>由于 f ( x ) b x n = f ( x ) x n α − n ( b ) ，由于 b = 1 ⋅ b ∈ I ，于是由推论1可得 1 ⋅ α − n ( b ) = α − n ( b ) ∈ I ，从而可得 f ( x ) b x n ∈ ( f ( x ) ) ⋅ I 。</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 主要结果</title>
+      <p>定理1：设R是有单位元1的完全凝聚的 α -相容的交换环， α 是环R的自同构， f ( x ) = a 0 + a 1 x + ⋯ + a n x n + ⋯ 。如果存在n，使得 a 0 , a 1 , ⋯ , a n − 1 都是幂等元， a n = 1 ，那么 A = R 〚 x ; α 〛 / ( f ( x ) ) 是平坦右R-模。</p>
+      <p>证明：在R-模正合列：</p>
+      <p>0 → ( f ( x ) ) → R 〚 x ; α 〛 → A → 0</p>
+      <p>
+        中， R 〚 x ; α 〛 ≅ ∏ R ，由文献 [<xref ref-type="bibr" rid="hanspub.33713-ref2">2</xref>]，由于R是完全凝聚的环，因此易得 R 〚 x ; α 〛 是平坦右R-模。故由文献 [<xref ref-type="bibr" rid="hanspub.33713-ref3">3</xref>] 知，A是平坦右R-模的充要条件是对R中任意有限生成的左理想I，有
+      </p>
+      <p>( f ( x ) ) ∩ R 〚 x ; α 〛 ⋅ I = ( f ( x ) ) ⋅ I</p>
+      <p>显然 ( f ( x ) ) ⋅ I ⊆ ( f ( x ) ) ∩ R 〚 x ; α 〛 ⋅ I ，下证 ( f ( x ) ) ∩ R 〚 x ; α 〛 ⋅ I ⊆ ( f ( x ) ) ⋅ I 。设 k i ( x ) ∈ R 〚 x ; α 〛 ， c i ∈ I ，则由引理3可得 ∑ k i ( x ) c i ∈ I 〚 x ; α 〛 。若 ∑ k i ( x ) c i ∈ ( f ( x ) ) ，下证一定有 ∑ k i ( x ) c i ∈ ( f ( x ) ) ⋅ I 。</p>
+      <p>因为 ∑ k i ( x ) c i ∈ ( f ( x ) ) ，所以存在 g ( x ) ∈ R 〚 x ; α 〛 ，使得 ∑ k i ( x ) c i = f ( x ) g ( x ) 。</p>
+      <p>设 g ( x ) = b 0 + b 1 x + ⋯ + b m x m + ⋯ ，则</p>
+      <p>f ( x ) g ( x ) = ( ∑ i = 0 ∞ a i x i ) ( ∑ j = 0 ∞ b j x j ) = ∑ i = 0 ∞ a i x i b 0 + ∑ i = 0 ∞ a i x i b 1 x + ⋯ + ∑ i = 0 ∞ a i x i b m x m + ⋯ = ∑ i = 0 ∞ a i α i ( b 0 ) x i + ∑ i = 0 ∞ a i α i ( b 1 ) x i + 1 + ⋯ + ∑ i = 0 ∞ a i α i ( b m ) x i + m + ⋯ = a 0 b 0 + ( a 0 b 1 + a 1 α ( b 0 ) ) x + ⋯ + ( a 0 b n + m + ⋯ + a n + m α n + m ( b 0 ) ) x n + m + ⋯ = ∑ k = 0 ∞ ∑ i + j = k ( a i α i ( b j ) ) x k ∈ I 〚 x ; α 〛</p>
+      <p>当 a 0 , a 1 , ⋯ , a n − 1 都是幂等元， a n = 1 时，依次比较 x k 的系数得：</p>
+      <p>当 k = 0 时， a 0 b 0 ∈ I ；</p>
+      <p>当 k = 1 时，我们有</p>
+      <p>a 0 b 1 + a 1 α ( b 0 ) ∈ I . (1)</p>
+      <p>将上式乘上 a 0 后得</p>
+      <p>a 0 b 1 + a 1 a 0 α ( b 0 ) ∈ I .</p>
+      <p>由于 a 0 b 0 ∈ I ，I是环R的 α -相容理想，于是可得 a 0 α ( b 0 ) ∈ I ，从而可得 a 0 b 1 ∈ I 。再由(1)式可得 a 1 α ( b 0 ) ∈ I ，故由推论1可得 a 1 b 0 ∈ I ；</p>
+      <p>当 k = 2 时，</p>
+      <p>a 0 b 2 + a 1 α ( b 1 ) + a 2 α 2 ( b 0 ) ∈ I . (2)</p>
+      <p>将该式乘上 a 0 后得</p>
+      <p>a 0 b 2 + a 1 a 0 α ( b 1 ) + a 2 a 0 α 2 ( b 0 ) ∈ I .</p>
+      <p>由于 a 0 b 0 ∈ I ， a 0 b 1 ∈ I ，于是由推论1可得 a 0 α ( b 1 ) ∈ I ， a 0 α 2 ( b 0 ) ∈ I ，从而可得 a 0 b 2 ∈ I 。再将(2)式乘上 a 1 后可得</p>
+      <p>a 1 a 0 b 2 + a 1 α ( b 1 ) + a 2 a 1 α 2 ( b 0 ) ∈ I .</p>
+      <p>由于 a 1 b 0 ∈ I ，于是由推论1可得 a 1 α 2 ( b 0 ) ∈ I 。又由于 a 0 b 2 ∈ I ，于是可得 a 1 α ( b 1 ) ∈ I ，故可得 a 1 b 1 ∈ I 。再由(2)式可得 a 2 α 2 ( b 0 ) ∈ I ，于是由推论1可得 a 2 b 0 ∈ I ，依此类推；</p>
+      <p>当 k = n 时，由 ∑ i + j = n a i α i ( b j ) ∈ I 可得 a 0 b n ∈ I ， a 1 b n − 1 ∈ I ， ⋯ ， a n b 0 = b 0 ∈ I ；</p>
+      <p>当 k = n + 1 时，由 ∑ i + j = n + 1 a i α i ( b j ) ∈ I 可得 a 0 b n + 1 ∈ I ， a 1 b n ∈ I ， ⋯ ， a n b 1 = b 1 ∈ I ， a n + 1 b 0 ∈ I ；</p>
+      <p>依此类推可得 b 0 ∈ I ， b 1 ∈ I ， ⋯ ， b m ∈ I ， ⋯ ，故由引理3可得</p>
+      <p>∑ k i ( x ) c i = f ( x ) g ( x ) = ∑ j = 0 ∞ f ( x ) b j x j ∈ ( f ( x ) ) ⋅ I</p>
+      <p>定理2：设R是有单位元1的完全凝聚的 α -相容的交换环， α 是环R的自同构， f ( x ) = a 0 + a 1 x + ⋯ + a n x n + ⋯ 。如果存在 n ≥ 1 ，使得 a 0 = a 1 = ⋯ = a n − 1 = 0 ， a n = 1 ，那么 A = R 〚 x ; α 〛 / ( f ( x ) ) 是忠实平坦的右R-模。</p>
+      <p>
+        证明：显然 a 0 , a 1 , ⋯ , a n − 1 都是幂等元，则由定理1可知A是平坦右R-模。下证对于R的任意有限生成的真左理想I， I ≠ R ，一定有 A I ≠ A ，则根据文献 [<xref ref-type="bibr" rid="hanspub.33713-ref4">4</xref>] 可得A是忠实平坦的右R-模。下证A中的单位元 1 + ( f ( x ) ) 必不在AI中，则 A I ≠ A 。
+      </p>
+      <p>反设A中的单位元 1 + ( f ( x ) ) ∈ A I ，则存在 h i ( x ) ∈ R 〚 x ; α 〛 ， c i ∈ I ，使得</p>
+      <p>1 + ( f ( x ) ) = ∑ ( h i ( x ) + ( f ( x ) ) ) c i = ∑ h i ( x ) c i + ( f (x) )</p>
+      <p>由于 h i ( x ) ∈ R 〚 x ; α 〛 ， c i ∈ I ，于是由引理3知 ∑ h i ( x ) c i ∈ I 〚 x ; α 〛 ，从而存在 g ( x ) ∈ R 〚 x ; α 〛 ，使得 1 + f ( x ) g ( x ) ∈ I 〚 x ; α 〛 。由于 a 0 = a 1 = ⋯ = a n − 1 = 0 ，于是由引理2可得</p>
+      <p>f ( x ) = a n x n + a n + 1 x n + 1 + ⋯ + a n + m x n + m + ⋯ = x n α − n ( a n ) + x n α − n ( a n + 1 ) x + ⋯ + x n α − n ( a n + m ) x m + ⋯ = x n ( α − n ( a n ) + α − n ( a n + 1 ) x + ⋯ + α − n ( a n + m ) x m + ⋯ )</p>
+      <p>设</p>
+      <p>p ( x ) = α − n ( a n ) + α − n ( a n + 1 ) x + ⋯ + α − n ( a n + m ) x m + ⋯ ,</p>
+      <p>则 f ( x ) = x n p ( x ) ，所以</p>
+      <p>1 + f ( x ) g ( x ) = 1 + x n p ( x ) g ( x ) ∈ I 〚 x ; α 〛 .</p>
+      <p>于是必有 1 ∈ I ，由此可得 I = R ，这与假设 I ≠ R 相矛盾，故A是忠实平坦的右R-模。</p>
+      <p>推论2：设R是有单位元1的完全凝聚的交换环， f ( x ) = a 0 + a 1 x + a 2 x 2 + ⋯ + a n x n + ⋯ 。如果存在 n ≥ 1 ，使得 a 0 = a 1 = ⋯ = a n − 1 = 0 ， a n = 1 ，那么 R 〚 x 〛 / ( f ( x ) ) 是忠实平坦的右R-模。</p>
+      <p>证明：在 R 〚 x ; α 〛 中，令 α = 1 ，则有 R 〚 x ; α 〛 ≅ R 〚 x 〛 ，故由定理2知推论成立。</p>
+    </sec>
+    <sec id="s6">
+      <title>文章引用</title>
+      <p>龚朝庆,欧阳伦群. 斜幂级数剩余类环的同调性质The Homological Properties of the Residue Rings of Skew Power Series[J]. 理论数学, 2020, 10(01): 1-5. https://doi.org/10.12677/PM.2020.101001</p>
+    </sec>
+    <sec id="s7">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.33713-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hashemi, E. (2006) Compatible Ideals and Radicals of Ore Extensions. New York Journal of Mathematics, 12, 349-356.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33713-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">佟文延. 同调代数引论[M]. 北京: 高等教育出版社, 1998.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33713-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">周伯曛. 同调代数[M]. 北京: 科技出版社, 1983: 144-153.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33713-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杨静化. 关于R[X]的剩余类环的同调维数[J]. 南京大学数学半年刊, 1998, 15(2): 251-256.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

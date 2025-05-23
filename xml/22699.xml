@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">AE</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Education</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-729X</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/AE.2017.76063</article-id>
+      <article-id pub-id-type="publisher-id">AE-22699</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>AE20170600000_54719190.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>人文社科</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          《GNSS接收机原理与设计》课程改进方法探讨
+          Discussion on Improvement Methods of Lessons: “Principles and Design of GNSS Receivers”
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>郭</surname>
+            <given-names>文飞</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>谭</surname>
+            <given-names>俊雄</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>吴</surname>
+            <given-names>如楠</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>武汉大学卫星导航定位技术研究中心，湖北 武汉</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>10</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>06</issue>
+      <fpage>397</fpage>
+      <lpage>401</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          针对《GNSS接收机原理与设计》课程中存在的知识面广、学科交叉性强、学生基础背景差异化大等问题，提出了以应用为引导，教学工具多元化，引入互联网资源，强调动手实践等教学改进方法，激发学生学习和探讨的主动性，转被动为主动，将学生背景差异转化为多元结合的优势等手段，鼓励学生寓学于练，动手实现出具有实用性的成果，从而达到提高教学质量的目的。 Based on the fact that “Principle of GNSS and receiver design” is a multidisciplinary curriculum that requires a wide scope of knowledge and students possess much different knowledge back-grounds, a series of improved teaching methods are proposed, including taking specialized applications as guidance, diversifying the teaching tools, introducing the Internet resources and emphasizing the hands-on practice ability. It is expected that these teaching methods will stimulate the students’ initiatives in exploring and discussion, combine students from different majors into a cooperation group, and encourage students to take the theoretical knowledge into real and specialized applications, so as to enhance the teaching quality.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>GNSS接收机原理与设计，教学改革，学科交叉, Principles and Design of GNSS Receivers</kwd>
+        <kwd> Reform in Education</kwd>
+        <kwd> Interdisciplinary</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        《GNSS接收机原理与设计》课程改进方法探讨<sup> </sup>
+      </title>
+      <p>郭文飞，谭俊雄，吴如楠</p>
+      <p>武汉大学卫星导航定位技术研究中心，湖北 武汉</p>
+      <p>收稿日期：2017年10月29日；录用日期：2017年11月12日；发布日期：2017年11月17日</p>
+      <disp-formula id="hanspub.22699-formula10">
+        <graphic xlink:href="//html.hanspub.org/file/19-1160586x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>针对《GNSS接收机原理与设计》课程中存在的知识面广、学科交叉性强、学生基础背景差异化大等问题，提出了以应用为引导，教学工具多元化，引入互联网资源，强调动手实践等教学改进方法，激发学生学习和探讨的主动性，转被动为主动，将学生背景差异转化为多元结合的优势等手段，鼓励学生寓学于练，动手实现出具有实用性的成果，从而达到提高教学质量的目的。</p>
+      <p>关键词 :GNSS接收机原理与设计，教学改革，学科交叉</p>
+      <disp-formula id="hanspub.22699-formula11">
+        <graphic xlink:href="//html.hanspub.org/file/19-1160586x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/19-1160586x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/19-1160586x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        全球导航卫星系统(Global Navigation Satellite System, GNSS)是利用空间卫星实现全球范围的、全天候无线定位系统，目前GSSS主要包括美国的GPS、中国的北斗(BDS)、俄罗斯的GLONASS，以及欧洲的Galileo系统。GNSS技术在早期只为少数专业人士所熟悉，在GPS发展早期，应用最多的领域主要是国防、专业测绘和大气层研究等，但本世纪以来随着位置服务的逐渐普及，导航已经与我们的生活密切相关，并融入到各个行业了 [<xref ref-type="bibr" rid="hanspub.22699-ref1">1</xref>] 。相对于美国的GPS，我国北斗系统起步较晚，但发展迅速，目前我国已经建成了覆盖亚太地区的区域导航系统，并计划于2020年北斗卫星信号覆盖全球。与发展速度相对应的是，我国目前的卫星导航专业人才需求量大，这点在GNSS接收机技术上体现尤为明显。主要原因在于前期的测绘领域对于GNSS接收机主要以进口为主，研发实力不足，另外我国信息产业相对于西方国家起步较晚，高端人才相对匮乏，技术门槛难度高。这就对该技术的相关课程设计提出了明确的需求，相关高校在GNSS接收机技术方面相继开设了研究生课程，以促进人才的培养。
+      </p>
+      <p>
+        《GNSS接收机原理与设计》主要讲述GNSS接收机内部机理，从导航信号接收处理到观测值的生成以及位置结算。大致分成GNSS基础知识、定位算法、GNSS应用以及信号的捕获与跟踪等几部分内容 [<xref ref-type="bibr" rid="hanspub.22699-ref2">2</xref>] 。由于课程内容涉及到信号处理、测绘原理以及软硬件开发等多个学科的基础知识，学科交叉性强，给教学带来了一定的难度。另一方面，由于导航是一个新兴学科，听课的学生专业背景也存在明显的差异，教学过程中要通盘考虑所有学生的接受能力以及他们在听课过程中的积极性问题。
+      </p>
+      <p>
+        针对导航领域教学课程存在的这些问题，根据课程特点实施教学改革，以适应当前卫星导航技术的发展迫在眉睫 [<xref ref-type="bibr" rid="hanspub.22699-ref3">3</xref>] 。本文主要从兴趣引导、引入MOOC互联网资源、开发教学辅助工具、鼓励学生动手实践等几个方面对《GNSS接收机原理与设计》的课程改进进行探讨，期望以此达到降低学生学习难度，提高学生学习积极性的目的，从而培养出真正的、实用型导航人才。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 课程特点</title>
+      <p>本文以课程教学中的实际情况为基础，对该课程的内容特点和教学现状两方面进行了统计和摸底，发现该课程存在问题特点明显，主要包括以下几个方面：</p> </sec>
+      <sec id="s4_1">
+        <title>2.1. 课程内容多，学科交叉性强</title>
+        <p>表1为本校采用的《GNSS接收机原理与设计》教学课程内容大纲，具有典型性。从该表可以看出，该课程知识面广，主要包括天线与射频、基带信号处理、测绘理论、软硬件终端设计等多专业背景知识。</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Teaching Content of the typica</title>
+          </caption>
+          </table-wrap>
+        </sec>
+      </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22699-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">鲁郁. 北斗/GPS双模软件接收机原理与实现技术[M]. 北京: 电子工业出版社, 2016.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22699-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">谢钢. GPS原理与接收机设计[M]. 北京: 电子工业出版社, 2009.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22699-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">纪元法, 孙希延, 施浒立. 改革“GPS原理与应用”课程教学, 培养导航人才[J]. 全球定位系统, 2010, 35(2): 61-64.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22699-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">张娣. GNSS软件接收机捕获与跟踪算法研究[D]: [硕士学位论文]. 武汉: 武汉大学, 2013.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22699-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Tsui, J.B. (2002) Fundamentals of Global Positioning System Receivers [Book Review]. IEEE Signal Processing Magazine, 18, 58-58.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22699-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Kai, B., Akos, D.M., Bertelsen, N., et al. (2007) A Software-Defined GPS and Galileo Receiver. Birkhäuser Boston.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22699-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">http://www.rtklib.com/</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

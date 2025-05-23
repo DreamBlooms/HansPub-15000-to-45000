@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">CSA</journal-id>
+      <journal-title-group>
+        <journal-title>Computer Science and Application</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2161-8801</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/CSA.2019.93061</article-id>
+      <article-id pub-id-type="publisher-id">CSA-29187</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>CSA20190300000_89513632.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>信息通讯</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          基于CSS + Div的网页布局方法研究
+          Research on Web Page Layout Method Based on CSS + Div
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>高</surname>
+            <given-names>葵</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>李</surname>
+            <given-names>蔚妍</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>付</surname>
+            <given-names>晓翠</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>山东农业大学，信息科学与工程学院，山东 泰安</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>03</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>03</issue>
+      <fpage>531</fpage>
+      <lpage>538</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          CSS + Div布局方法在实际网站设计制作中得到了越来越多的应用，可以通过
+         
+          ＜div＞   标签和CSS属性设置实现网页布局。本文通过CSS + Div布局方法举例并进行分析说明，给出使用CSS + Div布局方法进行布局的使用方法和注意事项，达到掌握的目的。
+            The CSS + Div layout method has gained more and more applications in the actual website design and production, and can be used through
+            ＜div＞ 
+       Labels and CSS property settings implement web page layout. Through the example of the CSS + Div layout method and the analysis and explanation, this paper gives the usage method and attention to use the CSS + Div layout method to achieve the purpose of mastering. 
+      
+      
+  
+ 
+</p>
+      </abstract>
+      <kwd-group>
+        <kwd>CSS + Div，外边距，内边距，边框，Position，Float，Clear, CSS + Div</kwd>
+        <kwd> Margin</kwd>
+        <kwd> Padding</kwd>
+        <kwd> Border</kwd>
+        <kwd> Position</kwd>
+        <kwd> Float</kwd>
+        <kwd> Clear</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        基于CSS + Div的网页布局方法研究<sup> </sup>
+      </title>
+      <p>高葵，李蔚妍，付晓翠</p>
+      <p>山东农业大学，信息科学与工程学院，山东 泰安</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-1541324x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年2月16日；录用日期：2019年3月4日；发布日期：2019年3月11日</p>
+      <disp-formula id="hanspub.29187-formula28">
+        <graphic xlink:href="//html.hanspub.org/file/6-1541324x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>CSS + Div布局方法在实际网站设计制作中得到了越来越多的应用，可以通过</p>
+      <p>关键词 :CSS + Div，外边距，内边距，边框，Position，Float，Clear</p>
+      <disp-formula id="hanspub.29187-formula29">
+        <graphic xlink:href="//html.hanspub.org/file/6-1541324x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-1541324x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/6-1541324x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>在网页设计中，CSS即层叠样式表，是用来控制网页样式并允许样式与内容分离的一种标记性语言。Div标签用来定义网页内容中的逻辑区域，是一个块级元素，是一个容器，可以容纳任何网页元素。使用CSS + Div技术可以实现网页布局。与使用表格布局方法相比，CSS + Div布局方法具有结构简洁、定位灵活、代码效率高等优点，因此该技术在实际网站设计制作中得到了越来越多的应用，同时也成为网站制作者的必备技术。但在实际应用中由于对相关概念和属性掌握不透彻，导致在网页布局中出现异常，本文通过CSS + Div布局方法举例并进行分析说明，给出使用CSS + Div布局方法进行布局的使用方法和注意事项，达到掌握的目的。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 使用举例</title>
+      <sec id="s4_1">
+        <title>2.1. 相关概念</title>
+        <p>1) 盒子模型</p>
+        <p>
+          盒子模型是CSS + Div网页布局的重要概念，网页元素和它周围空间所形成的矩形区域称为盒子(box) [<xref ref-type="bibr" rid="hanspub.29187-ref1">1</xref>] ，根据需要将网页中的盒子进行排列和分布，就形成了网页布局。
+        </p>
+        <p>盒子模型将页面中的每个元素看作一个矩形框，这个框由元素的内容、内边距(padding)、边框(border)和外边距(margin)组成。按top、bottom、left、right的四个方向，分别进行定义和设置，描述盒子属性。具体设置如下图1所示。</p>
+        <p>图1. 盒子模型结构和属性</p>
+        <p>2)</p>
+        <p>3) position定位属性</p>
+        <p>在CSS样式中，position定位属性定义元素区域的相对空间位置，可以相对于其上级元素，或相对于另一个元素，或相对于浏览器窗口，包括了四种属性值：static、relative、absolute和fixed，它们决定了元素区域的布局方式。</p>
+        <p>
+          static静态定位为默认值，网页元素遵循HTML的标准定位规则，即网页各种元素按照“前后相继”的顺序进行排列和分布 [<xref ref-type="bibr" rid="hanspub.29187-ref3">3</xref>] 。
+        </p>
+        <p>relative相对定位，网页元素也遵循HTML的标准定位规则，但需要为网页元素相对于原始的标准位置设置一定的偏移距离，可以使用CSS的属性如left、top、right、bottom来设置位置。</p>
+        <p>absolute绝对定位，位置将依据浏览器左上角的0点开始计算，使用CSS属性left、top、right、bottom来设置位置。</p>
+        <p>fixed固定定位与绝对定位类似，是绝对定位的子类别，相对于浏览器窗口进行定位，当拖动浏览器窗口滚动条时，该元素位置始终保持不变，使用CSS属性left、top、right、bottom来设置位置。</p>
+        <p>4) 浮动方式</p>
+        <p>float属性定义了元素浮动方向，它使元素进行左右浮动，可以产生多个网页元素并行排列的效果。float属性有三个属性值：left控制网页元素向左浮动，right控制网页元素向右浮动，None没有浮动。当设定</p>
+        <p>clear属性与float属性配合使用，清除各种浮动。clear属性有三个属性值：left清除向左浮动，right清除向右浮动，both清除向左或向右浮动，None不清除。当设定</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 布局方法</title>
+        <sec id="s4_2_1">
+          <title>2.2.1. “上中下”布局</title>
+          <p>在“上中下”布局中，</p>
+          <p>例题1：完成页面，效果如下图2。</p>
+          <p>图2. 网页布局1</p>
+          <p>对应的主要代码如下：</p>
+          <p>Div+CSS网页布局1</p>
+          <p>分析：从上可以看到</p>
+          <p>1) 在CSS + Div布局中，一般地将所有</p>
+          <p>
+            2) 设置container标签的margin属性左右为auto [<xref ref-type="bibr" rid="hanspub.29187-ref5">5</xref>] ，表示container标签及其嵌入的
+          </p>
+          <p>3) 若</p>
+          <p>4) 要熟知盒子模型的各个属性，正确计算盒子的宽度和高度，实现精确布局。哪怕有1像素的宽度，也会对网页的精确布局产生影响，如下例题。</p>
+          <p>例题2：若main区域的代码修改为如下：</p>
+          <p>#main {</p>
+          <p>background-color: #FF0;</p>
+          <p>width: 360px; /*设置元素宽度*/</p>
+          <p>padding-left:60px; /*设置元素左内边距，实现元素内容与左侧边框有60像素距离*/</p>
+          <p>margin-top: 5px;</p>
+          <p>margin-bottom: 5px;</p>
+          <p>height: 80px;</p>
+          <p>}</p>
+          <p>分析：ID为main的</p>
+          <p>图3. 网页布局2</p>
+        </sec>
+        <sec id="s4_2_2">
+          <title>2.2.2. “左中右”布局</title>
+          <p>在“左中右”布局中，首先插入若干个</p>
+          <p>例题3：在例题1的基础上完成页面，效果如下图4。</p>
+          <p>图4. 网页布局3</p>
+          <p>与例题1相比，主要修改main，main2，foot区域部分，代码如下：</p>
+          <p>#main {</p>
+          <p>background-color: #FF0;</p>
+          <p>margin-top: 5px;</p>
+          <p>margin-bottom: 5px;</p>
+          <p>width:200px; /*设置元素宽度为200px*/</p>
+          <p>float:left; /*设置元素向左浮动*/</p>
+          <p>height:100px;</p>
+          <p>}</p>
+          <p>#main2 {</p>
+          <p>background-color:#0FF;</p>
+          <p>margin-top: 5px;</p>
+          <p>margin-bottom: 5px;</p>
+          <p>height: 100px;</p>
+          <p>width:100px; /*设置元素宽度为100px*/</p>
+          <p>float:left; /*设置元素向左浮动*/</p>
+          <p>}</p>
+          <p>#foot {</p>
+          <p>background-color: #F0F; /**/</p>
+          <p>margin-top: 5px;</p>
+          <p>height: 100px;</p>
+          <p>width:100px; /*设置元素宽度为100px*/</p>
+          <p>float:left;/*设置元素向左浮动*/</p>
+          <p>}</p>
+          <p>分析：通过设置main，main2，foot区域部分的宽度，总和为200 + 100 + 100 = 400，与所包含的container部分宽度相等，设置各个部分float属性为left，保证这三个部分向左浮动并在一行中。</p>
+          <p>若只将main2区域的float属性设置为right，则实现main2区域在该行向右浮动，效果如下图5。当设置了float属性为left或right时，只要前驱</p>
+          <p>图5. 网页布局4</p>
+          <p>例题4：在例题3的基础上完成页面，效果如下图6。</p>
+          <p>图6. 网页布局5</p>
+          <p>与例题3相比，主要修改main2，foot区域部分，修改部分代码如下：</p>
+          <p>#main2 {</p>
+          <p>background-color:#0FF;</p>
+          <p>margin-top: 5px;</p>
+          <p>margin-bottom: 5px;</p>
+          <p>height: 100px; /*此部分与例题3相同*/</p>
+          <p>width:200px; /*设置元素宽度为200px，使main和main2宽度之和为400px*/</p>
+          <p>float:left;</p>
+          <p>}</p>
+          <p>#foot {</p>
+          <p>background-color: #F0F; /**/</p>
+          <p>margin-top: 5px;</p>
+          <p>height: 50px;</p>
+          <p>clear:left; /*设置clear属性，清除向左浮动*/</p>
+          <p>}</p>
+          <p>分析：设置foot区域的clear属性，取消浮动效果，使foot区域回到前后相继的正常排列状态，出现在下一行。此部分没有设置foot区域的宽度，默认与包含它的container区域宽度相同。</p>
+          <p>若想实现更复杂的布局，可以结合浮动和宽高属性设置实现。如修改main2部分的高度为height: 60 px；修改foot部分的高度为height: 40 px;，保证这两部分的高度之和与main部分相等，依然设置foot部分浮动属性float:left;，则完成后效果如下图7。</p>
+          <p>图7. 网页布局6</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 总结</title>
+      <p>通过以上的例题和分析可以得出如下结论：</p>
+      <p>1) 盒子模型是基础，定义和规定了网页元素矩形区域的各种CSS属性。</p>
+      <p>2)</p>
+      <p>3) CSS + Div布局技术设计CSS样式的两个重要属性。position属性决定了</p>
+    </sec>
+    <sec id="s6">
+      <title>4. 结束语</title>
+      <p>本文通过例题对CSS + Div布局技术进行了举例和分析，总结了使用规则，提出了使用时的注意事项，特别是通过对“上中下”和“左中右”两种基本布局形式的剖析和学习，达到对CSS + Div布局技术的灵活应用。</p>
+    </sec>
+    <sec id="s7">
+      <title>文章引用</title>
+      <p>高 葵,李蔚妍,付晓翠. 基于CSS + Div的网页布局方法研究Research on Web Page Layout Method Based on CSS + Div[J]. 计算机科学与应用, 2019, 09(03): 531-538. https://doi.org/10.12677/CSA.2019.93061</p>
+    </sec>
+    <sec id="s8">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.29187-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">温谦. 网页设计CSS标准教程[M]. 北京: 人民邮电出版社, 2010: 88-90.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29187-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">刘瑞新. 网页设计与制作html + css + javascript [M]. 北京: 机械工业出版社, 2013: 112-113.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29187-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">修毅. 网页设计与制作[M]. 北京: 人民邮电出版社, 2015: 138-139.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29187-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王海波. 网页设计与制作——基于计算思维[M]. 北京: 机械工业出版社, 2014: 100-105.</mixed-citation>
+      </ref>
+      <ref id="hanspub.29187-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李毅. 网页制作与开发教程[M]. 北京: 人民邮电出版社, 2015: 193-196.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

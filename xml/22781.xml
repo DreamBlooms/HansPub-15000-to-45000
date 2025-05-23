@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ORF</journal-id>
+      <journal-title-group>
+        <journal-title>Operations Research and Fuzziology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2163-1476</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/ORF.2017.74016</article-id>
+      <article-id pub-id-type="publisher-id">ORF-22781</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>ORF20170400000_76862440.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          多粒度近似空间中基于“逻辑或”算子的双量化粗糙集模型
+          Double Quantitative Rough Set Model Based on Logical Disjunct Operation in Multi-Granulation Approximate Space
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陈</surname>
+            <given-names>华峰</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>沈</surname>
+            <given-names>玉玲</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>瞿</surname>
+            <given-names>先平</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <addr-line>重庆电讯职业学院，基础部，重庆；重庆理工大学，计算机科学与工程学院，重庆</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>重庆电讯职业学院，基础部，重庆</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>13527418641@163.com (陈华)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>16</day>
+        <month>10</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>04</issue>
+      <fpage>152</fpage>
+      <lpage>162</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          变精度粗糙集和程度粗糙集都是在单粒度近似空间中，基于不可分辨关系的扩展粗糙集模型。从信息量化角度来说，变精度粗糙集描述了近似空间中的相对量化信息，程度粗糙集则用于对绝对量化信息的表示中，而多粒度近似空间作为一种广义的近似空间，是对经典近似空间的自然扩张。为了在多粒度近似空间中研究同时具有信息的相对量化和绝对量化特征的粗糙集模型，本文通过“逻辑或”算子将变精度粗糙集和程度粗糙集在多粒度近似空间中结合起来，建立了“逻辑或”双量化多粒度粗糙集模型。并对该模型的粗糙集区域，以及所具有的一些基本数学性质进行了深入的讨论，为多粒度近似空间中基于粗糙集理论的知识发现，提供了新的研究方法。 Both the variable precision rough set and graded rough set are the generalized rough set models based on indiscernibility relation in single granulation approximate space. In the viewpoint of information quantitative, the variable precision rough set describes relative quantitative infor-mation, while graded rough set is used to represent the absolute quantitative information in ap-proximate space. The multi-granulation approximate space as a generalized approximate space is a natural expansion of classical approximation space. In order to study the rough set model that include characteristics of variable precision rough set and graded rough set. We combine them into a double-quantitative multi-granulation rough set model based on logical disjunct operation. Furthermore, the rough set regions and some basic mathematical properties of the proposed model are discussed in detail. This research provides a novel approach to knowledge discovery in multi-granulation approximate space based on rough set theory.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>多粒度近似空间，逻辑或，变精度粗糙集，程度粗糙集，双量化, Multi-Granulation Approximate Space</kwd>
+        <kwd> Logical Disjunct Operation</kwd>
+        <kwd> Variable Precision Rough Set</kwd>
+        <kwd> Graded Rough Set</kwd>
+        <kwd> Double Quantitative</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        多粒度近似空间中基于“逻辑或”算子的 双量化粗糙集模型<sup> </sup>
+      </title>
+      <p>
+        陈华峰<sup>1</sup>，沈玉玲<sup>1</sup>，瞿先平<sup>1,2</sup>
+      </p>
+      <p>
+        <sup>1</sup>重庆电讯职业学院，基础部，重庆
+      </p>
+      <p>
+        <sup>2</sup>重庆理工大学，计算机科学与工程学院，重庆
+      </p>
+      <p>收稿日期：2017年11月4日；录用日期：2017年11月16日；发布日期：2017年11月24日</p>
+      <disp-formula id="hanspub.22781-formula38">
+        <graphic xlink:href="//html.hanspub.org/file/6-1700106x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>变精度粗糙集和程度粗糙集都是在单粒度近似空间中，基于不可分辨关系的扩展粗糙集模型。从信息量化角度来说，变精度粗糙集描述了近似空间中的相对量化信息，程度粗糙集则用于对绝对量化信息的表示中，而多粒度近似空间作为一种广义的近似空间，是对经典近似空间的自然扩张。为了在多粒度近似空间中研究同时具有信息的相对量化和绝对量化特征的粗糙集模型，本文通过“逻辑或”算子将变精度粗糙集和程度粗糙集在多粒度近似空间中结合起来，建立了“逻辑或”双量化多粒度粗糙集模型。并对该模型的粗糙集区域，以及所具有的一些基本数学性质进行了深入的讨论，为多粒度近似空间中基于粗糙集理论的知识发现，提供了新的研究方法。</p>
+      <p>关键词 :多粒度近似空间，逻辑或，变精度粗糙集，程度粗糙集，双量化</p>
+      <disp-formula id="hanspub.22781-formula39">
+        <graphic xlink:href="//html.hanspub.org/file/6-1700106x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-1700106x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/6-1700106x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        20世纪80年代波兰数学家Pawlak在经典集合论的基础上，提出了粗糙集理论 [<xref ref-type="bibr" rid="hanspub.22781-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref2">2</xref>] ，对知识的自动获取、机器学习以及模式识别等多个科学研究领域的发展都起到了积极的推动作用。粗糙集的理论基础是基于一族等价关系所构成的不可分辨关系对论域的划分，然后利用集合间的包含关系定义了一对近似算子，再利用近似算子根据已有的知识来近似地逼近未知的概念。该理论将人的智能体现在对事物、行为、感知等的分类能力上，而不确定性正好可以归属到这对近似集所刻画的边界域里。
+      </p>
+      <p>
+        随着研究的不断深入，经典的粗糙集模型已不能有效的解决实际问题。如：现实应用中所采集到数据往往会到一定的噪声干扰，同时往往会一部分数据缺失等复杂因素。此时再利用不可区分关系建立粗糙集模型，下近似算子基于集合的严格包含关系，则显得过于苛刻了，为了让下近似算子从原来的严格包含扩张到具有某种程度意义上的包含，对粗糙集进行量化模型的构建与研究具有较为突出的理论意义与应用价值 [<xref ref-type="bibr" rid="hanspub.22781-ref3">3</xref>] 。为此，Ziarko从信息的相对量化角度提出了变精度粗糙集 [<xref ref-type="bibr" rid="hanspub.22781-ref4">4</xref>] ，Yao从信息的绝对量化角度定义了程度粗糙集 [<xref ref-type="bibr" rid="hanspub.22781-ref5">5</xref>] ，此外对于变精度和程度粗糙集的扩展模型也受到了广泛的关注 [<xref ref-type="bibr" rid="hanspub.22781-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref7">7</xref>] 。在变精度粗糙集与程度粗糙集的双量化结合方面，Zhang做了大量突出的工作 [<xref ref-type="bibr" rid="hanspub.22781-ref8">8</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref9">9</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref10">10</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref11">11</xref>] ，系统性的研究了一般信息系统的双量化粗糙集模型，Li等人在Zhang的基础上研究了优势关系下变精度与程度“逻辑且”粗糙模糊集，从而进一步推广了双量化粗糙集模型的应用 [<xref ref-type="bibr" rid="hanspub.22781-ref12">12</xref>] 。
+      </p>
+      <p>
+        而从粒计算的角度来看，这些扩展的粗糙集模型的本质仍然是在单一粒度空间多定义的，目标概念的近似集仍是由单一的二元关系所诱导的粒度空间中的基本信息粒来近似表示的。Qian等在对决策分析相关的研究时，指出当多个决策者之间的关系有可能是相互独立的，因而需要采用多个二元关系来进行目标的近似逼近，并针对性的提出了多粒度粗糙集模型的概念 [<xref ref-type="bibr" rid="hanspub.22781-ref13">13</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref14">14</xref>] 。在多粒度粗糙集的基本框架下，一些学者将变精度粗糙集或者程度粗糙集引入进来，将信息的量化思想引入到多粒度近似空间中，其中Dou等人提出了可变精度多粒度粗糙集模型 [<xref ref-type="bibr" rid="hanspub.22781-ref15">15</xref>] ，Wu则研究了程度多粒度粗糙集 [<xref ref-type="bibr" rid="hanspub.22781-ref16">16</xref>] ，在此基础上Shen进一步提出了可变程度多粒度粗糙集 [<xref ref-type="bibr" rid="hanspub.22781-ref17">17</xref>] 。而目前的研究中尚没有在多粒度近似空间中，同时考虑信息的相对量化扩张和绝对量化扩张。
+      </p>
+      <p>本文在上述的研究成果基础上，将变精度粗糙集和程度粗糙集这两种不同角度的信息量化扩张模型，通过“逻辑或”算子在多粒度近似空间中结合起来，建立了多粒度近似空间中的“逻辑或”双量化粗糙集模型，然后对模型的基本数学性质进行了系统性的讨论，该模型作为一种推广的粗糙集模型，对于基于粗糙集理论的知识发现、数据挖掘等一定的参考价值。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 预备知识</title>
+      <p>
+        本节将简要介绍变精度粗糙集模型，程度粗糙集模型和多粒度粗糙集模型的相关基本知识，为讨论基于“逻辑或”算子的双量化多粒度粗糙集模型提供必要的理论基础。设四元组 S = ( U , A T , V , F ) 为一个信息系统，其中 U = { x 1 , x 2 , ⋯ , x n } 为论域是非空有限对象集， A T = { a 1 , a 2 , ⋯ , a m } 为属性集， V 为有限值域， F = { f | U → V a i , a i ∈ A T } 是对象关于属性的关系集。对任意的 A ⊆ A T 可以得到一个不可分辨关系，即 I N D ( A ) = { ( x , y ) ∈ U &#215; U : ∀ a ∈ A , a ( x ) = a ( y ) } ，则 U 中关于属性 A 所有与 x 具有不可分辨关系 I N D ( A ) 的对象的集合为 [ x ] A = { y ∈ U , ( x , y ) ∈ I N D ( A ) } ，即为 x 关于属性集 A 的等价类 [<xref ref-type="bibr" rid="hanspub.22781-ref6">6</xref>] 。
+      </p>
+      <sec id="s4_1">
+        <title>2.1. 变精度粗糙集模型</title>
+        <p>设 S 为一个信息系统，对任意的 X ⊆ U ， A ⊆ A T ， c ( [ x ] A , X ) = 1 − | [ x ] A ∩ X | / | [ x ] A | 称为等价类 [ x ] A 关于集合 X 的错误分分类率，其中 |   &#183;   | 表示集合的势。设 β ∈ [ 0 , 0.5 ) 称为可调错误分类水平， 1 − β 称为精度。集合</p>
+        <p>A β &#175; X = { x ∈ U :   c ( [ x ] A , X ) &lt; 1 − β }</p>
+        <p>A β _ X = { x ∈ U :   c ( [ x ] A , X ) ≤ β }</p>
+        <p>
+          分别称为 X 依精度为 1 − β 的关于属性 A 上、下近似集。若 A β &#175; X ≠ A β _ X ，则称 X 在精度 1 − β 下是关于 A 粗糙的，否则称 X 是关于 A 精确的。而 A β &#175; X 是“关于 X 的错误分类率小于 1 − β 的等价类”的所有元素并集， A β _ X 是“关于 X 的错误分类率不大于 β 的等价类”的所有元素的并集 [<xref ref-type="bibr" rid="hanspub.22781-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref8">8</xref>] 。
+        </p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 程度粗糙集模型</title>
+        <p>设 S 为一个信息系统，对任意的 X ⊆ U ， A ⊆ A T ， k (非负常数)为自然数，集合</p>
+        <p>A k &#175; X = { x ∈ U : | [ x ] A ∩ X | &gt; k }</p>
+        <p>A k _ X = { x ∈ U : | [ x ] A | − | [ x ] A ∩ X | ≤ k }</p>
+        <p>
+          分别称为 X 的程度为 k 的关于 A 上、下近似集，若 A k &#175; X ≠ A k _ X ，称 X 在程度时是关于 A 粗糙的，否则称为是关于 A 精确的。其中 A k &#175; X 是“属于 X 的元素个数多于 k 个等价类”的并集， A k _ X 是“最多只有 k 个元素不属于 X 的等价类”的集合的并集 [<xref ref-type="bibr" rid="hanspub.22781-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref8">8</xref>] 。
+        </p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 多粒度粗糙集模型</title>
+        <p>
+          在粒计算数据分析的方法中，采用一族不可分辨关系来进行目标概念的近似逼近，也就是多粒度粗糙集模型，其形式上包括乐观多粒度粗糙集和悲观多粒度粗糙集 [<xref ref-type="bibr" rid="hanspub.22781-ref13">13</xref>] [<xref ref-type="bibr" rid="hanspub.22781-ref14">14</xref>] 。
+        </p>
+        <p>设 S 为一个信息系统， A 1 , A 2 , ⋯ , A m ⊆ A T ，任意的 X ⊆ U ， X 的乐观多粒度下近似算子 ∑ i = 1 m A i O _ ( X ) 与上近似算子 ∑ i = 1 m A i O &#175; ( X ) 分别定义为：</p>
+        <p>∑ i = 1 m A i O _ ( X ) = { x ∈ U : [ x ] A 1 ⊆ X ∨ ⋯ ∨ [ x ] A m ⊆ X }</p>
+        <p>∑ i = 1 m A i O &#175; ( X ) = ∼ ∑ i = 1 m A i O _ (∼X)</p>
+        <p>其中 ∼ X 表示 X 的补集，当上下近似集不等时则称集合 X 是关于粒度 A 1 , A 2 , ⋯ , A m 乐观粗糙的。从定义中可以看出，当某个对象属于乐观多粒度下近似时则要求该对象至少有一个粒度上的等价类包含在目标概念中。与乐观多粒度粗糙集相对应悲观多粒度粗糙集定义如下：</p>
+        <p>∑ i = 1 m A i P _ ( X ) = { x ∈ U : [ x ] A 1 ⊆ X ∧ ⋯ ∧ [ x ] A m ⊆ X }</p>
+        <p>∑ i = 1 m A i P &#175; ( X ) = ∼ ∑ i = 1 m A i P _ (∼X)</p>
+        <p>在该定义中，我们可以看到当某个对象属于悲观多粒度下近似集时，要求该对象在所有粒度上的等价类都包含在目标概念中，因而悲观多粒度下近似的要求要比乐观多粒度下近似的要求更为严格。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 多粒度近似空间中的“逻辑或”双量化粗糙集模型</title>
+      <p>本节我们基于“逻辑或”算子将变精度粗糙集和程度粗糙集结合起来，在多粒度近似空间中建立“逻辑或”的双量化粗糙集模型。紧接着分从“逻辑或”双量化乐观多粒度粗糙集模型和悲观多粒度粗糙集模型入手，对所建立的双量化多粒度粗糙集模型的数学性质进行了系统性的讨论。</p>
+      <sec id="s5_1">
+        <title>3.1. “逻辑或”双量化乐观多粒度粗糙集模型</title>
+        <p>定义3.1.1. 设 S 为一个信息系统，若 A 1 , A 2 , ⋯ , A m ⊆ A T ， β ∈ [ 0 , 0.5 ) ， k 为非负常数，对任意的 X ⊆ U ，则 X 基于“逻辑或”算子的乐观双量化多粒度下近似算子和上近似算子定义如下：</p>
+        <p>∑ i = 1 m A i β ∨ k O _ ( X ) = { x ∈ U : ∨ j = 1 m ( c ( [ x ] A j , X ) ≤ β ) ∨ ∨ l = 1 m ( | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ) }</p>
+        <p>∑ i = 1 m A i β ∨ k O &#175; ( X ) = ~ ∑ i = 1 m A i β ∨ k O _ (~X)</p>
+        <p>称序偶 ( ∑ i = 1 m A i β ∨ k O _ ( X ) , ∑ i = 1 m A i β ∨ k O &#175; ( X ) ) 为集合 X 依精度为 β 且程度为 k 的乐观“逻辑或”双量化乐观多</p>
+        <p>粒度粗糙集，从下近似的定义我们知道，当某个对象 x 属于逻辑与乐观双量化多粒度下近似集时，要求 x 至少有一个粒度使得 c ( [ x ] A j , X ) ≤ β ，或者存在一个粒度使得 | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ，其中粒度 A j 和 A l 可以相同也可以不相同。根据定义3.1.1所定义的近似算子，我们可以给出“逻辑或”双量化乐观多粒度粗糙集的各个粗糙区域。由于程度粗糙集的下近似集并非一定包含于上近似集，因此我们分别定义正域、负域、上边界域、下边界域如下：</p>
+        <p>1) P o s ( X ) ∑ i = 1 m A i β ∨ k O = ∑ i = 1 m A i β ∨ k O _ ( X ) ∩ ∑ i = 1 m A i β ∨ k O &#175; (X)</p>
+        <p>2) N e g ( X ) ∑ i = 1 m A i β ∨ k O = ∼ ( ∑ i = 1 m A i β ∨ k O _ ( X ) ∪ ∑ i = 1 m A i β ∨ k O &#175; (X) )</p>
+        <p>3) U b n ( X ) ∑ i = 1 m A i β ∨ k O = ∑ i = 1 m A i β ∨ k O &#175; ( X ) − ∑ i = 1 m A i β ∨ k O _ (X)</p>
+        <p>4) L b n ( X ) ∑ i = 1 m A i β ∨ k O = ∑ i = 1 m A i β ∨ k O _ ( X ) − ∑ i = 1 m A i β ∨ k O &#175; (X)</p>
+        <p>5) B n ( X ) ∑ i = 1 m A i β ∨ k O = ∑ i = 1 m A i β ∨ k O &#175; ( X )   Δ   ∑ i = 1 m A i β ∨ k O _ (X)</p>
+        <p>为了便于书写，我们一般将上述粗糙集区域进行简写，如正域简记为 P o s ( X ) β ∨ k O 。其中“ Δ ”表示集合的对称差运算，故 B n ( X ) β ∨ k O = L b n ( X ) β ∨ k O ∪ U b n ( X ) β ∨ k O ，接下来将对“逻辑或”双量化乐观多粒度粗糙集模型的性质进行研究。</p>
+        <p>定理3.1.1. 设 S 为一个信息系统，若 A 1 , A 2 , ⋯ , A m ⊆ A T ， β ∈ [ 0 , 0.5 ) ， k 为非负常数，对任意的 X ⊆ U ，则关于 X 的“逻辑或”双量化乐观多粒度上近似集，有</p>
+        <p>∑ i = 1 m A i β ∨ k O &#175; ( X ) = { x ∈ U : ∧ j = 1 m ( c ( [ x ] A j , X ) &lt; 1 − β ) ∧ ∧ l = 1 m ( | [ x ] A l ∩ X | &gt; k ) }</p>
+        <p>证明：由定义3.1.1知</p>
+        <p>∑ i = 1 m A i β ∨ k O &#175; ( X ) = ~ ∑ i = 1 m A i β ∨ k O _ ( ~ X )                                     = ∼ { x ∈ U : ∨ l = 1 m ( | [ x ] A l | − | [ x ] A l ∩ ∼ X | ≤ k ) ∨ ∨ j = 1 m ( c ( [ x ] A j , ∼ X ) ) ≤ β }                                     = { x ∈ U : ∧ j = 1 m ( c ( [ x ] A j , ∼ X ) &gt; β ) ∧ ∧ l = 1 m ( | [ x ] A l | − | [ x ] A l ∩ ∼ X | &gt; k ) }</p>
+        <p>= { x ∈ U : ∧ j = 1 m ( 1 − | [ x ] A j ∩ ∼ X | | [ x ] A j | &gt; β ) ∧ ∧ l = 1 m ( | [ x ] A l | − | [ x ] A l ∩ ∼ X | &gt; k ) } = { x ∈ U : ∧ j = 1 m ( | [ x ] A j ∩ X | | [ x ] A j | &gt; β ) ∧ ( ∧ l = 1 m | [ x ] A l ∩ X | &gt; k ) } = { x ∈ U : ∧ j = 1 m ( c ( [ x ] A j , X ) &lt; 1 − β ) ∧ ∧ l = 1 m ( | [ x ] A l ∩ X | &gt; k ) }</p>
+        <p>由定理3.1.1可知，对象 x 属于“逻辑或”双量化乐观多粒度上近似集时，意味着关于所有粒度满足 c ( [ x ] A j , X ) &lt; 1 − β 且 | [ x ] A l ∩ X | &gt; k 成立。</p>
+        <p>定理3.1.2. 设 S 为一个信息系统，若 A 1 , A 2 , ⋯ , A m ⊆ A T ， β ∈ [ 0 , 0.5 ) ， k 为非负常数，对任意的 X , Y ⊆ U ，则“逻辑或”双量化乐观多粒度近似算子有如下性质成立。</p>
+        <p>1) ∑ i = 1 m A i β ∨ k O _ ( U ) = U ；</p>
+        <p>2) ∑ i = 1 m A i β ∨ k O &#175; ( ϕ ) = ϕ ；</p>
+        <p>3) ∑ i = 1 m A i β ∨ k O _ ( X ∩ Y ) ⊆ ∑ i = 1 m A i β ∨ k O _ ( X ) ∩ ∑ i = 1 m A i β ∨ k O _ ( Y ) ；</p>
+        <p>4) ∑ i = 1 m A i β ∨ k O _ ( X ∪ Y ) ⊇ ∑ i = 1 m A i β ∨ k O _ ( X ) ∪ ∑ i = 1 m A i β ∨ k O _ ( Y ) ；</p>
+        <p>5) ∑ i = 1 m A i β ∨ k O &#175; ( X ∩ Y ) ⊆ ∑ i = 1 m A i β ∨ k O &#175; ( X ) ∩ ∑ i = 1 m A i β ∨ k O &#175; _ ( Y ) ；</p>
+        <p>6) ∑ i = 1 m A i β ∨ k O &#175; ( X ∪ Y ) ⊇ ∑ i = 1 m A i β ∨ k O &#175; ( X ) ∪ ∑ i = 1 m A i β ∨ k O &#175; _ ( Y ) ；</p>
+        <p>7) 若 k 1 ≤ k 2 ，则 ∑ i = 1 m A i β ∨ k 1 O _ ( X ) ⊆ ∑ i = 1 m A i β ∨ k 2 O _ ( X ) ， ∑ i = 1 m A i β ∧ k 2 O &#175; ( X ) ⊆ ∑ i = 1 m A i β ∧ k 1 O &#175; ( X ) ；</p>
+        <p>8) 若 β 1 ≤ β 2 ∈ [ 0 , 0.5 ) ，则 ∑ i = 1 m A i β 1 ∨ k O _ ( X ) ⊆ ∑ i = 1 m A i β 2 ∨ k O _ ( X ) ， ∑ i = 1 m A i β 2 ∨ k O &#175; ( X ) ⊆ ∑ i = 1 m A i β 1 ∨ k O &#175; ( X ) 。</p>
+        <p>证明：(1)和(2)由定义3.1.1易证。</p>
+        <p>3) 对任意的 x ∈ ∑ i = 1 m A i β ∨ k O _ ( X ∩ Y ) ，由定义3.1.1可知存在粒度 A j , A l 使得 c ( [ x ] A j , X ∩ Y ) ≤ β 或者 | [ x ] A l | − | [ x ] A l ∩ ( X ∩ Y ) | ≤ k ，其中 A j 与 A l 无关。又因为对任意的 X , Y ⊆ U 有， c ( [ x ] A j , X ) ≤ c ( [ x ] A j , X ∩ Y ) ≤ β 或者 | [ x ] A l | − | [ x ] A l ∩ X | ≤ | [ x ] A l | − | [ x ] A l ∩ ( X ∩ Y ) | ≤ k ，也就是有 x ∈ ∑ i = 1 m A i β ∨ k O _ ( X ) ，同理可得 x ∈ ∑ i = 1 m A i β ∨ k O _ ( Y ) 。所以 x ∈ ∑ i = 1 m A i β ∨ k O _ ( X ) ∩ ∑ i = 1 m A i β ∨ k O _ ( Y ) ，即 ∑ i = 1 m A i β ∨ k O _ ( X ∩ Y ) ⊆ ∑ i = 1 m A i β ∨ k O _ ( X ) ∩ ∑ i = 1 m A i β ∨ k O _ ( Y ) 。</p>
+        <p>4) 任取 x ∈ ( ∑ i = 1 m A i β ∨ k O _ ( X ) ∪ ∑ i = 1 m A i β ∨ k O _ ( Y ) ) ，若 x ∈ ∑ i = 1 m A i β ∨ k O _ ( X ) 有 c ( [ x ] A j , X ) ≤ β 或者 | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ，任 Y ⊆ U ， c ( [ x ] A j , X ∪ Y ) ≤ c ( [ x ] A j , X ) ≤ β ，或者 | [ x ] A l | − | [ x ] A l ∩ ( X ∪ Y ) | ≤ | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ，则有 x ∈ ∑ i = 1 m A i β ∨ k O _ ( X ∪ Y ) 当 x ∈ ∑ i = 1 m A i β ∨ k O _ ( Y ) 有 x ∈ ∑ i = 1 m A i β ∨ k O _ ( X ∪ Y ) ，则 ∑ i = 1 m A i β ∨ k O _ ( X ∪ Y ) ⊇ ∑ i = 1 m A i β ∨ k O _ ( X ) ∪ ∑ i = 1 m A i β ∨ k O _ ( Y ) 。</p>
+        <p>5) 任取 x ∈ ∑ i = 1 m A i β ∨ k O &#175; ( X ∩ Y ) ，由定理3.1.1知对任意的粒度 A j , A l ，有 c ( [ x ] A j , X ∩ Y ) &lt; 1 − β 且 | [ x ] A l ∩ ( X ∩ Y ) | &gt; k ，又 c ( [ x ] A j , X ) ≤ c ( [ x ] A j , X ∩ Y ) &lt; 1 − β ，同时 | [ x ] A l ∩ X | ≥ | [ x ] A l ∩ ( X ∩ Y ) | &gt; k ，所以有 x ∈ ∑ i = 1 m A i β ∨ k O &#175; ( X ) ，同理可得 x ∈ ∑ i = 1 m A i β ∨ k O &#175; ( Y ) 也同时成立，因此(5)得证。</p>
+        <p>6) 由定义3.1.1可知，上下近似算子之间存在对偶性，因此由(5)的证明可知(6)也成立。</p>
+        <p>7) 不妨任取 x ∈ ∑ i = 1 m A i β ∨ k 1 O _ ( X ) ，由定义知存在粒度 A j 和 A l ，使得 c ( [ x ] A j , X ) ≤ β 或者 | [ x ] A l | − | [ x ] A l ∩ X | ≤ k 1 ，又因 k 1 ≤ k 2 ，故 | [ x ] A l | − | [ x ] A l ∩ X | ≤ k 2 ，则 x ∈ ∑ i = 1 m A i β ∨ k 2 O _ ( X ) ，也即是 ∑ i = 1 m A i β ∨ k 1 O _ ( X ) ⊆ ∑ i = 1 m A i β ∨ k 2 O _ ( X ) 。那么可以得 ∑ i = 1 m A i β ∨ k 1 O _ ( ∼ X ) ⊆ ∑ i = 1 m A i β ∨ k 2 O _ ( ∼ X ) ，那么 ∼ ∑ i = 1 m A i β ∨ k 1 O _ ( ∼ X ) ⊇ ∼ ∑ i = 1 m A i β ∨ k 2 O _ ( ∼ X ) ，由定义可知 ∑ i = 1 m A i β ∨ k 2 O &#175; ( X ) ⊆ ∑ i = 1 m A i β ∨ k 1 O &#175; ( X ) 。</p>
+        <p>8) 对任意的 x ∈ ∑ i = 1 m A i β 1 ∨ k O _ ( X ) ，有 c ( [ x ] A j , X ) ≤ β 1 或者 | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ，而 β 1 ≤ β 2 ，则 c ( [ x ] A j , X ) ≤ β 1 ≤ β 2 ，所以有 x ∈ ∑ i = 1 m A i β 2 ∨ k O _ ( X ) ，即 ∑ i = 1 m A i β 1 ∨ k O _ ( X ) ⊆ ∑ i = 1 m A i β 2 ∨ k O _ ( X ) 。与(7)类似，利用上下近似算子间的对偶性可直接得到 ∑ i = 1 m A i β 2 ∨ k O &#175; ( X ) ⊆ ∑ i = 1 m A i β 1 ∨ k O &#175; ( X ) 。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. “逻辑或”双量化悲观多粒度粗糙集模型</title>
+        <p>接下来，我们将用类似于上一节的方法，对“逻辑或”双量化悲观多粒度粗糙集模型进行研究。</p>
+        <p>定义3.2.1. 设 S 为一个信息系统，若 A 1 , A 2 , ⋯ , A m ⊆ A T ， β ∈ [ 0 , 0.5 ) 为非负常数，对任意的 X ⊆ U ，则 X 基于“逻辑或”算子的悲观双量化多粒度下近似算子和上近似算子分别定义如下：</p>
+        <p>∑ i = 1 m A i β ∨ k P _ ( X ) = { x ∈ U : ∧ j = 1 m ( c ( [ x ] A j , X ) ≤ β ) ∨ ∧ l = 1 m ( | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ) }</p>
+        <p>∑ i = 1 m A i β ∨ k P &#175; ( X ) = ~ ∑ i = 1 m A i β ∨ k P _ (~X)</p>
+        <p>称序偶 ( ∑ i = 1 m A i β ∨ k P _ ( X ) , ∑ i = 1 m A i β ∨ k P &#175; ( X ) ) 为集合 X 依精度为 β 、程度为 k 的“逻辑或”双量化悲观多粒度</p>
+        <p>粗糙集，从下近似的定义我们知道，当某个对象 x 属于“逻辑或”双量化悲观多粒度下近似集时，要求 x 对所有的粒度有 c ( [ x ] A j , X ) ≤ β ，或者 | [ x ] A l | − | [ x ] A l ∩ X | ≤ k ，即对任意的 A j , A l ⊆ A T , j , l = 1 , 2 , ⋯ , m 满足条件。“逻辑或”双量化悲观多粒度粗糙集模型中对于粗糙集区域的定义方法与3.1节中类似。</p>
+        <p>定理3.2.1. 设 S 为一个信息系统，若 A 1 , A 2 , ⋯ , A m ⊆ A T ， β ∈ [ 0 , 0.5 ) ， k 为非负常数，对任意的 X ⊆ U ，则关于 X 的悲观逻辑与双量化上近似集，有</p>
+        <p>∑ i = 1 m A i β ∨ k P &#175; ( X ) = { x ∈ U : ∨ j = 1 m ( c ( [ x ] A j , X ) &lt; 1 − β ) ∧ ∨ l = 1 m ( | [ x ] A l ∩ X | &gt; k ) }</p>
+        <p>证明：由定义3.2.1并结合定理3.1.1的证明过程易证。</p>
+        <p>由定理3.2.1可知，对象 x 属于“逻辑或”双量化悲观多粒度上近似集时，意味着至少存在一个粒度 A j 使得 c ( [ x ] A j , X ) &lt; 1 − β ，且至少存在一个粒度 A l 使得 | [ x ] A l ∩ X | &gt; k 成立，其中粒度 A j 和 A l 无关。</p>
+        <p>定理3.2.2. 设 S 为一个信息系统，若 A 1 , A 2 , ⋯ , A m ⊆ A T ， β ∈ [ 0 , 0.5 ) ， k 为非负常数，对任意的 X , Y ⊆ U ，则关于“逻辑或”双量化悲观多粒度近似算子有如下性质成立。</p>
+        <p>1) ∑ i = 1 m A i β ∨ k P _ ( U ) = U</p>
+        <p>2) ∑ i = 1 m A i β ∨ k P &#175; ( ϕ ) = ϕ</p>
+        <p>3) ∑ i = 1 m A i β ∨ k P _ ( X ∩ Y ) ⊆ ∑ i = 1 m A i β ∨ k P _ ( X ) ∩ ∑ i = 1 m A i β ∨ k P _ (Y)</p>
+        <p>4) ∑ i = 1 m A i β ∨ k P _ ( X ∪ Y ) ⊇ ∑ i = 1 m A i β ∨ k P _ ( X ) ∪ ∑ i = 1 m A i β ∨ k P _ (Y)</p>
+        <p>5) ∑ i = 1 m A i β ∨ k P &#175; ( X ∩ Y ) ⊆ ∑ i = 1 m A i β ∨ k P &#175; ( X ) ∩ ∑ i = 1 m A i β ∨ k P &#175; _ (Y)</p>
+        <p>6) ∑ i = 1 m A i β ∨ k P &#175; ( X ∪ Y ) ⊇ ∑ i = 1 m A i β ∨ k P &#175; ( X ) ∪ ∑ i = 1 m A i β ∨ k P &#175; _ (Y)</p>
+        <p>7) 若 k 1 ≤ k 2 ，则 ∑ i = 1 m A i β ∨ k 1 P _ ( X ) ⊆ ∑ i = 1 m A i β ∨ k 2 P _ ( X ) ， ∑ i = 1 m A i β ∨ k 2 P &#175; ( X ) ⊆ ∑ i = 1 m A i β ∨ k 1 P &#175; (X)</p>
+        <p>8) 若 β 1 ≤ β 2 ，则 ∑ i = 1 m A i β 1 ∨ k P _ ( X ) ⊆ ∑ i = 1 m A i β 2 ∨ k P _ ( X ) ， ∑ i = 1 m A i β 2 ∨ k P &#175; ( X ) ⊆ ∑ i = 1 m A i β 1 ∨ k P &#175; (X)</p>
+        <p>证明：可参照定理3.1.2的证明过程。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 案例分析</title>
+      <p>例4.1. 设 S 为一个信息系统，表示某地产公司项目投资的示例，数据采集如表1所示。其中，对象集 U = { x 1 , x 2 , ⋯ , x 10 } 表示被考察项目集合，属性集 A = { a 1 , a 2 , a 3 , a 4 } 表示项目指标集，分别指医疗环境、交通环境、地域环境以及人文环境。</p>
+      <p>设 A 1 = { a 1 , a 2 } ， A 2 = { a 2 , a 3 } ， A 3 = { a 3 , a 4 } 表示三个不同粒度，则该信息系统关于这三个不同的粒度得到划分如下：</p>
+      <p>U / A 1 = { { x 1 , x 6 , x 7 , x 10 } , { x 2 , x 5 } , { x 3 , x 8 } , { x 4 , x 9 } }</p>
+      <p>U / A 2 = { { x 1 , x 9 , x 10 } , { x 2 , x 5 } , { x 3 , x 8 } , { x 4 , x 6 , x 7 } }</p>
+      <p>U / A 3 = { { x 1 , x 2 , x 10 } , { x 3 , x 8 } , { x 4 } , { x 5 , x 9 } , { x 6 , x 7 } }</p>
+      <p>设 X = { x 1 , x 4 , x 5 , x 6 , x 7 } ，则集合 X 在粒度 A i ( i = 1 , 2 , 3 ) 下与 [ x j ] A i 的关系如表2所示。</p>
+      <p>不妨取 k = 1 ， β = 0.35 ，根据定义3.1.1和定义3.2.1所定义的两个双量化多粒度粗糙集模型，以及表2中的数据我们可以分别得到“逻辑或”双量化乐观多粒度粗糙集近似为：</p>
+      <p>∑ i = 1 3 A i 0.35 ∨ 1 O &#175; ( X ) = ϕ</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> A real estate investment information syste</title>
+        </caption>
+        </table-wrap>
+           </sec>
+    </body>         
+    
+             
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.22781-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Pawlak, Z. (1982) Rough Sets. International Journal of Computer and Information Sciences, 11, 341-356.
+                &lt;br&gt;https://doi.org/10.1007/BF01001956
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Pawlak, Z. and Skowron, A. (2007) Rudiments of Rough Sets. Information Sciences, 177, 3-27.
+                &lt;br&gt;https://doi.org/10.1016/j.ins.2006.06.003
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Yao, Y.Y. and Deng, X.F. (2014) Quantitative Rough Sets Based on Subsethood Measures. Information Sciences, 267, 306-322. &lt;br&gt;https://doi.org/10.1016/j.ins.2014.01.039</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Ziarko, W. (1993) Variable Precision Rough Set Model. Journal of Computer and System Sciences, 46, 39-59.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Yao, Y.Y. and Lin, T.Y. (1996) Generalization of Rough Sets Using Modal Logics. Intelligent Automatic and Soft Computing, 2, 103-120. &lt;br&gt;https://doi.org/10.1080/10798587.1996.10750660</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张文修, 吴伟志, 梁吉业, 等. 粗糙集理论与方法[M]. 北京: 科学出版社, 2001.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Xu, W.H., Liu, S.H. and Wang, Q.R. (2010) The First Type of Grade Rough Set Based on Rough Membership Function. 2010 Seventh International Conference System and Knowledge Discovery (FSKD), 1922-1926.
+                &lt;br&gt;https://doi.org/10.1109/FSKD.2010.5569459
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Zhang, X.Y., Mo, Z.W., Xiong, F., et al. (2012) Comparative Study of Variable Precision Rough Set Model and Graded Rough Set Model. International Journal of Approximate Reasoning, 53, 104-116.
+                &lt;br&gt;https://doi.org/10.1016/j.ijar.2011.10.003
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张贤勇, 熊方, 莫志文. 精度与程度的逻辑或粗糙集模型[J]. 模式识别与人工智能, 2009, 17(9): 151-155.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张贤勇. 精度与程度逻辑差双量化粗糙集模型的属性约简[J]. 系统工程理论与实践, 2015, 35(11): 2925-2931.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref11">
+              <label>11</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Zhang, X.Y. and Miao, D.Q. (2013) Two Basic Dou-ble-Quantitative Rough Set Models of Precision and Grade and Their Investigations Using Granular Computing. In-ternational Journal of Approximate Reasoning, 54, 1130-1148.
+                &lt;br&gt;https://doi.org/10.1016/j.ijar.2013.02.005
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref12">
+              <label>12</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李蒙蒙, 徐伟华. 优势关系下变精度与程度“逻辑且”粗糙模糊集[J]. 计算机科学与探索, 2016, 10(2): 277-284.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref13">
+              <label>13</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Qian, Y.H., Liang, J.Y., Yao, Y.Y., et al. (2010) MGRS: A Multi-Granulation Rough Set. Information Sciences, 180, 949-970. &lt;br&gt;https://doi.org/10.1016/j.ins.2009.11.023</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref14">
+              <label>14</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Qian, Y.H., Liang, J.Y. and Dang, C.Y. (2010) Incomplete Multi-Granulation Rough Set. IEEE Transactions on Systems, Man &amp; Cybernetics Part A, 40, 420-431. &lt;br&gt;https://doi.org/10.1109/TSMCA.2009.2035436</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref15">
+              <label>15</label>
+              <mixed-citation publication-type="other" xlink:type="simple">窦慧莉, 吴陈, 杨习贝, 等. 可变精度多粒度粗糙集模型[J]. 江苏科技大学学报(自然科学版), 2012, 26(1): 65-69.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref16">
+              <label>16</label>
+              <mixed-citation publication-type="other" xlink:type="simple">吴志远, 钟培华, 胡建根. 程度多粒度粗糙集[J]. 模糊系统与数学, 2014, 28(3): 165-172.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22781-ref17">
+              <label>17</label>
+              <mixed-citation publication-type="other" xlink:type="simple">沈家兰, 汪小燕, 申元霞, 等. 可变程度多粒度粗糙集[J]. 小型微型计算机系统, 2016, 37(5): 1012-1016.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

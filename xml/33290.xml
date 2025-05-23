@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">PM</journal-id>
+      <journal-title-group>
+        <journal-title>Pure  Mathematics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7583</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/PM.2019.910139</article-id>
+      <article-id pub-id-type="publisher-id">PM-33290</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>PM20191000000_92641154.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          4pq
+          <sup>n</sup>阶3度对称图的分类
+          A Classification on Cubic Symmetric Graphs of Order 4pq
+          <sup>n</sup>
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>超</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sub>1</sub>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>云南财经大学统计与数学学院，云南 昆明</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>12</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>10</issue>
+      <fpage>1132</fpage>
+      <lpage>1138</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          设&amp;Gamma;是一个连通图，G&amp;le;Aut(&amp;Gamma;)，如果G作用在V&amp;Gamma;上是拟本原或顶点二部拟本原的，则称&amp;Gamma;是G-基图。在本文中，我们将4pq&lt;sup&gt;n&lt;/sup&gt;阶3度对称G-基图，其中p &lt; q为奇素数，n&amp;ge;1。&lt;br/&gt;Let &amp;Gamma; be a connected graph and G&amp;le;Aut(&amp;Gamma;). Then &amp;Gamma; is called a G-basic graph, if G is quasiprimitive or bi-quasiprimitive on V&amp;Gamma;. In this paper, we determine cubic symmetric G-basic graphs of order 4pq&lt;sup&gt;n&lt;/sup&gt;, where p &lt; q are odd primes, and n&amp;ge;1.
+         
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>对称图，局部本原，拟本原，二部拟本原，几乎单, Symmetric Graph</kwd>
+        <kwd> Locally Primitive</kwd>
+        <kwd> Quasiprimitive</kwd>
+        <kwd> Bi-Quasiprimitive</kwd>
+        <kwd> Almost Simple</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        4pq<sup>n</sup>阶3度对称图的分类<sup> </sup>
+      </title>
+      <p>王超</p>
+      <p>云南财经大学统计与数学学院，云南 昆明</p>
+      <disp-formula id="hanspub.33290-formula35">
+        <graphic xlink:href="//html.hanspub.org/file/3-1250934x11_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年11月14日；录用日期：2019年11月27日；发布日期：2019年12月4日</p>
+      <disp-formula id="hanspub.33290-formula36">
+        <graphic xlink:href="//html.hanspub.org/file/3-1250934x12_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>设 Γ 是一个连通图， G ≤ A u t ( Γ ) ，如果G作用在 V Γ 上是拟本原或顶点二部拟本原的，则称 Γ 是G-基图。在本文中，我们将 4 p q n 阶3度对称G-基图，其中 p &lt; q 为奇素数， n ≥ 1 。</p>
+      <p>关键词 :对称图，局部本原，拟本原，二部拟本原，几乎单</p>
+      <disp-formula id="hanspub.33290-formula37">
+        <graphic xlink:href="//html.hanspub.org/file/3-1250934x20_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/3-1250934x21_hanspub.png" />
+        <img src="//html.hanspub.org/file/3-1250934x22_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>本文中所考虑的图都是连通的，无向的，无自环且无重边的。对于一个图 Γ ，我们用 V Γ ， A Γ 和 Aut ( Γ ) 分别表示其顶点集，弧集和全自同构群。 | V Γ | 表示图 Γ 的阶(即 Γ 顶点的个数)。如果 Aut ( Γ ) 的一个子群G作用在 V Γ ( A Γ )是传递的，则称 Γ 是G-点传递的(G-弧传递的)。一个弧传递图也称为对称图。对一个正整数s， V Γ 中 s + 1 个点 α 0 , α 1 , ⋯ , α s 满足 α i − 1 与 α i ( 1 ≤ i ≤ s )邻接且 α i − 1 ≠ α i + 1 ( 1 ≤ i ≤ s − 1 )，我们称 ( α 0 , α 1 , ⋯ , α s ) 为 Γ 的一条s-弧。如果 G ≤ Aut ( Γ ) 在s-弧集上是传递的，则称 Γ 是 ( G , s ) -弧传递的。进一步，如果 G ≤ Aut ( Γ ) 在s-弧集上传递，在 s + 1 -弧集上不传递，那么 Γ 叫作 ( G , s ) -传递。</p>
+      <p>
+        对阶数固定的对称图的研究一直是代数图论领域一个很热门的课题，例如，文献( [<xref ref-type="bibr" rid="hanspub.33290-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.33290-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.33290-ref3">3</xref>] )分别分类了阶为p，2p和3p的对称图。对于一些小度数的图也有很多学者研究，更多文献可参考( [<xref ref-type="bibr" rid="hanspub.33290-ref4">4</xref>] - [<xref ref-type="bibr" rid="hanspub.33290-ref9">9</xref>] )。1947年，Tutte在文献( [<xref ref-type="bibr" rid="hanspub.33290-ref10">10</xref>] )中给出了3度图的点稳定子结构。此后，3度对称图得到了很多学者的关注，例如：Feng等在文献( [<xref ref-type="bibr" rid="hanspub.33290-ref4">4</xref>] )中刻画了两倍素数幂的3度对称图；Lu等在文献( [<xref ref-type="bibr" rid="hanspub.33290-ref8">8</xref>] )中研究了阶为6p<sup>2</sup>的3度对称图；Zhou和Feng在( [<xref ref-type="bibr" rid="hanspub.33290-ref11">11</xref>] )中分类了2pq阶的3度对称图。
+      </p>
+      <p>设 G ≤ Sym ( Ω ) 是一个传递置换群，如果G的每个极小正规子群在 Ω 上都是传递的，则称G是拟本原的；如果G的每个极小正规子群在 Ω 上至多有两个轨道且存在一个极小正规子群在 Ω 上恰好有两个轨道，则称G是二部拟本原的。对于一个图 Γ ， G ≤ Aut ( Γ ) ，如果G在顶点集 V Γ 上是拟本原或二部拟本原的，则称 Γ 是一个G-基图。研究对称图的方法分为以下两步：</p>
+      <p>第一步，刻画基对称图；</p>
+      <p>第二步，研究基图的正规覆盖。</p>
+      <p>
+        上述步骤我们可以看出对基图的刻画是研究对称图的基础，它对作基图的覆盖具有重要的参考作用。设 Γ 是阶为 4 p q n ( n ≥ 1 )的3度G-弧传递图，本文中我们刻画 Γ 的基图，其中p，q为素数且 3 ≤ p &lt; q ，<inline-formula>
+          <inline-graphic xlink:href="//html.scirp.org/file/3-1250934x23_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。主要结论如下：
+      </p>
+      <p>
+        定理1.1 设 Γ 是阶为 4 p q n (<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x67_hanspub.png" xlink:type="simple"/>
+        </inline-formula>)的3度G-弧传递图，其中p，q为素数且 3 ≤ p &lt; q ，设 G ≤ Aut ( Γ ) 在 V Γ 上是拟本原或二部拟本原的， α ∈ V Γ ，则 ( Γ , Aut ( Γ ) , G , s ) 满足表1。
+      </p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> G-basic symmetric graphs of order 4 p q n and valency </title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >
+                  <inline-formula>
+                    <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x75_hanspub.png" xlink:type="simple"/>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" >
+                  <inline-formula>
+                    <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x76_hanspub.png" xlink:type="simple"/>
+                  </inline-formula>
+                </th>
+                <th align="center" valign="middle" >G</th>
+                <th align="center" valign="middle" >s</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >F084</td>
+              <td align="center" valign="middle" >PSL(2,8)</td>
+              <td align="center" valign="middle" >PSL(2,8)</td>
+              <td align="center" valign="middle" >2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >G 220 1</td>
+              <td align="center" valign="middle" >PSL(2,11)</td>
+              <td align="center" valign="middle" >PSL(2,11),</td>
+              <td align="center" valign="middle" >1</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                <inline-formula>
+                  <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x78_hanspub.png" xlink:type="simple"/>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle" >PSL(2,13)</td>
+              <td align="center" valign="middle" >PSL(2,13)</td>
+              <td align="center" valign="middle" >1</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >G 1012 1</td>
+              <td align="center" valign="middle" >PSL(2,23)</td>
+              <td align="center" valign="middle" >PSL(2,23)</td>
+              <td align="center" valign="middle" >2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                F620<sup>*</sup>
+              </td>
+              <td align="center" valign="middle" >PSL(2,31)</td>
+              <td align="center" valign="middle" >PSL(2,31</td>
+              <td align="center" valign="middle" >4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" >PSL(2,47)</td>
+              <td align="center" valign="middle" >PSL(2,47</td>
+              <td align="center" valign="middle" >3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >G 220 2</td>
+              <td align="center" valign="middle" >PGL(2,11)</td>
+              <td align="center" valign="middle" >PGL(2,11)</td>
+              <td align="center" valign="middle" >2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                <inline-formula>
+                  <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x82_hanspub.png" xlink:type="simple"/>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle" >PGL(2,13)</td>
+              <td align="center" valign="middle" >PGL(2,13)</td>
+              <td align="center" valign="middle" >2</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表1. 4 p q n 阶3度G-基对称图</p>
+      <p>
+        关于本文中所使用的群论和图论的相关符号都是标准的，可参考文献( [<xref ref-type="bibr" rid="hanspub.33290-ref12">12</xref>] [<xref ref-type="bibr" rid="hanspub.33290-ref13">13</xref>] [<xref ref-type="bibr" rid="hanspub.33290-ref14">14</xref>] )。例如：我们用<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x83_hanspub.png" xlink:type="simple"/>
+        </inline-formula>， A n 和 S n 分别表示n阶循环群，交错群和对称群。对于一个单群T，我们用 π ( T ) 表示 | T | 的素因子集合。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 预备知识</title>
+      <p>在本节中，我们给出一些与本文相关的定理和例子。首先是Tutte在1947年确定的3度对称图的点稳定子的结构，它是我们研究3度图的基础。</p>
+      <p>
+        定理2.1 ( [<xref ref-type="bibr" rid="hanspub.33290-ref10">10</xref>] ) 设 Γ 是一个连通的3度 ( G , s ) -弧传递图，则 s ≤ 5 ，则 ( G α , s ) 满足表2，其中 α ∈ V Γ 。
+      </p>
+      <table-wrap id="table2" >
+        <label>
+          <xref ref-type="table" rid="table2">Table 2</xref>
+        </label>
+        <caption>
+          <title> Point-stabilizer groups of cubic symmetric group</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >s</th>
+                <th align="center" valign="middle" >1</th>
+                <th align="center" valign="middle" >2</th>
+                <th align="center" valign="middle" >3</th>
+                <th align="center" valign="middle" >4</th>
+                <th align="center" valign="middle" >5</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                <inline-formula>
+                  <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x93_hanspub.png" xlink:type="simple"/>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle" >ℤ 3</td>
+              <td align="center" valign="middle" >S 3</td>
+              <td align="center" valign="middle" >S 3 &#215; ℤ 2</td>
+              <td align="center" valign="middle" >S 4</td>
+              <td align="center" valign="middle" >S 4 &#215; ℤ 2</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >| G α |</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >2 ⋅ 3</td>
+              <td align="center" valign="middle" >2 2 ⋅ 3</td>
+              <td align="center" valign="middle" >2 3 ⋅ 3</td>
+              <td align="center" valign="middle" >2 4 ⋅ 3</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表2. 3度对称图的点稳定子</p>
+      <p>对于一个图 Γ ，如果点稳定子 Aut ( Γ ) α 在 α 的邻域 Γ ( α ) 上是本原的，则称 Γ 为局部本原的，由于素</p>
+      <p>
+        数度的弧传递图是局部本原的，因此下面的结论( [<xref ref-type="bibr" rid="hanspub.33290-ref15">15</xref>]，引理2.5)提供了研究局部本原图的基本方法，这个结论对Praeger的结果( [<xref ref-type="bibr" rid="hanspub.33290-ref16">16</xref>]，定理4.1)进行了改进。
+      </p>
+      <p>
+        定理2.2 ( [<xref ref-type="bibr" rid="hanspub.33290-ref15">15</xref>] ) 设 Γ 是一个连通的奇素数度的G-弧传递图， G ≤ Aut ( Γ ) 有一个非传递正规子群N在 V Γ 上至少有三个轨道。则下列事实之一成立：
+      </p>
+      <p>1) N在 V Γ 上半正则， G / N ≤ Aut ( Γ N ) ， Γ N 是 G / N -弧传递的且 Γ 是 Γ N 的正规N-覆盖；</p>
+      <p>2) Γ 是 ( G , s ) -弧传递的当且仅当 ( G / N , s ) -弧传递的，其中 1 ≤ s ≤ 5 或 s = 7 ；</p>
+      <p>3) G α ≅ ( G / N ) δ ，其中 α ∈ V Γ ， δ ∈ V Γ N 。</p>
+      <p>
+        在文献( [<xref ref-type="bibr" rid="hanspub.33290-ref16">16</xref>] )中，Praeger将拟本原置换群分为八类，我们将其称为O’Nan-Scott-praeger定理。下面我们简述O’Nan-Scott-praeger定理。
+      </p>
+      <p>
+        定理2.3 ( [<xref ref-type="bibr" rid="hanspub.33290-ref16">16</xref>] )拟本原置换群可以分为以下八类：
+      </p>
+      <p>
+        HA (仿射型)： soc ( X ) 是交换的，<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x127_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，其中p是素数，<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x128_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。
+      </p>
+      <p>
+        HS (全形单型)：<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x129_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，其中 N ≅ M ≅ T 。
+      </p>
+      <p>HC (复合全型)： soc ( X ) = M &#215; N ，其中 N ≅ M ≅ T k 。</p>
+      <p>AS (几乎单型)： soc ( X ) = T 是非交换单群， T ⊲ X ≤ Aut ( T ) ≤ T . Out ( T ) 。</p>
+      <p>
+        TW (扭圈积型)：<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x135_hanspub.png" xlink:type="simple"/>
+        </inline-formula>在 Ω 上正则， | Ω | = | T | k ，其中 d ≥ 2 。
+      </p>
+      <p>SD (单对角型)： soc ( X ) = T k ， soc ( X ) α = T ， | Ω | = | T | k − 1 ，其中 d ≥ 2 ， α ∈ Ω 。</p>
+      <p>
+        CD (复合对角型)： soc ( X ) = T k ， soc ( X ) α = T l ， | Ω | = | T | k − l ，其中<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x147_hanspub.png" xlink:type="simple"/>
+        </inline-formula>， l | k ， α ∈ Ω 。
+      </p>
+      <p>
+        PA (乘积作用型)： soc ( X ) = T r ， soc ( X ) α ≠ 1 ，其中<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x152_hanspub.png" xlink:type="simple"/>
+        </inline-formula>， α ∈ Ω 。
+      </p>
+      <p>
+        对于以下较小的群G，我们可以利用Magma ( [<xref ref-type="bibr" rid="hanspub.33290-ref17">17</xref>] )确定所有同构意义下的弧传递图，并且得到下面的几个例子。
+      </p>
+      <p>
+        例2.4 (1) G = PSL ( 2 , 11 ) ，则G存在子群同构于 ℤ 3 ，此时存在一个阶为220阶的3度对称图，记为 G 220 1 。<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x157_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。
+      </p>
+      <p>
+        (2) G = PSL ( 2 , 11 ) ，则G存在子群同构于 S 3 ，此时存在一个阶为220阶的3度对称图，记为<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x160_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。 Aut ( Γ ) ≅ PSL ( 2 , 11 ) 。
+      </p>
+      <p>例2.5 (1) G = PSL ( 2 , 13 ) ，则G存在子群同构于 ℤ 3 ，此时存在一个阶为364阶的3度对称图，记为 G 364 1 。 Aut ( Γ ) ≅ PSL ( 2 , 13 ) 。</p>
+      <p>(2) G = PSL ( 2 , 13 ) ，则G存在子群同构于 S 3 ，此时存在一个阶为364阶的3度对称图，记为 G 364 2 。 Aut ( Γ ) ≅ PSL ( 2 , 13 ) 。</p>
+      <p>
+        例2.6 G = PSL ( 2 , 23 ) ，则G存在子群同构于<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x171_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，此时存在一个阶为1012阶的3度对称图，记为 G 1012 1 。 Aut ( Γ ) ≅ PSL ( 2 , 23 ) 。
+      </p>
+      <p>
+        例2.7 G = PSL ( 2 , 47 ) ，则G存在子群同构于 S 4 &#215; ℤ 2 ，此时存在一个阶为4324阶的3度对称图，记为 G 4324 1 。<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x177_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。
+      </p>
+    </sec>
+    <sec id="s5">
+      <title>3. 定理1.1的证明</title>
+      <p>本节中，我们分以下三个引理来完成定理1.1的证明。</p>
+      <p>
+        引理3.1 设T是一个非交换单群， | T | | 2 6 ⋅ 3 ⋅ r ⋅ s l ，且 3 r s l | | T | ，其中 3 ≤ r &lt; s 为素数。则 T ≅ A 6 ， PSL ( 2 , 8 ) ， PSL ( 2 , 11 ) ， PSL ( 2 , 13 ) ， PSL ( 2 , 16 ) ， PSL ( 2 , 17 ) ，<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x187_hanspub.png" xlink:type="simple"/>
+        </inline-formula>， PSL ( 2 , 31 ) ， PSL ( 2 , 32 ) ， PSL ( 2 , 47 ) ，或 PSL ( 2 , 193 ) 。
+      </p>
+      <p>
+        证明：由于有限p-群和 m a n b (m，n为素数，a，b为正整数)阶群都可解，而可解单群必为素数阶循环群，所以 | π ( T ) | ≠ 1 或2，因此 | π ( T ) | = 3 或4。如果 | π ( T ) | = 3 ，由文献( [<xref ref-type="bibr" rid="hanspub.33290-ref12">12</xref>]，定理1)，T同构于( [<xref ref-type="bibr" rid="hanspub.33290-ref12">12</xref>]，表1)中的八个群之一，又因为 3 r s l | | T | 通过检查群的阶，满足条件的群只有 A 6 ， PSL ( 2 , 8 ) ，或 PSL ( 2 , 17 ) 。
+      </p>
+      <p>假设 | π ( T ) | = 4 。则 5 ≤ r &lt; s 且 | T | | 2 6 ⋅ 3 ⋅ r ⋅ s l 。由此可知</p>
+      <p>2 7 ∤ | T | ,     3 2 ∤ | T | ,     r 2 ∤ | T | 。 (1)</p>
+      <p>
+        由文献( [<xref ref-type="bibr" rid="hanspub.33290-ref12">12</xref>]，定理1)，T同构于( [<xref ref-type="bibr" rid="hanspub.33290-ref12">12</xref>]，表3)中的某个群或 PSL ( 2 , q ) ，其中q是一个素数幂。对于前一种情况，由于 3 r s l | | T | ，由( [<xref ref-type="bibr" rid="hanspub.33290-ref12">12</xref>]，表3)查得不存在满足条件的群。
+      </p>
+      <p>
+        如果 T ≅ PSL ( 2 , q ) ，则有 | T | = 1 2 q ( q − 1 ) ( q + 1 ) | 2 6 ⋅ 3 ⋅ r ⋅ s l 且 | π ( q 2 − 1 ) | = 3 ，因此 q = t e ，其中 e ≥ 1 且 t ∈ { 2 , 3 , 5 , s } 。如果 t ∈ { 2 , 3 , 5 } ，由式子(1)和 | π ( q 2 − 1 ) | = 3 可知， q = 2 4 或2<sup>5</sup>，即 T ≅ PSL ( 2 , 16 ) ，或 PSL ( 2 , 32 ) ，如果 t = s ，此时有
+      </p>
+      <p>1 2 ( q − 1 ) ( q + 1 ) | 2 6 ⋅ 3 ⋅ r ，</p>
+      <p>即</p>
+      <p>q − 1 2 ⋅ q + 1 2 | 2 5 ⋅ 3 ⋅ r 。</p>
+      <p>
+        我们注意到 ( q − 1 2 , q + 1 2 ) = 1 ，于是 q − 1 2 | 2 5 ⋅ 3 或 q + 1 2 | 2 5 ⋅ 3 ，因此q = 11，13，23，31，47，49，97或193。通过检查群的阶可得， T ≅ PSL ( 2 , 11 ) ， PSL ( 2 , 13 ) ， PSL ( 2 , 23 ) ， PSL ( 2 , 31 ) ， PSL ( 2 , 47 ) 或<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x228_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。
+      </p>
+      <p>之后，我们总假设 Γ 是一个阶为 4 p q n ( 3 ≤ p &lt; q , n ≥ 1 )的连通G-弧传递3度图，且G在 V Γ 上是拟本原或二部拟本原的，其中 G ≤ Aut ( Γ ) 。令 α ∈ V Γ 。</p>
+      <p>引理3.2 假设G在 V Γ 上是拟本原的，则 Γ ≅ F 084 ， G 220 1 ， G 364 1 ， G 1012 1 ， G 620 1 或 G 4324 1 。</p>
+      <p>
+        证明：设N是G的一个极小正规子群。则N为同构单群的直积，即 N = T d = T 1 &#215; T 2 &#215; ⋯ &#215; T d ，其中 T i ≅ T ( i = 1 , ⋯ , d )是一个单群。因为G在 V Γ 上拟本原，所以N在 V Γ 上是传递的。如果N是交换的，则N在 V Γ 上半正则，于是 | T | d = | N | | 4 p q n ，这是不可能的，故N是非交换的。首先我们断言 d = 1 。事实上，由 Γ 的连通性及<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x251_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，我们可知 Γ 是N-弧传递的。此时，如果 T 1 在 V Γ 上传递，由( [<xref ref-type="bibr" rid="hanspub.33290-ref14">14</xref>]，定理4.2A)可知 T 1 的中心化子 C N ( T 1 ) (即 T 2 )是半正则的，与 | T 2 | ∤ 4 p q n 矛盾。如果<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x259_hanspub.png" xlink:type="simple"/>
+        </inline-formula>在 V Γ 上至少有三个轨道，则由定理2.2可知 T 1 是半正则的，同样是一个矛盾。从而 T 1 在 V Γ 上恰好有两个轨道U和W。又因为 T 1 ⊲ N ，因此U和W构成 V Γ 上一个N-不变划分，这就意味着集合稳定子 N U 在N中的指数为2，而 N = T d 中没有指数为2子群，矛盾。于是 N = T 。
+      </p>
+      <p>因此 Γ 是T-弧传递的，故 T α 满足定理2.1。于是由T的传递性可以得到， | V Γ | ⋅ | T α | = | T | | 2 6 ⋅ 3 ⋅ p ⋅ q n 。又因为 Γ 是T-弧传递的，故 3 | | T α | ，从而 3 p q n | | T | ，即T满足引理3.1。</p>
+      <p>
+        假设<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x275_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，则T和<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x276_hanspub.png" xlink:type="simple"/>
+        </inline-formula>如表3所示。
+      </p>
+      <table-wrap id="table3" >
+        <label>
+          <xref ref-type="table" rid="table3">Table 3</xref>
+        </label>
+        <caption>
+          <title> Nonabelian groups with 3 prime factors and ( p , q n </title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >T</th>
+                <th align="center" valign="middle" >A 6</th>
+                <th align="center" valign="middle" >PSL(2,8)</th>
+                <th align="center" valign="middle" >PSL(2,17)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                <inline-formula>
+                  <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x280_hanspub.png" xlink:type="simple"/>
+                </inline-formula>
+              </td>
+              <td align="center" valign="middle" >(3,5)</td>
+              <td align="center" valign="middle" >(3,7)</td>
+              <td align="center" valign="middle" >(3,17)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表3. 含有3个素因子的单群及对应 ( p , q n ) 取值</p>
+      <p>
+        如果 T ≅ A 6 ，则 | T α | = | T | / | V Γ | = 6 ，即 T α ≅ S 3 。由Magma ( [<xref ref-type="bibr" rid="hanspub.33290-ref17">17</xref>] )计算可得，满足条件的图<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x284_hanspub.png" xlink:type="simple"/>
+        </inline-formula>不存在。如果 T ≅ PSL ( 2 , 8 ) ，则 | T α | = | T | / | V Γ | = 6 ，即 T α ≅ S 3 。由文献( [<xref ref-type="bibr" rid="hanspub.33290-ref18">18</xref>] )可知 Γ ≅ F 084 ，如果 T ≅ PSL ( 2 , 17 ) ，则 | T α | = | T | / | V Γ | = 12 ，即 T α ≅ S 3 &#215; ℤ 2 。但是 PSL ( 2 , 17 ) 中没有子群同构于 S 3 &#215; ℤ 2 ，这是不可能的。
+      </p>
+      <p>假设 | π ( T ) | = 4 ，则T和 ( p , q n ) 如表4所示。</p>
+      <table-wrap id="table4" >
+        <label>
+          <xref ref-type="table" rid="table4">Table 4</xref>
+        </label>
+        <caption>
+          <title> Nonabelian groups with 4 prime factors and ( p , q n </title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >T</th>
+                <th align="center" valign="middle" >PSL(2,11)</th>
+                <th align="center" valign="middle" >PSL(2,13)</th>
+                <th align="center" valign="middle" >PSL(2,16)</th>
+                <th align="center" valign="middle" >PSL(2,23)</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >( p , q n )</td>
+              <td align="center" valign="middle" >(5,11)</td>
+              <td align="center" valign="middle" >(7,13)</td>
+              <td align="center" valign="middle" >(5,17)</td>
+              <td align="center" valign="middle" >(11,23)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >T</td>
+              <td align="center" valign="middle" >PSL(2,31)</td>
+              <td align="center" valign="middle" >PSL(2,32)</td>
+              <td align="center" valign="middle" >PSL(2,47)</td>
+              <td align="center" valign="middle" >PSL(2,193)</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >( p , q n )</td>
+              <td align="center" valign="middle" >(5,31)</td>
+              <td align="center" valign="middle" >(11,31)</td>
+              <td align="center" valign="middle" >(23,47)</td>
+              <td align="center" valign="middle" >(97,193)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表4. 含有4个素因子的单群及对应 ( p , q n ) 取值</p>
+      <p>
+        如果 T ≅ PSL ( 2 , 11 ) ，则 | T α | = | T | / | V Γ | = 3 ，即 T α ≅ ℤ 3 ，由例2.4可知 Γ ≅ G 220 1 。如果 T ≅ PSL ( 2 , 13 ) ，则 | T α | = | T | / | V Γ | = 3 ，即 T α ≅ ℤ 3 。由例2.5可知 Γ ≅ G 364 1 。如果 T ≅ PSL ( 2 , 2 4 ) ，则 | T α | = | T | / | V Γ | = 12 ，即 T α ≅ S 3 &#215; ℤ 2 ，但 PSL ( 2 , 2 4 ) 中没有同构于 S 3 &#215; ℤ 2 的12阶子群。如果<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x313_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，则 | T α | = | T | / | V Γ | = 6 ，即<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x315_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，由例2.6可知 Γ ≅ G 1012 1 。如果 T ≅ PSL ( 2 , 31 ) ，则 | T α | = | T | / | V Γ | = 24 ，即 T α ≅ S 4 ，由文献( [<xref ref-type="bibr" rid="hanspub.33290-ref18">18</xref>] )可知 Γ ≅ F 620 * 。同样地，由例2.7可以得到 Γ ≅ G 4324 1 ，此时 T ≅ PSL ( 2 , 47 ) ， T α ≅ S 3 &#215; ℤ 2 。而对于 T ≅ PSL ( 2 , 2 5 ) 和 T ≅ PSL ( 2 , 193 ) ，有 T α ≅ S 4 和 S 4 &#215; ℤ 2 ，但是对应的T都没有子群同构于<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x328_hanspub.png" xlink:type="simple"/>
+        </inline-formula>和 S 4 &#215; ℤ 2 。
+      </p>
+      <p>引理3.3 G在 V Γ 上是二部拟本原的，则 Γ ≅ G 220 2 ，或 G 364 2 。</p>
+      <p>
+        证明：因为G在 V Γ 上二部拟本原，所以G存在极小正规子群 N = T d 在 V Γ 上恰好有两个轨道 Δ 1 和 Δ 2 ，那么 Γ 就是一个二部图。令 G + = G Δ 1 = G Δ 2 ，则有 N ≤ G + ， | G : G + | = 2 且 G α = G α + 。假设 G + 作用在 Δ 1 上是不忠实的，由( [<xref ref-type="bibr" rid="hanspub.33290-ref19">19</xref>]，引理5.2)，是一个完全二部图，又因为 Γ 为3度图，则 Γ ≅ K 3 , 3 ，即 | V Γ | = 6 ，与 | V Γ | = 4 p q n 矛盾。从而 G + 作用在 Δ i ( i = 1 , 2 )上忠实，由( [<xref ref-type="bibr" rid="hanspub.33290-ref20">20</xref>]，定理1.5)可知，下述之一成立：
+      </p>
+      <p>1) G + 在 Δ i 上是拟本原的；或</p>
+      <p>
+        2) G + 中存在两个正规子群 M 1 和<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x356_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，使得 M 1 ≅ M 2 且在 V Γ 上半正则。进一步地，有群 M = M 1 &#215; M 2 在 Δ i 上是正则的。
+      </p>
+      <p>对于(2)，我们可以得到 | M | = | M 1 | 2 = 2 p q n ，这是不可能的。</p>
+      <p>
+        故(1)成立，因为 | Δ i | = 2 p q n ，由定理2.3可知， G + 是几乎单或乘积作用型。设 N = soc ( G + ) = T d 是 G + 的基柱。其中T是非交换单群且<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x366_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。
+      </p>
+      <p>
+        假设 G + 是几乎单的，因此 soc ( G + ) = T 。进一步地，如果T不是G唯一的极小正规子群，由于 G = G + . ℤ 2 ，我们很容易可以得到 G = G + &#215; ℤ 2 ，也就是说G有正规子群 ℤ 2 在 V Γ 上有 2 p q n 个轨道，与G的二部拟本原性矛盾。从而G是几乎单的，设 soc ( G ) = T 。因此我们可以令 G = T . o ， G + = T . o ′ ，其中<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x377_hanspub.png" xlink:type="simple"/>
+        </inline-formula>且 | o : o ′ | = 2 。
+      </p>
+      <p>
+        因为 T α ⊴ G α ，由定理2.1可知 | T α | | 2 4 ⋅ 3 ，因此<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x381_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。另一方面，由于 T α ≠ 1 ，我们可以得到 <inline-formula>
+          <inline-graphic xlink:href="//html.scirp.org/file/3-1250934x24_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，从而 3 p q n | | T | ，故T满足引理3.1且 | π ( T ) | = 3 或4。
+      </p>
+      <p>
+        当 | π ( T ) | = 3 时，则T和 ( p , q n ) 满足表3。如果<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x388_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，则 | T α | = | T | / | Δ i | = 12 。因为 Out ( A 6 ) = ℤ 2 2 ，所以 o = ℤ 2 ， o ′ = 1 或 o = ℤ 2 2 ， o ′ = ℤ 2 。故 | G α | = | G α + | = | T α | ⋅ | o ′ | = 12 或 ， G ≅ S 6 或 Aut ( A 6 ) 。由Magma ( [<xref ref-type="bibr" rid="hanspub.33290-ref17">17</xref>] )，这两种情况下都没有图<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x398_hanspub.png" xlink:type="simple"/>
+        </inline-formula>存在。如果 T ≅ PSL ( 2 , 8 ) ，因为 Out ( PSL ( 2 , 8 ) ) = ℤ 3 没有指数为2的子群，与 | o : o ′ | = 2 矛盾。如果 T ≅ PSL ( 2 , 17 ) ，因为 Out ( PSL ( 2 , 17 ) ) = ℤ 2 ， | T α | = | T | / | Δ i | = 24 ，所以 | G α | = | G α + | = | T α | ⋅ | o ′ | = 24 ， G ≅ PSL ( 2 , 17 ) . ℤ 2 = PGL ( 2 , 17 ) ，由Magma ( [<xref ref-type="bibr" rid="hanspub.33290-ref17">17</xref>] )，不存在满足条件的图 Γ 。
+      </p>
+      <p>
+        当 | π ( T ) | = 4 时， ( T , p , q n ) 满足表4。如果 T ≅ PSL ( 2 , 193 ) ，则 | T α | = | T | / | Δ i | = 96 ，从而<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x412_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。这与定理2.1矛盾。如果 T ≅ PSL ( 2 , 32 ) ，则 Out ( T ) = ℤ 5 ，因为 | o : o ′ | = 2 ，矛盾。如果 T ≅ PSL ( 2 , 2 4 ) ，则 | T α | = | T | / | Δ i | = 24 。因为<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x418_hanspub.png" xlink:type="simple"/>
+        </inline-formula>，故 G ≅ PGL ( 2 , 16 ) 或 Aut ( PSL ( 2 , 16 ) ) ，且对应的 G α 分别为<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x422_hanspub.png" xlink:type="simple"/>
+        </inline-formula>或 S 4 &#215; ℤ 2 ，由Magma ( [<xref ref-type="bibr" rid="hanspub.33290-ref17">17</xref>] )可知 PGL ( 2 , 2 4 ) 中没有24阶子群，<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x425_hanspub.png" xlink:type="simple"/>
+        </inline-formula>中没有同构于 S 4 &#215; ℤ 2 的48阶子群，矛盾。如果 T ≅ PSL ( 2 , 31 ) ，则 | T α | = 48 。又因为 Out ( PSL ( 2 , 31 ) ) = ℤ 2 ，所以 G ≅ PGL ( 2 , 31 ) 且<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x431_hanspub.png" xlink:type="simple"/>
+        </inline-formula>。与 PGL ( 2 , 31 ) 中没有48阶子群矛盾。若 T ≅ PSL ( 2 , 23 ) 或<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x434_hanspub.png" xlink:type="simple"/>
+        </inline-formula>时，由Magma ( [<xref ref-type="bibr" rid="hanspub.33290-ref17">17</xref>] )，不存在这样的3度对称图。若 T ≅ PSL ( 2 , 11 ) 或 PSL ( 2 , 13 ) ，由例2.4和2.5可知， Γ ≅ G 220 2 或 G 364 2 。
+      </p>
+      <p>
+        假设 G + 是乘积作用型的，则 N = T d = T 1 &#215; T 2 &#215; ⋯ &#215; T d ( d ≥ 2 ) ，其中<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x441_hanspub.png" xlink:type="simple"/>
+        </inline-formula> ( i = 1 , ⋯ , d )是一个单群。如果<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x443_hanspub.png" xlink:type="simple"/>
+        </inline-formula>在<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x444_hanspub.png" xlink:type="simple"/>
+        </inline-formula>上是传递的，由( [<xref ref-type="bibr" rid="hanspub.33290-ref14">14</xref>]，定理4.2A)可知 T 2 是半正则的，故 | T 2 | | 2 p q n ，矛盾。从而 T 1 在 Δ 1 和<inline-formula>
+          <inline-graphic xlink:href="//html.hanspub.org/file/3-1250934x449_hanspub.png" xlink:type="simple"/>
+        </inline-formula>上都不传递，由( [<xref ref-type="bibr" rid="hanspub.33290-ref8">8</xref>]，引理3.2)可知 T 1 是半正则的，同样可以推出矛盾。
+      </p>
+    </sec>
+    <sec id="s6">
+      <title>基金项目</title>
+      <p>国家自然科学基金资助项目(80031010061)资助。</p>
+    </sec>
+    <sec id="s7">
+      <title>文章引用</title>
+      <p>
+        王 超. 4pq<sup>n</sup>阶3度对称图的分类A Classification on Cubic Symmetric Graphs of Order 4pq<sup>n</sup>[J]. 理论数学, 2019, 09(10): 1132-1138. https://doi.org/10.12677/PM.2019.910139
+      </p>
+    </sec>
+    <sec id="s8">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.33290-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Chao, C.Y. (1971) On the Classification of Symmetric Graphs with a Prime Number of Vertices. Transactions of the American Mathematical Society, 158, 247-256. &lt;br&gt;https://doi.org/10.2307/1995785</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Cheng, Y. and Oxley, J. (1987) On Weakly Symmetric Graphs of Order Twice a Prime. Journal of Combinatorial Theory, Series B, 42, 196-211. &lt;br&gt;https://doi.org/10.1016/0095-8956(87)90040-2</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Wang, R.J. and Xu, M.Y. (1993) A Classification of Symmetric Graphs of Order 3p. Journal of Combinatorial Theory, Series B, 58, 197-216. &lt;br&gt;https://doi.org/10.1006/jctb.1993.1037</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Feng, Y.Q. and Kwak, J.H. (2006) Cubic Symmetric Graphs of Order Twice an Odd Prime Power. Journal of the Australian Mathematical Society, 81, 153-164. &lt;br&gt;https://doi.org/10.1017/S1446788700015792</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Feng, Y.Q. and Kwak, J.H. (2007) Cubic Symmetric Graphs of Or-der a Small Number Times a Prime or a Prime Square. Journal of Combinatorial Theory, Series B, 97, 627-646. &lt;br&gt;https://doi.org/10.1016/j.jctb.2006.11.001</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Feng, Y.Q., Zhou, J.X. and Li, Y.T. (2016) Pentavalent Symmetric Graphs of Order Twice a Prime Power. Discrete Mathematics, 339, 2640-2651. &lt;br&gt;https://doi.org/10.1016/j.disc.2016.05.008</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hua, X.H., Chen, L. and Xiang, X. (2018) Valency Seven Symmetric Graphs of Order 2pq. Czechoslovak Mathematical Journal, 68, 581-599. &lt;br&gt;https://doi.org/10.21136/CMJ.2018.0530-15</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Lu, Z.P., Wang, C.Q. and Xu, M.Y. (2004) On Semisymmetric Cubic Graphs of Order 6p2. Science in China Series A Mathematics, 47, 1-17.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Zhou, J.X. and Feng, Y.Q. (2010) Tetravalent s-Transitive Graphs of Order Twice a Prime Power. Journal of the Australian Mathematical Society, 88, 277-288. &lt;br&gt;https://doi.org/10.1017/S1446788710000066</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Tutte, W.T. (1947) A Family of Cubical Graphs. Mathematical Proceedings of the Cambridge Philosophical Society, 43, 459-474. &lt;br&gt;https://doi.org/10.1017/S0305004100023720</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Zhou, J.X. and Feng, Y.Q. (2010) Cubic Vertex-Transitive Graphs of Order 2pq. Journal of Graph Theory, 65, 285-302. &lt;br&gt;https://doi.org/10.1002/jgt.20481</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Huppert, B. and Lempken, W. (2000) Simple Groups of Order Divisible by at Most Four Primes. Francisk Skorina Gomel State University, 16, 64-75.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">徐明耀. 有限群导引(上, 下)[M]. 北京: 科学出版社, 1999.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Dixon, J. and Mortimer, D.B. (1997) Permutation Groups. Spring-Verlag, New York. &lt;br&gt;https://doi.org/10.1007/978-1-4612-0731-3</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Li, C.H. and Pan, J.M. (2008) Finite 2-Arc-Transitive Abelian Cayley Graphs. European Journal of Combinatorics, 29, 148-158. &lt;br&gt;https://doi.org/10.1016/j.ejc.2006.12.001</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Praeger, C.E. (1992) An O’Nan-Scott Theorem for Finite Quasiprimitive Permutation Groups and an Application to 2-Arc-Transitive Graphs. Journal of the London Mathematical Society, 47, 227-239. &lt;br&gt;https://doi.org/10.1112/jlms/s2-47.2.227</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref17">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Bosma, W., Cannon, J. and Playoust, C. (1997) The MAGMA Algebra System I: The User Language. Journal of Symbolic Computation, 24, 235-265. &lt;br&gt;https://doi.org/10.1006/jsco.1996.0125</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref18">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Conder, M. and Dobcsabyi, P. (2002) Trivalent Symmetric Graphs on up to 768 Vertices. Journal of Combinatorial Mathematics and Combinatorial Computing, 40, 41-63.</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref19">
+        <label>19</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Giudici, M., Li, C.H. and Praeger, C.E. (2003) Analysing Finite Locally s-Arc-Transitive Graphs. Transactions of the American Mathematical So-ciety, 356, 291-317. &lt;br&gt;https://doi.org/10.1090/S0002-9947-03-03361-0</mixed-citation>
+      </ref>
+      <ref id="hanspub.33290-ref20">
+        <label>20</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Li, C.H., Praeger, C.E., Venkatesh, A. and Zhou, S.M. (2002) Finite Locally-Quasiprimitive Graphs. Discrete Mathematics, 246, 197-218. &lt;br&gt;https://doi.org/10.1016/S0012-365X(01)00258-8</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">OJNS</journal-id>
+      <journal-title-group>
+        <journal-title>Open Journal of Nature Science</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2330-1724</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/OJNS.2019.74040</article-id>
+      <article-id pub-id-type="publisher-id">OJNS-31420</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>OJNS20190400000_62789796.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+          <subject> 地球与环境</subject>
+          <subject> 信息通讯</subject>
+          <subject> 生命科学</subject>
+          <subject> 化学与材料</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          浙江省1971~2016年极端降水指数时空变化特征
+          Spacial-Temporal Variation of Extreme Precipitation Indices in Zhejiang Province from 1971 to 2016
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>尹</surname>
+            <given-names>扬娜</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>null</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>1</label>
+        <addr-line>成都信息工程大学大气科学学院，四川 成都</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>04</issue>
+      <fpage>294</fpage>
+      <lpage>306</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          本文选用了1971~2016年浙江省22个测站的逐日降水数据，选取了11个极端降水指数，运用相关分析、线性倾向估计、M-K突变检验、滑动t检验、显著性检验和反距离加权插值等方法，对数据进行处理，分析了浙江地区46年来的极端降水时空变化特征。旨在为同类地区极端降水诊断和预测、决策和部署提供指导。结果表明：1) 浙江地区降水往降水量更大、持续时间更长发展。2) 仅湿日总降水量存在突变年份，1977年，其余指数除连续干日数持续下降以外，在70年代至80年代都存在波动变化期，未达到突变强度，不影响总体上升。3) 平均空间分布所符合的两项分布规律：从西南到东北递减的分布，和自东南沿海向西北递减。因此纬度，以及东部临海因素须考虑。4) 单站层面上，干指数普遍下降，湿指数主要上升。倾率越大的测站，越是变化得显著，降水十分集中。5) 中雨日数、大雨日数、暴雨日数和强降水量对湿日总降水量的增长贡献率最大。纬度与浙江省极端降水指数相关性最好。
+          Based on daily precipitation data sets of 22 meteorological stations from 1971 to 2016 of Zhejiang province, 11 extreme precipitation indices were analyzed to study the spacial-temporal variation of extreme precipitation in Zhejiang during 46 years. Methods including correlation analysis, linear tendency estimation, Mann-Kendall test, moving t test, significance test and IDW were used.  It is aimed to offer guidance for the diagnosis, prediction, decision and deployment of extreme precipitation in similar regions. The results were as follows: 1) The precipitation in Zhejiang is getting greater in amount and longer in time. 2) Only the PRCPTOT had the mutation year 1977. Except that CDD always declined, other indices had fluctuations from 1970s to 1980s. Even so, the strength is not strong enough to influence the total upward trend. 3) According to two rules for average spatial distribution: the decreasing from southwest to northeast and from southeast to northwest, the latitude and costal effect must take into consideration. 4) From the perspective of single station, the CDD decreased while wet indices mainly increased. Additionally, the changes were more significant where the rate were larger, which leaded to the intensive precipitation. 5) R10 mm, R20 mm, R50 mm and R95 contribute most to the increasing PRCPTOT. And latitude has good correlation with the indices.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          极端降水指数，浙江地区，时空变化，降水日数，降水强度 Extreme Precipitation Indices</kwd>
+        <kwd> Zhejiang Province</kwd>
+        <kwd> Spacial-Temporal Variation</kwd>
+        <kwd> Rainy Days</kwd>
+        <kwd> Rainy Strength</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        浙江省1971~2016年极端降水指数时空变化特征<sup> </sup>
+      </title>
+      <p>尹扬娜</p>
+      <p>成都信息工程大学大气科学学院，四川 成都</p>
+      <p>
+        <img src="//html.hanspub.org/file/5-2950513x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年7月4日；录用日期：2019年7月18日；发布日期：2019年7月25日</p>
+      <disp-formula id="hanspub.31420-formula57">
+        <graphic xlink:href="//html.hanspub.org/file/5-2950513x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文选用了1971~2016年浙江省22个测站的逐日降水数据，选取了11个极端降水指数，运用相关分析、线性倾向估计、M-K突变检验、滑动t检验、显著性检验和反距离加权插值等方法，对数据进行处理，分析了浙江地区46年来的极端降水时空变化特征。旨在为同类地区极端降水诊断和预测、决策和部署提供指导。结果表明：1) 浙江地区降水往降水量更大、持续时间更长发展。2) 仅湿日总降水量存在突变年份，1977年，其余指数除连续干日数持续下降以外，在70年代至80年代都存在波动变化期，未达到突变强度，不影响总体上升。3) 平均空间分布所符合的两项分布规律：从西南到东北递减的分布，和自东南沿海向西北递减。因此纬度，以及东部临海因素须考虑。4) 单站层面上，干指数普遍下降，湿指数主要上升。倾率越大的测站，越是变化得显著，降水十分集中。5) 中雨日数、大雨日数、暴雨日数和强降水量对湿日总降水量的增长贡献率最大。纬度与浙江省极端降水指数相关性最好。</p>
+      <p>关键词 :极端降水指数，浙江地区，时空变化，降水日数，降水强度</p>
+      <disp-formula id="hanspub.31420-formula58">
+        <graphic xlink:href="//html.hanspub.org/file/5-2950513x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/5-2950513x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/5-2950513x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        当下，随着全球变暖的势态加剧，极端降水事件作为极端气候事件的一种，频率越来越高 [<xref ref-type="bibr" rid="hanspub.31420-ref1">1</xref>] 。极端气候事件对于社会和自然环境都将产生重要影响 [<xref ref-type="bibr" rid="hanspub.31420-ref2">2</xref>] 。极端气候事件是指在统计学意义下的时间尺度上，某些发生概率极少的天气事件。极端气候的指标主要为极端降水和极端气温事件。极端降水事件具有空间不一致性 [<xref ref-type="bibr" rid="hanspub.31420-ref3">3</xref>] 和气候平均态敏感性。不一致性指，某个地区的总降水量可能不变甚至下降，但是极端降水的频率和强度却可能增加 [<xref ref-type="bibr" rid="hanspub.31420-ref4">4</xref>] ；敏感性，指气候平均态的微小波动都有造成极端降水事件频率强度剧烈变化的可能 [<xref ref-type="bibr" rid="hanspub.31420-ref5">5</xref>] 。
+      </p>
+      <p>
+        浙江省位于我国东南沿海，与东海相邻，且位于长江三角洲南部。地形方面，涵盖丰富。浙江省呈西南向东北倾斜，有三支山脉平行穿过，水系丰富。由于处于亚热带的中部，深受季风性气候影响。针对浙江省特殊的地理位置，海洋与台风对于极端降水的影响强烈。根据王晓的研究，受台风影响的单站日降水量、小时雨强和过程降水量，都可能达到极端降水水平，个别站点甚至可以达到十年一遇、百年一遇的标准 [<xref ref-type="bibr" rid="hanspub.31420-ref6">6</xref>] 。而ENSO和IOD事件联合发生时，浙江的降水量会减少 [<xref ref-type="bibr" rid="hanspub.31420-ref7">7</xref>] 。除此之外，该地降水还与西太平洋副热带高压的进退密切相关。
+      </p>
+      <p>
+        目前，国内外的学者已经在极端降水事件及指数方面，做了广泛的研究。根据任国玉等的评述总结，极端强降水事件在频率和强度上都有所增长，特别是长江中下游、东南地区和西北部最为明显，而华北、东北中南部和西南部分地区与前者相反呈减弱；多数地区呈两极发展，偏弱和偏强降水事件增加 [<xref ref-type="bibr" rid="hanspub.31420-ref8">8</xref>] 。无论是国内极端降水总结评述，还是浙江区域单独研究中都指出，浙江极端降水量和日数都有增加 [<xref ref-type="bibr" rid="hanspub.31420-ref8">8</xref>] [<xref ref-type="bibr" rid="hanspub.31420-ref9">9</xref>] [<xref ref-type="bibr" rid="hanspub.31420-ref10">10</xref>] ，汪卫平等的研究更是进一步指出，含浙江在内的长江中下游地区，夏冬两季中雨及其以上的雨日数有明显增加 [<xref ref-type="bibr" rid="hanspub.31420-ref11">11</xref>] 。蔡敏等研究发现，极端降水事件频率在浙西北部高于浙南，极端降水平均强度高值由南向东北部降低，且极端降水日数分布也表现出有时间周期规律的增多 [<xref ref-type="bibr" rid="hanspub.31420-ref9">9</xref>] 。丁楠等强调了浙江东南沿海地区的极端降水高值与大幅上升趋势，将极端降水发展特征归纳于地形特点和城镇化发展上 [<xref ref-type="bibr" rid="hanspub.31420-ref10">10</xref>] ，这与张文等总结的沿海型长江中下游极端降水有关 [<xref ref-type="bibr" rid="hanspub.31420-ref12">12</xref>] 。以上两篇文献都显示出浙江的极端降水有显著的南北差异 [<xref ref-type="bibr" rid="hanspub.31420-ref9">9</xref>] [<xref ref-type="bibr" rid="hanspub.31420-ref10">10</xref>] 。在汪卫平的研究里还将浙江地区的总雨日概率划分成了平缓型，即全年多雨日，总雨日气候概率在年内有多个小峰值的类型 [<xref ref-type="bibr" rid="hanspub.31420-ref11">11</xref>] 。
+      </p>
+      <p>
+        综合之前研究者的研究结果，相比于全国其他区域，对于浙江的单独研究较少，大多都是涵盖在长江中下游研究当中，而一些研究侧重于对个别城市单站的关注；部分研究存在研究选取的年际变化短，年代距离较为久远，缺乏针对性和时新性的特点；一些文献的极端降水指数选取仍不够科学全面。正如IPCC第五次会议评估报告中所指出的，降水资料的缺乏会导致研究评估结果的准确性大大降低 [<xref ref-type="bibr" rid="hanspub.31420-ref1">1</xref>] ，希望在本文中能得以弥补。
+      </p>
+      <p>由于极端降水产生的灾害性事件十分常见，浙江极端降水灾害频发期主要为梅雨季和台风季，会造成严重自然经济损失。研究降水还有益于农业生产、林业防护、水土保持、城市规划以及其他相关气候等的研究。不管是人民正常的生产生活，还是灾害性天气的预防，极端降水研究都有重要作用。本文旨在加深对于浙江省极端降水概况的认识，把握其规律，为相关人士或部门对于近些年浙江省的极端降水诊断和预测、决策和部署提供一定的便利。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 数据与方法</title>
+      <sec id="s4_1">
+        <title>2.1. 数据来源与质量控制</title>
+        <p>本文中使用的数据由国家气象中心提供，为1971年1月1日至2016年12月31日的逐日降水数据序列。所选站点为资料中全部浙江站点，共22个，基本覆盖浙江全域，站点分布如图1所示。资料经过异常值检验、缺测剔除、时间一致性检测，并且通过RClimDex软件进行了进一步质量控制，数据完整性和质量情况较好。</p>
+        <p>图1. 浙江地区所选测站分布</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 研究方法</title>
+        <p>
+          根据气候变化检测监测和指数专家小组(Expert Team for Climate Change Detection Monitoring and Indices)推荐的指数体系，综合考虑其意义，选取了11个作为极端降水指数。这些指数大致可分为三类 [<xref ref-type="bibr" rid="hanspub.31420-ref13">13</xref>] ，第一类为持续性描述：湿日总降水量PRCPTOT、连续干日数CDD、连续湿日数CWD；第二类为绝对降水值：中雨日数R10 mm、大雨日数R20 mm、暴雨日数R50 mm、极端降水量R95和极端强降水量R99，需要指出的是，本文选取的基准期为研究时段最近30年，即1986年至2015年；第三类为强度描述：降水强度SDII、1日最大降水量Rx1day和5日最大降水量Rx5day。详细定义见表1。
+        </p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> The extreme precipitation indices and definitio</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >指数</th>
+                  <th align="center" valign="middle" >缩写</th>
+                  <th align="center" valign="middle" >定义</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >湿日总降水量</td>
+                <td align="center" valign="middle" >PRCPTOT</td>
+                <td align="center" valign="middle" >每年大于等于1 mm的降水量总和</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >连续干日数</td>
+                <td align="center" valign="middle" >CDD</td>
+                <td align="center" valign="middle" >每年最长连续无降水日数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >连续湿日数</td>
+                <td align="center" valign="middle" >CWD</td>
+                <td align="center" valign="middle" >每年最长连续降水日数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >中雨日数</td>
+                <td align="center" valign="middle" >R10 mm</td>
+                <td align="center" valign="middle" >日降水量大于等于10 mm的日数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >大雨日数</td>
+                <td align="center" valign="middle" >R20 mm</td>
+                <td align="center" valign="middle" >日降水量大于等于20 mm的日数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >暴雨日数</td>
+                <td align="center" valign="middle" >R50 mm</td>
+                <td align="center" valign="middle" >日降水量大于等于50 mm的日数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >强降水量</td>
+                <td align="center" valign="middle" >R95</td>
+                <td align="center" valign="middle" >大于基准期内95%分位点的日降水量总和</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >极端强降水量</td>
+                <td align="center" valign="middle" >R99</td>
+                <td align="center" valign="middle" >大于基准期内99%分位点的日降水量总和</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >降水强度</td>
+                <td align="center" valign="middle" >SDII</td>
+                <td align="center" valign="middle" >降水量与降水日数的比值</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1日最大降水量</td>
+                <td align="center" valign="middle" >Rx1day</td>
+                <td align="center" valign="middle" >最大的日降水量</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >5日最大降水量</td>
+                <td align="center" valign="middle" >Rx5day</td>
+                <td align="center" valign="middle" >最大的连续5日降水量</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 极端降水指数及定义</p>
+        <p>
+          采用线性倾向估计的方法 [<xref ref-type="bibr" rid="hanspub.31420-ref14">14</xref>] ，分析时间变化特征。线性倾向估计法，主要是根据所有测站的年平均指数数据，通过一维线性拟合，得到函数关系。公式如下：
+        </p>
+        <p>y i = a + b x i ( i = 1 , 2 , ⋯ , n ) (1)</p>
+        <p>
+          Mann-Kendall方法(简称为M-K法)，是一种非参数检验，通过统计量计算，检验序列突变年份。S<sub>k</sub>是n个样本时间序列x中，x<sub>i</sub>大于 x j ( 1 ≤ j ≤ i ) 的累积数，k为样本数量：
+        </p>
+        <p>S k = ∑ i = 1 k r i ( 1 ≤ k ≤ n ) (2)</p>
+        <p>
+          设序列x随机独立，则S<sub>k</sub>的均值和方差分别为：
+        </p>
+        <p>E ( S k ) = k ( k + 1 ) / 4 (3)</p>
+        <p>V ar ( S k ) = k ( k − 1 ) ( 2 k + 5 ) / 72 (4)</p>
+        <p>
+          将S<sub>k</sub>标准化：
+        </p>
+        <p>U F k = ( S k − E ( S k ) ) / V a r ( S k ) k = 1 , 2 , ⋯ , n (5)</p>
+        <p>UF是按时间正序计算出来的统计量序列，而UB是按时间逆序计算出来的，如此一来可以明确突变范围。二者交点对应横坐标为突变年份；UF或UB的值大于0，代表此时段呈上升，反之则代表下降。变化超过临界线，则代表上升下降显著。</p>
+        <p>
+          滑动t检验，是基于t检验的一种变形。对于有n个样本量的时间序列，人为的设置一个基准点时刻，考察基准点前后两段子序列x<sub>1</sub>、x<sub>2</sub>均值有无显著差异，若有，则认为有突变发生。本文的基准点设为1976年，子序列长度为5。统计量t定义为：
+        </p>
+        <p>t = ( x 1 &#175; − x 2 &#175; ) / ( S ⋅ 1 / n 1 + 1 / n 2 ) ~ t ( n 1 + n 2 − 2 ) (6)</p>
+        <p>其中：</p>
+        <p>S = ( n 1 S 1 2 + n 2 S 2 2 ) / ( n 1 + n 2 − 2 ) (7)</p>
+        <p>
+          S<sub>1</sub>、S<sub>2</sub>分别为子序列x<sub>1</sub>、x<sub>2</sub>的样本标准差。
+        </p>
+        <p>IDW (Inverse Distance Weighted)是基于相近相似的原理进行插值的，两个物体离得越近，它们的性质就越相似。它以插值点与样本点之间的距离为权重，进行加权平均，离插值点越近的样本点赋予的权重越大。公式如下：</p>
+        <p>Z = ∑ i = 1 n ( Z i ⋅ W i ) / ∑ i = 1 n W i (8)</p>
+        <p>上述方法中穿插使用显著性检验，所选取的显著水平，主要是α = 0.05和α = 0.01。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 极端降水指数时间分布特征</title>
+      <sec id="s5_1">
+        <title>3.1. 时序变化特征</title>
+        <p>浙江地区11个指数的年平均时间序列变化见图2 (Rx1day和Rx5day为22站中的最大值)。除CDD连续干日数呈下降趋势以外，其余10个指数都有或多或少的增强趋势。对于每个指数时间序列的显著性检验可见表2。</p>
+        <p>图2. 浙江地区1971~2016年极端降水指数时间序列</p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> The 10a tendency and significance of extreme precipitation indices in Zhejiang from 1971 to 201</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  >指数</th>
+                  <th align="center" valign="middle" >PRCPTOT (mm)</th>
+                  <th align="center" valign="middle"  colspan="2"  >CDD (d)</th>
+                  <th align="center" valign="middle"  colspan="3"  >CWD (d)</th>
+                  <th align="center" valign="middle"  colspan="2"  >R10 mm (d)</th>
+                  <th align="center" valign="middle"  colspan="2"  >R20 mm (d)</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >10a倾率</td>
+                <td align="center" valign="middle" >3.64</td>
+                <td align="center" valign="middle"  colspan="2"  >−0.12</td>
+                <td align="center" valign="middle"  colspan="3"  >0.011</td>
+                <td align="center" valign="middle"  colspan="2"  >0.054</td>
+                <td align="center" valign="middle"  colspan="2"  >0.07</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >指数</td>
+                <td align="center" valign="middle"  colspan="3"  >R50 mm (d)</td>
+                <td align="center" valign="middle"  colspan="2"  >R95 (mm)</td>
+                <td align="center" valign="middle" >R99 (mm)</td>
+                <td align="center" valign="middle"  colspan="2"  >SDII (mm/d)</td>
+                <td align="center" valign="middle"  colspan="2"  >Rx1day (mm)</td>
+                <td align="center" valign="middle" >Rx5day (mm)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >10a倾率</td>
+                <td align="center" valign="middle"  colspan="3"  >
+                  0.032<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  3.57<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  1.66<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  0.038<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >1.22</td>
+                <td align="center" valign="middle" >
+                  1.52<sup>*</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. 浙江地区1971~2016年极端降水指数10a倾率及显著性</p>
+        <p>
+          注：倾率右上，<sup>**</sup>代表P &lt; 0.01，通过了α = 0.01的显著性检验；*代表P &lt; 0.05，通过了α = 0.05的显著性检验。
+        </p>
+        <p>通过比较分析可以发现，第一类持续性指数里，浙江地区湿日总降水量在研究年份里有较多的逐年增加，且最长连续降水天数也在逐年小幅增加，最长连续无降水日数逐年小幅下降，说明浙江地区总降水情况，在往降水更多，连续降水时间更长的方向发展。第二类绝对降水指数，降水量大于10 mm和20 mm的中雨和大雨天数不显著增加，相比之下，降水量大于50 mm的暴雨天数虽10a倾率小，却增加显著，表明浙江地区的极端大值降水天数在研究时段，以及甚至在今后仍会保持上升态势；R95和R99两指数，倾率大且增加显著，相较而言，强降水量即大于基准期内95%分位点的日降水量总和增加得更显著，这表明，浙江地区的极端降水大值逐年增加非常明显，这与PRCPTOT湿日总降水量的大幅增加趋势一致。</p>
+        <p>第三类强度描述指数，以天为单位时间的单位降水量SDII，虽10a倾率很小，增加却显著，这表明平均下来的降水量在单位时间的变化，不是十分明显，但不可否认其上升，因此鉴于连续湿日数倾率小且不显著，总的极端降水量的增加，主要归因于降水量的集中。连续5日最大降水量，无论从10a倾率，还是显著性级别上都高于1日最大降水量，这与本文前面讨论第一类指数的结论一致，即浙江地区的降水倾向于往降水量更大，持续时间更长发展。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 时序突变特征</title>
+        <p>
+          如图3是浙江地区所选站点时间序列进行M-K突变检验的结果，观察可得每个指数在研究年份期间都有多个交点，即为多个突变点。为了排除虚拟突变点的干扰，本文进行了滑动t检验辅以核验，滑动t检验是考察两组样本平均值的差异是否显著来检验突变的 [<xref ref-type="bibr" rid="hanspub.31420-ref14">14</xref>] ，其结果显示在表3中。
+        </p>
+        <p>图3. 浙江地区1971~2016年极端降水指数时间序列M-K检验</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> The years of mutation in moving t-test of Zhejiang extreme precipitation indices from 1971 - 201</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  >指数</th>
+                  <th align="center" valign="middle" >PRCPTOT</th>
+                  <th align="center" valign="middle"  colspan="2"  >CDD</th>
+                  <th align="center" valign="middle"  colspan="3"  >CWD</th>
+                  <th align="center" valign="middle"  colspan="2"  >R10 mm</th>
+                  <th align="center" valign="middle"  colspan="2"  >R20 mm</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >突变年份</td>
+                <td align="center" valign="middle" >1977/2002</td>
+                <td align="center" valign="middle"  colspan="2"  >-</td>
+                <td align="center" valign="middle"  colspan="3"  >2002/2007</td>
+                <td align="center" valign="middle"  colspan="2"  >1977/2002</td>
+                <td align="center" valign="middle"  colspan="2"  >1977/2002/2007</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >指数</td>
+                <td align="center" valign="middle"  colspan="3"  >R50 mm</td>
+                <td align="center" valign="middle"  colspan="2"  >R95</td>
+                <td align="center" valign="middle" >R99</td>
+                <td align="center" valign="middle"  colspan="2"  >SDII</td>
+                <td align="center" valign="middle"  colspan="2"  >Rx1day</td>
+                <td align="center" valign="middle" >Rx5day</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >突变年份</td>
+                <td align="center" valign="middle"  colspan="3"  >1975/1977/2010/2011</td>
+                <td align="center" valign="middle"  colspan="2"  >1977/2010/2011</td>
+                <td align="center" valign="middle" >1997</td>
+                <td align="center" valign="middle"  colspan="2"  >1977/2011</td>
+                <td align="center" valign="middle"  colspan="2"  >-</td>
+                <td align="center" valign="middle" >-</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 浙江地区1971~2016年极端降水指数滑动t检验突变年份</p>
+        <p>结合来看，在图3(a)中，PRCPTOT只有1个点二者都符合，因此，PRCPTOT的突变年份是1977年。剩下的指数UF与UB都有3个及以上的交点数目，但在后期的滑动t检验中，都没有核验出明显的共同突变点。</p>
+        <p>M-K突变检验是在平均总体趋势的基础上，对具体研究时段各自变化所作的细化研究。在图3(a)中，PRCPTOT湿日总降水量在70年代上升，进入80年代开始下降，与之前对突变点在1977年的判断一致。之后，PRCPTOT一直呈不显著的上升。再由图3(b)，CDD连续干日数的UF一直在零线及以下部分波动，CDD整体呈下降趋势。CWD连续湿日数正序列的负值部分，仅存在于70年代末与80年代初，这表明CWD在该段内小幅下降，而除此以外，CWD都为上升。在约1996~2003年间，还达到显著上升。</p>
+        <p>R10 mm中雨日数，则是在70年代有不显著的上升，而后都在下降。如图3(e)，R20 mm大雨日数有和PRCPTOT湿日总降水量相似的趋势，即在70年代不显著上升，80年代不显著下降，而后都呈现不显著的上升。反观R50 mm暴雨日数的波动，则略微复杂。仅在70年代就经历了多次变化。而后持续上升，90年代上升显著。2013年进入另一上升显著期。图3(g)中，R95强降水量在70至80年代间波动较多，同样在1996~2003年前后上升显著，在2011年后又显著上升。R99极端强降水量与R95强降水量的初期发展相似，进入1993年后，虽在显著临界线上有波动，R99在绝大多数时候都在显著上升。</p>
+        <p>SDII降水强度在经历了70至80年代的波动变化后，显著上升期在约2009之后。Rx1day1日最大降水量在70年代初期上升，中期有下降趋势，末期迅速调整，而后一直不显著上升。对比来看，Rx5day5日最大降水量，在初期波动更甚，直至90年代才稳步上升，13年后更是显著上升水平。</p>
+        <p>由以上讨论可得，各指数除CDD外，普遍在70年代，其中个别延伸至80年代，存在波动变化期，但并不影响总体上升趋势，其中CWD、R50 mm、R95、R99、SDII和Rx5day都有显著上升期，这与3.1显著性结果有一定联系。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 极端降水指数空间分布特征</title>
+      <sec id="s6_1">
+        <title>4.1. 多年平均的海拔与空间分布</title>
+        <p>
+          海拔高度与降水之间的关系复杂，根据玄海燕等的研究，浙江区域年降水量随海拔高度的升高而增多 [<xref ref-type="bibr" rid="hanspub.31420-ref15">15</xref>] ，而卢爱刚等人则指出，降水稳定性与海拔呈负相关，即海拔越低，降水稳定性越差 [<xref ref-type="bibr" rid="hanspub.31420-ref16">16</xref>] 。在研究海拔与降水关系时，须考虑许多相关的影响要素，诸如：水汽来源、水汽凝结高度 [<xref ref-type="bibr" rid="hanspub.31420-ref16">16</xref>] 和地形坡度等的影响 [<xref ref-type="bibr" rid="hanspub.31420-ref17">17</xref>] (山脉迎风坡、入山过渡地带和河谷多出现暴雨极值 [<xref ref-type="bibr" rid="hanspub.31420-ref18">18</xref>] )，这使得实际研究时，难以将每个测站的情况进行均一化处理，得到绝对规律。故本文的海拔分级仅作为分析降水空间分布的参考，海拔与降水的单独讨论不作为本文重点。
+        </p>
+        <p>首先由图4(a)得，PRCPTOT湿日总降水量在浙江呈西南向东北递减。CDD连续干日数的空间分布并不具有一致的规律性变化。CWD连续湿日数也是从西南向东北递减的趋势，浙江省超过一半区域CWD在8~9天的大值量级，相比起CDD来讲，CWD在日数上明显变短仅在个位量级，且最值的跨度小。</p>
+        <p>
+          在图4(d)中R10 mm中雨日数，与PRCPTOT和CWD类似，自西南向东北递减，最小值区几乎不可见。R20 mm大雨日数也是由西南向东北递减，但是约3/4的区域大雨日数都在中间量级。R50 mm暴雨日数大致也符合向东北递减的趋势，最值差不大。据汪卫平2017年的研究，浙江的中雨日数、大雨日数和暴雨日数都处在全国的高值中 [<xref ref-type="bibr" rid="hanspub.31420-ref11">11</xref>] 。R95强降水量的分布，其大值集中在东南沿海以及南部，小值分布在浙江省中部及东北部部分地区。而R99极端强降水量的大值仍然主要分布在东南沿海，相对小值相比R95范围扩大，浙北和部分中部地区都是R99相对小值覆盖的区域。
+        </p>
+        <p>SDII降水强度不存在规律性，均值在12.4 mm/d。Rx1day1日最大降水量，总体呈从东南沿海向西北递减，但相对小的量级占据了超3/4区域。Rx5day5日最大降水量，规律性不明显，均值在170.2 mm。</p>
+        <p>总的来看，规律性分布包含两种，第一种含PRCPTOT、CWD、R10 mm、R20 mm和R50 mm在内，都符合从西南到东北递减的分布；第二种含R95、R99和Rx1day，呈自东南沿海向西北递减。CDD、SDII以及Rx5day有单独的空间变化规律。</p>
+        <p>图4. 浙江地区1971~2016年极端降水指数多年平均空间及海拔分布特征</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 变化趋势的海拔与空间分布</title>
+        <p>图5为各指数空间插值后变化倾率，白色三角形为显著性标注。PRCPTOT湿日总降水量均上升，其中鄞州还通过了显著性检验，且倾率最大。CDD连续干日数在所有的测站都为下降，由北至南的下降倾率递减，共2站通过显著性检验。CWD连续湿日数，在少数站点附近下降，除此之外CWD都在增长，但无通过显著性检验的站点。</p>
+        <p>图5. 浙江地区1971~2016年极端降水指数变化趋势的空间及海拔分布特征</p>
+        <p>R10 mm中雨日数的情况，与CWD类似，无通过显著性检验的测站，除少数地区下降外，其余都为上升，且自北向南上升倾率变大，浙南地区为上升倾率大值区。R20 mm大雨日数除上虞附近是微小的下降，绝大部分站点都是上升的。在R50 mm暴雨日数图5(f)中，仅有湖州、定海附近下降，金华站附近多年趋势为0，7个站点通过显著性检验。R95强降水量的多年变化趋势都是上升，通过显著性检验的站点共9个，升率最大的三站都通过了显著性检验，最值差较大。R99极端强降水量除衢州站附近微小下降，其余都是上升，通过显著性的测站相比R95减少。</p>
+        <p>SDII降水强度都在升高，最值差很小，13站通过了显著性检验。Rx1day1日最大降水量，下降的区域为玉环附近，其余都为上升，最大升率鄞州仍通过了显著性检验。Rx5day5日最大降水量均上升，相比Rx1day，通过显著性检验的站点稍多，上虞倾率最大且显著。</p>
+        <p>总体而言，从PRCPTOT和SDII来看，越往南越大。当CWD增加不显著，甚至有减少时，这得益于南方强的SDII上升倾率。第二类指数中的R10 mm、R20 mm，西南、南部的上升倾率也具有优势，但R50 mm的变化分布并不符合。R95无论是在倾率大小、大值覆盖、还是通过显著性的测站各方面都强于R99，这符合之前的讨论结果，导致R95整体平均增长更显著。第三类指数中的Rx1day和Rx5day，变化趋势的分布相似，但Rx5day的倾率大值覆盖区更大，显著增长站点稍多。</p>
+        <p>值得注意的是，除CWD与R10 mm无通过显著性检验的站点外，其余各指数中倾率最大的站点，往往都通过了显著性检验，说明这些区域在未来的变化中，会向更加极端发展，应在雨季注意这些区域的洪涝风险防范。在关注单个站点的层面上，鄞州，隶属宁波辖区，是通过显著性检验最多的站点，共有8个指数的变化通过；其次是丽水市辖区的云和站，共6个指数倾率通过检验。</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>5. 指数检验与影响因子</title>
+      <sec id="s7_1">
+        <title>5.1. 湿日总降水量与极端降水指数的关系</title>
+        <p>由表4可得，湿日总降水量PRCPTOT与连续干日数CDD呈负相关，与其余指数呈正相关。除相关系数小且未通过显著性检验的1日最大降水量Rx1day，以及仅通过α = 0.05的显著性检验的5日最大降水量Rx5day外，其余极端降水指数相关系数均通过了置信区间为99%的显著性检验，最小相关系数为0.43，最大相关系数高达0.95。说明本文指数的选取比较合理，具有一定的指示作用。其中中雨日数、大雨日数、暴雨日数和强降水量的相关性最大，对湿日总降水量增长贡献最多。这与正常降水配置下降水强度的最高相关性有出入，说明浙江省的极端降水研究十分有意义。</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> The correlation coefficient of PRCPTOT with extreme precipitation indices in Zhejiang from 1971 - 201</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >指数</th>
+                  <th align="center" valign="middle" >CDD</th>
+                  <th align="center" valign="middle" >CWD</th>
+                  <th align="center" valign="middle" >R10mm</th>
+                  <th align="center" valign="middle" >R20mm</th>
+                  <th align="center" valign="middle" >R50mm</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >PRCPTOT</td>
+                <td align="center" valign="middle" >−0.26</td>
+                <td align="center" valign="middle" >
+                  0.48<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.95<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.95<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.76<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >指数</td>
+                <td align="center" valign="middle" >R95</td>
+                <td align="center" valign="middle" >R99</td>
+                <td align="center" valign="middle" >SDII</td>
+                <td align="center" valign="middle" >Rx1day</td>
+                <td align="center" valign="middle" >Rx5day</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >PRCPTOT</td>
+                <td align="center" valign="middle" >
+                  0.77<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.43<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.67<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >0.16</td>
+                <td align="center" valign="middle" >
+                  0.3<sup>*</sup>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表4. 浙江地区1971~2016年湿日总降水量与极端降水指数的相关系数</p>
+        <p>
+          注：相关系数右上，<sup>**</sup>代表通过α = 0.01的显著性检验；<sup>*</sup>代表通过α = 0.05的显著性检验。
+        </p>
+      </sec>
+      <sec id="s7_2">
+        <title>5.2. 极端降水指数与纬度、经度和海拔之间的关系</title>
+        <p>通过表5可得浙江省极端降水指数与纬度、经度和海拔的关系，其中纬度相关性最好。具体来看，所有指数与纬度的相关系数都为负值，多数通过了显著性检验，其中除R20 mm大雨日数和Rx1day1日最大降水量的显著水平偏低，剩下的都通过了α = 0.01的显著检验，且相关系数绝对值都超过了0.5，其中最高相关性的是CWD连续湿日数，表明随着纬度的变大，即从南至北的方向，CWD变小显著。剩下的3个指数中，CDD连续干日数相关性最低。</p>
+        <p>经度和海拔与各指数的相关性不如纬度。经度的相关系数有正有负，CDD是正相关性最小的，而Rx1day是其中最大的。负相关性最大的R10 mm中雨日数显著水平高，即越往东，中雨日数越少。海拔与各指数的相关性并不乐观，这与前面讨论其复杂性有关。各指数既无通过显著性检验的，相关系数又小。</p>
+        <table-wrap id="table5" >
+          <label>
+            <xref ref-type="table" rid="table5">Table 5</xref>
+          </label>
+          <caption>
+            <title> The correlation coefficient of extreme precipitation indices with latitude, longitude and altitude in Zhejiang from 1971 - 201</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  colspan="2"  >指数</th>
+                  <th align="center" valign="middle"  colspan="2"  >PRCPTOT</th>
+                  <th align="center" valign="middle"  colspan="2"  >CDD</th>
+                  <th align="center" valign="middle"  colspan="2"  >CWD</th>
+                  <th align="center" valign="middle"  colspan="2"  >R10 mm</th>
+                  <th align="center" valign="middle"  colspan="2"  >R20 mm</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >纬度</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.56<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >−0.01</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.72<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >−0.36</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.46<sup>*</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >经度</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.57<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >0.05</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.57<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.70<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.65<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >海拔</td>
+                <td align="center" valign="middle"  colspan="2"  >0.10</td>
+                <td align="center" valign="middle"  colspan="2"  >0.20</td>
+                <td align="center" valign="middle"  colspan="2"  >0.28</td>
+                <td align="center" valign="middle"  colspan="2"  >0.001</td>
+                <td align="center" valign="middle"  colspan="2"  >0.11</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >指数</td>
+                <td align="center" valign="middle"  colspan="2"  >R50 mm</td>
+                <td align="center" valign="middle"  colspan="2"  >R95</td>
+                <td align="center" valign="middle"  colspan="2"  >R99</td>
+                <td align="center" valign="middle"  colspan="2"  >SDII</td>
+                <td align="center" valign="middle"  colspan="2"  >Rx1day</td>
+                <td align="center" valign="middle" >Rx5day</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >纬度</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.60<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.62<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.60<sup>**</sup>
+                </td>
+                <td align="center" valign="middle"  colspan="2"  >−0.31</td>
+                <td align="center" valign="middle"  colspan="2"  >
+                  −0.43<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.56<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >经度</td>
+                <td align="center" valign="middle"  colspan="2"  >−0.38</td>
+                <td align="center" valign="middle"  colspan="2"  >−0.08</td>
+                <td align="center" valign="middle"  colspan="2"  >0.15</td>
+                <td align="center" valign="middle"  colspan="2"  >−0.40</td>
+                <td align="center" valign="middle"  colspan="2"  >0.41</td>
+                <td align="center" valign="middle" >−0.06</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >海拔</td>
+                <td align="center" valign="middle"  colspan="2"  >0.15</td>
+                <td align="center" valign="middle"  colspan="2"  >0.10</td>
+                <td align="center" valign="middle"  colspan="2"  >0.17</td>
+                <td align="center" valign="middle"  colspan="2"  >−0.003</td>
+                <td align="center" valign="middle"  colspan="2"  >0.07</td>
+                <td align="center" valign="middle" >0.13</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表5. 浙江地区1971~2016年极端降水指数与纬度、经度和海拔的相关系数</p>
+        <p>
+          注：相关系数右上，<sup>**</sup>代表通过α = 0.01的显著性检验；<sup>*</sup>代表通过α = 0.05的显著性检验。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s8">
+      <title>6. 讨论与总结</title>
+      <p>结合以往的研究结果，讨论如下：相同点在于，浙江极端降水量和日数均是增加；有较为显著的南北差异，纬度性较强；极端降水高值的代表性指数为R99、R95，高值分布在东南沿海；极端降水平均强度虽规律性分布不强，但仍可看出由南向东北的减幅。差异在于：极端降水高值升幅最大在东北一带，而不是在东南。</p>
+      <p>本文选用了国家气象数据中心提供的1971~2016年浙江省22个测站的逐日降水数据，选取了11个极端降水指数。通过数据处理，可视化绘制，以及后续检验等过程，得到如下的结论：</p>
+      <p>1) 在区域平均时间序列分析中，浙江降水往降水量更大、持续时间更长发展，浙江趋于向更加湿润发展。</p>
+      <p>2) 突变检验中，仅湿日总降水量存在突变年份，1977年。连续干日数没有显著下降，除此以外，其余湿指数波动上升。</p>
+      <p>3) 多年平均的空间分布显示，符合两规律：一是从西南到东北递减的分布；二是自东南沿海向西北递减。这与纬度因素，以及东部临海有关。</p>
+      <p>4) 空间降水指数变化趋势分布中，干指数普遍下降，湿指数主要上升。倾率越大的测站，越是变化得显著，降水十分集中。应在雨季注意这些区域的洪涝风险防范。</p>
+      <p>5) 中雨日数、大雨日数、暴雨日数和强降水量的贡献率最大。极端降水指数值与纬度的相关性最好。</p>
+      <p>本文在进一步完善相关因素的分析上仍有不足。本文所作的年际统计性分析，在探究季节性变化、极端降水增多的机理方面未作详细讨论。希望今后在相关研究中能逐一落实。欢迎指正！</p>
+    </sec>
+    <sec id="s9">
+      <title>文章引用</title>
+      <p>尹扬娜. 浙江省1971~2016年极端降水指数时空变化特征Spacial-Temporal Variation of Extreme Precipitation Indices in Zhejiang Province from 1971 to 2016[J]. 自然科学, 2019, 07(04): 294-306. https://doi.org/10.12677/OJNS.2019.74040</p>
+    </sec>
+    <sec id="s10">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.31420-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">IPCC (2013) Climate Change 2013: The Physical Science Basis. Cambridge University Press, Cambridge and New York.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Changnon, S.A., Roger, A., Pielk Jr., et al. (2000) Human Factors Explain the Increased Losses from Weather and Climate Extremes. Bulletin of the American Meteorological Society, 81, 437-442.
+          &lt;br&gt;https://doi.org/10.1175/1520-0477(2000)081&lt;0437:HFETIL&gt;2.3.CO;2
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Alexander, L.V., Zhang, X., Peterson, T.C., et al. (2006) Global Observed Changes in Daily Climate Extreme of Temperature and Precipitation. Journal of Geophysical Research, 111, 1-22. &lt;br&gt;https://doi.org/10.1029/2005JD006290</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Easterling, D.R., Meehl, G.A., Parmesan, C., et al. (2000) Climate Extremes: Observations, Modeling, and Impacts. Science, 289, 2068-2074. &lt;br&gt;https://doi.org/10.1126/science.289.5487.2068</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Kiktev, D., Sexton, D.M.H., Alexander, L., et al. (2003) Comparison of Modeled and Observed Trends in Indicies of Daily Climate Extremes. Journal of Climate, 16, 3560-3570.
+          &lt;br&gt;https://doi.org/10.1175/1520-0442(2003)016&lt;3560:COMAOT&gt;2.0.CO;2
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王晓. “苏迪罗”台风极端降水的数值模拟及初始场不确定性的影响研究[D]: [硕士学位论文]. 北京: 中国气象科学研究院.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">刘华. 近50年中国降水和温度的统计分析和海洋对其影响初步研究[D]: [硕士学位论文]. 青岛: 中国海洋大学, 2009.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">任国玉, 封国林, 严中伟. 中国极端气候变化观测研究回顾与展望[J]. 气候与环境研究, 2010, 15(4): 337-353.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">蔡敏, 黄艳, 吴惠娟, 等. 浙江省极端降水事件分布及其概率特征[J]. 浙江气象, 2013, 34(2): 10-15.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">丁楠, 沙晓军, 高颖会, 等. 1961-2010年浙江省极端降水特征分析[J]. 中国农村水利水电, 2017(2): 104-107.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">汪卫平, 杨修群, 张祖强, 等. 中国雨日数的气候特征及趋势变化[J]. 气象科学, 2017, 37(3): 317-328.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张文, 寿绍文, 杨金虎. 长江中下游地区汛期极端降水量的异常特征分析[J]. 气象, 2007, 33(3): 61-67.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">赵国永, 韩艳, 刘明华, 等. 1961-2013年河南省极端降水事件时空变化特征[J]. 水土保持研究, 2018, 25(6): 119-124.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">魏凤英. 现代气候统计诊断与预测技术(第二版) [M]. 北京: 气象出版社, 2007: 63-65.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">玄海燕, 罗双华. 我国区域降水量与海拔高度关系的分析[C]//中国现场统计研究会. 中国现场统计研究会学术年会. 兰州: 兰州理工大学理学院, 2007: 110-113.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">卢爱刚, 康世昌, 庞德谦, 等. 中国降水量区域变化稳定性研究[J]. 生态环境, 2008, 17(6): 2433-2435.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref17">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">傅抱璞. 地形和海拔高度对降水的影响[J]. 地理学报, 1992(4): 302-314.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31420-ref18">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">朱乾根, 林锦瑞, 寿绍文, 唐东昇. 天气学原理和方法(第四版) [M]. 北京: 气象出版社, 2000: 344-345.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

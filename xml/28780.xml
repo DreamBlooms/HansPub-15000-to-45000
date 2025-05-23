@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">BR</journal-id>
+      <journal-title-group>
+        <journal-title>Botanical Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2168-5665</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/BR.2019.82017</article-id>
+      <article-id pub-id-type="publisher-id">BR-28780</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>BR20190200000_99788829.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>生命科学</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          2种鼠尾草对CdCl
+          <sub>2</sub>胁迫的耐受性比较及生理机制的研究
+          Study on Tolerance Comparison of Two Salvia to CdCl
+          <sub>2</sub> Stress and Its Physiological Mechanism
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>冯</surname>
+            <given-names>时</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>魏</surname>
+            <given-names>宇昆</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>许</surname>
+            <given-names>华</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>中国科学院上海辰山植物科学研究中心/上海辰山植物园，上海</addr-line>
+      </aff>
+      <aff id="aff3">
+        <addr-line>北京师范大学珠海分校工程技术学院，广东 珠海</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>02</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>08</volume>
+      <issue>02</issue>
+      <fpage>126</fpage>
+      <lpage>136</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          <div>
+            为了研究2种鼠尾草对CdCl
+            <sub>2</sub>胁迫的耐受性差异并分析这种差异的生理机制，采用水培的方式，研究不同浓度CdCl
+            <sub>2</sub>(0、60、100、140、180 mg∙L
+            <sup>−1</sup>)处理对美丽鼠尾草(Salvia meiliensis)、贵州鼠尾草(Salvia. Cavaleriei)生长情况、叶片抗氧化酶活性，根部质膜H
+            <sup>+</sup>-ATP酶和质膜Ca
+            <sup>2+</sup>-ATP酶活性以及氮(N)、磷(P)含量的影响。结果显示：1) 贵州鼠尾草地上部分、地下部分以及植株的干重在CdCl
+            <sub>2</sub>浓度为140 mg∙L
+            <sup>−1</sup>时低于对照，而美丽鼠尾草地上部分、地下部分以及植株的干重在CdCl
+            <sub>2</sub>浓度为100 mg∙L
+            <sup>−1</sup>时就低于对照；2) 随着CdCl
+            <sub>2</sub>浓度的增加，贵州鼠尾草叶片的过氧化物酶(POD)和过氧化氢酶(CAT)活性受到的促进作用逐渐增强，而美丽鼠尾草POD和CAT活性所受的促进作用分别在CdCl
+            <sub>2</sub>浓度为100、180 mg∙L
+            <sup>−1</sup>时开始减弱；3) 2种鼠尾草Ca
+            <sup>2+</sup>-ATP酶活性均在CdCl
+            <sub>2</sub>浓度为140 mg∙L
+            <sup>−1</sup>时受到抑制，但是贵州鼠尾草质膜Ca
+            <sup>2+</sup>-ATP酶活性受抑制程度小于美丽鼠尾草，贵州鼠尾草质膜H
+            <sup>+</sup>-ATP酶活性在CdCl
+            <sub>2</sub>浓度为180 mg∙L
+            <sup>−1</sup>时受到抑制，而美丽鼠尾草质膜H
+            <sup>+</sup>-ATP酶活性在CdCl
+            <sub>2</sub>浓度为100 mg∙L
+            <sup>−1</sup>时就受到抑制；4) 贵州鼠尾草N、P含量在CdCl
+            <sub>2</sub>的浓度为180 mg∙L
+            <sup>−1</sup>时低于对照，而美丽鼠尾草N、P含量在CdCl
+            <sub>2</sub>的浓度为140 mg∙L
+            <sup>−1</sup>时就低于对照。研究表明，贵州鼠尾草POD和CAT这2种抗氧化酶对CdCl
+            <sub>2</sub>胁迫的耐受性高，使其质膜过氧化程度低于美丽鼠尾草，同时贵州鼠尾草根部质膜Ca
+            <sup>2+</sup>-ATP酶和H
+            <sup>+</sup>-ATP酶活性对CdCl
+            <sub>2</sub>胁迫的耐受性强，使其N、P吸收受抑制程度低于美丽鼠尾草；是贵州鼠尾草对CdCl
+            <sub>2</sub>胁迫的耐受性高于美丽鼠尾草的原因。
+            Through the water cultivation, effects of treatments with different concentrations of CdCl
+            <sub>2</sub>(0, 60, 100, 140 and 180 mg∙L
+            <sup>−1</sup>) on growth, antioxidant enzyme activities of leaves, activities of H
+            <sup>+</sup>-ATPase and Ca
+            <sup>2+</sup>-ATPase in the plasma membrane of root, as well as N and P contents of Salvia meiliensis and Salvia cavaleriei were studied in order to compare the tolerance difference between two Salvia to the stress of CaCl
+            <sub>2</sub>and analyze the physiological mechanism. The result showed that: 1) When the concentration of CdCl
+            <sub>2 </sub>was 140 mg∙L
+            <sup>−1</sup>, dry weights of the over ground part, underground part and the plant of S. cavaleriei are lower than those in the control; 2) With the increase of CdCl
+            <sub>2</sub> concentration, the accelerating effects on activities of CAT and POD in S. cavaleriei had been gradually enhanced, but the accelerating effects on activities of POD and CAT in S. meiliensis had been weakened respectively when the concentration of CdCl
+            <sub>2</sub> was 100 and 180 mg∙L
+            <sup>−1</sup>; 3) The activity of Ca
+            <sup>2+</sup>-ATPase both in two kinds of salvia was inhibited when the concentration of CdCl
+            <sub>2</sub> was 140 mg∙L
+            <sup>−1</sup>. But the degree of inhibition on the activity of Ca
+            <sup>2+</sup>-ATPase in S. cavaleriei was less than that in S. meiliensis. The activity of H
+            <sup>+</sup>-ATPase in the plasma membrane of S. cavaleriei was inhibited when the concentration of CdCl
+            <sub>2</sub> was 180 mg∙L
+            <sup>−1</sup>. However, the activity of H
+            <sup>+</sup>-ATPase in the plasma membrane of S. meiliensis was inhibited just when the concentration of CdCl
+            <sub>2</sub> was 100 mg∙L
+            <sup>−1</sup>; 4) N and P contents of S. cavaleriei had lower than those in the control when the concentration of CdCl
+            <sub>2 </sub>was 180 mg∙L−1. But N and P contents of S. meiliensis were lower than those in the control just when the concentration of CdCl
+            <sub>2</sub> is 140 mg∙L
+            <sup>−1</sup>. This research shows that the tolerance levels of POD and CAT, these two kinds of antioxidase, in S. cavaleriei to the stress of CdCl
+            <sub>2</sub> were very high so that the peroxidation degree of its plasma membrane is lower than that of S. meiliensis. Besides, the tolerance of activities of Ca
+            <sup>2+</sup>-ATPase and H
+            <sup>+</sup>-ATPase in the root plasma membrane of S. cavaleriei to the stress of CdCl
+            <sub>2</sub> is very strong so that its degree of inhibition on N and P absorption is lower than that on S. meiliensis. It’s also the reason why the tolerance of S. cavaleriei to the stress of CdCl
+            <sub>2</sub> is higher than that of S. meiliensis.
+
+ </div>
+          </p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          CdCl<sub>2</sub>胁迫，鼠尾草，氮含量，磷含量，抗氧化酶，质膜Ca<sup>2+</sup>-ATP酶，质膜H+-ATP酶, CdCl<sub>2</sub> Stress
+        </kwd>
+        <kwd> Salvia</kwd>
+        <kwd> N content</kwd>
+        <kwd> P Content</kwd>
+        <kwd> Antioxidase</kwd>
+        <kwd>
+          Plasma Membrane Ca<sup>2+</sup>-ATPase
+        </kwd>
+        <kwd>
+          Plasma Membrane H<sup>+</sup>-ATPase
+        </kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        2种鼠尾草对CdCl<sub>2</sub>胁迫的耐受性比较 及生理机制的研究<sup> </sup>
+      </title>
+      <p>
+        冯时<sup>1</sup>，魏宇昆<sup>1</sup>，许华<sup>2*</sup>
+      </p>
+      <p>
+        <sup>1</sup>中国科学院上海辰山植物科学研究中心/上海辰山植物园，上海
+      </p>
+      <p>
+        <sup>2</sup>北京师范大学珠海分校工程技术学院，广东 珠海
+      </p>
+      <disp-formula id="hanspub.28780-formula14">
+        <graphic xlink:href="//html.hanspub.org/file/3-2360417x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年1月15日；录用日期：2019年1月25日；发布日期：2019年2月2日</p>
+      <disp-formula id="hanspub.28780-formula15">
+        <graphic xlink:href="//html.hanspub.org/file/3-2360417x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>
+        为了研究2种鼠尾草对CdCl<sub>2</sub>胁迫的耐受性差异并分析这种差异的生理机制，采用水培的方式，研究不同浓度CdCl<sub>2</sub> (0、60、100、140、180 mg∙L<sup>−1</sup>)处理对美丽鼠尾草(Salvia meiliensis)、贵州鼠尾草(Salvia. Cavaleriei)生长情况、叶片抗氧化酶活性，根部质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶活性以及氮(N)、磷(P)含量的影响。结果显示：1) 贵州鼠尾草地上部分、地下部分以及植株的干重在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时低于对照，而美丽鼠尾草地上部分、地下部分以及植株的干重在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时就低于对照；2) 随着CdCl<sub>2</sub>浓度的增加，贵州鼠尾草叶片的过氧化物酶(POD)和过氧化氢酶(CAT)活性受到的促进作用逐渐增强，而美丽鼠尾草POD和CAT活性所受的促进作用分别在CdCl<sub>2</sub>浓度为100、180 mg∙L<sup>−1</sup>时开始减弱；3) 2种鼠尾草Ca<sup>2+</sup>-ATP酶活性均在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时受到抑制，但是贵州鼠尾草质膜Ca<sup>2+</sup>-ATP酶活性受抑制程度小于美丽鼠尾草，贵州鼠尾草质膜H<sup>+</sup>-ATP酶活性在CdCl<sub>2</sub>浓度为180 mg∙L<sup>−1</sup>时受到抑制，而美丽鼠尾草质膜H<sup>+</sup>-ATP酶活性在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时就受到抑制；4) 贵州鼠尾草N、P含量在CdCl<sub>2</sub>的浓度为180 mg∙L<sup>−1</sup>时低于对照，而美丽鼠尾草N、P含量在CdCl<sub>2</sub>的浓度为140 mg∙L<sup>−1</sup>时就低于对照。研究表明，贵州鼠尾草POD和CAT这2种抗氧化酶对CdCl<sub>2</sub>胁迫的耐受性高，使其质膜过氧化程度低于美丽鼠尾草，同时贵州鼠尾草根部质膜Ca<sup>2+</sup>-ATP酶和H<sup>+</sup>-ATP酶活性对CdCl<sub>2</sub>胁迫的耐受性强，使其N、P吸收受抑制程度低于美丽鼠尾草；是贵州鼠尾草对CdCl<sub>2</sub>胁迫的耐受性高于美丽鼠尾草的原因。
+      </p>
+      <p>
+        关键词 :CdCl<sub>2</sub>胁迫，鼠尾草，氮含量，磷含量，抗氧化酶，质膜Ca<sup>2+</sup>-ATP酶，质膜H<sup>+</sup>-ATP酶
+      </p>
+      <disp-formula id="hanspub.28780-formula16">
+        <graphic xlink:href="//html.hanspub.org/file/3-2360417x7_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/3-2360417x8_hanspub.png" />
+        <img src="//html.hanspub.org/file/3-2360417x9_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        当今社会工农业生产发展迅速，工业“三废”排放量日益增大，农业生产中农药化肥的使用量逐步提高，使土壤中镉(Cadmium, Cd)含量不断上升，Cd污染已经成为最严重的环境污染之一 [<xref ref-type="bibr" rid="hanspub.28780-ref1">1</xref>] 。Cd污染能引起植物的生理代谢紊乱，抑制其正常生长发育，从而降低产量与质量 [<xref ref-type="bibr" rid="hanspub.28780-ref2">2</xref>] 。质膜作为植物与周围环境的屏障，是植物体最早受到重金属影响而引起胁迫反应的部位 [<xref ref-type="bibr" rid="hanspub.28780-ref3">3</xref>] 。Cd<sup>2+</sup>能影响植物抗氧化系统的正常工作，诱导质膜过氧化，因此抗氧化酶活性的维持和提高常作为植物耐Cd<sup>2+</sup>胁迫能力的参考 [<xref ref-type="bibr" rid="hanspub.28780-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref6">6</xref>] 。质膜ATP酶是质膜上由ATP驱动的阳离子泵，其群体含有多个与重金属离子跨膜运输有关的酶，在离子运输(质膜H<sup>+</sup>-ATP酶)、信号转导(质膜Ca<sup>2+</sup>-ATP酶)等方面作用显著 [<xref ref-type="bibr" rid="hanspub.28780-ref7">7</xref>] 。多项研究表明，Cd<sup>2+</sup>胁迫会抑制质膜ATP酶的活性，但是植物种类的不同，质膜ATP酶活性受抑制的Cd<sup>2+</sup>浓度也不同 [<xref ref-type="bibr" rid="hanspub.28780-ref8">8</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref9">9</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref10">10</xref>] 。Cd<sup>2+</sup>进入植物体内会对营养元素的吸收造成影响，不同种类植物的Cd<sup>2+</sup>耐受程度不同，其营养元素的吸收能力受Cd<sup>2+</sup>的影响也存在差异 [<xref ref-type="bibr" rid="hanspub.28780-ref11">11</xref>] 。营养元素的吸收发生变化可以影响到植物的生长情况，这可以为研究植物对Cd<sup>2+</sup>的耐受能力提供参考。
+      </p>
+      <p>
+        美丽鼠尾草(Salvia meiliensis)和贵州鼠尾草(Salvia. cavaleriei)同属于唇形科(Labiatae)鼠尾草属(Salvia)荔枝草亚属(Subg. Sclarea)丹参组(Sect. Drymosphace)中的植物 [<xref ref-type="bibr" rid="hanspub.28780-ref12">12</xref>] 。近年来鼠尾草属植物因其适应性强，花期长而集中，被用于道路旁边、河湖岸边、园林等的绿化装饰 [<xref ref-type="bibr" rid="hanspub.28780-ref12">12</xref>] 。美丽鼠尾草和贵州鼠尾草不但有很高的药用价值 [<xref ref-type="bibr" rid="hanspub.28780-ref12">12</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref13">13</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref14">14</xref>] ，而且花期较长、生态适应能力较强，也可以被引种、栽培和驯化作为观赏性植物。目前，关于美丽鼠尾草和贵州鼠尾草对CdCl<sub>2</sub>胁迫的耐受机制的研究尚未见报道。因此，本试验以这2种鼠尾草为材料，采用水培方法，研究不同浓度的CdCl<sub>2</sub>对这2种鼠尾草幼苗的生长、抗氧化酶活性、MDA含量、根部质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶活性以及N、P含量的影响，并分析了2种鼠尾草对CdCl<sub>2</sub>耐受性差异的生理机制，以期为2种鼠尾草的引种、栽培等提供一定的理论基础和参考依据。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 材料与方法</title>
+      <sec id="s4_1">
+        <title>2.1. 试验材料</title>
+        <p>美丽鼠尾草和贵州鼠尾草分别引种自安徽省岳西县郊外和湖南张家界市，供试材料均为一年生的实生苗，栽植于北京师范大学珠海分校苗圃。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 试验方法</title>
+        <p>
+          选择选择生长良好，长势基本一致的美丽鼠尾草和贵州鼠尾草各15株，置于水培缸中，用霍格兰氏(Hoagland)营养液进行培养。待植株恢复生长后，设5个CdCl<sub>2</sub>处理浓度0、60、100、140、180 mg∙L<sup>−1</sup>，每个处理3次重复，进行一次性CdCl<sub>2</sub>处理20 min。处理后随机排列于温室进行培养，7 d后收获不同处理水平下的植株，测量生长指标，取2种鼠尾草植株第7片叶立即测定MDA含量，取第3片叶与部分根密封于封口袋后立即保存于−70℃冰箱中，叶片用于测定抗氧化酶活性、根用于测定质膜H<sup>+</sup>-ATP酶活性、质膜Ca<sup>2+</sup>-ATP酶活性，剩下的根烘干后用于测定N、P含量。
+        </p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 测定方法</title>
+        <sec id="s4_3_1">
+          <title>2.3.1. 生长指标的测定</title>
+          <p>将植株分为地上部(叶片、径干)与地下部(根系)，用去离子水清洗，吸水纸吸干水分后，在103℃烘箱内杀青30 min，再在75℃下烘干至恒重，计算单株鼠尾草地上和地下部生物量。</p>
+        </sec>
+        <sec id="s4_3_2">
+          <title>2.3.2. MDA含量的测定</title>
+          <p>
+            取叶片1.0 g，加入少量石英砂和10%三氯乙酸2 ml，研磨至匀浆，再加8 ml 10%三氯乙酸进一步研磨，匀浆以4000 r/min离心10 min，其上清液为MDA提取液。MDA含量测定采用Heath和Packer的方法 [<xref ref-type="bibr" rid="hanspub.28780-ref15">15</xref>] 。提取液与硫代巴比妥酸(TBA)在酸性条件下加热可发生显色反应，反应溶液在532 nm、600 nm和450 nm波长处测定吸光度值，公式：
+          </p>
+          <p>
+            C MDA = 64.5 ( A 532 − A 600 ) − 0.56 A 450 <sub> </sub>
+          </p>
+          <p>MDA 含 量 = [ C DMA &#215; 提 取 液 总 量 ( ml ) ] / 植 物 组 织 鲜 重 (g)</p>
+          <p>
+            可算出中MDA含量(μmol∙g<sup>−1</sup>FW)
+          </p>
+        </sec>
+        <sec id="s4_3_3">
+          <title>2.3.3. 抗氧化酶活性的测定</title>
+          <p>
+            取叶片1.0 g置与预冷的研钵中，加入适量预冷的pH7.0磷酸缓冲液和少量石英砂冰浴研磨成匀浆后，转入10 ml容量瓶中，并用缓冲液冲洗研钵数次，合并冲洗液，并定容到10 ml。取提取液5 ml于离心管中，经4℃冷冻离心机15,000 &#215;g下离心15 min，上清液为抗氧化酶粗提液，4℃下保存备用。CAT活性采用Aebi的紫外吸收法 [<xref ref-type="bibr" rid="hanspub.28780-ref16">16</xref>] 测定，以每分钟内A<sub>240</sub>降低0.1的酶量为1个酶活单位(u)来表示。POD活性采用Polle的愈创木酚法 [<xref ref-type="bibr" rid="hanspub.28780-ref17">17</xref>] 测定，以每分钟内A<sub>470</sub>变化0.01为1个过氧化物酶活性单位(u)表示。
+          </p>
+        </sec>
+        <sec id="s4_3_4">
+          <title>
+            2.3.4. 根部质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP活性测定
+          </title>
+          <p>
+            质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP提取参照Wang等 [<xref ref-type="bibr" rid="hanspub.28780-ref18">18</xref>] 的方法，取0.5 g根部样品加入2倍(m/V)体积预冷的磷酸盐缓冲液(PBS)，冰浴研磨。研磨液经4层纱布过滤，滤液经4℃冷冻离心机13,000 &#215; g离心30 min，取上清液测定ATP酶活性。参照Wang等 [<xref ref-type="bibr" rid="hanspub.28780-ref18">18</xref>] 的方法测定质膜H<sup>+</sup>-ATP酶活性(μg∙mg<sup>−1</sup>∙h<sup>−1</sup>)；参照Ohnish等 [<xref ref-type="bibr" rid="hanspub.28780-ref19">19</xref>] 的方法测定质膜Ca<sup>2+</sup>-ATP酶活性(μg∙mg<sup>−1</sup>∙h<sup>−1</sup>)。
+          </p>
+        </sec>
+        <sec id="s4_3_5">
+          <title>2.3.5. 营养元素N、P的测定</title>
+          <p>
+            将烘干至恒重的根部粉碎至粉末，称取0.5 g于250 ml消煮管，加入0.2 g硫酸铜、6 g硫酸钾及20 mL硫酸用消化炉(上海纤检HYP-320二十孔智能消化炉)在200℃~350℃消煮至澄清，放冷后，移入100 mL容量瓶中定容混匀备用。采用Anantakrishnan等 [<xref ref-type="bibr" rid="hanspub.28780-ref20">20</xref>] 的凯氏定氮法利用定氮仪(上海纤检KDN-103F凯氏定氮仪)测定N含量(mg∙g<sup>−1</sup>)。采用Mar&#237;a等 [<xref ref-type="bibr" rid="hanspub.28780-ref21">21</xref>] 的磷钼蓝比色法测定P含量(mg∙g<sup>−1</sup>)。
+          </p>
+        </sec>
+      </sec>
+      <sec id="s4_4">
+        <title>2.4. 数据分析</title>
+        <p>
+          利用SPSS 22.0统计软件进行One-way ANVOA方差分析，并进行Duncan多重比较；对根部质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶活性与叶片中N、P含量进行Pearson相关性分析。用Microsoft Excel 2013绘制图表。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 结果与分析</title>
+      <sec id="s5_1">
+        <title>
+          3.1. CdCl<sub>2</sub>胁迫对两种鼠尾草生长的影响
+        </title>
+        <p>
+          由图1可知，在60、100 mg∙L<sup>−1</sup> CdCl<sub>2</sub>胁迫下促进了贵州鼠尾草的生长，使其地上部分、地下部分以及
+        </p>
+        <p>
+          图1. 不同浓度CdCl<sub>2</sub>处理对贵州鼠尾草和美丽鼠尾草生长发育影响
+        </p>
+        <p>
+          植株的干重升高，而美丽鼠尾草的生长仅在CdCl<sub>2</sub>浓度为60 mg∙L<sup>−1</sup>时受到促进，在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时生长受到抑制，其地上部分、地下部分以及植株的干重均显著降低。美丽鼠尾草在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时地上部分、地下部分以及植株的干重较对照分别降低35.06%、20.83%、26.40%，贵州鼠尾草3项指标在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时较对照分别降低9.09%、18.18%、13.00%。
+        </p>
+      </sec>
+      <sec id="s5_2">
+        <title>
+          3.2. CdCl<sub>2</sub>胁迫对两种鼠尾草叶片抗氧化酶活性与MDA含量的影响
+        </title>
+        <p>
+          由图2可知，CdCl<sub>2</sub>对2种鼠尾草CAT与POD的活性产生了促进作用。贵州鼠尾草CAT与POD的活性受到的促进作用随着CdCl<sub>2</sub>浓度的升高而增强，而美丽鼠尾草CAT活性受到的促进作用在CdCl<sub>2</sub>浓度为180 mg∙L<sup>−1</sup>时开始减弱，其POD活性受到促进作用在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时开始减弱。2种鼠尾草MDA含量随着CdCl<sub>2</sub>浓度的增加而逐渐上升，在CdCl<sub>2</sub>浓度为60、100、140、180 mg∙L<sup>−1</sup>时美丽鼠尾草MDA含量分别比对照高106.47%、138.81%，236.68%、310.61%，贵州鼠尾草MDA含量分别比对照高77.47%、121.31%、211.23%、245.82%，美丽鼠尾草MDA含量的上升幅度在各CdCl<sub>2</sub>浓度下均高于贵州鼠尾草。
+        </p>
+        <p>
+          图2. CdCl<sub>2</sub>胁迫对美丽鼠尾草和贵州鼠尾草叶片MDA含量以及POD和CAT活性的影响
+        </p>
+      </sec>
+      <sec id="s5_3">
+        <title>
+          3.3. CdCl<sub>2</sub>胁迫对两种鼠尾草根部质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶活性的影响
+        </title>
+        <p>
+          由图3可知，随着CdCl<sub>2</sub>浓度升高，2种鼠尾草根部质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶活性先受到促进后受到抑制。在CdCl<sub>2</sub>浓度为60、100、140 mg∙L<sup>−1</sup>时贵州鼠尾草质膜H<sup>+</sup>-ATP酶活性受到不同程度的促进，而美丽鼠尾草质膜H<sup>+</sup>-ATP酶活性仅在CdCl<sub>2</sub>浓度为60 mg∙L<sup>−1</sup>时受到促进。在CdCl<sub>2</sub>浓度为60、100 mg∙L<sup>−1</sup>时，2种鼠尾草质膜Ca<sup>2+</sup>-ATP酶活性均受到促进，在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时，2种鼠尾草Ca<sup>2+</sup>-ATP酶活性均开始受到抑制，但是美丽鼠尾草质膜Ca<sup>2+</sup>-ATP酶活性所受抑制程度高于贵州鼠尾草。
+        </p>
+        <p>
+          图3. 不同浓度CdCl<sub>2</sub>胁迫对美丽鼠尾草和贵州鼠尾草根部质膜Ca<sup>2+</sup>-ATP酶与H<sup>+</sup>-ATP酶活性的影响
+        </p>
+      </sec>
+      <sec id="s5_4">
+        <title>
+          3.4. CdCl<sub>2</sub>胁迫对两种鼠尾草根部N、P含量的影响
+        </title>
+        <p>
+          由图4可知，随着CdCl<sub>2</sub>浓度的增加，2种鼠尾草N、P的含量均先升高后降低。贵州鼠尾草N含量在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时最大，P含量在CdCl<sub>2</sub>浓度为60 mg∙L<sup>−1</sup>时最大，其N与P的含量在CdCl<sub>2</sub>浓度为180 mg∙L<sup>−1</sup>时才低于对照。美丽鼠尾草N、P的含量在CdCl<sub>2</sub>浓度为60 mg∙L<sup>−1</sup>时最大，在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时就低于对照。在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时，贵州鼠尾草N、P含量分别比对照高
+        </p>
+        <p>
+          图4. 不同浓度CdCl<sub>2</sub>胁迫对美丽鼠尾草和贵州鼠尾草根部N、P含量的影响
+        </p>
+        <p>13.23%、3.28%，美丽鼠尾草N、P含量分别比对照低5.95%、11.60%。</p>
+      </sec>
+      <sec id="s5_5">
+        <title>
+          3.5. 2种鼠尾草根部质膜H<sup>+</sup>-ATP酶活性、Ca<sup>2+</sup>-ATP酶活性、N含量 以及P含量之间的相关性分析
+        </title>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Correlation analysis between plasma membrane H+-ATPase, Ca2+-ATPase activity, N content and P content in two Salvia species (n = 30</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >指标</th>
+                  <th align="center" valign="middle" >氮含量</th>
+                  <th align="center" valign="middle" >磷含量</th>
+                  <th align="center" valign="middle" >
+                    质膜H<sup>+</sup>-ATP酶活性
+                  </th>
+                  <th align="center" valign="middle" >
+                    质膜Ca<sup>2+</sup>-ATP酶活性
+                  </th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >氮含量</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >
+                  0.857<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.783<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.839<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >磷含量</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >
+                  0.679<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.794<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >
+                  质膜H<sup>+</sup>-ATP酶活性
+                </td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >
+                  0.864<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  colspan="2"  >
+                  质膜Ca<sup>2+</sup>-ATP酶活性
+                </td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >1</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+          表1. 2种鼠尾草根部质膜H<sup>+</sup>-ATP酶、Ca<sup>2+</sup>-ATP酶活性、N含量以及P含量之间的相关性分析(n = 30)
+        </p>
+        <p>注：表中“**”表示在0.01水平显著相关。</p>
+        <p>
+          从表1可知，2种鼠尾草根部质膜H<sup>+</sup>-ATP酶活性、Ca<sup>2+</sup>-ATP酶活性活性、N含量以及P含量之间均呈极显著正相关(P &lt; 0.01)。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 讨论与结论</title>
+      <p>
+        MDA含量常被作为植物细胞过氧化水平和受损程度的判断指标 [<xref ref-type="bibr" rid="hanspub.28780-ref22">22</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref23">23</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref24">24</xref>] 。CAT和POD是细胞中重要的抗氧化酶，它们可以将H<sub>2</sub>O<sub>2</sub>转化为H<sub>2</sub>O，从而有效阻止H<sub>2</sub>O<sub>2</sub>的积累，防止质膜过氧化 [<xref ref-type="bibr" rid="hanspub.28780-ref25">25</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref26">26</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref27">27</xref>] 。有研究表明，植物细胞内活性氧的产生速率超过了活性氧的清除速率，会使得植物膜质过氧化程度加重，MDA含量上升 [<xref ref-type="bibr" rid="hanspub.28780-ref28">28</xref>] 。本研究，贵州鼠尾草和美丽鼠尾草MDA含量随着CdCl<sub>2</sub>浓度的增加而持续升高，表明2种鼠尾草细胞内H<sub>2</sub>O<sub>2</sub>的清除速率小于H<sub>2</sub>O<sub>2</sub>的生成速率，导致2种鼠尾草质膜受到伤害程度逐渐加大。随着CdCl<sub>2</sub>浓度增加，贵州鼠尾草POD和CAT活性受到的促进作用逐渐增强，但美丽鼠尾草POD和CAT活性所受的促进作用分别在CdCl<sub>2</sub>浓度为100、180 mg∙L<sup>−1</sup>时开始减弱。表明贵州鼠尾草POD和CAT这2种抗氧化酶对CdCl<sub>2</sub>胁迫的耐受性高，使得贵州鼠尾草质膜过氧化程度低于美丽鼠尾草，MDA含量的上升幅度小于美丽鼠尾草。
+      </p>
+      <p>
+        质膜H<sup>+</sup>-ATP酶是细胞上重要的功能蛋白，它能为物质跨膜转运提供驱动力，带动一系列次级运输体系对各种营养物质、离子的转运 [<xref ref-type="bibr" rid="hanspub.28780-ref29">29</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref30">30</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref31">31</xref>] 。质膜Ca<sup>2+</sup>-ATP酶能对细胞内Ca<sup>2+</sup>平衡起微调作用，Ca<sup>2+</sup>可以通过信号传递影响质膜H<sup>+</sup>-ATP酶活性 [<xref ref-type="bibr" rid="hanspub.28780-ref7">7</xref>] [<xref ref-type="bibr" rid="hanspub.28780-ref10">10</xref>] 。有研究表明，Cd<sup>2+</sup>进入植物细胞会造成Ca<sup>2+</sup>浓度上升，同时使质膜Ca<sup>2+</sup>-ATP酶活性下降，Ca<sup>2+</sup>无法有效泵出细胞，于是通过信号传递降低质膜H<sup>+</sup>-ATP酶mRNA的转录水平，导致质膜H<sup>+</sup>-ATP酶活性降低 [<xref ref-type="bibr" rid="hanspub.28780-ref10">10</xref>] 。本研究的结果证实了上述结论，2种鼠尾草质膜Ca<sup>2+</sup>-ATP酶活性和质膜H<sup>+</sup>-ATP酶活性呈极显著正相关，质膜Ca<sup>2+</sup>-ATP酶活性和质膜H<sup>+</sup>-ATP酶活性与N、P的含量也呈极显著正相关。2种鼠尾草质膜Ca<sup>2+</sup>-ATP酶活性在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时受到抑制，但是贵州鼠尾草Ca<sup>2+</sup>-ATP酶活性受抑制程度小于美丽鼠尾草，这说明贵州鼠尾草质膜Ca<sup>2+</sup>-ATP酶对CdCl<sub>2</sub>胁迫的耐受性强。贵州鼠尾草质膜H<sup>+</sup>-ATP酶活性在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时仍受促进，但美丽鼠尾草质膜H<sup>+</sup>-ATP酶活性在此浓度下已受到抑制，这说明贵州鼠尾草质膜H<sup>+</sup>-ATP酶对CdCl<sub>2</sub>胁迫的耐受性强于美丽鼠尾草，因此表现为贵州鼠尾草N、P含量在CdCl<sub>2</sub>浓度为180 mg∙L<sup>−1</sup>时才低于对照，而美丽鼠尾草N、P含量在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>时就低于对照；在生长上表现为贵州鼠尾草地上部分、地下部分以及植株的干重在CdCl<sub>2</sub>浓度为140 mg∙L<sup>−1</sup>低于对照，美丽鼠尾草地上部分、地下部分以及植株的干重在CdCl<sub>2</sub>浓度为100 mg∙L<sup>−1</sup>时就低于对照。2种鼠尾草根部质膜H<sup>+</sup>-ATP酶活性、质膜Ca<sup>2+</sup>-ATP酶活性、N含量、P含量以及地上部分、地下部分和植株的干重所受抑制时的CdCl<sub>2</sub>浓度并未完全吻合，说明质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶的活性只是影响植物N、P吸收的一部分原因，并且N、P的含量也只是影响植物生长的一部分原因。
+      </p>
+      <p>
+        综上所述，美丽鼠尾草POD和CAT这两种抗氧化酶对CdCl<sub>2</sub>胁迫的耐受性低于贵州鼠尾草，使其质膜过氧化程度高于贵州鼠尾草，这是美丽鼠尾草对CdCl<sub>2</sub>耐受性低于贵州鼠尾草的原因之一；美丽鼠尾草质膜H<sup>+</sup>-ATP酶和质膜Ca<sup>2+</sup>-ATP酶对CdCl<sub>2</sub>胁迫耐受性低于贵州鼠尾草，使其对N、P的吸收更容易受到抑制，这是美丽鼠尾草对CdCl<sub>2</sub>胁迫的耐受性低于贵州鼠尾草的原因之二。本研究初步比较了2种鼠尾草对CdCl<sub>2</sub>胁迫耐受差异，为这2种鼠尾草作为观赏植物进行引种、栽培提供了参考。基于贵州鼠尾草对CdCl<sub>2</sub>胁迫有着较高的耐受性，可以进一步研究其对Cd<sup>2+</sup>的吸收、解毒机理以及相关抗逆性基因的表达，探究其能否作为一种Cd超积累植物，用于对土壤Cd污染的修复。
+      </p>
+    </sec>
+    <sec id="s7">
+      <title>基金项目</title>
+      <p>本研究由1、中国科学院战略生物资源科技支撑体系运行专项(CZBZX-1)；2、上海市绿化和市容局辰山专项课题(G172410, G182409)资助。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>
+        冯 时,魏宇昆,许 华. 2种鼠尾草对CdCl<sub>2</sub>胁迫的耐受性比较及生理机制的研究Study on Tolerance Comparison of Two Salvia to CdCl<sub>2</sub> Stress and Its Physiological Mechanism[J]. 植物学研究, 2019, 08(02): 126-136. https://doi.org/10.12677/BR.2019.82017
+      </p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.28780-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Wagner, G.J. (1992) Accumulation of Cadmium in Crop Plants and Its Consequences to Human Health. Advances in Agronomy, 51, 173-212. &lt;br&gt;https://doi.org/10.1016/S0065-2113(08)60593-3</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Prasad, M.N.V. (1995) Cadmium Toxicity and Tolerance in Vascular Plants. Environmental and Experimental Botany, 35, 525-545. &lt;br&gt;https://doi.org/10.1016/0098-8472(95)00024-0</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Kudo, H., Kudo, K., Ambo, H., et al. (2011) Cadmium Sorption to Plasma Membrane Isolated from Barley Roots Is Impeded by Copper Association onto Membranes. Plant Science An International Journal of Experimental Plant Biology, 180, 300-305. &lt;br&gt;https://doi.org/10.1016/j.plantsci.2010.09.008</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Małgorzata, J.-R., Katarzyna, K. and Marek, B. (2012) Different Effect of Cadmium and Copper on H+-ATPase Activity in Plasma Membrane Vesicles from Cucumissativus Roots. Journal of Experimental Botany, 63, 4133-4142.
+          &lt;br&gt;https://doi.org/10.1093/jxb/ers097
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">何俊瑜, 任艳芳, 王阳阳, 等. 不同耐性水稻幼苗根系对镉胁迫的形态及生理响应[J]. 生态学报, 2011, 31(2): 522-528.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">龚双姣, 马陶武, 姜业芳, 等. 镉胁迫下3种藓类植物抗氧化酶活性变化的比较研究[J]. 西北植物学报, 2008, 28(9): 1765-1771.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Liu, S.L., Yang, R.J., Ma, M.D., Dan, F., Zhao, Y., Jiang, P. and Wang, M.H. (2015) Effects of Exogenous NO on the Growth, Mineral Nutrient Content, Antioxidant System, and ATPase Activities of Trifolium repens L. Plants under Cadmium Stress. Acta Physiologiae Plantarum, 37, e1721. &lt;br&gt;https://doi.org/10.1007/s11738-014-1721-7</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Wang, Q., Liang, X., Dong, Y., et al. (2012) Effects of Exogenous Nitric Oxide on Cadmium Toxicity, Element Contents and Antioxidative System in Perennial Ryegrass. Plant Growth Regulation, 69, 11-20.
+          &lt;br&gt;https://doi.org/10.1007/s10725-012-9742-y
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Xu, L., Dong, Y., Kong, J., et al. (2014) Effects of Root and Foliar Applications of Exogenous NO on Alleviating Cadmium Toxicity in Lettuce Seedlings. Plant Growth Regulation, 72, 39-50.
+          &lt;br&gt;https://doi.org/10.1007/s10725-013-9834-3
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Burzyński, M. and Kolano, E. (2003) In Vivo and In Vitro Effects of Copper and Cadmium on Plasma Membrane H+-ATPase from Cucumber (Cucumis sativus L.) and Maize (Zea mays L.) Roots. Acta Physiologiae Plantarum, 25, 39-45. &lt;br&gt;https://doi.org/10.1007/s11738-003-0034-z</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Kováčik, J., Babula, P., Klejdus, B., et al. (2014) Unexpected Behavior of Some Nitric Oxide Modulators under Cadmium Excess in Plant Tissue. PLoS ONE, 9, e91685-e91685. &lt;br&gt;https://doi.org/10.1371/journal.pone.0091685</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王涛. 川西鼠尾草属植物观赏资源调查与引种及果实和叶片形态学研究[D]: [硕士学位论文]. 成都: 四川农业大学, 2012.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">赵宝林, 刘学医, 刘宏, 钱枫. 安徽药用丹参资源调查研究[J]. 现代中药研究与实践, 2010(5): 31-32.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王和英, 胡德禹, 薛伟, 杨松, 宋宝安. 贵州鼠尾草化学成分的研究[J]. 天然产物研究与开发, 2011, 23(1): 63-65.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Heath, R.L. and Packer, L. (1968) Photoperoxidation in Isolated Chloroplasts: I. Kinetics and Stoichiometry of Fatty Acid Peroxidation. Archives of Biochemistry and Biophysics, 125, 189-198.
+          &lt;br&gt;https://doi.org/10.1016/0003-9861(68)90654-1
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Aebi, H. (1984) Catalase in Vitro. Methods in Enzymology, 105, 121-126.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref17">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Polle, A., Otter, T. and Seifert, F. (1994) Apoplastic Peroxidases and Lignification in Needles of Norway Spruce (Picea abies L.). Plant Physiology, 106, 53-60. &lt;br&gt;https://doi.org/10.1104/pp.106.1.53</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref18">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Wang, Y. and Sze, H. (1985) Similarities and Differences between the Tonoplast-Type and the Mitochondrial H+-ATPases of Oat Roots. Journal of Biological Chemistry, 260, 10434-10443.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref19">
+        <label>19</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Ohnishi, T., Gall, R.S. and Mayer, M.L. (1975) An Improved Assay of Inorganic Phosphate in the Presence of Extralabile Phosphate Compounds: Application to the ATPase Assay in the Presence of Phosphocreatine. Analytical Biochemistry, 69, 261-267. &lt;br&gt;https://doi.org/10.1016/0003-2697(75)90585-0</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref20">
+        <label>20</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Anantakrishnan, S.V. and Pai, K.V.S. (1952) The Kjeldahl Method of Nitrogen Determination. Proceedings of the Indian Academy of Sciences Section A, 36, 299-305. &lt;br&gt;https://doi.org/10.1007/BF03172239</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref21">
+        <label>21</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hurtado, M.D., Carmona, S. and Delgado, A. (2008) Automated Modification of the Molybdenum Blue Colorimetric Method for Phosphorus Determination in Soil Extracts. Communications in Soil Science and Plant Analysis, 39, 2250-2257.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref22">
+        <label>22</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Mishra, S., Srivastava, S., Tripathi, R.D., et al. (2006) Phytochelatin Synthesis and Response of Antioxidants during Cadmium Stress in Bacopa monnieri L. Plant Physiology and Biochemistry, 44, 25-37.
+          &lt;br&gt;https://doi.org/10.1016/j.plaphy.2006.01.007
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref23">
+        <label>23</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Becana, M., Dalton, D.A., Moran, J.F., et al. (2000) Reactive Oxygen Species and Antioxidants in Legume Nodules. Physiologia Plantarum, 109, 372-381. &lt;br&gt;https://doi.org/10.1034/j.1399-3054.2000.100402.x</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref24">
+        <label>24</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Verma, K., Mehta, S.K. and Shekhawat, G.S. (2013) Nitric Oxide (NO) Counteracts Cadmium Induced Cytotoxic Processes Mediated by Reactive Oxygen Species (ROS) in Brassica juncea: Cross-Talk between ROS, NO and Antioxidant Responses. Biology of Metals, 26, 255-269.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref25">
+        <label>25</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Willekens, H.S., Chamnongpol, S., Davey, M., et al. (1997) Catalase Is a Sink for H2O2 and Is Indispensable for Stress Defense in C3 Plants. The EMBO Journal, 16, 4806-4816. &lt;br&gt;https://doi.org/10.1093/emboj/16.16.4806</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref26">
+        <label>26</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Pereira, G.J.G., Molina, S.M.G., Lea, P.J., et al. (2002) Activity of Antioxidant Enzymes in Response to Cadmium in Crotalaria juncea. Plant and Soil, 239, 123-132. &lt;br&gt;https://doi.org/10.1023/A:1014951524286</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref27">
+        <label>27</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hideg, E. (2004) Detection of Free Radicals and Reactive Oxygen Species. Methods in Molecular Biology, 274, 249-260.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref28">
+        <label>28</label>
+        <mixed-citation publication-type="other" xlink:type="simple">费伟, 陈火英, 曹忠, 等. 盐胁迫对番茄幼苗生理特性的影响[J]. 上海交通大学学报: 农业科学版, 2005, 23(1): 5-9.</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref29">
+        <label>29</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Sondergaard, T.E., Schulz, A. and Palmgren, M.G. (2004) Energization of Transport Processes in Plants Roles of the Plasma Membrane H+-ATPase. Plant Physiology, 136, 2475-2482. &lt;br&gt;https://doi.org/10.1104/pp.104.048231</mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref30">
+        <label>30</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Rudashevskaya, E.L., Kirpichnikova, A.A. and Shishova, M.F. (2005) Activity of Plasma Membrane H+-ATPase in Coleoptile Cells during Development of Maize Seedlings. Russian Journal of Plant Physiology, 52, 504-510.
+          &lt;br&gt;https://doi.org/10.1007/s11183-005-0074-x
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.28780-ref31">
+        <label>31</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Perez, C., Michelet, B., Ferrant, V., et al. (1992) Differential Expression within a Three-Gene Subfamily Encoding a Plasma Membrane H(+)-ATPase in Nicotiana plumbaginifolia. Journal of Biological Chemistry, 267, 1204-1211.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

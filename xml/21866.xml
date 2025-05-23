@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">SG</journal-id>
+      <journal-title-group>
+        <journal-title>Smart Grid</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2161-8763</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/SG.2017.74032</article-id>
+      <article-id pub-id-type="publisher-id">SG-21866</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>SG20170400000_85241113.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>工程技术</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          用于电网谐波溯源的谐波功率快速检测方法
+          Fast Detecting Method of Grid Harmonic Power for the Tracing of Harmonic Sources
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>凯</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>同</surname>
+            <given-names>向前</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>强</surname>
+            <given-names>健</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>吴</surname>
+            <given-names>立忞</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <addr-line>西安理工大学自动化与信息工程学院，陕西 西安</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>广西电网责任有限公司钦州供电局，广西 钦州</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>07</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>04</issue>
+      <fpage>286</fpage>
+      <lpage>293</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          电力用户的谐波功率检测是配电网谐波溯源和谐波污染评价的基础。本文从电力用户与电网公共连接点的电压和电流取样入手，分析了谐波功率的定义及其检测计算方法，提出一种基于瞬时功率理论的谐波功率快速检测计算方法。对三相电压和电流在谐波频率下进行d-q坐标变换并提取出d-q轴的直流分量，按照瞬时功率理论可计算得到各次谐波的有功功率和无功功率的幅值及流向，根据功率流向可实现电网谐波溯源。建立了典型应用系统的仿真模型，仿真结果验证了谐波功率快速检测算法的正确可行性。 The harmonic power detection in power grid is the basis of harmonic pollution evaluation and harmonic source tracing. With the sampled voltages and currents on the point of common cou-pling of power users with the grid, the definition and the calculation method of harmonic power was analyzed, and a fast calculation method of harmonic power based on instantaneous power theory was proposed. The d-q coordinate transformation of the three-phase voltages and currents under harmonic frequency was carried out first, and the DC component of the d-q axis was extracted with a low-pass filter, then the amplitude and flow direction of active power and reactive power for each harmonic used for tracing the harmonic source can be calculated according to the instantaneous power theory. A simulation model of a typical application system is established for harmonic power detection, and the simulation results verify the correctness of the harmonic power fast detection algorithm.
+
+  
+ 
+</p>
+      </abstract>
+      <kwd-group>
+        <kwd>瞬时功率理论，电能质量，谐波监测，谐波溯源，谐波功率, Instantaneous Power Theory</kwd>
+        <kwd> Power Quality</kwd>
+        <kwd> Harmonic Monitoring</kwd>
+        <kwd> Harmonic Source Tracing</kwd>
+        <kwd> Harmonic Power</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        用于电网谐波溯源的谐波功率快速检测方法<sup> </sup>
+      </title>
+      <p>
+        王凯<sup>１</sup>，同向前<sup>２</sup>，强健<sup>2</sup>，吴立忞<sup>1</sup>
+      </p>
+      <p>
+        <sup>1</sup>广西电网责任有限公司钦州供电局，广西 钦州
+      </p>
+      <p>
+        <sup>2</sup>西安理工大学自动化与信息工程学院，陕西 西安
+      </p>
+      <p>收稿日期：2017年8月12日；录用日期：2017年8月24日；发布日期：2017年8月30日</p>
+      <disp-formula id="hanspub.21866-formula67">
+        <graphic xlink:href="http://html.hanspub.org/file/8-1580419x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>电力用户的谐波功率检测是配电网谐波溯源和谐波污染评价的基础。本文从电力用户与电网公共连接点的电压和电流取样入手，分析了谐波功率的定义及其检测计算方法，提出一种基于瞬时功率理论的谐波功率快速检测计算方法。对三相电压和电流在谐波频率下进行d-q坐标变换并提取出d-q轴的直流分量，按照瞬时功率理论可计算得到各次谐波的有功功率和无功功率的幅值及流向，根据功率流向可实现电网谐波溯源。建立了典型应用系统的仿真模型，仿真结果验证了谐波功率快速检测算法的正确可行性。</p>
+      <p>关键词 :瞬时功率理论，电能质量，谐波监测，谐波溯源，谐波功率</p>
+      <disp-formula id="hanspub.21866-formula68">
+        <graphic xlink:href="http://html.hanspub.org/file/8-1580419x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="http://image.hanspub.org:8080\Html/htmlimages\1-2890033x\e70a10f1-7c93-45ea-9603-062237856e4b.png" />
+        <img src="http://image.hanspub.org:8080\Html\htmlimages\1-2890033x\e898c85e-ffc4-45c9-b817-14224a4d6960.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        在当今电力系统中，电力电子装置、家用电器和电子办公设备等非线性负载日益增多，使谐波电流大量注入电网，引起电网电压畸变，进而影响电网中所有电气设备的运行质量并增大了电网中的电能损耗，严重时可能导致系统谐振和设备烧毁 [<xref ref-type="bibr" rid="hanspub.21866-ref1">1</xref>] 。
+      </p>
+      <p>
+        近年来，电力系统谐波问题日益受到重视，各供电公司定期对电网的谐波情况进行监测和治理指导。传统的谐波监测只是测量谐波电流和谐波电压的幅值，依此判别电网谐波的严重程度 [<xref ref-type="bibr" rid="hanspub.21866-ref2">2</xref>] ，这往往会造成误判，误认为有谐波电流的用户都是谐波源。
+      </p>
+      <p>
+        谐波溯源是谐波监测和治理的基础，但目前尚未引起足够的重视，传统的电力分析仪没有测量给出各次谐波的功率参数 [<xref ref-type="bibr" rid="hanspub.21866-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.21866-ref4">4</xref>] 。目前的研究结果已经表明，根据谐波功率的潮流方向可以区分一个用户在该次谐波下的源荷性质 [<xref ref-type="bibr" rid="hanspub.21866-ref5">5</xref>] 。本文分析了非正弦系统下传统功率的定义和谐波功率的计算方法，指出了传统方法的缺点，提出了一种基于瞬时功率理论的谐波功率快速检测方法，仿真验证了这种方法的可行性和正确性。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 谐波功率及其应用</title>
+      <p>交流系统功率的定义有多种，不同的定义导致计算方法的不同和适用范围的不同。</p>
+      <sec id="s4_1">
+        <title>2.1. 交流正弦系统的基波功率</title>
+        <p>传统的交流功率的定义是针对单相正弦交流系统的。设电压和电流均为同频率的正弦波形，则有功功率和无功功率分别定义如下：</p>
+        <p>设</p>
+        <disp-formula id="hanspub.21866-formula69">
+          <label>(1)</label>
+          <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x9_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <p>则</p>
+        <disp-formula id="hanspub.21866-formula70">
+          <label>(2)</label>
+          <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x10_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <p>
+          对于单相非正弦交流系统而言，常用的两种定义有Budeanu频域功率定义 [<xref ref-type="bibr" rid="hanspub.21866-ref6">6</xref>] 和Fryze时域功率定义 [<xref ref-type="bibr" rid="hanspub.21866-ref7">7</xref>] 。在Budeanu功率理论中，首先将交流电压和电流按照傅里叶级数表达为各次谐波分量之和：
+        </p>
+        <disp-formula id="hanspub.21866-formula71">
+          <label>(3)</label>
+          <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x11_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <disp-formula id="hanspub.21866-formula72">
+          <label>(4)</label>
+          <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x12_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <p>则</p>
+        <disp-formula id="hanspub.21866-formula73">
+          <label>(5)</label>
+          <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x13_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <p>其中，D称为畸变功率。在Fryze功率定义中，视在功率和有功功率的定义与Budeanu功率定义是一样的，但是将非有功功率统一定义为无功功率，不再区分Budeanu定义中的无功功率与畸变功率。</p>
+        <p>上述表明，不管是正弦系统还是非正弦系统，电功率的传统定义都是建立在一个工频周期平均值的基础之上，因而只适用于稳态情况的分析计算。对于三相系统而言，三相有功功率和无功功率分别取为三个单相有功功率和无功功率的代数和。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 交流非正弦系统的谐波功率</title>
+        <p>谐波功率指交流系统中由各次谐波电压和相应的谐波电流形成的有功功率和无功功率。对于非正弦交流系统，根据Budeanu功率定义，由式(5)可得：</p>
+        <disp-formula id="hanspub.21866-formula74">
+          <label>(6)</label>
+          <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x14_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <p>
+          在电力系统中，发电机电源输出的电压波形一般是接近理想的正弦波，即电源并不输出谐波功率，因此有如下推论：1) 电力系统中的谐波功率是由非线性设备从其吸收的基波功率中转化而来的 [<xref ref-type="bibr" rid="hanspub.21866-ref8">8</xref>] ；2) 谐波功率是损耗性功率，损失在电网的等值阻抗上。
+        </p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 谐波功率的应用</title>
+        <p>在理想电源的电力系统中，谐波功率并不做功，以谐波功率累积而成的谐波电能也就没有特别的实际意义。但是，谐波功率在电力系统的谐波监测分析中具有重要的作用，主要表现为两个方面：</p>
+        <p>1) 谐波功率可以作为电网受谐波污染程度的一个综合评价指标</p>
+        <p>通常，我们总是用谐波电流含有率或电流总谐波畸变率来衡量一个用户或一个非线性设备对电网的谐波污染，这在某种程度是合适的。众所周知，同一个用户或设备接入到不同的电网中，假设一个是强电网、另一个是弱电网，它所产生的谐波电流含有率或电流总谐波畸变率基本上是相同的，但是该用户引起的电网电压的畸变程度以及由此引起的对其他用户的影响程度是不同的。显然，弱电网用户受到的影响要比强电网显著得多。由于谐波功率包含了电网的强弱因素，谐波功率可以正确反映同一个用户对不同电网的谐波影响程度。</p>
+        <p>2) 谐波功率可以作为谐波溯源的依据</p>
+        <p>
+          已有研究表明，谐波功率的方向可以反映所测用户是电网的谐波污染源还是谐波受污染者 [<xref ref-type="bibr" rid="hanspub.21866-ref9">9</xref>] 。在理想电源的电网中，如果流向用户的h次谐波功率为负，则该用户为电网h次谐波的谐波源；反之，如果流向用户的h次谐波功率为正，则该用户为电网h次谐波的受污染者；谐波功率越大，说明谐波源对电网的污染程度或用户受电网谐波的污染程度越高。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 谐波功率的瞬时检测方法</title>
+      <p>鉴于谐波功率的上述作用，研究谐波功率的快速检测方法具有重要实用价值。式(6)是谐波功率的定义，也指明了谐波功率检测的基本方法：首先通过传感器测取电网电压和用户电流，对电压电流进行傅里叶变换，得到各次谐波电压电流的幅值和相位，按照式(6)即可计算各次谐波的功率。这是一种稳态检测法，检测周期长，尤其是对于非平稳的负荷电流而言，检测误差较大。</p>
+      <p>
+        面向三相三线非正弦交流系统提出的瞬时功率理论，不仅可以根据同一时刻的三相电压和电流瞬间检测出有功功率和无功功率 [<xref ref-type="bibr" rid="hanspub.21866-ref10">10</xref>] ，还常常用于有功电流与无功电流分量的分离 [<xref ref-type="bibr" rid="hanspub.21866-ref11">11</xref>] 、基波电流与谐波电流分量的分离 [<xref ref-type="bibr" rid="hanspub.21866-ref12">12</xref>] ，也可以用于交流系统各次谐波功率的瞬时计算。
+      </p>
+      <p>
+        各次谐波功率的瞬时计算原理如图1所示。图中，ua、ub、uc分别为三相电压瞬时值；ia、ib、ic分别为同时刻三相电流瞬时值；wt为电压工频实时相位，可由锁相环从三相电压中提取出来 [<xref ref-type="bibr" rid="hanspub.21866-ref13">13</xref>] ；h为待检测的谐波次数；T为三相d-q变换矩阵；LPF为低通滤波器，滤除工频及以上的交流波动分量。
+      </p>
+      <p>三相d-q变换矩阵T的表达式为：</p>
+      <disp-formula id="hanspub.21866-formula75">
+        <label>(7)</label>
+        <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x15_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>对于三相三线制的10kV工业电网而言，电压和电流的主要谐波成分为基波和5、7、11、13、17、19等次特征谐波。值得指出，根据谐波的正负序性质，三相d-q变换是不同的。对于基波和7、13、19等具有正序性质的频率分量而言，d-q变换为：</p>
+      <disp-formula id="hanspub.21866-formula76">
+        <label>(8)</label>
+        <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x16_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>对于5、11、17等具有负序性质的频率分量而言，d-q变换矩阵为：</p>
+      <disp-formula id="hanspub.21866-formula77">
+        <label>(9)</label>
+        <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x17_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>于是，各次谐波功率计算如下：</p>
+      <disp-formula id="hanspub.21866-formula78">
+        <label>(10)</label>
+        <graphic position="anchor" xlink:href="http://html.hanspub.org/file/8-1580419x18_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s6">
+      <title>4. 仿真验证</title>
+      <p>为了验证谐波功率瞬时检测的可行性，建立了一套PSIM环境下的非正弦交流系统仿真模型，主电路如图2所示，主要设备参数如表1所示。图中，电网供电给一个整流负荷，同时配电母线上配置一套带有防谐电抗器的无功补偿电容器。尽管负荷电流和电容器电流都含有谐波，但是，只有整流负荷为谐波污染源，而电容器为谐波受污染者。图3给出了基于图1所示检测方法的负荷谐波功率检测原理仿真模型。</p>
+      <p>图4给出了整流负荷和无功补偿电容器的谐波功率检测结果。从A相电源电压ua、整流负荷电流ila和电容器电流ifa的波形图可以看出，整流负荷为典型的三相六脉波晶闸管整流器，输出电流波形畸变严重，典型的特征谐波包括5次、7次、11次和13次等。由于电源内阻抗的存在，母线电压含有一定谐波，并导致电容器电流的明显畸变。</p>
+      <p>图4中，PL1、PL5、PL7分别为整流负荷支路的基波有功、5次谐波有功和7次谐波有功功率，QL1、QL5、QL7分别为整流负荷支路的基波无功、5次谐波无功和7次谐波无功功率。可以看出，基波功率均为正，表明整流器从电网吸收基波功率；5次和7次谐波功率均为负，表明整流负荷对电网而言，呈现为一种5次和7次谐波污染源。</p>
+      <p>图4中，PF5、PF7分别为补偿电容器的5次谐波有功和7次谐波有功功率，QF5、QF7分别为补偿电容器的5次谐波无功和7次谐波无功功率。可以看出，电容器支路的5次和7次谐波功率均为正，</p>
+      <p>图1. h次谐波功率的瞬时检测计算逻辑</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> Simulation parameters of the harmonic power detection syste</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >元件名称</th>
+                <th align="center" valign="middle" >参数名称</th>
+                <th align="center" valign="middle" >参数值</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle"  rowspan="3"  >电源</td>
+              <td align="center" valign="middle" >额定电压</td>
+              <td align="center" valign="middle" >380 V</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >等值电阻</td>
+              <td align="center" valign="middle" >0.01 W</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >等值电感</td>
+              <td align="center" valign="middle" >30 mH</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  rowspan="2"  >整流负荷</td>
+              <td align="center" valign="middle" >额定电压</td>
+              <td align="center" valign="middle" >380 V</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >额定功率</td>
+              <td align="center" valign="middle" >260 kW</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  rowspan="2"  >电容器组</td>
+              <td align="center" valign="middle" >额定容量</td>
+              <td align="center" valign="middle" >150 kvar</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >串联电抗率</td>
+              <td align="center" valign="middle" >6%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表1. 谐波功率检测仿真系统的主要参数</p>
+      <p>图2. 谐波功率检测系统主电路</p>
+      <p>图3. 谐波功率检测原理的仿真模型</p>
+      <p>表明电容器从电网吸收谐波功率，即电容器呈现为5次和7次谐波的受害者，对电网而言具有一定滤波功能。</p>
+      <p>对电压和电流波形进行傅里叶分解，按照式(6)分别计算整流负荷和补偿电容器的谐波功率，表明理论计算结果与仿真结果是一致的。</p>
+      <p>图4. 谐波功率检测的仿真结果</p>
+    </sec>
+    <sec id="s7">
+      <title>5. 结论</title>
+      <p>基于d-q变换的瞬时功率理论可以用于交流电力系统的谐波功率的快速检测，能够检测出谐波功率的幅值大小和潮流方向，从而为电力系统的谐波溯源和谐波污染程度的评估提供技术支撑。瞬时谐波功率检测法具有检测速度快、检测准确、不需同步采样和傅里叶变换等优点，但在d-q变换过程中需要根据特征谐波的相序采取不同的变换矩阵。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>王 凯,同向前,强 健,吴立忞. 用于电网谐波溯源的谐波功率快速检测方法Fast Detecting Method of Grid Harmonic Power for the Tracing of Harmonic Sources[J]. 智能电网, 2017, 07(04): 286-293. http://dx.doi.org/10.12677/SG.2017.74032</p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献 (References)</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.21866-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">陈必荣. 电力系统谐波危害及其治理措施的分析[J]. 电气时代, 2016(8): 52-55.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Shojaie, M. and Mokhtari, H. (2014) A Method for Determination of Harmonics Responsibilities at the Point of Common Coupling Using Data Correlation Analysis. IET Generation Transmission &amp; Distribution, 8, 142-150.
+          &lt;br&gt;https://doi.org/10.1049/iet-gtd.2013.0111
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张志军. F43电力质量分析仪在谐波故障检测中的应用[J]. 电工电气, 2003(4): 37-38.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">任家爱, 熊皓, 莫景贤. 一种基于fft法的电力谐波分析仪[P]. 中国专利, 202256496. 2012.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Wilkosz, K. (2012) Single-Point Measurement Localization of Prevailing Harmonic Sources in a Power System. IEEE International Conference on Environment and Electrical Engineering, Venice, 18-25 May 2012, 1-6.
+          &lt;br&gt;https://doi.org/10.1109/EEEIC.2012.6221387
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Budeanu, C. (1927) Puissancesrèactives at Fictives. Institut National Roumain pour L’Étude de L’Aménagement et de l’utilisation des sourcesd’Énergie.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Fryze, S. (1931) Active, Reactive and Apparent Power in Circuits with Non-Sinusoidal Voltage and Current. Przegl. Elekrrorech, 32, 7-8.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">同向前, 余健明, 薛钧义. 电网谐波电能损耗的计量方法[J]. 西安理工大学学报, 2002, 18(2): 181-184.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hamzah, N., Mohamed, A. and Hussain, A. (2003) Methods for Determining Utility and Customer Harmonic Contributions at the Point of Common Coupling. National Power Engineering Conference Proceedings, Bangi, 15-16 December 2003, 167-171. &lt;br&gt;https://doi.org/10.1109/PECON.2003.1437438</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Akagi, H., Kanazawa, Y. and Nabae, A. (2008) Instantaneous Reactive Power Compensators Comprising Switching Devices without Energy Storage Components. IEEE Transactions on Industry Applications, 20, 625-630.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李圣清, 朱英浩, 周有庆, 等. 基于瞬时无功功率理论的四相输电谐波电流检测方法[J]. 中国电机工程学报, 2004, 24(3): 12-17.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">刘继权, 张茂松. 基于瞬时无功功率理论的新型谐波检测法[J]. 电测与仪表, 2012, 49(10): 29-32.</mixed-citation>
+      </ref>
+      <ref id="hanspub.21866-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">辛业春, 李国庆, 王尧,等. 基于双dq坐标变换的三相电压锁相环的研究[J]. 电力系统保护与控制, 2014(10): 114-118.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

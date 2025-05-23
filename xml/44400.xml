@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article"><front><journal-meta><journal-id journal-id-type="publisher-id">AAM</journal-id><journal-title-group><journal-title>Advances in Applied Mathematics</journal-title></journal-title-group><issn pub-type="epub">2324-7991</issn><publisher><publisher-name>Scientific Research Publishing</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.12677/AAM.2021.108280</article-id><article-id pub-id-type="publisher-id">AAM-44400</article-id><article-categories><subj-group subj-group-type="heading"><subject>AAM20210800000_18113203.pdf</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>数学与物理</subject></subj-group></article-categories><title-group><article-title>
+ 
+ 
+  树上k-奖励收集多割问题的近似算法 
+  An Approximation Algorithm for the k-Prize-Collecting Multicut on a Tree Problem
+ 
+</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>侯</surname><given-names>晨菲</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>null</addr-line></aff><aff id="aff2"><label>1</label><addr-line>河北师范大学，河北 石家庄</addr-line></aff><pub-date pub-type="epub"><day>03</day><month>08</month><year>2021</year></pub-date><volume>10</volume><issue>08</issue><fpage>2701</fpage><lpage>2704</lpage><permissions><copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement><copyright-year>2014</copyright-year><license><license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p></license></permissions><abstract><p>
+ 
+ 
+  
+    在树上k-奖励收集多割问题中，给定一个无向树T=(V,E)，一个由m个结点对构成的集合P 
+   <b>=</b> {(
+   s
+   <sub>1</sub> , 
+   t
+   <sub>1</sub>
+   <b> </b>)
+   <b>,</b>
+   <b> </b>( 
+   s
+   <sub>2</sub> , 
+   t
+   <sub>2</sub>
+   <b> </b>),..., ( 
+   s
+   <sub>m</sub>
+    , 
+   t
+   <sub>m</sub>
+   <b> </b>)}和一个参数k且k≤m。E中的每一条边都有一个非负成本c
+   <sub>e</sub>，P中的每一个结点对都有一个非负惩罚成本π
+   <sub>i</sub>。目标是求一个能分离P中至少k个结点对的多割M，使得多割M中边的成本与未被M分割的结点对的惩罚成本之和最小。这个问题是著名的树上的多割问题的推广。在本文中，我们设计了一个树上k-奖励收集多割问题的近似比为
+   <inline-formula><inline-graphic xlink:href="Edit_4fe5ee2e-b257-4616-9333-0a89d7a8eac9.png" xlink:type="simple"/></inline-formula>的近似算法，其中ε是任意一个确定的正数。
+    In the k-prize-collecting multicut on a tree (k-PCM(T)) problem, we give an undirected tree 
+   T=(V,E), a set of m distinct pairs of vertices 
+   P 
+   <b>=</b>
+    {(
+   s
+   <sub>1</sub>
+    , 
+   t
+   <sub>1</sub>
+   <b> </b>
+   )
+   <b>,</b>
+   <b> </b>
+   ( 
+   s
+   <sub>2</sub>
+    , 
+   t
+   <sub>2</sub>
+   <b> </b>
+   ),..., ( 
+   s
+   <sub>m</sub>
+    
+   , 
+   t
+   <sub>m</sub>
+   <b> </b>
+   )} and a parameter k with 
+   k≤m. Every edge in E has a nonnegative cost 
+   c
+   <sub>e</sub>. Every pair 
+   (
+   s
+   <sub>1</sub>
+    , 
+   t
+   <sub>1</sub>
+   <b> </b>
+   ) in P has a nonnegative penalty cost 
+   π
+   <sub>i</sub>. Our goal is to find a multicut M that separates at least k pairs in P such that the total cost, including the edge cost of the multicut M and the penalty cost of the pairs not separated by M, is minimized. This problem generalizes the well-known multicut on a tree problem. In this paper, we design an approximation algorithm for the k-PCM(T) problem with approximation ratio 
+   <inline-formula><inline-graphic xlink:href="Edit_e70d8ebf-37da-44e9-8efa-bcfc467aaa09.png" xlink:type="simple"/></inline-formula>, where  is a fixed number. 
+  
+ 
+</p></abstract><kwd-group><kwd>多割，k-奖励收集多割，近似算法, Multicut</kwd><kwd> k-Prize-Collecting Multicut</kwd><kwd> Approximation Algorithm</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>摘要</title><p>在树上k-奖励收集多割问题中，给定一个无向树 T = ( V , E ) ，一个由m个结点对构成的集合 P = { ( s 1 , t 1 ) , ( s 2 , t 2 ) , ⋯ , ( s m , t m ) } 和一个参数k且 k ≤ m 。E中的每一条边都有一个非负成本 c e ，P中的每一个结点对都有一个非负惩罚成本 π i 。目标是求一个能分离P中至少k个结点对的多割M，使得多割M中边的成本与未被M分割的结点对的惩罚成本之和最小。这个问题是著名的树上的多割问题的推广。在本文中，我们设计了一个树上k-奖励收集多割问题的近似比为 ( 1 4 3 + ε ) 的近似算法，其中 ε 是任意一个确定的正数。</p></sec><sec id="s2"><title>关键词</title><p>多割，k-奖励收集多割，近似算法</p><p><img src="//html.hanspub.org/file/8-2621745x10_hanspub.png?20210809150551285" /></p></sec><sec id="s3"><title>An Approximation Algorithm for the k-Prize-Collecting Multicut on a Tree Problem<sup> </sup></title><p>Chenfei Hou</p><p>Hebei Normal University, Shijiazhuang Hebei</p><p><img src="//html.hanspub.org/file/8-2621745x11_hanspub.png?20210809150551285" /></p><p>Received: Jul. 4<sup>th</sup>, 2021; accepted: Jul. 23<sup>rd</sup>, 2021; published: Aug. 6<sup>th</sup>, 2021</p><p><img src="//html.hanspub.org/file/8-2621745x12_hanspub.png?20210809150551285" /></p></sec><sec id="s4"><title>ABSTRACT</title><p>In the k-prize-collecting multicut on a tree (k-PCM(T)) problem, we give an undirected tree T = ( V , E ) , a set of m distinct pairs of vertices P = { ( s 1 , t 1 ) , ( s 2 , t 2 ) , ⋯ , ( s m , t m ) } and a parameter k with k ≤ m . Every edge in E has a nonnegative cost c e . Every pair ( s i , t i ) in P has a nonnegative penalty cost π i . Our goal is to find a multicut M that separates at least k pairs in P such that the total cost, including the edge cost of the multicut M and the penalty cost of the pairs not separated by M, is minimized. This problem generalizes the well-known multicut on a tree problem. In this paper, we design an approximation algorithm for the k-PCM(T) problem with approximation ratio ( 1 4 3 + ε ) , where ε is a fixed number.</p><p>Keywords:Multicut, k-Prize-Collecting Multicut, Approximation Algorithm</p><disp-formula id="hanspub.44400-formula140"><graphic xlink:href="//html.hanspub.org/file/8-2621745x21_hanspub.png?20210809150551285"  xlink:type="simple"/></disp-formula><p>Copyright &#169; 2021 by author(s) and Hans Publishers Inc.</p><p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p><p>http://creativecommons.org/licenses/by/4.0/</p><p><img src="//html.hanspub.org/file/8-2621745x22_hanspub.png?20210809150551285" /> <img src="//html.hanspub.org/file/8-2621745x23_hanspub.png?20210809150551285" /></p></sec><sec id="s5"><title>1. 引言</title><p>目前关于组合优化问题的奖励收集形式或部分形式的研究已有许多好的结果，比如k-中心问题 [<xref ref-type="bibr" rid="hanspub.44400-ref1">1</xref>]。k-最小生成树问题 [<xref ref-type="bibr" rid="hanspub.44400-ref2">2</xref>]，k-Steiner树问题 [<xref ref-type="bibr" rid="hanspub.44400-ref3">3</xref>]，k-奖励收集Steiner树问题 [<xref ref-type="bibr" rid="hanspub.44400-ref4">4</xref>] 和部分覆盖问题 [<xref ref-type="bibr" rid="hanspub.44400-ref5">5</xref>]。本篇文章主要研究树上k-奖励收集多割问题(k-PCMT)的近似算法。k-PCMT问题实例是指给定一个无向树 T = ( V , E ) ，对于每条边 e ∈ E 都有一个非负费用 c e ，令 P = { ( s 1 , t 1 ) , ( s 2 , t 2 ) , ⋯ , ( s m , t m ) } 是一个由m个结点对构成的集合，且对于每一个点对 ( s i , t i ) 都有一个非负惩罚费用 π i ，并给定一个参数 k ≤ m 。设 M ⊆ E 是边集的一个子集，对某个 1 ≤ i ≤ m ， ( s i , t i ) 称为被M分割，如果 s i , t i 不在T\M的同一个连通分支中。k-PCMT问题是找到一个边子集M，使得M至少分割k个结点对，且使得M中的边费用与未被分割的顶点对的惩罚费用之和最小。</p><p>k-PCMT问题是组合优化著名的NP难问题——树上多割问题的变形，是树上奖励收集的多割问题和树上部分割问题的一个推广。对于树上的多割问题，Garg等人在文献 [<xref ref-type="bibr" rid="hanspub.44400-ref5">5</xref>] 中提出了近似比为2的原始对偶算法。</p><p>树上奖励收集的多割(PCMT)问题实例是给定一个无向树 T = ( V , E ) ，一个由m个顶点对构成的集合 P = { ( s 1 , t 1 ) , ( s 2 , t 2 ) , ⋯ , ( s m , t m ) } 。E中的每个边都有一个非负费用值 c e ，P中的每个顶点对 ( s i , t i ) 都有一个非负惩罚费用 π i 。PCMT问题是找到一个边集 M ⊆ E ，使得M中的边费用加上未被分割的顶点对的惩罚费用最小。对于树上奖励收集的多割问题，Levin和Segev在 [<xref ref-type="bibr" rid="hanspub.44400-ref6">6</xref>] 中通过修改原始树和结点对的集合方法将其转化为树上的多割问题，并给出了该问题的一个近似比为2的近似算法。本文称此算法为算法1。</p><p>树上部分多割(PMT)问题实例是给定一个无向树 T = ( V , E ) ，一个由m个顶点对构成的集合 P = { ( s 1 , t 1 ) , ( s 2 , t 2 ) , ⋯ , ( s m , t m ) } 。E中的每个边都有一个非负费用值 c e ，给定一个参数 k ≤ m 。PMT问题是找到一个边集 M ⊆ E ，使得M至少分割k个顶点对，并且使M中的边费用之和最小。Levin和Segev在 [<xref ref-type="bibr" rid="hanspub.44400-ref6">6</xref>] 中利用拉格朗日松弛技巧提出了关于求解树上部分割问题的一个近似比为 ( 8 3 + ε ) 的近似算法，其中 ε 是一个任意固定的正数。本文称此算法为算法2。</p><p>本文利用上述两个算法给出求解k-PCMT问题的一个近似比为 ( 14 3 + ε ) 的近似算法。</p></sec><sec id="s6"><title>2. 算法和近似比分析</title><p>在本节，我们给出求解k-PCMT问题的一个近似算法。令OPT表示k-PCMT问题的最优解的目标函数值。令 ε &gt; 0 为一个确定的参量。并且假设每条边的费用至多等于 ε 乘以OPT。注意Levin和Segev就是在此假设下研究了树上部分多割问题(见文献 [<xref ref-type="bibr" rid="hanspub.44400-ref6">6</xref>] )。本文也在此假设下研究k-PCMT问题。</p><p>算法</p><p>输入：无向树 T = ( V , E ) ，对每一条边，边费用 c e ≥ 0 ，对每个顶点对 ( s i , t i ) ，惩罚费用 π i ≥ 0 ，正整数 k ≤ m 。</p><p>输出：边子集M，未被M分割的顶点对的集合R。</p><p>步骤1：对一个PCMT实例 ( T , c , π ) ，应用PCMT问题的算法1。令 F P C M T = ( M P C M T , P P C M T ) 是该算法的输出解。若此时 M P C M T 中的边已经分割至少k个顶点对，则输出 M P C M T 作为k-PCMT问题实例的一个可行解，算法停止；否则进行步骤2。</p><p>步骤2：规定步骤1中选中的边重新赋值为0，其余边的权值不变，得到新的边费用函数 c ′ 。令 k ′ = k − 步骤1中分割的顶点对个数。对一个PMT实例 ( T , c ′ , k ′ ) ，应用PMT算法2。令 F P M T = ( M P M T , P P M T ) 是该算法的输出解。输出 M P C M T ∪ M P M T 作为k-PCMT问题实例的一个可行解，算法停止。</p><p>下面我们分析一下这个算法的近似比。</p><p>引理1：设 ( M * , P * ) 是PMT问题的最优解，则有</p><p>∑ e ∈ M P M T ∗ c e ≤ O P T .</p><p>证明：因为费用函数和惩罚函数都是非负的，则有</p><p>O P T = ∑ e ∈ M k - P C M T *     c e + ∑ ( s i , t i ) ∈ P k - P C M T *     π i ≥ ∑ e ∈ M k - P C M T *     c e ≥ ∑ e ∈ M P M T *     c e .</p><p>因为k-PCMT的最优解是PMT的可行解，所以最后一个不等式成立。证毕。</p><p>因为k-PCMT问题的任一个可行解都是PCMT问题的可行解，所以有以下引理。</p><p>引理2：PCMT问题的最优解 ( M P C M T * , P P C M T * ) 满足</p><p>∑ e ∈ M P C M T *     c e + ∑ ( s i , t i ) ∈ P P C M T *     π i ≤ O P T .</p><p>引理3：若算法在步骤1就停止，则此时输出的解 F O U T = ( M O U T , P O U T ) 满足</p><p>∑ e ∈ M O U T     c e + ∑ ( s i , t i ) ∈ P O U T     π i ≤ 2 O P T .</p><p>证明：由算法可知，输出解 F O U T 是由步骤1得到的，则 F O U T 一定分割至少k个顶点对，故是k-PCMT问题的可行解。假设 O P T P C M T 是PCMT问题的最优值，那么由引理2我们可以得到</p><p>∑ e ∈ M O U T     c e + ∑ ( s i , t i ) ∈ P O U T     π i ≤ 2 O P T P C M T ≤ 2 O P T .</p><p>引理4：若算法在第二步时停止，则此时 F O U T = ( M O U T , P O U T ) 满足</p><p>∑ e ∈ M O U T     c e + ∑ ( s i , t i ) ∈ P O U T     π i ≤ ( 14 3 + ε ) O P T .</p><p>证明：显然有 M O U T = M P C M T ∪ M P M T 成立。由于 F O U T 分割了至少k个顶点对，所以 F O U T 是k-PCMT问题的可行解。因为费用函数c和 π 都是非负的且 P O U T ⊆ P P C M T ，所以有</p><p>∑ e ∈ M O U T     c e + ∑ ( s i , t i ) ∈ P O U T     π i ≤ ∑ e ∈ M P M T     c e + ∑ e ∈ M P C M T     c e + ∑ ( s i , t i ) ∈ P P C M T     π i .</p><p>由引理1和引理2可知</p><p>∑ e ∈ M P M T     c e + ∑ e ∈ M P C M T     c e + ∑ ( s i , t i ) ∈ P P C M T     π i ≤ ( 8 3 + ε ) O P T P M T + 2 O P T P C M T ≤ ( 8 3 + ε ) O P T + 2 O P T = ( 14 3 + ε ) O P T .</p><p>综上我们有下面主要结论。</p><p>定理4：存在一个k-PCMT问题的近似比为 ( 14 3 + ε ) 的近似算法。</p></sec><sec id="s7"><title>3. 结论</title><p>本文中，笔者采用PCMT问题和PMT问题的两个算法作为子算法给出了求解k-PCMT问题的一个新算法。</p></sec><sec id="s8"><title>基金项目</title><p>河北省自然科学基金(A2019205089)；河北师范大学研究生创新资助项目(CXZZSS2021045)。</p></sec><sec id="s9"><title>文章引用</title><p>侯晨菲. 树上k-奖励收集多割问题的近似算法 An Approximation Algorithm for the k-Prize-Collecting Multicut on a Tree Problem[J]. 应用数学进展, 2021, 10(08): 2701-2704. https://doi.org/10.12677/AAM.2021.108280</p></sec><sec id="s10"><title>参考文献</title></sec></body><back><ref-list><title>References</title><ref id="hanspub.44400-ref1"><label>1</label><mixed-citation publication-type="other" xlink:type="simple">Han, L., Xu, D.C., Du, D.L. and Wu, C.C. (2019) A 5-Approximation Algorithm for the k-Prize-Collecting Steiner Tree Problem. Optimization Letters, 13, 573-585. &lt;br&gt;https://doi.org/10.1007/s11590-017-1135-8</mixed-citation></ref><ref id="hanspub.44400-ref2"><label>2</label><mixed-citation publication-type="other" xlink:type="simple">Garg, N. (1996) A 3-Approximation for the Minimum Tree Spanning k Vertices. Proceedings of 37th Conference on Foundations of Computer Science, Burlington, VT, 14-16 October 1996, 302-309.  
+&lt;br&gt;https://doi.org/10.1109/SFCS.1996.548489</mixed-citation></ref><ref id="hanspub.44400-ref3"><label>3</label><mixed-citation publication-type="other" xlink:type="simple">Chudak, F.A., Roughgarden, T. and Williamson, D.P. (2001) Approximate k-MSTs and k-Steiner Trees via the Primal-Dual Method and Lagrangean Relaxation. Proceedings of the 8th Conference on Integer Programming and Combinatorial Optimization, The Netherlands, 13-15 June 2001, 60-70. &lt;br&gt;https://doi.org/10.1007/3-540-45535-3_5</mixed-citation></ref><ref id="hanspub.44400-ref4"><label>4</label><mixed-citation publication-type="other" xlink:type="simple">Jain, K. and Vazirani, V.V. (2001) Approximation Algorithms for Metric Facility Location and k-Median Problems Using the Primal-Dual Schema and Lagrangian Relaxation. Journal of the ACM, 48, 274-296.  
+&lt;br&gt;https://doi.org/10.1145/375827.375845</mixed-citation></ref><ref id="hanspub.44400-ref5"><label>5</label><mixed-citation publication-type="other" xlink:type="simple">Garg, N., Vazirani, V.V. and Yannakakis, M. (1997) Primal-Dual Approximation Algorithms for Integer Flow and Multicut in Trees. Algorithmica, 18, 3-20. &lt;br&gt;https://doi.org/10.1007/BF02523685</mixed-citation></ref><ref id="hanspub.44400-ref6"><label>6</label><mixed-citation publication-type="other" xlink:type="simple">Levin, A. and Segev, D. (2006) Partial Multicuts in Trees. Theoretical Computer Science, 369, 384-395.  
+&lt;br&gt;https://doi.org/10.1016/j.tcs.2006.09.018</mixed-citation></ref></ref-list></back></article>

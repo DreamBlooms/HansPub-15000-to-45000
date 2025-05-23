@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">HJCE</journal-id>
+      <journal-title-group>
+        <journal-title>Hans Journal of Civil Engineering</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2326-3458</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/HJCE.2017.66073</article-id>
+      <article-id pub-id-type="publisher-id">HJCE-22734</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>HJCE20170600000_50048154.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>工程技术</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          方形钢管混凝土轴压短柱承载力的简化计算
+          Simplified Calculation of Ultimate Strength for Axial-Loaded Square CFT Stub Columns
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>孙</surname>
+            <given-names>刚</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sub>1</sub>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>仲恺农业工程学院城市建设学院，广东 广州</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>sungang604@126.com</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>06</volume>
+      <issue>06</issue>
+      <fpage>616</fpage>
+      <lpage>620</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文分析了方形钢管混凝土轴压短柱的受力机理，借鉴约束混凝土的本构关系，提出方形钢管混凝土轴压短柱承载力计算的简化公式。基于试验结果，对所提公式中的钢管纵向强度折减系数和混凝土强度提高系数进行回归分析。用建议公式对方形钢管混凝土轴压短柱进行承载力计算，计算结果与试验和规范计算结果吻合良好。 In this paper, the bearing mechanism of axial-loaded square concrete-filled steel tube (CFT) stub column is analyzed. The simplified calculation formula for this type of component is proposed ac-cording to the typical constitutive model of confined concrete. Then, based on the experiment re-sults, two key parameters of the proposed formula such as the reduction ratio of steel longitudinal stress and the coefficient of enhance for concrete are analyzed and determined. Finally, the expe-riment elements are calculated by the proposed formula, and the calculated results are agreed with the experiment and criterion ones very well.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>方形钢管混凝土，短柱，极限承载力, Square Concrete-Filled Steel Tube</kwd>
+        <kwd> Stub Column</kwd>
+        <kwd> Ultimate Strength</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        方形钢管混凝土轴压短柱承载力的简化计算<sup> </sup>
+      </title>
+      <p>孙刚</p>
+      <p>仲恺农业工程学院城市建设学院，广东 广州</p>
+      <p>收稿日期：2017年11月3日；录用日期：2017年11月18日；发布日期：2017年11月21日</p>
+      <disp-formula id="hanspub.22734-formula22">
+        <graphic xlink:href="//html.hanspub.org/file/9-2750434x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文分析了方形钢管混凝土轴压短柱的受力机理，借鉴约束混凝土的本构关系，提出方形钢管混凝土轴压短柱承载力计算的简化公式。基于试验结果，对所提公式中的钢管纵向强度折减系数和混凝土强度提高系数进行回归分析。用建议公式对方形钢管混凝土轴压短柱进行承载力计算，计算结果与试验和规范计算结果吻合良好。</p>
+      <p>关键词 :方形钢管混凝土，短柱，极限承载力</p>
+      <disp-formula id="hanspub.22734-formula23">
+        <graphic xlink:href="//html.hanspub.org/file/9-2750434x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by author and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/9-2750434x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/9-2750434x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        目前，国内外关于钢管混凝土设计的规范、规程大都包含方形钢管混凝土方面的条文。国外规范、规程主要有日本建筑学会AIJ(1997) [<xref ref-type="bibr" rid="hanspub.22734-ref1">1</xref>] 、欧洲EC4(1996) [<xref ref-type="bibr" rid="hanspub.22734-ref2">2</xref>] 和美国LRFD(1999) [<xref ref-type="bibr" rid="hanspub.22734-ref3">3</xref>] 。以上规范和规程并未考虑方形钢管对混凝土的约束作用。而我国军用标准GJB4142-2000 [<xref ref-type="bibr" rid="hanspub.22734-ref4">4</xref>] 将钢管和混凝土看作统一体，用套箍指标描述了钢管与混凝土之间的相互作用。文献 [<xref ref-type="bibr" rid="hanspub.22734-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.22734-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22734-ref7">7</xref>] [<xref ref-type="bibr" rid="hanspub.22734-ref8">8</xref>] 建立了方形钢管内约束混凝土的本构关系，并用来评估方形钢管混凝土轴压短柱的承载力，但计算式偏于复杂。
+      </p>
+      <p>本文分析了方形钢管混凝土轴压短柱的受力机理，借鉴约束混凝土的本构关系，通过对试验数据的回归分析，尝试建立一种该类构件承载力的简化计算公式。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 钢管和混凝土的受力机理</title>
+      <p>方形钢管混凝土轴压短柱在轴向压力下，方形钢管既要承受纵向压力，又要受核心混凝土的横向挤压，处于纵向ˎ径向受压和环向受拉的三向应力状态。由于存在环向拉力，所以钢管的纵向承载力低于其单轴承载力。而处于三向受压状态的核心混凝土，其纵向受压强度高于其单轴受压强度。因此，方形钢管混凝土轴压短柱承载力计算公式可简单的表示为</p>
+      <p>N u = k 1 f s y A s + k 2 f c k A c (1)</p>
+      <p>
+        其中k<sub>1</sub>为钢管纵向强度折减系数；k<sub>2</sub>为混凝土强度提高系数。
+      </p>
+    </sec>
+    <sec id="s5">
+      <title>3. 钢管纵向强度折减系数</title>
+      <p>
+        文献 [<xref ref-type="bibr" rid="hanspub.22734-ref9">9</xref>] 的研究表明，钢管的宽厚比参数W是影响方形钢管混凝土试件破坏模态的主要因素。W定义如下：
+      </p>
+      <p>w = b t 12 ( 1 − μ 2 ) 4 π 2 f y E S (2)</p>
+      <p>
+        式中b, t分别是钢管的边长和厚度；&#181;, f<sub>y</sub>和E<sub>s</sub>分别是钢材的泊松比、屈服强度和弹性模量。
+      </p>
+      <p>
+        对文献 [<xref ref-type="bibr" rid="hanspub.22734-ref10">10</xref>] 中20个方形钢管混凝土轴压短柱的试验数据进行回归分析。k<sub>1</sub>和w的回归曲线如图1所示。R<sup>2</sup>表示回归趋势线的可靠性系数。
+      </p>
+      <p>
+        所以，钢管的纵向强度折减系数k<sub>1</sub>按下式确定。
+      </p>
+      <p>k 1 = { 0.89 , w ≤ 0.85 0.894 W − 0.738 , w &gt; 0.85 (3)</p>
+    </sec>
+    <sec id="s6">
+      <title>4. 混凝土强度提高系数</title>
+      <p>
+        本文对文献 [<xref ref-type="bibr" rid="hanspub.22734-ref10">10</xref>] 的试验数据分析表明，混凝土的强度提高系数主要与钢管约束系数δ = f<sub>sy</sub>A<sub>s</sub>/f<sub>ck</sub>A<sub>c</sub>有关，两者基本呈线性关系。其中，f<sub>sy</sub>为钢管的屈服强度；A<sub>s</sub>为钢管的横截面积；f<sub>ck</sub>为混凝土的抗压强度；A<sub>c</sub>为混凝土的横截面积。k<sub>2</sub>和δ的回归曲线如图2所示。R<sup>2</sup>表示回归趋势线的可靠性系数。
+      </p>
+      <p>
+        所以，混凝土的强度提高系数k<sub>2</sub>有下式确定。
+      </p>
+      <p>k 2 = 0.1506 δ + 1.0849 (4)</p>
+    </sec>
+    <sec id="s7">
+      <title>5. 简化公式的验证</title>
+      <p>
+        用建议公式对文献 [<xref ref-type="bibr" rid="hanspub.22734-ref10">10</xref>] 的试验试件进行计算。建议公式的计算结果与试验结果和各规范计算结果的对比见表1。
+      </p>
+      <p>
+        图1. k<sub>1</sub>和w的回归曲线
+      </p>
+      <p>
+        图2. k<sub>2</sub>和δ的回归曲线
+      </p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> Comparison of ultimate strength between calculated results and experimental and formula results of square CFT stub column</title>
+        </caption>
+         </table-wrap>
+          </sec>
+    </body>
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.22734-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">AIJ1997. Recommendations for Design and of Concrete Filled Steel Tubular Structures. Architectural Institute of Japan (AIJ), Tokyo.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">EC4. Design of Steel and Concrete Structures, Part 1.1, General Rules for Building]. DDEVV1994-1-1:1996: British Standards Institute, London.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">AISC-LRFD 1999. Load and Resistance Factor Design Specification for Structural Steel Tubular Structures. American Institute of Steel Construction (AISC), Chicago.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">GJB4142-2000. 战时军港抢修早强型组合结构技术规程[S].</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张正国, 左明生. 方形钢管混凝土轴压短柱在短期一次静载下的基本性能研究[J]. 郑州工学院学报, 1985, 6(2): 19-32.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">韩林海, 陶忠. 方形截面钢管混凝土压弯构件的理论分析和试验研究[R]. 北京: 清华大学土木工程系, 1998.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Susantha, K.A.S. and Ge, H. (2001) Unaxial Stress-Strain Relationship of Concrete Confined by Various Shaped Steel Tubes. Engineering Structure, 23, 1331-1347. &lt;br&gt;https://doi.org/10.1016/S0141-0296(01)00020-7</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">蔡健, 孙刚. 方形钢管约束下核心混凝土的本构关系[J]. 华南理工大学学报: 自然科学版, 2008, 36(1): 105-109.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Ge, H.B. and Usami, T. (1994) Stress Analysis of Concrete Filled Thin-Walled Steel Box Columns. Journal of Constructional Steel Research, 30, 259-281. &lt;br&gt;https://doi.org/10.1016/0143-974X(94)90003-5</mixed-citation>
+            </ref>
+            <ref id="hanspub.22734-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">韩林海. 钢管混凝土结构[M]. 北京: 科学技术出版社, 2000.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

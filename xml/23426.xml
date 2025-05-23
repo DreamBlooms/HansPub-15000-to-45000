@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article"><front><journal-meta><journal-id journal-id-type="publisher-id">AAM</journal-id><journal-title-group><journal-title>Advances in Applied Mathematics</journal-title></journal-title-group><issn pub-type="epub">2324-7991</issn><publisher><publisher-name>Scientific Research Publishing</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.12677/AAM.2018.71002</article-id><article-id pub-id-type="publisher-id">AAM-23426</article-id><article-categories><subj-group subj-group-type="heading"><subject>AAM20180100000_41037036.pdf</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>数学与物理</subject></subj-group></article-categories><title-group><article-title>
+ 
+ 
+  有理性问题的一点注记
+  A Note on Rationality Problem
+ 
+</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>王</surname><given-names>国淇</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>null</addr-line></aff><aff id="aff2"><label>1</label><addr-line>北京航空航天大学数学与系统科学学院，北京</addr-line></aff><author-notes><corresp id="cor1">* E-mail:</corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>01</month><year>2018</year></pub-date><volume>07</volume><issue>01</issue><fpage>7</fpage><lpage>9</lpage><permissions><copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement><copyright-year>2014</copyright-year><license><license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p></license></permissions><abstract><p>
+ 
+ 
+  
+    设群G为S
+   <sub>14</sub>的传递子群，其为两个群的圈积。令k为任意域，G在有理函数域k(x
+   <sub>1</sub>,x
+   <sub>2</sub>,&#183;&#183;&#183;,x
+   <sub>4</sub>)上的作用定义为σ(x
+   <sub>i</sub>)=x
+   <sub>σ(i)</sub>，对任意的
+   σ∈G，1≤i≤14 。我们将证明k(G)=
+   k(x
+   <sub style="text-align:justify;white-space:normal;">1</sub>
+   ,x
+   <sub style="text-align:justify;white-space:normal;">2</sub>
+   ,&#183;&#183;&#183;,x
+   <sub style="text-align:justify;white-space:normal;">4</sub>
+   )<sup>G</sup>是k-有理的。
+    Let G be a transitive subgroup of 
+   S
+   <sub style="text-align:justify;white-space:normal;">14</sub> which is a wreath product. For any field k, G acts on the rational function field 
+   k(x
+   <sub style="text-align:justify;white-space:normal;">1</sub>
+   ,x
+   <sub style="text-align:justify;white-space:normal;">2</sub>
+   ,&#183;&#183;&#183;,x
+   <sub style="text-align:justify;white-space:normal;">4</sub>
+   ) via k-automorphisms defined by 
+   σ(x
+   <sub style="text-align:justify;white-space:normal;">i</sub>
+   )=x
+   <sub>σ(i)</sub>, for any 
+   σ
+   ∈G, any 
+   1≤i≤14. We will show 
+   k(G)=
+   k(x
+   <sub style="text-align:justify;white-space:normal;">1</sub>
+   ,x
+   <sub style="text-align:justify;white-space:normal;">2</sub>
+   ,&#183;&#183;&#183;,x
+   <sub style="text-align:justify;white-space:normal;">4</sub>
+   )<sup>G</sup> is k-rational. 
+  
+ 
+</p></abstract><kwd-group><kwd>传递子群，有理性问题，k-有理的, Transitive Subgroup</kwd><kwd> Rationality Problem</kwd><kwd> k-Rational</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>有理性问题的一点注记<sup> </sup></title><p>王国淇</p><p>北京航空航天大学数学与系统科学学院，北京</p><disp-formula id="hanspub.23426-formula15"><graphic xlink:href="//html.hanspub.org/file/2-2620569x13_hanspub.png"  xlink:type="simple"/></disp-formula><p>收稿日期：2017年12月8日；录用日期：2018年1月9日；发布日期：2018年1月16日</p><disp-formula id="hanspub.23426-formula16"><graphic xlink:href="//html.hanspub.org/file/2-2620569x14_hanspub.png"  xlink:type="simple"/></disp-formula></sec><sec id="s2"><title>摘 要</title><p>设群 G 为 S 1 4 的传递子群，其为两个群的圈积。令 k 为任意域， G 在有理函数域 k ( x 1 , x 2 , ⋯ , x 1 4 ) 上的作用定义为 σ ( x i ) = x σ ( i ) ，对任意的 σ ∈ G ， 1 ≤ i ≤ 1 4 。我们将证明 k ( G ) = k ( x 1 , x 2 , ⋯ , x 1 4 ) G 是k-有理的。</p><p>关键词 :传递子群，有理性问题，k-有理的</p><disp-formula id="hanspub.23426-formula17"><graphic xlink:href="//html.hanspub.org/file/2-2620569x24_hanspub.png"  xlink:type="simple"/></disp-formula><p>Copyright &#169; 2018 by author and Hans Publishers Inc.</p><p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p><p>http://creativecommons.org/licenses/by/4.0/</p><p><img src="//html.hanspub.org/file/2-2620569x25_hanspub.png" /> <img src="//html.hanspub.org/file/2-2620569x26_hanspub.png" /></p></sec><sec id="s3"><title>1. 引言</title><p>自从诺特在1916年发表的一片文章《Gleichungen mit vorgeschriebener Gruppe》里提出的关于域扩张的有理性问题以来，人们就在这个问题上做了各方面的研究，并取得了很大进步。所谓的有理性问题是说，在给定的群 G 和有理函数域 k ( x 1 , x 2 , ⋯ , x n ) 的情形下，让群 G 通过忠实的置换作用在集合 { x 1 , x 2 , ⋯ , x n } 上，得到的不变域 k ( x 1 , x 2 , ⋯ , x n ) G 相对于基域k的扩张是不是k-有理的(即纯超越的) [<xref ref-type="bibr" rid="hanspub.23426-ref2">2</xref>] 。部分学者考虑了不同的域和不同的群作用下的有理性问题，并且取得了很大的进展。本文主要研究当群 G 为表1中的群时的有理性问题。</p></sec><sec id="s4"><title>2. 相关定理</title><p>本文所研究的 S 14 的传递子群及其生成元如表1所示：</p><p>生成元为：</p><p>a = ( 1 , 3 , 5 , 7 , 9 , 11 , 13 ) ( 2 , 4 , 6 , 8 , 10 , 12 , 14 ) c = ( 1 , 8 ) ( 2 , 9 ) ( 3 , 10 ) ( 4 , 11 ) ( 5 , 12 ) ( 6 , 13 ) ( 7 , 14 ) d = ( 1 , 3 , 5 , 7 , 9 , 11 , 13 ) g = ( 1 , 8 ) n = ( 3 , 13 ) ( 5 , 11 ) ( 7 , 9 )</p><p>下面我们列出一些将要用到的结论。</p><p>定理2.1 [<xref ref-type="bibr" rid="hanspub.23426-ref3">3</xref>]</p><p>当 n = 7 ，设 G 为 S 7 的传递子群，且 G 不同构于 P S L 2 ( 7 ) ，则 k ( x 1 , ⋯ , x 7 ) G 是k-有理的；若 G 同构于 P S L 2 ( 7 ) ，且 ℚ ( − 7 ) ⊂ k ，那么 k ( x 1 , ⋯ , x 7 ) G 是k-有理的。</p><p>定理2.2 [<xref ref-type="bibr" rid="hanspub.23426-ref4">4</xref>]</p><p>设k是一个域， n ≤ 46 ，且8不整除n，则 k ( C n ) 是k-有理的。其中 C n 表示 n 阶循环群。</p><p>定理2.3 [<xref ref-type="bibr" rid="hanspub.23426-ref5">5</xref>]</p><p>设k是一个域， G ⊂ S m , H ⊂ S n ，定义 W = G ≀ H ，则 W 可以看做 S m n 的子群。若 k ( x 1 , ⋯ , x m ) G 和 k ( y 1 , ⋯ , y n ) H 是k-有理的，则 k ( z 1 , ⋯ , z n m ) W 是k-有理的。</p><table-wrap id="table1" ><label><xref ref-type="table" rid="table1">Table 1</xref></label><caption><title> Transitive Subgroups of S1</title></caption><table><tbody><thead><tr><th align="center" valign="middle" ></th><th align="center" valign="middle" >阶</th><th align="center" valign="middle" >生成元</th><th align="center" valign="middle" >特征描述</th></tr></thead><tr><td align="center" valign="middle" >G 8</td><td align="center" valign="middle" >98 = 2 ⋅ 7 2</td><td align="center" valign="middle" >d , c</td><td align="center" valign="middle" >7 ≀ 2</td></tr><tr><td align="center" valign="middle" >G 20</td><td align="center" valign="middle" >392 = 2 3 ⋅ 7 2</td><td align="center" valign="middle" >d , n , c</td><td align="center" valign="middle" >D ( 7 ) ≀ 2</td></tr><tr><td align="center" valign="middle" >G 29</td><td align="center" valign="middle" >896 = 2 7 ⋅ 7</td><td align="center" valign="middle" >g , a</td><td align="center" valign="middle" >2 ≀ 7</td></tr></tbody></table></table-wrap><p>表1. S<sub>14</sub>的传递子群</p><p>注： G j 表示文献 [<xref ref-type="bibr" rid="hanspub.23426-ref1">1</xref>] 中 S 14 的第 j ( j = 8 , 20 , 29 ) 个传递子群。</p></sec><sec id="s5"><title>3. 主要定理</title><p>我们给出本文的主要结果及其证明。</p><p>定理：设 k 为任意域，若 G 为表1中的任意一个群，则 k ( x 1 , ⋯ , x 14 ) G 是k-有理的。</p><p>证明：根据表1中生成元的特点，对于 G 8 和 G 29 ，我们有 C 2 ⊂ S 2 ， C 7 ⊂ S 7 ，且由定理2.2知 k ( C 2 ) 和 k ( C 7 ) 是k-有理的，再由定理2.3知 k ( x 1 , ⋯ , x 14 ) G 是k-有理的。至于 G 20 ，由于 D ( 7 ) 由 d , n 生成，从而 D ( 7 ) 是 S 7 的传递子群，根据定理2.1知 k ( x 1 , ⋯ , x 7 ) D ( 7 ) 是k-有理的，且 k ( C 2 ) 是k-有理的，最后根据定理2.3知结论成立。</p></sec><sec id="s6"><title>文章引用</title><p>王国淇. 有理性问题的一点注记A Note on Rationality Problem[J]. 应用数学进展, 2018, 07(01): 7-9. http://dx.doi.org/10.12677/AAM.2018.71002</p></sec><sec id="s7"><title>参考文献 (References)</title></sec></body><back><ref-list><title>References</title><ref id="hanspub.23426-ref1"><label>1</label><mixed-citation publication-type="other" xlink:type="simple">Conway, J.H. and Mckay, A.H.J. (1998) On Transitive Permutation Groups. LMS Journal of Computation &amp; Mathe-matics, 1, 1-8. https://doi.org/10.1112/S1461157000000115</mixed-citation></ref><ref id="hanspub.23426-ref2"><label>2</label><mixed-citation publication-type="other" xlink:type="simple">Swan, R.G. (1983) Noether’s Problem in Galois Theory. Springer, New York, 21-40.</mixed-citation></ref><ref id="hanspub.23426-ref3"><label>3</label><mixed-citation publication-type="other" xlink:type="simple">Kang, M. and Wang, B. (2013) Rational Invariants for Subgroups of   and  . Journal of Algebra, 413, 345-363. 
+https://doi.org/10.1016/j.jalgebra.2014.05.015</mixed-citation></ref><ref id="hanspub.23426-ref4"><label>4</label><mixed-citation publication-type="other" xlink:type="simple">Lenstra Jr., H.W. (1974) Rational Functions Invariant under a Finite Abelian Group. Inventiones Mathematicae, 25, 299-325. https://doi.org/10.1007/BF01389732</mixed-citation></ref><ref id="hanspub.23426-ref5"><label>5</label><mixed-citation publication-type="other" xlink:type="simple">Kang, M.C., Wang, B.S. and Zhou, J. (2013) Invariants of Wreath Products and Subgroups of  . Mathematics, 55, 265-269.</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">OE</journal-id>
+      <journal-title-group>
+        <journal-title>Optoelectronics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2164-5450</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/OE.2017.74016</article-id>
+      <article-id pub-id-type="publisher-id">OE-22740</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>OE20170400000_43888860.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>工程技术</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          数字图像处理技术在直条纹间距测量中的应用
+          Application of Image-Processing on Spacing Testing of Straight Fringes
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>高</surname>
+            <given-names>晓娟</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>孔</surname>
+            <given-names>祥俊</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>徐</surname>
+            <given-names>永祥</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>白</surname>
+            <given-names>福忠</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>内蒙古工业大学，机械学院，内蒙古 呼和浩特</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>joan789@163.com(高晓)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>04</issue>
+      <fpage>110</fpage>
+      <lpage>116</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          论文介绍了一种应用数字图像处理技术进行直条纹间距测量的方法。利用CCD器件采集条纹图像，然后利用数字图像处理技术的二值化与细化操作提取中心条纹，对中心条纹图像进行Hough变换，由参数空间的峰值位置计算得到相邻条纹之间的距离。该方法与传统傅里叶变换法相比较，具有非常大的应用优势，并且适用于相等间距或不等间距的直条纹图像。仿真与实验证明了该方法的可行性与有效性。 A method based on the application of digital image-processing in interference fringes spacing testing has been described in the paper. Through the CCD camera, the interference fringes are captured. Then two image-processing operations, binaryzation and thinning processing, are used to withdraw the center grain. While the Hough transform is applied to the obtained center grain image, the distance between any adjacent fringes is calculated according to the position coordinates of peak values in the parameter space. Compared with the Fourier transform method (FTM), the proposed method has a good applied prospect, and can be suitable to the occasion with equidistant or non-equidistant fringes. Simulation and experiment are given and show this method is feasibility and effectiveness.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>直条纹，间距测量，数字图像处理，Hough变换, Straight Fringes</kwd>
+        <kwd> Spacing Testing</kwd>
+        <kwd> Digital Image-Processing</kwd>
+        <kwd> Hough Transform</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        数字图像处理技术在直条纹间距测量中的应用<sup> </sup>
+      </title>
+      <p>高晓娟，孔祥俊，徐永祥，白福忠</p>
+      <p>内蒙古工业大学，机械学院，内蒙古 呼和浩特</p>
+      <p>收稿日期：2017年10月17日；录用日期：2017年10月30日；发布日期：2017年11月22日</p>
+      <disp-formula id="hanspub.22740-formula6">
+        <graphic xlink:href="//html.hanspub.org/file/2-2140127x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>论文介绍了一种应用数字图像处理技术进行直条纹间距测量的方法。利用CCD器件采集条纹图像，然后利用数字图像处理技术的二值化与细化操作提取中心条纹，对中心条纹图像进行Hough变换，由参数空间的峰值位置计算得到相邻条纹之间的距离。该方法与传统傅里叶变换法相比较，具有非常大的应用优势，并且适用于相等间距或不等间距的直条纹图像。仿真与实验证明了该方法的可行性与有效性。</p>
+      <p>关键词 :直条纹，间距测量，数字图像处理，Hough变换</p>
+      <disp-formula id="hanspub.22740-formula7">
+        <graphic xlink:href="//html.hanspub.org/file/2-2140127x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/2-2140127x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/2-2140127x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        目前光学测试方法已广泛应用于科学技术的许多部门，特别是在光谱学、计量学等精密测量领域具有重要的实际应用。而光学条纹是各种光学系统信息输出的一种重要形式，对这些光学条纹进行处理和识别，能获得许多重要的光学系统参数。例如，在干涉直条纹分析中，通过条纹间距和强度分布能够获得所需的物理参数信息 [<xref ref-type="bibr" rid="hanspub.22740-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.22740-ref2">2</xref>] 。直条纹间距的测量在干涉领域也是一项重要的常规测量项目。例如，最早干涉条纹间距的测量主要采用目视或接触式方法，利用显微镜头将条纹放大，采用分划板测量得到某两条条纹之间的距离。这种方法既不能保证测量精度还容易造成人眼视觉疲劳。另一种方法可以采用傅里叶变换法(FTM)对条纹图像进行分析，该方法是一种信号处理技术，自动测量程度与抗噪声能力明显提高，但是它对图像中条纹的数目以及采样长度有着较苛刻的要求 [<xref ref-type="bibr" rid="hanspub.22740-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.22740-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.22740-ref5">5</xref>] 。
+      </p>
+      <p>
+        近几十年来，随着数字图像处理设备的出现和不断完善，人们逐步将图像处理技术应用于光学条纹的自动分析和处理中。八十年代以来，个人微机性能的大幅度提高和微机图像处理系统的研制成功，增进了数字图像处理系统的普及 [<xref ref-type="bibr" rid="hanspub.22740-ref6">6</xref>] 。这类由图像卡、图像监视器及微机组成的系统已广泛应用于光学检测等工程领域。而由干涉仪、CCD传感器与计算机相结合，使干涉技术具有更高的灵敏度，更高的精度和更快的测试速度 [<xref ref-type="bibr" rid="hanspub.22740-ref7">7</xref>] 。
+      </p>
+      <p>本文针对光学干涉或衍射中产生的直条纹图像的间距测量，引入基于数字图像处理技术的测量方法，详细介绍了图像处理的技术步骤，并且对测量的精度和重复性进行验证。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 劈尖干涉测量原理</title>
+      <p>以劈尖干涉装置为例，来介绍光学直条纹的产生及其特点。单色平行光经分光镜M反射后垂直入射至劈尖，入射光经劈尖上、下表面反射，形成的两束反射光在劈尖上表面相遇而产生干涉，干涉条纹被探测器T采集，劈尖干涉装置如图1所示。干涉条纹为平行于棱边的一系列明暗相间的直条纹。相邻明纹(或暗纹)的间距为：</p>
+      <p>e = λ 2 n sin θ ≈ λ 2 n θ (1)</p>
+      <p>式中，n为劈尖形介质的折射率，如果为空气劈尖，则n约等于1；θ为劈尖角，一般很小；λ为入射单色光的波长。</p>
+      <p>公式(1)将条纹间距e与 λ ，n以及θ联系起来。例如，如果当入射光波长与折射率n已知时，通过测量出干涉直条纹的间距e，进而可以得到劈尖角或与劈尖角相关的物理参数。劈尖干涉在测量膜厚、细丝直径、微小位移等方面具有重要应用。</p>
+      <p>图1. 劈尖干涉装置</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 直条纹图像处理</title>
+      <p>在利用光学直条纹进行的干涉或衍射测量中，获得相邻明条纹或暗条纹的间距是整个测量的关键。本文对获取的条纹图像进行数字图像处理主要包括以下步骤：通过对条纹图像进行二值化和细化操作提取出条纹中心线，然后利用Hough变换计算出条纹间距。</p>
+      <sec id="s5_1">
+        <title>3.1. 条纹中心线提取</title>
+        <p>
+          通过对图像进行二值化处理，得到的图像的灰度信息变成只有0和255两种，以降低图像数据的冗余量。二值化以后的条纹图像骨架宽度往往大于一个像素，必须对这样的条纹进行细化使条纹宽度变成一个像素，这样才能提高条纹位置坐标的判读精度，同时减少了有效信息的像素数从而提高后续处理步骤的计算效率 [<xref ref-type="bibr" rid="hanspub.22740-ref8">8</xref>] 。
+        </p>
+        <p>论文所处理的图像是由明暗相间的条纹组成，图像灰度变化符合周期信号特征，这类图像信号的灰度直方图将呈现两边高中间低(即峰–谷–峰)的分布状态。因此选择一般的二值化方法便可实现阈值分割，这里将图像的平均灰度值作为阈值来实现二值化处理。</p>
+        <p>
+          图像细化操作的目的是提取线宽为1像素的骨架，它是广泛应用于图像处理与模式识别的一个重要的图像预处理过程。采用Hilditch细化算法对二值化后的图像进行处理，可以获得好的细化效果 [<xref ref-type="bibr" rid="hanspub.22740-ref9">9</xref>] 。
+        </p>
+        <p>基于上述数字图像处理步骤，对如图2(a)所示的一幅直条纹图像进行了处理，该图像经过二值化处理后结果如图2(b)所示；又经过Hilditch细化处理后如图2(c)所示。按照图2的二值化结果，提取出的中心线对应暗条纹，由此计算出的条纹间距为相邻暗条纹的间距。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 条纹间距计算</title>
+        <p>
+          傅里叶变换法是一种直条纹周期测量的传统方法，对条纹图像进行二维傅里叶变换，通过发现频谱零频成分两侧的一级频谱峰值的位置来得到条纹的频率，进而计算出条纹的空间周期 [<xref ref-type="bibr" rid="hanspub.22740-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.22740-ref10">10</xref>] 。傅里叶变换法计算简便，具有极好的噪声免疫能力。但是该方法缺陷也是显而易见的，有时也是致命的。存在的问题如下：
+        </p>
+        <p>图2. (a) 被测的条纹图像；(b) 二值化结果；(c) Hilditch细化</p>
+        <p>首先，它只能计算出条纹的周期，不能测量出任意两个条纹的间距，因此它的处理对象只能是等间距条纹，这在衍射条纹处理中是不适用的。</p>
+        <p>其次，傅里叶变换法计算过程中要求频谱中正负一级谱与零频成分充分分离，因此需要图像中包含较多的条纹数目，这在一些条纹数较少的场合也是不适用的。</p>
+        <p>
+          此外，若原始数据截断长度等于条纹周期的整数倍，此时频谱峰值正好被采样，能够得到条纹图像的无偏频率值。但是，若采样长度不等于条纹周期的整数倍，计算出的频率值就可能引起较大的误差 [<xref ref-type="bibr" rid="hanspub.22740-ref11">11</xref>] 。
+        </p>
+        <p>基于上述原因，在很大程度上限制了傅里叶变换法在精密测量中的应用。</p>
+        <p>本文应用Hough变换针对图2(c)所示的条纹图像细化结果进行间距的测量。平面直角坐标系中的直线方程可表示为：</p>
+        <p>ρ = x cos θ + y sin θ , ρ ≥ 0 , − 179 &#176; ≤ θ &lt; 180 &#176; (2)</p>
+        <p>
+          式中， ρ 与 θ 的含义可以从如图3所示的Hough变换原理示意图看出。由Hough变换原理可知，一条直线上的多个点在参数空间中被表示为一簇相交于某一点的正弦曲线。因此，如果确定出参数空间中这一交汇点，也就是局部最大值点，便可以求出这条直线 [<xref ref-type="bibr" rid="hanspub.22740-ref12">12</xref>] 。
+        </p>
+        <p>图2(c)的Hough变换结果显示为图4，原图中包含7条直线，于是在参数空间中也会出现7个局部最大值点。当找到这7个局部最大值点的位置，便可确定出图2(c)中7条直线的直线方程参数。图4中，坐标原点在左下角；水平方向为 θ ，其范围为 − 90 &#176; ≤ θ &lt; 90 &#176; ；竖直方向为 ρ 。图4中，由下至上排列的各点分别对应于图2(c)中从左至右的每条直线段。而图4中，任意相邻两个局部最亮点所对应的极径 ρ i 之差即为对应的相邻条纹之间的距离。对于等距条纹而言，可以将所有相邻条纹的间距的平均值作为待测间距值。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 方法的性能测试</title>
+      <p>首先对本文方法的抗噪声能力进行研究，对间距等于25.5像素的理想条纹图像加入零均值、方差为0.02的高斯噪声，结果如图5(a)所示；它的二值化和细化结果如图5(b)所示，进一步经Hough变换以后的结果如图5(c)所示。为了清晰显示参数空间中的正弦趋势，我们将变换结果进行反色处理。经计算，不包含噪声与加入噪声图像的条纹间距分别等于25.58像素和25.61像素。由此说明，论文方法的检测结果几乎不受噪声的影响。</p>
+      <p>
+        因此图像处理过程中无需对原始图像进行滤波平滑处理，尽管条纹中心线可能由于噪声原因引起短枝、断点等缺陷，但是该方法仍然可以很好的保证测量精度，比较与一些如文献 [<xref ref-type="bibr" rid="hanspub.22740-ref13">13</xref>] 所给出的传统方法，本方法具有很大的测量优势。
+      </p>
+      <p>其次，仿真了一幅大小为256 &#215; 256像素、相等条纹间距(间距为36像素)的一簇斜直线，并且加入Bayer抖动噪声，仿真图像如图6所示。表1给出了仿真图像中任意相邻条纹间距的测量结果以及它们与</p>
+      <p>图3. Hough变换原理说明；(a) 图像空间；(b) 参数空间</p>
+      <p>图4. Hough变换结果</p>
+      <p>图5. (a) 加入高斯噪声的条纹图像；(b) 噪声条纹的中心线；(c) Hough变换结果</p>
+      <p>图6. 加入Bayer抖动噪声的模拟图像</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> Testing results and errors for any two adjacent fringes (unit: pixel</title>
+        </caption>
+        </table-wrap>
+      </sec>
+    </body>
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.22740-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Rajshekhar, G. and Rastogi, P. (2012) Fringe Analysis: Premise and Perspectives. Optics Laser in Engineering, 50, 3-10. &lt;br&gt;https://doi.org/10.1016/j.optlaseng.2012.04.006</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Wang, D., Yang, Y., Chen, C. and Zhuo, Y. (2011) Point Diffraction In-terferometer with Adjustable Fringe Contrast for Testing Spherical Surfaces. Applied Optics, 50, 2342-2348. &lt;br&gt;https://doi.org/10.1364/AO.50.002342</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">孙定源, 吴新杰. 提高FFT法测量等距干涉条纹频率精度的一种简便方法[J]. 辽宁大学学报自然科学版, 1999, 26(4): 334-338</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Sun D.Y., Wu, X.J. and Zhou G.X. (1999) A Method for Improving Preci-sion in Determining Interference Fringe Frequence with FFT. Journal of Liaoning University (Natural Science Edition), 26, 334-338.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Donald, J., Bone, H.A., Bachor, R. and Sandeman, J. (1986) Fringe-Pattern Analysis Using a 2-D Fourier Transform. Applied Optics, 25, 1653-1660. &lt;br&gt;https://doi.org/10.1364/AO.25.001653</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Harnoy, S. and Nguyen, T.Q. (2008) LCD Motion Blur Reduction: A Signal Processing Approach. IEEE Transactions on Image Processing, 17, 117-125. &lt;br&gt;https://doi.org/10.1109/TIP.2007.914152</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">金学峰, 饶芮菱, 鲁怀伟. 电子散斑干涉条纹的计算机自动处理[J]. 光学与光电技术, 2007, 5(1): 64- 67.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Tian, Q., Zhang, X., Ma, Q. and Ge, B. (2016) Utilizing Polygon Segmentation Technique to Extract and Optimize Light Stripe Centerline in Line-Structured Laser 3D Scanner. Pattern recognition, 55, 100-113.
+                &lt;br&gt;https://doi.org/10.1016/j.patcog.2016.02.008
+              </mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">陈瑞改, 陈怀新. 干涉条纹中心线提取与细化的新方法[J]. 激光杂志, 2005, 26(5): 40-41.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Nicola, S.D. et al. (1999) Interferometric Method for Testing Focal Lengths Using a Digital Fourier Trans-form. Proceedings of SPIE, 3739, 335-340. &lt;br&gt;https://doi.org/10.1117/12.360163</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref11">
+              <label>11</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Lei, H., Qian, K., Bing, P. and Asundi, A.K. (2010) Comparison of Fourier transform, windowed Fourier Transform, and Wavelet Transform Methods for Phase Extraction from a Single Fringe Pattern in Fringe Projection Profilometry. Optics and Lasers in Engineering, 48, 141-148. &lt;br&gt;https://doi.org/10.1016/j.optlaseng.2009.04.003</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref12">
+              <label>12</label>
+              <mixed-citation publication-type="other" xlink:type="simple">程芳, 尹一彬. 基于Hough变换的米粒的机器视觉检测[J]. 浙江大学学报, 2004, 5(6): 663-667.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22740-ref13">
+              <label>13</label>
+              <mixed-citation publication-type="other" xlink:type="simple">冉铮惠, 陈长龄, 罗克莲. 数字图像处理技术在平面等倾干涉测量中的应用[J]. 仪器仪表学报, 2003, 24(4): 56- 61.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

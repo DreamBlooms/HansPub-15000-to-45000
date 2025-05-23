@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">MS</journal-id>
+      <journal-title-group>
+        <journal-title>Material Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7613</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/MS.2017.78090</article-id>
+      <article-id pub-id-type="publisher-id">MS-22731</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>MS20170800000_18632392.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>化学与材料</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          激光深熔焊接304不锈钢焊缝成形工艺与控制
+          Study on Appearance of Weld during Deep-Penetration Laser Welding of 304 Stainless Steel
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>李</surname>
+            <given-names>时春</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>廖</surname>
+            <given-names>生慧</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陈</surname>
+            <given-names>根余</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff4">
+        <addr-line>湖南大学机械与运载工程学院激光研究所，湖南 长沙</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>湖南科技大学智能制造研究院，湖南 湘潭</addr-line>
+      </aff>
+      <aff id="aff3">
+        <addr-line>厦门金龙联合汽车工业有限公司，福建 厦门</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>08</issue>
+      <fpage>681</fpage>
+      <lpage>689</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          针对高功率激光深熔焊接焊304奥氏体不锈钢缝成形质量差，易形成“钉子头”焊缝特征，研究了焊接速度、离焦量、侧吹保护气喷嘴直径对焊缝几何形貌的影响，同时研究了添加活性硫粉对焊缝熔池的控制作用和对焊缝成型的影响。结果表明：随焊接速度的增加或者随着离焦量由负值变到正值，焊缝深宽比和焊缝上部熔合线与中心线夹角θ均呈现出先增大后减小的趋势，当焊接速度为25 mm/s、离焦量为−3 mm时，焊缝的深宽比和夹角θ值最大，焊缝“钉子头”特征最不明显。在前置45度角侧吹氩气保护时，选择较大的吹气喷嘴直径，可得到深宽比和夹角θ较大值，有效抑制“钉子头”焊缝特征。表面活性元素硫粉的添加，能够实现对焊接熔池的有效控制，减小焊缝表面熔宽、增加焊缝熔深，抑制“钉子头”焊缝的形成。可见优化焊接工艺参数和添加活性粉是控制“钉子头”型焊缝的有效方法。
+          For the reasons that bad weld shapes were easy to form during high-power deep-penetration laser welding, and the “nail-head” weld shape could generated easily, this paper carried out the exper-iments to study the effects of weld speed, defocused distance and jet orifice diameter of shielding gas on the weld seam geometry. The effects of surface-active sulfur powder on weld formation were studied. It was found that when the welding speed increased or the defocused distance changed from negative to positive, the depth-to-width ratio and the angle θ increased first and then decreased. When the welding speed was 25 mm/s and the defocused distance was −3 mm, the depth-to-width ratio and the angle θ were the biggest and the “nail-head” characteristic of weld shape was most non-obvious. During laser welding with argon shielding gas which was set prepo-sition and with 45 degree angle, the relative big jet orifice diameter should be chosen, then the relative big depth-to-width ratio and angle θ could be obtained and the “nail-head” weld shape could be better controlled. The addition of surface-active sulfur powder during laser welding could control the molten pool behavior, reduce the weld width and increase the weld depth, and then the “nail-head” weld shape could be suppressed. Therefore, optimizing welding parameters and adding active powder were two valid means to control “nail-head” weld shape, which could be used during actual production.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>激光深熔焊接，“钉子头”型焊缝，工艺优化，活性焊接, Deep-Penetration Laser Welding</kwd>
+        <kwd> “Nail-Head” Shape Weld</kwd>
+        <kwd> Parameter Optimization</kwd>
+        <kwd> Active-Welding</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        激光深熔焊接304不锈钢焊缝成形工艺与控制<sup> </sup>
+      </title>
+      <p>
+        李时春<sup>1,2</sup>，廖生慧<sup>3*</sup>，陈根余<sup>4 </sup>
+      </p>
+      <p>
+        <sup>1</sup>湖南科技大学智能制造研究院，湖南 湘潭
+      </p>
+      <p>
+        <sup>2</sup>湖南科技大学难加工材料高效精密加工湖南省重点实验室，湖南 湘潭
+      </p>
+      <p>
+        <sup>3</sup>厦门金龙联合汽车工业有限公司，福建 厦门
+      </p>
+      <p>
+        <sup>4</sup>湖南大学机械与运载工程学院激光研究所，湖南 长沙
+      </p>
+      <disp-formula id="hanspub.22731-formula8">
+        <graphic xlink:href="//html.hanspub.org/file/2-1280553x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2017年10月28日；录用日期：2017年11月11日；发布日期：2017年11月21日</p>
+      <disp-formula id="hanspub.22731-formula9">
+        <graphic xlink:href="//html.hanspub.org/file/2-1280553x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>针对高功率激光深熔焊接焊304奥氏体不锈钢缝成形质量差，易形成“钉子头”焊缝特征，研究了焊接速度、离焦量、侧吹保护气喷嘴直径对焊缝几何形貌的影响，同时研究了添加活性硫粉对焊缝熔池的控制作用和对焊缝成型的影响。结果表明：随焊接速度的增加或者随着离焦量由负值变到正值，焊缝深宽比和焊缝上部熔合线与中心线夹角θ均呈现出先增大后减小的趋势，当焊接速度为25 mm/s、离焦量为−3 mm时，焊缝的深宽比和夹角θ值最大，焊缝“钉子头”特征最不明显。在前置45度角侧吹氩气保护时，选择较大的吹气喷嘴直径，可得到深宽比和夹角θ较大值，有效抑制“钉子头”焊缝特征。表面活性元素硫粉的添加，能够实现对焊接熔池的有效控制，减小焊缝表面熔宽、增加焊缝熔深，抑制“钉子头”焊缝的形成。可见优化焊接工艺参数和添加活性粉是控制“钉子头”型焊缝的有效方法。</p>
+      <p>关键词 :激光深熔焊接，“钉子头”型焊缝，工艺优化，活性焊接</p>
+      <disp-formula id="hanspub.22731-formula10">
+        <graphic xlink:href="//html.hanspub.org/file/2-1280553x7_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/2-1280553x8_hanspub.png" />
+        <img src="//html.hanspub.org/file/2-1280553x9_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        不锈钢因其具有优良综合性能，被广泛应用于航空、运载机械、造船、核电装备等行业中。与传统焊接相比，激光深熔焊接具有焊接接头深宽比大、焊接速度快、热影响区小、且一般不加填充材料等优点 [<xref ref-type="bibr" rid="hanspub.22731-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref2">2</xref>] 。并且随着高功率、高光束质量的光纤激光的快速发展，激光焊接在各行业得到越来越广泛的应用。由于在高能量密度(10<sup>6</sup>~10<sup>8</sup> W/cm<sup>2</sup>)激光束的照射作用下，激光焊接不锈钢过程中形成深熔小孔，有利于增加焊接熔深和激光能量的吸收比率，然而深熔小孔内存在频繁波动且不断向外喷射的金属蒸气 [<xref ref-type="bibr" rid="hanspub.22731-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref4">4</xref>] ，使得焊接熔池不稳定，焊接小孔容易坍塌，产生飞溅、塌陷、驼峰等缺陷。
+      </p>
+      <p>
+        并且，在激光焊接过程中，由于喷出的金属蒸气对熔池表面的热辐射、以及因Marangoni对流和气化反冲压力等因素的驱使下不断向孔外流动的金属熔液，使得接近上表面的熔池宽度较下部宽，焊缝截面呈现出类似于“钉子头”的焊缝截面形貌 [<xref ref-type="bibr" rid="hanspub.22731-ref5">5</xref>] 。“钉子头”焊缝在内部存在一处具有较大曲率变化的熔合线，此处以上和以下的焊缝宽度差值较大，在焊缝冷却过程中曲率变化较大的部位产生较大的残余应力，易使焊接板材产生形变，且在焊缝服役过程中易出现疲劳破坏等不良现象 [<xref ref-type="bibr" rid="hanspub.22731-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref6">6</xref>] 。
+      </p>
+      <p>
+        现有文献对“钉子头”焊缝的形成原因和抑制方法进行了相应的研究。研究表明表面张力引起的Marangoni对流是驱使熔池由中心高温区流向周边低温区的主要原因之一，从而导致熔池上表面变宽 [<xref ref-type="bibr" rid="hanspub.22731-ref7">7</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref8">8</xref>] 。此结论得到理论的证实，相关文献通过数值模拟建立了激光深熔焊接和传导焊接的三维模型，仿真计算了焊缝成形特征，得出但Marangoni对流驱使熔池由中心向周边流动时促进了“钉子头”焊缝的成型 [<xref ref-type="bibr" rid="hanspub.22731-ref9">9</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref10">10</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref11">11</xref>] 。也有文献研究表明激光光束质量及孔外等离子体对“钉子头”型焊缝的形成有一定联系 [<xref ref-type="bibr" rid="hanspub.22731-ref12">12</xref>] 。通过侧吹保护气抑制孔外等离子体后，“钉子头”焊缝特征得到有效控制 [<xref ref-type="bibr" rid="hanspub.22731-ref3">3</xref>] ；也有文献采用外加磁场的方法来控制金属熔液的流动，同样能够抑制“钉子头”焊缝的形成 [<xref ref-type="bibr" rid="hanspub.22731-ref6">6</xref>] 。
+      </p>
+      <p>但是，以上研究并未系统的分析各焊接工艺参数对“钉子头”型焊缝产生的影响。因此，本文采用高功率光纤激光对304奥氏体不锈钢进行焊接试验，研究焊接工艺参数对激光深熔焊接焊缝成形的影响，并通过添加活性硫粉的措施对焊接熔池流动性适当控制，探讨活性硫粉对“钉子头”焊缝的抑制效果。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 试验设备与方法</title>
+      <p>试验设备采用YLR-4000-C-WA光纤激光器，最大输出功率为4 kW，输出模式为多模连续输出，波长为1.07 μm。激光束通过芯径为300 μm的光纤传输，焊接头的准直镜焦距为150 mm、聚焦镜焦距为200 mm，聚焦光斑直径为0.4 mm。焊接过程采用前置45度角侧吹氩气保护焊缝防止其被氧化，吹气流量为25 l/min。</p>
+      <p>试验材料为304奥氏体不锈钢，不锈钢的尺寸规格为60 mm &#215; 30 mm &#215; 8 mm，化学成分如表1所示。焊前用丙酮清洗焊接部位，去除油污。焊接试验过程中，激光功率固定在4 kW，分别研究了单因素变化时焊接速度、离焦量和吹气喷嘴大小对焊缝成型的影响规律。此外，试验采用预置粉末的方法添加少量粉末(预置粉末层厚度约为0.3 mm)在材料表面再将激光束沿粉末处扫描形成焊缝，研究活性粉末对焊缝成型的抑制。焊接试验结束后，采用线切割取出焊缝部位，经过打磨抛光，采用现配置的王水对焊缝截面进行腐蚀，最后采用显微镜观察焊缝形貌。试验对焊缝的截面形状进行了参数化对比研究，对“钉子头”焊缝特征进行定量对比分析。</p>
+      <p>
+        如图1所示为激光焊接焊缝截面形貌量化分析尺寸参数示意图。其中，d表示焊缝深度，w表示焊缝顶部宽度，d/w的比值表示焊缝深宽比，d/w的数值越大代表焊接时的激光熔透能力越强。图中θ表示上部焊缝熔合线与下部焊缝中心线的夹角。其角度值越大表示上部焊缝与下部焊缝宽度变化越小，且焊缝内部熔合线曲率变化越小，“钉子头”焊缝特征越不明显；其角度值越小表示上部焊缝与下部焊缝宽度变化越大，且焊缝内部熔合线曲率变化越大，“钉子头”焊缝特征越明显。由文献 [<xref ref-type="bibr" rid="hanspub.22731-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22731-ref9">9</xref>] 可知，“钉子头”型焊缝不仅使得焊缝深宽比减小，降低激光穿透能力。本文在讨论焊缝成型特征时，既要保证较大的焊缝深宽比d/w，同时要尽量增大θ角，以减弱焊缝“钉子头”特征的明显程度。
+      </p>
+    </sec>
+    <sec id="s5">
+      <title>3. 试验结果与分析</title> </sec>
+      <sec id="s5_1">
+        <title>3.1. 焊接速度对焊缝成型的影响</title>
+        <p>如表2所示数据，为在激光功率4 kW、离焦量−3 mm、吹气流量25 l/min，不同的焊接速度焊接时</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Chemical composition of 304 stainless steel (mass fraction, %</title>
+          </caption>
+          </table-wrap>
+            </sec>
+              </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22731-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">郭玉泉, 吴东江, 马广义, 等. 夹具拘束距离对Hastelloy C-276薄板脉冲激光焊接变形的影响[J]. 光学精密工程, 2013, 20(11): 2465-2471.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">吴东江, 尹波, 周秋菊, 等. 用Nd:YAG激光焊接殷钢薄板材料[J]. 光学精密工程, 2009, 17(3): 557-562.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">张林杰, 张建勋, 王蕊, 等. 侧吹气体对不锈钢薄板激光焊接焊缝成形的影响[J]. 稀有金属材料与工程, 2006, 35(A02): 39-44.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Zhang, Y., Chen, G.Y., Wei, H.Y., et al. (2008) A Novel ‘‘Sandwich’’ Method for Observation of the Keyhole in Deep Penetration Laser Welding. Optics and Lasers in Engineering, 46, 133-139.
+                  &lt;br&gt;https://doi.org/10.1016/j.optlaseng.2007.08.010
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Rai, R., Palmer, T.A., Elmer, J.W., et al. (2009) Heat Transfer and Fluid Flow during Electron Beam Welding of 304L Stainless Steel Alloy. Welding Journal, 88, 54-61.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Bachmann, M., Avilov, V., Gumenyuk, A., et al. (2013) About the Influence of a Steady Magnetic Field on Weld Pool Dynamics in Partial Penetration High Power Laser Beam Welding of Thick Aluminium Parts. International Journal of Heat and Mass Transfer, 60, 309-321.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Lampa, C., Powell, J., Ivarson, A., et al. (1995) Factors Affecting the Efficncy of Laser-welding. Lasers in Engineering, 4, 73-83.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Zacharia, T., David, S.A., Vitek, J.M., et al. (1989) Weld Pool Development during GTA and Laser Beam Welding of Type 304 Stainless Steel, Part II—Experimental Correlation. Welding Journal, 68, 510s-519s.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref9">
+                <label>9</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Radaj, D. (2003) Welding Residual Stresses and Distortion: Calculation and Measurement. DVS-Verlag, Düsseldorf, ISBN 3-87155-791-9.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref10">
+                <label>10</label>
+                <mixed-citation publication-type="other" xlink:type="simple">褚庆臣, 何秀丽, 虞钢, 等. 不锈钢激光搭接焊接头温度场数值模拟及分析[J]. 中国激光, 2010, 37(12): 3180-3186.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref11">
+                <label>11</label>
+                <mixed-citation publication-type="other" xlink:type="simple">杜汉斌, 胡伦骥, 王东川, 等. 激光穿透焊温度场及流动场的数值模拟[J]. 焊接学报, 2005, 26(12):65-69.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref12">
+                <label>12</label>
+                <mixed-citation publication-type="other" xlink:type="simple">李建强. 304不锈钢激光焊接的建模与仿真[D]: [硕士学位论文]. 天津: 天津大学, 2004.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref13">
+                <label>13</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Lienert, T.J., Burgardt, P., Harada, K.L., et al. (2014) Weld Bead Center Line Shift during Laser Welding of Austenitic Stainless Steels with Different Sulfur Content. Scripta Materialia, 71, 37-40.
+                  &lt;br&gt;https://doi.org/10.1016/j.scriptamat.2013.09.029
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref14">
+                <label>14</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Wei, H.L., Pal, S., Manvatkar, V., et al. (2015) Asymmetry in Steel Welds with Dissimilar Amounts of Sulfur. Scripta Materialia, 108, 88-91. &lt;br&gt;https://doi.org/10.1016/j.scriptamat.2015.06.024</mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref15">
+                <label>15</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Traidia A., Roger F., Schroeder, J., et al. (2013) On the Ef-fects of Gravity and Sulfur Content on the Weld Shape in Horizontal Narrow Gap GTAW of Stainless Steels. Journal of Materials Processing Technology, 213, 1128-1138.
+                  &lt;br&gt;https://doi.org/10.1016/j.jmatprotec.2013.01.010
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref16">
+                <label>16</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Mishra S., Lienert T.J., Johnson, M.Q. and DebRoy, T. (2008) An Experimental and Theoretical Study of Gas Tungsten Arc Welding of Stainless Steel Plates with Different Sulfur Concentrations. Acta Materialia, 56, 2133-2146.
+                  &lt;br&gt;https://doi.org/10.1016/j.actamat.2008.01.028
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref17">
+                <label>17</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Wang, Y., Shi, Q. and Tsai, H.L. (2001) Modeling of the Ef-fects of Surface Active Elements on Flow Patterns and Weld Penetration. Metallurgical and Materials Transactions B, 32, 145-161.
+                  &lt;br&gt;https://doi.org/10.1007/s11663-001-0017-7
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22731-ref18">
+                <label>18</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Zhao, Y.Z., LEI, Y.P., et al. (2005) Effects of Surface-Active Elements Sulfur on Flow Patterns of Welding Pool. Journal of Materials Science &amp; Technology, 21, 408-414.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+        </article>

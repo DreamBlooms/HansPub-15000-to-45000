@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">MM</journal-id>
+      <journal-title-group>
+        <journal-title>Modern Management</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7311</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/MM.2017.76057</article-id>
+      <article-id pub-id-type="publisher-id">MM-23149</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>MM20170600000_97531286.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          董事会非正式层级与研发投入
+          The Relationship between the Board Informal Hierarchy and R&amp;D Investment
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>高</surname>
+            <given-names>钰</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>张</surname>
+            <given-names>丹</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>东华大学，上海</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>zhimiankunan@yeah.net(高钰)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>06</issue>
+      <fpage>433</fpage>
+      <lpage>442</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          基于社会学的关系契约理论，董事间依据董事个人权威和社会资本形成的非正式层级在董事会决策中发挥重要作用。研发投入属于董事会决策中的一种，本文旨在探讨董事会非正式层级中董事任职差异程度对企业研发投入的影响。以2009~2010年在创业板上市的58家企业为研究对象，实证结果表明董事会非正式层级越清晰，董事内部地位差异越大，研发投入越多；技术独立董事对非正式层级清晰度与研发投入间的正调节效应不显著；董事会规模越大，决策效率降低，非正式层级清晰度与研发投入间的正向关系被削弱。 Based on the sociological relationship contract theory, the directors play an important role in board decision-making because of the informal hierarchy of directors' personal authority and social capital. Owing to R&amp;D investment as an important board decision, the purpose of this paper is to explore the impact of the status and level of directors on the R&amp; D investment in the informal hierarchy of the board. This paper selects 58 companies which listed on the China Growth Enter-prise Market from 2009 to 2010, and the empirical results show that the informal hierarchy is clearer, the difference of the directors’ internal status is greater, and the R&amp;D investment will in-crease. The effect of independent technology directors on the level of clarity and R&amp;D investment is not significant. The board size is larger, the efficiency of decision making is lower, and the positive relationship between informal level clarity and R &amp; D investment is weakened.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>非正式层级，研发投入，技术独立董事，董事会规模, Informal Hierarchy</kwd>
+        <kwd> Investment</kwd>
+        <kwd> Independent Technology Director</kwd>
+        <kwd> Board Size</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        董事会非正式层级与研发投入<sup> </sup>
+      </title>
+      <p>高钰，张丹</p>
+      <p>东华大学，上海</p>
+      <p>收稿日期：2017年12月4日；录用日期：2017年12月18日；发布日期：2017年12月25日</p>
+      <disp-formula id="hanspub.23149-formula16">
+        <graphic xlink:href="//html.hanspub.org/file/12-1120594x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>基于社会学的关系契约理论，董事间依据董事个人权威和社会资本形成的非正式层级在董事会决策中发挥重要作用。研发投入属于董事会决策中的一种，本文旨在探讨董事会非正式层级中董事任职差异程度对企业研发投入的影响。以2009~2010年在创业板上市的58家企业为研究对象，实证结果表明董事会非正式层级越清晰，董事内部地位差异越大，研发投入越多；技术独立董事对非正式层级清晰度与研发投入间的正调节效应不显著；董事会规模越大，决策效率降低，非正式层级清晰度与研发投入间的正向关系被削弱。</p>
+      <p>关键词 :非正式层级，研发投入，技术独立董事，董事会规模</p>
+      <disp-formula id="hanspub.23149-formula17">
+        <graphic xlink:href="//html.hanspub.org/file/12-1120594x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/12-1120594x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/12-1120594x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>在全球经济加速一体化的竞争背景下，创新能力的培养对企业具有战略意义，研发投入是企业实现创新的主要方式。作为企业的战略决策主体，董事会参与公司战略制定、实施、控制与评价的整个过程。根据资源依赖理论，企业需要从外部环境中获取资源降低自身对环境的依赖性，以减少企业面临的不确定性，维持其生存与发展。董事为企业提供资源的能力可以用董事会资本衡量，董事会资本影响企业的战略决策，其中包含研发投入。因此，研究董事会资本与研发投入之间的关系具有重大意义。</p>
+      <p>
+        Hillman和Dalziel (2003) [<xref ref-type="bibr" rid="hanspub.23149-ref1">1</xref>] 最先提出董事会资本的概念，并划分为人力和社会资本。人力资本指董事具有的专业知识、经验和声誉等，社会资本指董事成员所拥有的内外部关系及由这些社会网络关系产生的潜在和现有的资源，科尔曼认为社会资本是个体具备的社会结构资源，包含社会网络等方面。社会资本具有网络关联的特点，董事通过在外部不同企业任职获取更多关于创新研发的信息与资源，促进企业的研发投入。周建等(2012) [<xref ref-type="bibr" rid="hanspub.23149-ref2">2</xref>] 研究了2007~2009年我国高科技上市企业，结果表明董事会社会资本与企业研发投入正相关。张丹等(2016) [<xref ref-type="bibr" rid="hanspub.23149-ref3">3</xref>] 研究了2013年信息技术业上市公司，发现董事会间联系和政治资源与研发投资均显著正相关。
+      </p>
+      <p>
+        委托代理理论是研究董事会的主导理论，强调在所有权和经营权分离下，董事会的正式治理结构能够调和股东和经理间的利益矛盾。但在董事会内部，董事会规模、董事长与总经理是否两职合一、独立董事占比等正式结构与公司价值、投资效率的关系没有明确结论，而董事会非正式结构逐渐受到学者的关注。2008年Magee和Galinsky [<xref ref-type="bibr" rid="hanspub.23149-ref4">4</xref>] 最先提出非正式层级的概念，他们认为无论何种群体与组织，都存在由小部分具有决定权的高地位成员与众多无条件服从的低地位成员构成的金字塔形的层级结构，这种层级可以是非正式的，高地位的成员会获得低地位成员的更多尊重，并影响其决策。2011年Diefenbach和Sillince [<xref ref-type="bibr" rid="hanspub.23149-ref5">5</xref>] 在研究中对非正式层级正式定义为来源于社会互动，并且通过重复的社会过程而形成的个体之间相互支配和从属的持久隐形社会关系。2011年He和Huang [<xref ref-type="bibr" rid="hanspub.23149-ref6">6</xref>] 首次将非正式层级运用于董事会资本的研究，认为因社会资本高低形成的隐性排名，导致“低地位”的成员听从“高地位”成员的意见，最大程度上减少意见冲突，提高董事会的决策效率。
+      </p>
+      <p>本文的贡献表现在：第一，从董事会非正式层级清晰度的维度去衡量社会资本，这种方法不同于对社会资本的简单累加，综合考虑了协方差水平；第二。以在创业板上市的企业为样本，我国2009年正式推行创业板市场，和主板市场相比，在创业板上市的是具备强成长性的中小型企业，研发投入是其核心战略之一，研究这类企业的董事会非正式层级与研发投入具有重大意义。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 理论和研究假设</title>
+      <sec id="s4_1">
+        <title>2.1. 理论渊源</title>
+        <sec id="s4_1_1">
+          <title>2.1.1. 开放式创新</title>
+          <p>
+            开放式创新是指企业在技术创新过程中通过与外部组织广泛合作，整合内外部创新资源进而提高创新效率和效益的一类创新模式。Chesbrough (2003) [<xref ref-type="bibr" rid="hanspub.23149-ref7">7</xref>] 最早从企业层面理解开放式创新，即有价值的创新可以从企业外部或内部获得。后来学者从不同角度拓展了其概念，Christensen (2005) [<xref ref-type="bibr" rid="hanspub.23149-ref8">8</xref>] 认为开放式创新是创新资产，在企业之间、企业与研究组织之间的流动和整合。杨武(2006) [<xref ref-type="bibr" rid="hanspub.23149-ref9">9</xref>] 认为开放式创新是企业鼓励和探索范围广泛的内部和外部创新机会来源的战略行为，包括用户、竞争对手、学校等，也包括使用、管理和运用知识产权方面的变革。在国内，企业的创新行为嵌入于其社会关系之中是开放式创新的要求和表现。我国社会关系呈现“差序格局”，“关系”成为资源配置的重要力量，在企业间的经济行为中“关系”有时比科学的制度和决策更能起决定作用。
+          </p>
+        </sec>
+        <sec id="s4_1_2">
+          <title>2.1.2. 与社会资本相关的理论</title>
+          <p>1) 资源依赖理论</p>
+          <p>1978年Pfeffer和Salancik在《组织的外部控制：资源依赖视角》中正式提出资源依赖理论。由于不同企业拥有不同资源，而企业通常需要依赖的资源在企业的外部，因而企业需要和其之外的其他企业进行资源交换从而获得外部资源，正是如此，企业对外部环境的依赖性不断增加。资源依赖理论认为，董事会人力资本与社会资本的投入能降低企业对外部环境的依赖性，降低企业面临的环境不确定性和交易代价，从而促进企业的发展与进步。学者们研究表明，董事会提供的资源能够为企业提供合法性的保护、树立良好的公众形象、获取专业知识、增加公司获取有价值资源的机会，有利于公司构建外部联系，并推广创新成果。</p>
+          <p>2) 关系契约理论</p>
+          <p>仅依靠基于真实契约关系的委托代理理论解释董事会在股东与管理层之间的协调管理作用并不足够，代理理论也存在着与事实相悖的情况。1980年美国法学家Macneil提出关系契约理论，其认为每项交易都是嵌入在复杂的关系中，关系是契约发生的背景，交易双方以相互熟悉的契约交易方式在长期交往中逐步建立信任，不需要法律或者其他条文约束对方，而仅仅通过社会交往、信息沟通、信用、团结等特殊的基于关系形成的交易机制来降低交易成本与风险。在公司治理领域，关系契约理论很好地解释了董事会非正式层级的存在：如果董事会成员间因为任职差异存在隐性的排名，排名的依据来自于董事的人力与社会资本。排名靠前的董事更为受到尊敬，排名靠后的董事会跟随排名靠前的董事作出相同决策，尽量减少意见冲突，提高决策效率。排名越清晰的董事会中，公司的投融资等决策由谁最后决定，在董事讨论中存在公认的隐性模式，当做决策时这种基于关系契约形成的隐性模式便会发挥其自身的作用。</p>
+        </sec>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 研究假设</title>
+        <p>董事会非正式层级清晰度是对董事会内部董事成员地位差异性的度量，成员地位差异性的形成主要是基于董事所拥有的不同人力与社会资源。根据资源依赖理论，拥有社会资本的董事更能获取行业内的其他有利信息，帮助企业做出正确的研发投入决策。董事因社会资本的不同而形成的董事个体间的地位差异，能使董事在面临复杂决策时较为有效地遵循内部的隐性机制，有助于促进董事会集体民主地进行高效率决策，选择有利于企业长期发展的研发项目投资。当董事会内部存在较为明显的非正式层级时，高层级董事更多地受到尊敬，低层级的董事受到较少尊敬，决策中低层级的董事更倾向于听从高层级的意见，非正式层级越清晰，董事更容易达成一致。因此，本文提出以下假设：</p>
+        <p>
+          H<sub>1</sub>：董事会非正式层级清晰度与研发投入正相关；
+        </p>
+        <p>根据资源依赖理论，公司的某些稀缺资源决定了其是否具有核心竞争力。除了公司依赖的内部资源，其根本的生存能力取决于从外部环境获取关键资源的能力。拥有专业技术背景的独立董事加入董事会可以为公司提供更多的专业技能、知识和经验等稀缺资源，从而有助于公司发现更多前景良好的创新机会，提高董事会R&amp;D活动的决策质量，进而提高研发资金的利用效率。技术独立董事通过为公司提供专业性技能，促进内部董事的知识积累和应用，提升技术和创新能力。基于以上分析，本文提出假设：</p>
+        <p>
+          H<sub>1-1</sub>：技术独立董事处于非正式层级最高级别时，董事会非正式层级清晰度与企业研发投入正相关关系会增强；
+        </p>
+        <p>
+          在张耀伟、陈世山对董事会非正式层级的绩效效应及其影响机制研究中，他们将董事会规模作为控制变量；叶玲，管亚梅(2016) [<xref ref-type="bibr" rid="hanspub.23149-ref10">10</xref>] 对董事会隐性层级、公司投资行为及效率实证中，也将董事会规模作为控制变量。因此，董事会规模对隐性层级作用的发挥存在一定影响。如果董事会规模较大，即人数较多，董事们会使用更多时间搜索在自己内心深处形成的隐形层级，在有限的会议时间内，会增加董事作出决策的难度。因此，非正式层级只有在一定人数范围内的董事会中才会发挥有效作用。因此提出假设：
+        </p>
+        <p>
+          H<sub>1-2</sub>：董事会规模越大，董事会非正式层级清晰度与企业研发投入正相关关系会减弱。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 研究设计</title>
+      <sec id="s5_1">
+        <title>3.1. 样本选取和数据来源</title>
+        <p>已有的对董事会非正式层级的研究文献均以深、沪两市A股为研究对象，探究董事会非正式层级的绩效效应、影响机制、投资行为及效率等。本文在前人研究的基础上，考虑到我国2009年正式推行创业板市场，和主板市场相比，在创业板上市的是具备强成长性的中小型企业，研发投入是其核心战略之一，研究这类企业的董事会非正式层级与研发投入将具有重要意义。按照如下步骤进行筛选：1) 剔除上市后5年内未曾披露过研发投入的上市公司。2) 剔除对董事成员信息披露不全及其他财务数据披露不全的上市公司。最终筛选到样本共58家公司，董事兼任信息等数据主要从国泰安公司治理数据库中获得，通过Excel汇总；董事会规模、独立董事占比、企业规模、股权集中度、资产负债率、行业和年度等其他数据来源于国泰安数据库，对于未披露的信息本文主要从上市公司年报等网站收集获得。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 变量定义</title>
+        <p>1) 被解释变量</p>
+        <p>本文的被解释变量是样本公司2011~2013年间和2014~2016年间研发投入的平均强度，本文用3年平均研发投入/3年平均主营业务收入来衡量，用RDI表示。</p>
+        <p>2) 解释变量</p>
+        <p>
+          董事会非正式层级强度用董事兼任其他公司董事、监事和高管数量取对数加和衡量。非正式层级清晰度用用基尼系数模型衡量，其中，y表示董事任职的地位水平，r<sub>y</sub>是根据非正式层级强度大小对董事进行的排位， C O V ( y , r y ) 表示协方差，N是董事会总人数， y &#175; 是非正式层级强度的平均值。调节变量1是技术独立董事是否位于排名第一，是则赋值1，否则赋值0。调节变量2是董事会规模。
+        </p>
+        <p>G i n i = 2 C O V ( y , r y ) N y &#175;</p>
+        <p>3) 控制变量</p>
+        <p>根据本领域学者已有的研究结果，本文选取企业规模、股权集中度、独立董事占比，资产负债率、创新环境作为控制变量(表1)。</p>
+        <p>4) 模型设定</p>
+        <p>根据以上假设与变量定义，构建以下模型：</p>
+        <p>模型1： R D I = β 0 + β 1 G i n i + β i M i + ε</p>
+        <p>模型1-1： R D I = β 0 + β 1 G i n i + β 2 ∗ T e c _ i n d e p + ( β 3 ∗ T e c _ i n d e p ∗ G i n i ) + β i M i + ε</p>
+        <p>模型1-2： R D I = β 0 + β 1 G i n i + β 2 ∗ B o a r d s i z e + ( β 3 ∗ G i n i ∗ B o a r d s i z e ) + β i M i + ε</p>
+        <p>在上述模型中，被解释变量RDI是研发投入， β 0 是截距， β 1 ， β 2 和 β 3 分别是系数， M i 表示各控制变量， β i 表示各控制变量的系数， ε 为残差。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 实证结果与分析</title>
+      <sec id="s6_1">
+        <title>4.1. 描述性统计</title>
+        <p>表2的描述性统计显示2011~2013年间研发投入的平均强度6.25%，高于2014~2016年间均值0.0561。原因有：1) 从过程看，研发投入具有明显的阶段特征，研发过程越靠前端，离市场越远，研发基础性特征越强，信息越不充分，风险越大，因而用于早期建立进入门槛的投入就需要越多，确保研发企业维持以后研发成功后的垄断利润。2) 从宏观环境看，根据国家统计局、科学技术部、财政部联合发布的《全国科技经费投入统计公报》显示2011年至2016年间全国投入研究与实验发展经费分别为8687亿元、10298.4亿元、11846.6亿元、13015.6亿元、14169.9亿元和15676.7亿元，增长率分别为：23%、18.55%、15.03%、9.87%、8.87%和10.63%，2011~2013年间国家对研发投入的经费资助保持在15%的增速以上，而2014-2016年间回落到10%水平。结合以上情况，本文选择对前三年和后三年的研发投入强度分组进行Pearson相关性检验。</p>
+        <p>2011~2016年间前三年研发投入的平均强度高于后三年。如表3描述的是2011~2013年间不同行业间研发投入的差异。1) 制造业、信息业和商务租赁业是研发投入占比收入5%以上的三个行业。信息业研发投入最多，均值11.84%，行业内不同公司间研发投入的差距较大，标准差为0.1679，是制造业的2倍之多。制造业研发投入平均占比收入5.44%，样本公司间差距较小，整体较为平均。2) 采矿业、批发零售业、仓储业、公共服务业、卫生投入较少，在0.77%~4.2%不等。如表4描述的是2014~2016年间不同行业间研发投入的差异。1) 从整体强度看，制造业、信息业和商务租赁业仍然是研发投入强度在5%以上的行业，信息业研发投入最多，均值10.72%。2) 和2011~2013年间比较，制造业和信息业的研发投入强度降低为4.79%和10.72%，商务租赁业研发投入强度为6.36%，相较于2011~2013年有提高。</p>
+        <p>解释变量描述性统计结果显示(表5)：1) 非正式层级强度均值为4.59，最小0.69，最大值14.66，标准差3.17，不同样本间董事兼任数量差距较大。2) 非正式层级清晰度均值为0.3344，我国公司董事会中因董事兼任不同的上市公司职位，非正式层级确实存在，地位差异相对合理(基尼系数在0.4~0.6间表示相对合理)。3) 技术独立董事是否处于最高级的均值为0.14，即技术独立董事在因董事兼任数量不同形成的董事会非正式层级中排名第一的比例不超过15%。标准差0.344，差异较大，说明不同公司的技术独立董事的地位相差较大，可能是技术独立董事的社会资源差异造成。4) 董事会规模均值2.12，因董事会规模取董事会人数的自然对数，意味着董事会平均8~9人。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 相关性分析</title>
+        <p>表6是2011~2013年间被解释变量、解释变量、调节变量和控制变量之间的Pearson相关系数表。从表中看出，董事会非正式层级强度与研发投入强度负相关关系不显著(−0.007)，即公司董事兼任其他公司董事、高管数量越多，研发投入强度会越低。董事会非正式层级清晰度与研发投入强度呈正相关(0.171)，</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Variable names and definition</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" ></th>
+                  <th align="center" valign="middle" >变量名称</th>
+                  <th align="center" valign="middle" >变量符合</th>
+                  <th align="center" valign="middle" >变量定义</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >被解释变量</td>
+                <td align="center" valign="middle" >研发投入强度</td>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >研发投入/主营业务收入</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >解释变量</td>
+                <td align="center" valign="middle" >董事会非正式层级清晰度</td>
+                <td align="center" valign="middle" >Gini</td>
+                <td align="center" valign="middle" >G i n i = 2 C O V ( y , r y ) N y &#175;</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="2"  >调节变量</td>
+                <td align="center" valign="middle" >技术独立董事处于非正式层级最高级</td>
+                <td align="center" valign="middle" >Tec-Ind</td>
+                <td align="center" valign="middle" >最高级为1，否则为0</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >董事会规模</td>
+                <td align="center" valign="middle" >B_Size</td>
+                <td align="center" valign="middle" >董事会总人数的自然对数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="5"  >控制变量</td>
+                <td align="center" valign="middle" >独立董事占比</td>
+                <td align="center" valign="middle" >Ind</td>
+                <td align="center" valign="middle" >独立董事人数/董事总人数</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >企业规模</td>
+                <td align="center" valign="middle" >C_Size</td>
+                <td align="center" valign="middle" >企业期末总资产的自然对数，ln</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >股权集中度</td>
+                <td align="center" valign="middle" >FSH</td>
+                <td align="center" valign="middle" >前五大股东持股比例</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >资产负债率</td>
+                <td align="center" valign="middle" >Lev</td>
+                <td align="center" valign="middle" >企业期末负债与总资产的比例</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >创新环境</td>
+                <td align="center" valign="middle" >Env</td>
+                <td align="center" valign="middle" >2010年《中国区域创新能力报告》排名</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 变量名称及定义汇总</p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> R&amp;D intensity of descriptive statistics (time</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >RDI</th>
+                  <th align="center" valign="middle" >N</th>
+                  <th align="center" valign="middle" >Avg</th>
+                  <th align="center" valign="middle" >S.D.</th>
+                  <th align="center" valign="middle" >Min</th>
+                  <th align="center" valign="middle" >Max</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >R D I &#175; 2011~2013</td>
+                <td align="center" valign="middle" >58</td>
+                <td align="center" valign="middle" >0.0625</td>
+                <td align="center" valign="middle" >0.0887</td>
+                <td align="center" valign="middle" >0.0004</td>
+                <td align="center" valign="middle" >0.5731</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >R D I &#175; 2014~2016</td>
+                <td align="center" valign="middle" >58</td>
+                <td align="center" valign="middle" >0.0561</td>
+                <td align="center" valign="middle" >0.0839</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.6874</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. 研发投入强度描述性统计结果(时间)</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> 2011~2013 Descriptive statistics of R&amp;D investment intensity (industry</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >Industry</th>
+                  <th align="center" valign="middle" >N</th>
+                  <th align="center" valign="middle" >Avg</th>
+                  <th align="center" valign="middle" >S.D.</th>
+                  <th align="center" valign="middle" >Min</th>
+                  <th align="center" valign="middle" >Max</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >B (采矿业)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0168</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0168</td>
+                <td align="center" valign="middle" >0.0168</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >C (制造业)</td>
+                <td align="center" valign="middle" >40</td>
+                <td align="center" valign="middle" >0.0544</td>
+                <td align="center" valign="middle" >0.0606</td>
+                <td align="center" valign="middle" >0.0004</td>
+                <td align="center" valign="middle" >0.2500</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >F (批发和零售业)</td>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >0.0402</td>
+                <td align="center" valign="middle" >0.0002</td>
+                <td align="center" valign="middle" >0.0404</td>
+                <td align="center" valign="middle" >0.0404</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >G (仓储业)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0077</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0077</td>
+                <td align="center" valign="middle" >0.0077</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >I (信息业)</td>
+                <td align="center" valign="middle" >10</td>
+                <td align="center" valign="middle" >0.1184</td>
+                <td align="center" valign="middle" >0.1679</td>
+                <td align="center" valign="middle" >0.0099</td>
+                <td align="center" valign="middle" >0.5731</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >L (商务租赁业)</td>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >0.0607</td>
+                <td align="center" valign="middle" >0.0844</td>
+                <td align="center" valign="middle" >0.0011</td>
+                <td align="center" valign="middle" >0.1204</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >N (公共服务业)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0310</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0310</td>
+                <td align="center" valign="middle" >0.0310</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Q (卫生)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0049</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0049</td>
+                <td align="center" valign="middle" >0.0049</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 2011~2013年间研发投入强度描述性统计结果(行业)</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> 2014~2016 Descriptive statistics of R&amp;D investment intensity (industry</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >Industry</th>
+                  <th align="center" valign="middle" >N</th>
+                  <th align="center" valign="middle" >Avg</th>
+                  <th align="center" valign="middle" >S.D.</th>
+                  <th align="center" valign="middle" >Min</th>
+                  <th align="center" valign="middle" >Max</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >B (采矿业)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0132</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0132</td>
+                <td align="center" valign="middle" >0.0132</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >C (制造业)</td>
+                <td align="center" valign="middle" >40</td>
+                <td align="center" valign="middle" >0.0479</td>
+                <td align="center" valign="middle" >0.0711</td>
+                <td align="center" valign="middle" >0.0002</td>
+                <td align="center" valign="middle" >0.1914</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >F (批发和零售业)</td>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >0.0436</td>
+                <td align="center" valign="middle" >0.0003</td>
+                <td align="center" valign="middle" >0.0388</td>
+                <td align="center" valign="middle" >0.0522</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >G (仓储业)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0075</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0075</td>
+                <td align="center" valign="middle" >0.0075</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >I (信息业)</td>
+                <td align="center" valign="middle" >10</td>
+                <td align="center" valign="middle" >0.1072</td>
+                <td align="center" valign="middle" >0.1556</td>
+                <td align="center" valign="middle" >0.0082</td>
+                <td align="center" valign="middle" >0.6874</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >L (商务租赁业)</td>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >0.0636</td>
+                <td align="center" valign="middle" >0.0773</td>
+                <td align="center" valign="middle" >0.0024</td>
+                <td align="center" valign="middle" >0.1290</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >N (公共服务业)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0300</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0300</td>
+                <td align="center" valign="middle" >0.0300</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Q (卫生)</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >0.0033</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >0.0033</td>
+                <td align="center" valign="middle" >0.0033</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表4. 2014~2016年间研发投入强度描述性统计结果(行业)</p>
+        <table-wrap id="table5" >
+          <label>
+            <xref ref-type="table" rid="table5">Table 5</xref>
+          </label>
+          <caption>
+            <title> Descriptive statistics of the variable</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" ></th>
+                  <th align="center" valign="middle" >N</th>
+                  <th align="center" valign="middle" >Avg</th>
+                  <th align="center" valign="middle" >S.D.</th>
+                  <th align="center" valign="middle" >Min</th>
+                  <th align="center" valign="middle" >Max</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >TC</td>
+                <td align="center" valign="middle" >58</td>
+                <td align="center" valign="middle" >4.5882</td>
+                <td align="center" valign="middle" >3.1751</td>
+                <td align="center" valign="middle" >0.6931</td>
+                <td align="center" valign="middle" >14.6626</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Gini</td>
+                <td align="center" valign="middle" >58</td>
+                <td align="center" valign="middle" >0.3344</td>
+                <td align="center" valign="middle" >0.0809</td>
+                <td align="center" valign="middle" >0.1682</td>
+                <td align="center" valign="middle" >0.4705</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Tec-Indep</td>
+                <td align="center" valign="middle" >58</td>
+                <td align="center" valign="middle" >0.1400</td>
+                <td align="center" valign="middle" >0.3440</td>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Board Size</td>
+                <td align="center" valign="middle" >58</td>
+                <td align="center" valign="middle" >2.1279</td>
+                <td align="center" valign="middle" >0.1678</td>
+                <td align="center" valign="middle" >1.6094</td>
+                <td align="center" valign="middle" >2.5649</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表5. 解释变量的描述性统计结果</p>
+        <table-wrap id="table6" >
+          <label>
+            <xref ref-type="table" rid="table6">Table 6</xref>
+          </label>
+          <caption>
+            <title> 2011~2013 Correlation coefficient of variable</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" ></th>
+                  <th align="center" valign="middle" >RDI</th>
+                  <th align="center" valign="middle" >Gini</th>
+                  <th align="center" valign="middle" >Tec-Ind</th>
+                  <th align="center" valign="middle" >B_Size</th>
+                  <th align="center" valign="middle" >Ind</th>
+                  <th align="center" valign="middle" >C_Size</th>
+                  <th align="center" valign="middle" >FSH_Rat</th>
+                  <th align="center" valign="middle" >Lev</th>
+                  <th align="center" valign="middle" >Industry</th>
+                  <th align="center" valign="middle" >Env</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Gini</td>
+                <td align="center" valign="middle" >
+                  0.171<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Tec-Ind</td>
+                <td align="center" valign="middle" >0.074</td>
+                <td align="center" valign="middle" >−0.011</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >B_Size</td>
+                <td align="center" valign="middle" >
+                  −0.086<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.324<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.145<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Ind</td>
+                <td align="center" valign="middle" >0.036</td>
+                <td align="center" valign="middle" >
+                  0.182<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >0.024</td>
+                <td align="center" valign="middle" >
+                  −0.606<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >C_Size</td>
+                <td align="center" valign="middle" >−0.015</td>
+                <td align="center" valign="middle" >−0.109</td>
+                <td align="center" valign="middle" >−0.094</td>
+                <td align="center" valign="middle" >0.141</td>
+                <td align="center" valign="middle" >−0.112</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >FSH</td>
+                <td align="center" valign="middle" >−0.109</td>
+                <td align="center" valign="middle" >0.072</td>
+                <td align="center" valign="middle" >−0.071</td>
+                <td align="center" valign="middle" >
+                  −0.160<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.150<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >0.029</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Lev</td>
+                <td align="center" valign="middle" >−0.058</td>
+                <td align="center" valign="middle" >−0.006</td>
+                <td align="center" valign="middle" >−0.106</td>
+                <td align="center" valign="middle" >−0.054</td>
+                <td align="center" valign="middle" >0.122</td>
+                <td align="center" valign="middle" >
+                  0.378<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.178<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Industry</td>
+                <td align="center" valign="middle" >
+                  0.179<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.170<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >0.007</td>
+                <td align="center" valign="middle" >0.048</td>
+                <td align="center" valign="middle" >−0.058</td>
+                <td align="center" valign="middle" >0.031</td>
+                <td align="center" valign="middle" >−0.025</td>
+                <td align="center" valign="middle" >−0.049</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Env</td>
+                <td align="center" valign="middle" >−0.086</td>
+                <td align="center" valign="middle" >−0.028</td>
+                <td align="center" valign="middle" >−0.011</td>
+                <td align="center" valign="middle" >0.049</td>
+                <td align="center" valign="middle" >0.04</td>
+                <td align="center" valign="middle" >−0.095</td>
+                <td align="center" valign="middle" >−0.116</td>
+                <td align="center" valign="middle" >0.009</td>
+                <td align="center" valign="middle" >−0.140</td>
+                <td align="center" valign="middle" >1</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表6. 2011~2013年间变量相关系数</p>
+        <p>
+          <sup>**</sup>，<sup>*</sup>分别代表在0.01和0.05水平(双尾检验)下显著。
+        </p>
+        <p>在1%水平上显著。技术独立董事与研发投入强度呈正相关，但不显著，技术独立董事对研发投入的正向作用不明显，可能因为描述性统计时发现，在创业板样本公司中有技术背景的独立董事处于最高级位置的情况较少。同时，董事会规模与研发投入强度之间反向关系，即董事人数越多，会反向影响董事会关于研发投入的决策效率，导致研发投入强度变小，结果在1%水平上显著。</p>
+        <p>表7是2014~2016年间被解释变量、解释变量、调节变量和控制变量之间的Pearson相关系数表。从表中看出，董事会非正式层级清晰度与研发投入强度呈正相关(0.153)，但并不显著。技术独立董事与研发投入强度呈正相关，但不显著，同样技术独立董事对研发投入的正向作用不明显，可能因为描述性统计时发现，在创业板样本公司中有技术背景的独立董事处于最高级位置的情况较少。同时，董事会规模与研发投入强度之间呈反向，董事人数越多，会降低研发投入的决策效率，进而导致研发投入强度变小，结果仍在1%水平上显著。因2014~2016年间董事会任职差异与研发投入的相关性较低，进行回归没有意义，因此本文最后在进行多元线性回归时采用2011~2013年间的数据。</p>
+      </sec>
+      <sec id="s6_3">
+        <title>4.3. 多元线性回归</title>
+        <p>通过多元线性回归分析(表8)，得出结论：</p>
+        <p>1) 董事会非正式层级清晰度与研发投入强度正相关，实证结果与假设一致。说明董事在不同公司兼任董事、高管等职位会为自身带来外部的资源，在董事会内部形成隐性地位层级。尤其在创业板上市的公司，有很大一部分公司是技术创新企业，在董事需要作出研发投入决策时，若在短时间内难以达成共识，董事更会依据隐形的层级来作出最终决策。而在高科技企业内部，本身有科技背景的董事，兼任的公司也大多是同类型的公司，隐性的层级会对研发投入的决策带来正向作用。</p>
+        <table-wrap id="table7" >
+          <label>
+            <xref ref-type="table" rid="table7">Table 7</xref>
+          </label>
+          <caption>
+            <title> 2014~2016 Correlation coefficient of variable</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" ></th>
+                  <th align="center" valign="middle" >RDI</th>
+                  <th align="center" valign="middle" >Gini</th>
+                  <th align="center" valign="middle" >Tec-Ind</th>
+                  <th align="center" valign="middle" >B_Size</th>
+                  <th align="center" valign="middle" >Ind</th>
+                  <th align="center" valign="middle" >Com_Size</th>
+                  <th align="center" valign="middle" >FSH_Rat</th>
+                  <th align="center" valign="middle" >Lev</th>
+                  <th align="center" valign="middle" >Industry</th>
+                  <th align="center" valign="middle" >Env</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Gini</td>
+                <td align="center" valign="middle" >0.153</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Tec-Ind</td>
+                <td align="center" valign="middle" >0.061</td>
+                <td align="center" valign="middle" >−0.009</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >B_Size</td>
+                <td align="center" valign="middle" >
+                  −0.079<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.256<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.152<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Ind</td>
+                <td align="center" valign="middle" >0.040</td>
+                <td align="center" valign="middle" >
+                  0.169<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >0.018</td>
+                <td align="center" valign="middle" >
+                  −0.565<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >C_Size</td>
+                <td align="center" valign="middle" >−0.010</td>
+                <td align="center" valign="middle" >−0.104</td>
+                <td align="center" valign="middle" >−0.143</td>
+                <td align="center" valign="middle" >0.136</td>
+                <td align="center" valign="middle" >−0.009</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >FSH_Rat</td>
+                <td align="center" valign="middle" >−0.007</td>
+                <td align="center" valign="middle" >0.068</td>
+                <td align="center" valign="middle" >−0.088</td>
+                <td align="center" valign="middle" >
+                  −0.159<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.133<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >0.022</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Lev</td>
+                <td align="center" valign="middle" >−0.021</td>
+                <td align="center" valign="middle" >−0.011</td>
+                <td align="center" valign="middle" >−0.102</td>
+                <td align="center" valign="middle" >−0.043</td>
+                <td align="center" valign="middle" >0.116</td>
+                <td align="center" valign="middle" >0.274</td>
+                <td align="center" valign="middle" >
+                  −0.156<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Industry</td>
+                <td align="center" valign="middle" >0.128</td>
+                <td align="center" valign="middle" >
+                  −0.183<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >0.004</td>
+                <td align="center" valign="middle" >0.048</td>
+                <td align="center" valign="middle" >−0.032</td>
+                <td align="center" valign="middle" >0.029</td>
+                <td align="center" valign="middle" >−0.015</td>
+                <td align="center" valign="middle" >−0.032</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Env</td>
+                <td align="center" valign="middle" >−0.079</td>
+                <td align="center" valign="middle" >−0.024</td>
+                <td align="center" valign="middle" >−0.009</td>
+                <td align="center" valign="middle" >0.049</td>
+                <td align="center" valign="middle" >0.02</td>
+                <td align="center" valign="middle" >−0.050</td>
+                <td align="center" valign="middle" >−0.111</td>
+                <td align="center" valign="middle" >0.005</td>
+                <td align="center" valign="middle" >−0.090</td>
+                <td align="center" valign="middle" >1</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表7. 2014~2016年间变量相关系数</p>
+        <p>
+          <sup>**</sup>，<sup>*</sup>分别代表在0.01和0.05水平(双尾检验)下显著。
+        </p>
+        <table-wrap id="table8" >
+          <label>
+            <xref ref-type="table" rid="table8">Table 8</xref>
+          </label>
+          <caption>
+            <title> Regression results of variable</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" ></th>
+                  <th align="center" valign="middle" >缩写</th>
+                  <th align="center" valign="middle" >模型1</th>
+                  <th align="center" valign="middle" >模型1-1</th>
+                  <th align="center" valign="middle" >模型1-2</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle"  rowspan="5"  ></td>
+                <td align="center" valign="middle" >Gini</td>
+                <td align="center" valign="middle" >
+                  0.141<sup>*</sup> (3.421)
+                </td>
+                <td align="center" valign="middle" >
+                  0.152<sup>*</sup> (3.662)
+                </td>
+                <td align="center" valign="middle" >
+                  0.146<sup>*</sup> (3.527)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Tec−Indep</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >0.074 (1.52)</td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Tec−Indep*Gini</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >0.077 (1.61)</td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >BoardSize</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >
+                  −0.129<sup>**</sup> (2.242)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >BoardSize*Gini</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >
+                  −0.146<sup>**</sup> (2.718)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="6"  >控制变量</td>
+                <td align="center" valign="middle" >Indep_Ratio</td>
+                <td align="center" valign="middle" >0.036 (1.12)</td>
+                <td align="center" valign="middle" >0.033 (1.09)</td>
+                <td align="center" valign="middle" >0.041 (1.21)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Com_Size</td>
+                <td align="center" valign="middle" >−0.015 (1.01)</td>
+                <td align="center" valign="middle" >−0.018 (1.05)</td>
+                <td align="center" valign="middle" >−0.016 (1.02)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >FirstSH_Ratio</td>
+                <td align="center" valign="middle" >−0.109 (2.03)</td>
+                <td align="center" valign="middle" >−0.112 (2.10)</td>
+                <td align="center" valign="middle" >−0.119 (2.18)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Lev</td>
+                <td align="center" valign="middle" >−0.058 (1.69)</td>
+                <td align="center" valign="middle" >−0.064 (1.72)</td>
+                <td align="center" valign="middle" >−0.059 (1.71)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Industry</td>
+                <td align="center" valign="middle" >
+                  0.179<sup>*</sup> (3.165)
+                </td>
+                <td align="center" valign="middle" >
+                  0.165<sup>*</sup> (3.116)
+                </td>
+                <td align="center" valign="middle" >
+                  0.149<sup>*</sup> (3.085)
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Env</td>
+                <td align="center" valign="middle" >−0.086 (1.82)</td>
+                <td align="center" valign="middle" >−0.086 (1.82)</td>
+                <td align="center" valign="middle" >−0.086 (1.82)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >
+                  R<sup>2</sup>
+                </td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >0.117</td>
+                <td align="center" valign="middle" >0.108</td>
+                <td align="center" valign="middle" >0.123</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >
+                  调整R<sup>2</sup>
+                </td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >0.107</td>
+                <td align="center" valign="middle" >0.058</td>
+                <td align="center" valign="middle" >0.116</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >F检验值</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >2.45</td>
+                <td align="center" valign="middle" >2.176</td>
+                <td align="center" valign="middle" >3.218</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表8. 模型回归结果</p>
+        <p>2) 技术独立董事处于非正式层级最高级别时，董事会非正式层级清晰度与企业研发投入正相关关系会增强的假设没有得到验证。可能的原因有：2011~2013年间描述性统计结果发现关于技术独立董事是否处于董事会非正式层级的自变量均值是0.14，也就是说在创业板样本公司中，技术独立董事处于隐形层级第一位的情况并不多，因此假设能得到验证的可能性不大。</p>
+        <p>3) 董事会规模越大，董事会非正式层级清晰度与企业研发投入正相关关系会减弱，实证结果与假设一致。因为董事会规模的大小在一定程度上会影响董事会决策所受的信息干扰程度。在小规模董事会中，董事人数少，研发投入的决策相对更快；在大规模董事会中，层级清晰度会相对降低，受到来自不同领域董事的意见干扰，在基于较多董事个人认可的主观意见的互动过程中，非正式层级发挥的效率降低。</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>5. 研究结论和展望</title>
+      <p>根据实证研究结果，本文得出的主要结论如下：</p>
+      <p>第一，最初在创业板上市的公司研发投入强度受董事非正式层级清晰度影响。考虑到我国2009年正式推行创业板市场，和主板市场相比，在创业板上市的是具备强成长性的中小型企业，研发投入是其核心战略之一，在董事作出研发投入相关决策过程中，当董事间层级越清晰，董事会决策效率更高，更可能作出加大研发投入强度这一从长远看有益于企业发展的决定。另一方面非正式层级强度对研发投入的影响不显著，呈反向。即当董事在公司外兼任的数量越多，越不有益于研发的投入。</p>
+      <p>第二，董事会规模越大，反向影响非正式层级清晰度与研发投入间的正向关系。即当董事会人数越多，非正式层级清晰度和研发投入间的正向关系减弱。因为在小规模董事会中，董事人数少，研发投入的决策相对更快；在大规模董事会中，层级清晰度会相对降低，董事受到来自不同领域的其他董事意见干扰，在基于较多个人的主观意见互动过程中，决策效率降低。因此在设置董事会规模时，公司有必要构建合适规模的董事会。</p>
+      <p>第三，研发投入前期，非正式层级对研发投入的影响更大。研发过程越靠近技术端，研发基础性特征越强，信息越不对称，风险也越大，早期研发投入得更多，通过在研发早期匹配适当的董事会结构具有重要意义。</p>
+      <p>基于以上的结论，本文拟对关于如何提高董事会决策效率提出建议：董事会成员并非一定要兼任很多家公司的高管，但董事间能形成较为清晰的非正式层级有益于提高决策效率。同时，合适的董事会规模会促进隐性层级对决策的正向影响。</p>
+      <p>本文创新性地从管理学的角度将任职的地位水平的概念归纳到董事会资本下的社会资本，另一方面从社会学领域强调董事因获取不同的社会资源会形成地位差异，因此非正式层级清晰度的概念兼具管理学和社会学两个领域的特点，研究非正式层级显得意义重大。在今后的研究中，学者可以从中间路径的传导者、传导过程两个角度探究，因为当内部层级越清晰时，处于层级最高级的管理者的身份是最被尊敬的，其提出的意见也是最容易被其他董事接受的，对处于非正式层级最高级的董事身份、行为特点将会成为今后研究的重点。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>高 钰,张 丹. 董事会非正式层级与研发投入The Relationship between the Board Informal Hierarchy and R&amp;D Investment[J]. 现代管理, 2017, 07(06): 433-442. http://dx.doi.org/10.12677/MM.2017.76057</p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献 (References)</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.23149-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hillman, A.J., and Dalziel, T. (2003) Boards of Directors and Firm Performance: Integrating Agency and Resource Dependence Perspectives. Academy of Management Review, 28, 383-396.</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">周建, 任尚华, 金媛媛, 李小青. 董事会资本对企业R&amp;D支出的影响研究——基于中国沪深两市高科技上市公司的经验证据[J]. 研究与发展管理, 2012, 24(1): 67-77.</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">陈柯, 张丹. 董事会资本对研发投入的影响——基于信息技术业上市公司的实证研究[J]. 决策与信息, 2016(2): 45, 49.</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Magee, J.C., Ga-linsky, A., and Social, D. (2008) Hierarchy: The Self-Reinforcing Nature of Power and Status. Academy of Management Annals, 2, 351-398. &lt;br&gt;https://doi.org/10.1080/19416520802211628</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Diefenbach, T. and Sillince, J.A. (2011) Formal and Informal Hie-rarchy in Different Types of Organization. Organization Studies, 32, 1515-1537. &lt;br&gt;https://doi.org/10.1177/0170840611421254</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          He, J. and Huang, Z. (2011) Board Informal Hierarchy and Firm Financial Performance: Exploring a Tacit Structure Guiding Boardroom Interactions. The Academy of Management Journal, 54, 1119-1139.
+          &lt;br&gt;https://doi.org/10.5465/amj.2009.0824
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Chesbrough, H. (2003) Open Innovation: The New Imperative for Creating and Profiting from Technology. Harvard Business School Press, Boston.</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Christensen, J. Olesen, M. and Kjaer, J. (2005) The Indus-trial Dynamics of Open Innovation-Evidence from the Transformation of Consumer Electronic. Research Policy, 34, 1533-1549. &lt;br&gt;https://doi.org/10.1016/j.respol.2005.07.002</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杨武. 基于开放式创新的知识产权管理理论研究[J]. 科学学研究, 2006(2): 311-314.</mixed-citation>
+      </ref>
+      <ref id="hanspub.23149-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">叶玲, 管亚梅. 董事会隐性层级、公司投资行为及效率——基于我国A股上市公司的实证检验[J]. 财经理论与实践, 2016, 37(5): 43-49.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

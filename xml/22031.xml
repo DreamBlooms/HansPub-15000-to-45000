@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">JOGT</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Oil and Gas Technology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2471-7185</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/JOGT.2017.394041</article-id>
+      <article-id pub-id-type="publisher-id">JOGT-22031</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>JOGT20170400000_70363942.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>地球与环境</subject>
+          <subject> 工程技术</subject>
+          <subject> 合作期刊</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          利用元素录井进行碳酸盐岩岩性精细解释研究
+          A Study on Fine Interpretation of Carbonate Lithology Based on X Radial Fluorescence Mud Logging Information
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>杨</surname>
+            <given-names>锁卫</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>许</surname>
+            <given-names>泽君</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>岩松</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>中石油冀东油田分公司工程监督中心，河北 唐山</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>yangsuowei@petrochina.com.cn(杨锁)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>12</day>
+        <month>09</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>39</volume>
+      <issue>04</issue>
+      <fpage>83</fpage>
+      <lpage>92</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          元素录井(XRF)技术能够获取岩石中的化学元素信息，通过化学元素的组合与质量分数的变化，可以进一步鉴定岩性、划分地层。利用元素录井资料，通过建立碳酸盐岩解释模型，计算碳酸盐岩主要化学成分质量分数来指导现场进行岩性识别，能有效提高碳酸盐岩地层岩性识别能力。现场应用表明该方法解释效果良好，与斯伦贝谢ECS测井解释结果相当，该方法对其他地区具有借鉴和指导意义。 X Radial Fluorescence Mud Logging (XRF) technology could obtain chemical elements information in rocks. The lithologic characters and strata could be further identified through the combination and content variations of chemical elements. Based on the element mud logging data, the carbonate chemical composition was used to guide the field identification of lithology by establishing carbonate interpretation model, which could effectively improve the ability of identification of carbonate formation. Field application shows that the method is effective and the effect is equal to Schlumberger ECS log. This method can be the reference and guidance for other regions.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>元素录井，解释模型，碳酸盐岩，岩性定量解释, X Radial Fluorescence Mud Logging</kwd>
+        <kwd> Interpretation Model</kwd>
+        <kwd> Carbonate</kwd>
+        <kwd> Quantitative Interpretation of Lithology</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        利用元素录井进行碳酸盐岩岩性精细解释研究<sup> </sup>
+      </title>
+      <p>杨锁卫，许泽君，刘岩松</p>
+      <p>中石油冀东油田分公司工程监督中心，河北 唐山</p>
+      <p>作者简介：杨锁卫(1983-)，男，工程师，现主要从事地质录井研究及监督管理工作。</p>
+      <p>收稿日期：2017年4月12日；录用日期：2017年7月6日；发布日期：2017年8月15日</p>
+      <disp-formula id="hanspub.22031-formula71">
+        <graphic xlink:href="http://html.hanspub.org/file/22031x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>元素录井(XRF)技术能够获取岩石中的化学元素信息，通过化学元素的组合与质量分数的变化，可以进一步鉴定岩性、划分地层。利用元素录井资料，通过建立碳酸盐岩解释模型，计算碳酸盐岩主要化学成分质量分数来指导现场进行岩性识别，能有效提高碳酸盐岩地层岩性识别能力。现场应用表明该方法解释效果良好，与斯伦贝谢ECS测井解释结果相当，该方法对其他地区具有借鉴和指导意义。</p>
+      <p>关键词 :元素录井，解释模型，碳酸盐岩，岩性定量解释</p>
+      <disp-formula id="hanspub.22031-formula72">
+        <graphic xlink:href="http://html.hanspub.org/file/22031x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors, Yangtze University and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="http://image.hanspub.org:8080/Html/htmlimages\1-2890033x\e70a10f1-7c93-45ea-9603-062237856e4b.png" />
+        <img src="http://image.hanspub.org:8080/Html/htmlimages\1-2890033x\e898c85e-ffc4-45c9-b817-14224a4d6960.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 背景</title>
+      <p>
+        元素录井技术(即X射线荧光岩屑录井技术，也简称XRF)可以实现对岩屑中的化学元素信息进行定性和定量分析，该项技术是常规岩屑录井的补充，可有效解决复杂岩性、细碎岩屑的岩性识别问题。李一超、李春山、何国贤、谢元军、邱田民等分别对X射线荧光岩屑录井技术进行了适用性研究，并初步建立了定性化岩性识别和地层划分解释方法 [<xref ref-type="bibr" rid="hanspub.22031-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.22031-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.22031-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.22031-ref4">4</xref>] 。张国龙、杨锁卫等人对该技术在冀东油田大斜度井中的应用进行了研究，认为该技术可以较好解决大斜度井的岩性识别、潜山界面识别与卡取以及地层划分对比等问题 [<xref ref-type="bibr" rid="hanspub.22031-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.22031-ref6">6</xref>] 。
+      </p>
+      <p>随着油田对寒武系潜山、奥陶系潜山内幕的钻探与元素录井工作的深入开展，对碳酸盐岩潜山地层岩性定量化识别需求显得尤为突出。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 元素、矿物与岩石之间的关系</title> </sec>
+      <sec id="s4_1">
+        <title>2.1. 岩石与元素</title>
+        <p>岩石形成的过程就是母岩中元素在各种内外作用下的再分配、重新组合的过程。由于沉积作用的复杂性和多样性，所以沉积岩的元素组成变化非常大，不同元素质量分数不同，同一种岩石中不同元素质量分数也不相同。</p>
+        <p>如对于陆源碎屑沉积岩来说，Si元素以极大优势富集于砂岩中，而Al和Si元素倾向于在页岩和黏土岩类中聚集；对于碳酸盐岩沉积而言Ca和Mg元素则最为富集；其他例如Fe、Al、Ti等元素也可能大量富集以矿石的形式出现，而微量元素在页岩和黏土岩类中的丰度高于它们在砂岩及碳酸盐岩中的丰度，如Mn和Sr元素则显著地富集于碳酸盐岩中。</p>
+        <p>对于单元素来说，Mg与Ca元素普遍存在于各类岩石中，但质量分数各有不同，在碳酸盐岩中Ca、Mg元素质量分数占主导地位，在灰岩中Ca元素质量分数最高可达40%，白云岩中Mg元素最高可达14%以上，它们是碳酸盐岩中最为突出的元素。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 元素、矿物与岩石</title>
+        <p>1) 元素与矿物之间的关系</p>
+        <p>矿物是由化学元素组成的，它具有稳定的化学组成和较为固定的分子式，化学元素质量分数的不同决定了矿物种类的不同，其化学成分是区别不同矿物的重要依据，反映矿物形成条件。</p>
+        <p>矿物成分一般都是以单元素的氧化物、硅酸盐、硅铝酸岩、碳酸盐矿物的形式存在，它们与单元素质量分数之间具有一定的换算关系(见表1、表2)。</p>
+        <p>当已知某元素的质量分数为a时，其对应氧化物的质量分数A的计算式如下：</p>
+        <disp-formula id="hanspub.22031-formula73">
+          <graphic xlink:href="http://html.hanspub.org/file/22031x9_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <p>式中：A为某元素对应氧化物的质量分数，%；a为某元素的质量分数，%；α为某元素化合物指数。</p>
+        <p>2) 化合物、矿物与岩石之间的关系</p>
+        <p>
+          沉积岩的基本化学成分是表生环境稳定非变价氧化物，其中Al<sub>2</sub>O<sub>3</sub>、SiO<sub>2</sub>、(MgO+CaO)这3种化学成分决定了3种沉积岩石及其过渡岩石类型的分布。砂质沉积物主要由矿物石英、长石组成，一般表现为Si质量分数高，其他元素质量分数相对较低；页岩、泥岩类岩石主要由黏土矿物及细碎屑组成，黏土矿物具有吸附水体中简单离子和络合物的特点，所以页岩、泥岩中富集碱金属元素，Al<sub>2</sub>O<sub>3</sub>、铁质及钙质质量分数相对砂岩较高。
+        </p>
+        </sec>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> The transfer coefficients for elements and the other chemical compound</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >元素名称</th>
+                  <th align="center" valign="middle" >化合物名称</th>
+                  <th align="center" valign="middle" >换算系数</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >Si</td>
+                <td align="center" valign="middle" >
+                  SiO<sub>2</sub>
+                </td>
+                <td align="center" valign="middle" >2.13935</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Ti</td>
+                <td align="center" valign="middle" >
+                  TiO<sub>2</sub>
+                </td>
+                <td align="center" valign="middle" >1.66806</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Al</td>
+                <td align="center" valign="middle" >
+                  Al<sub>2</sub>O<sub>3</sub>
+                </td>
+                <td align="center" valign="middle" >1.88946</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Fe</td>
+                <td align="center" valign="middle" >
+                  FeO, Fe<sub>2</sub>O<sub>3</sub>, FeCO<sub>3</sub>
+                </td>
+                <td align="center" valign="middle" >1.28650; 1.42973; 2.07456</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Mn</td>
+                <td align="center" valign="middle" >
+                  MnO, Mn<sub>2</sub>O<sub>3</sub>
+                </td>
+                <td align="center" valign="middle" >1.29124; 1.43686</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Mg</td>
+                <td align="center" valign="middle" >
+                  MgO, MgCO<sub>3</sub>
+                </td>
+                <td align="center" valign="middle" >1.65813; 3.5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Ca</td>
+                <td align="center" valign="middle" >
+                  CaO, CaCO<sub>3</sub>
+                </td>
+                <td align="center" valign="middle" >1.39921; 2.49717</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Na</td>
+                <td align="center" valign="middle" >
+                  Na<sub>2</sub>O
+                </td>
+                <td align="center" valign="middle" >1.34798</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >K</td>
+                <td align="center" valign="middle" >
+                  K<sub>2</sub>O
+                </td>
+                <td align="center" valign="middle" >1.20462</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >P</td>
+                <td align="center" valign="middle" >
+                  P<sub>2</sub>O<sub>5</sub>
+                </td>
+                <td align="center" valign="middle" >2.29142</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >S</td>
+                <td align="center" valign="middle" >
+                  FeS, CaSO<sub>4</sub>
+                </td>
+                <td align="center" valign="middle" >2.741564; 4.245668</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 元素与其化合物之间的转化系数表</p>
+    </body>
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.22031-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李一超, 李春山, 刘德伦, 等. X射线荧光岩屑录井技术[J]. 录井工程, 2008, 19(1): 1-8.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22031-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">何国贤, 陈英毅, 周天顺, 等. X射线荧光岩屑录井可行性试验研究[J]. 录井工程, 2008, 19(2): 10-12, 40.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22031-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李一超, 李春山, 何国贤. X射线荧光分析在岩屑录井中的应用[J]. 岩石矿物学杂志, 2009, 28(1): 56-68.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22031-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">谢元军, 邱田民, 李琴, 等. X射线荧光元素录井技术应用方法研究[J]. 录井工程, 2011, 22(3): 22-28.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22031-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张国龙, 闫长青, 张国庆, 等. X射线荧光元素录井在南堡油田潜山卡层中的应用研究[J]. 录井工程, 2012, 23(1): 20-24.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22031-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">杨锁卫, 于旺, 胡春文, 等. 南堡油田潜山录井方法研究与应用[J]. 录井工程, 2013, 24(2): 31-36.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

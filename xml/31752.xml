@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">CSA</journal-id>
+      <journal-title-group>
+        <journal-title>Computer Science and Application</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2161-8801</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/CSA.2019.98174</article-id>
+      <article-id pub-id-type="publisher-id">CSA-31752</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>CSA20190800000_52378064.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>信息通讯</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          C语言中数据库接口的设计与实现
+          Design and Implementation of Database Interface in C Language
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>平</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>null</addr-line>
+      </aff>
+      <aff id="aff2">
+        <label>1</label>
+        <addr-line>福州外语外贸学院，福建 福州</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>09</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>08</issue>
+      <fpage>1554</fpage>
+      <lpage>1560</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文在阐述C语言的特点以及数据库技术的重要性之后，简述了二者在设备过程控制应用中的结合性和广泛性，着重就系统开发中碰到的数据库的接口技术进行详细解析，并通过一个示例从一个侧面展示了其应用领域。 After explaining the characteristics of C language and the importance of database technology, this paper introduces the Union and extensiveness of the two technologies in the application of equipment process control. It focuses on the detailed analysis of the database interface technology encountered in the system development, and shows its application field from one side through an example.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>C语言，数据库，接口技术，开发应用, C Language</kwd>
+        <kwd> Database</kwd>
+        <kwd> Interface Technology</kwd>
+        <kwd> Development and Application</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        C语言中数据库接口的设计与实现<sup> </sup>
+      </title>
+      <p>王平</p>
+      <p>福州外语外贸学院，福建 福州</p>
+      <p>
+        <img src="//html.hanspub.org/file/11-1541486x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年7月28日；录用日期：2019年8月12日；发布日期：2019年8月19日</p>
+      <disp-formula id="hanspub.31752-formula5">
+        <graphic xlink:href="//html.hanspub.org/file/11-1541486x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文在阐述C语言的特点以及数据库技术的重要性之后，简述了二者在设备过程控制应用中的结合性和广泛性，着重就系统开发中碰到的数据库的接口技术进行详细解析，并通过一个示例从一个侧面展示了其应用领域。</p>
+      <p>关键词 :C语言，数据库，接口技术，开发应用</p>
+      <disp-formula id="hanspub.31752-formula6">
+        <graphic xlink:href="//html.hanspub.org/file/11-1541486x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/11-1541486x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/11-1541486x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>随着微电子技术、计算机硬件技术和通信技术的发展，计算机以它的速度快、精度高、又具有逻辑判断能力的特点在过程控制方面可有较多的应用。例如：监测报警系统、医疗图像系统、指纹鉴别系统、电脑记分系统以及生产控制系统。此类系统基本要求是具备较高程度的实时性、可靠性和智能性。</p>
+      <p>
+        使用C语言开发这些系统是很好的选择，其原因是C语言具有代码量小、运行速度快、功能强大的特点 [<xref ref-type="bibr" rid="hanspub.31752-ref1">1</xref>] 。例如同样都是办公软件，用C语言编写的WPS的安装文件只有50 MB左右，而Word的安装文件超过500 MB。为了实现运行速度快和功能强大，操作系统也大都是用C语言编写的 [<xref ref-type="bibr" rid="hanspub.31752-ref2">2</xref>] 。
+      </p>
+      <p>
+        数据库系统是为适应数据处理的需要而发展起来的一种较为理想的数据处理的核心机构。计算机的高速处理能力和大容量存储器提供了实现数据管理自动化的条件。数据库因其结构化、共享性、独立性的特点使得开发的系统可以智能分析和全面高效。所以在系统开发中使用C语言 + 数据库是一种较为合适的选择 [<xref ref-type="bibr" rid="hanspub.31752-ref3">3</xref>] 。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 过程控制处理系统的基本结构</title>
+      <p>传统的过程控制处理是先采集以此为依据的数据，再通过专业人员分析判断做出相应的决策，最后实施对应的处理。这种以人工为主的传统处理模式存在很大的弊端。例如：数据不便保存、因疲劳引起的误判和误动、处理周期长以及不便交流等，尤其是在长时间、快速、反复精确处理的要求环境下，此类问题就更显突出。</p>
+      <p>
+        以计算机为主体的过程控制处理系统可以较完善地解决这些问题。通常，一个完善的系统要有各自功能独立的子系统组成，子系统不仅是软件模块还可以是具有独力处理部分功能能力的计算机。它的大体模式是用先将数据采集进计算机，而后根据需要不断地采集分析判断控制输出。配上局域网又可以实现主机控制分机、主机汇总统计以及主分机间和分机间的交流等功能 [<xref ref-type="bibr" rid="hanspub.31752-ref4">4</xref>] 。
+      </p>
+      <p>
+        因计算机的处理速度和通讯带宽的提高，实时性的要求一般均能满足。为满足可靠性的要求，针对不同操作系统的特点，在主控机上可采用Windows平台，以便可视化软件的开发应用。在分机上可采用Dos平台，目的是降低成本和提高可靠性(避免断电后Windows的维护，复电即可工作)。Dos平台上，C语言也是一种较好的选择，它既像高级语言一样面向用户解题过程，又像汇编那样可以对机器硬件进行操作 [<xref ref-type="bibr" rid="hanspub.31752-ref5">5</xref>] 。如，进行端口I/O操作，位操作以及地址操作等。许多操作系统都是用C语言来写的。所以针对系统的硬件控制、数据采集以及多功能模块的特点可以选择Borland C++。
+      </p>
+      <p>本文着重就过程控制类项目的开发过程中遇到问题进行解析和证明，诸如：C语言与数据库如何结合？在编程时如何用C语言写与读带结构的数据库格式文件？并提供了摸索调试后可用的接口代码，最后用一个实际完成的系统加以证实可行性。</p>
+    </sec>
+    <sec id="s5">
+      <title>3. C语言中的数据库接口</title>
+      <p>为提高整个系统的智能性，实现主机对分机的监控、调配和统计，分机应将所处理的数据以数据库的格式传送给主机，所以在C语言中要以相应格式读写文件。</p>
+      <p>广为流行的应用软件系统dBASE和FoxBASE是带结构的文件，数据库文件由文件结构和数据两部分组成。文件结构采用的是二进制存储方式而数据部分则是以ASCII方式存储。库文件结构部分描述库文件的概况：建立或修改日期、数据记录个数、库文件结构长度、记录长度等。</p>
+      <p>C语言具有很好的底层控制能力，也有丰富的函数可以调用，但因为各种文件结构上的差异，故无这些带结构文件的读写函数。如何在C语言中编写dBASE和FoxBASE带结构的文件也是件很繁琐的事，笔者在开发过程中经过反复分析、调试最后圆满地解决了这个问题，很好地实现了带结构的数据库文件的读与写，为日后方便使用现整理如下：</p>
+      <sec id="s5_1">
+        <title>3.1. 接口代码</title>
+        <disp-formula id="hanspub.31752-formula7">
+          <graphic xlink:href="//html.hanspub.org/file/11-1541486x9_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        <disp-formula id="hanspub.31752-formula8">
+          <graphic xlink:href="//html.hanspub.org/file/11-1541486x10_hanspub.png"  xlink:type="simple"/>
+        </disp-formula>
+        </sec>
+          </sec>
+    </body>
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.31752-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">王肖飞. 基于C语言的计算机软件编程技术探究[J]. 无线互联科技, 2018(5): 47-48.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">冀泓宇. 基于C语言的计算机软件编程技术研究[J]. 电脑迷, 2018(5): 47-48.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">刘振兴. 软件编程技术水平的标志性关键点分析与应用[J]. 软件, 2017, 38(11): 191-195.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">郭畅. 基于单片机的篮球计分器系统的设计[J]. 电子测试, 2017(16): 31-33, 17.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">牛军, 王萍. 无线电子打分计分系统的设计与实现[J]. 南阳理工学院学报, 2015, 7(4): 1-4.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李维强. 体育用电子记分器的设计及制作研究[J]. 电子设计工程, 2015, 23(22): 191-193.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张丽. 基于C语言访问的MySQL数据库[J]. 电子技术与软件工程, 2016(22): 165-166.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">罗慧兰. C语言处理文件的关键技术[J]. 电子技术与软件工程, 2017(6): 242.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">王晓燕. MySQL安全问题探讨[J]. 办公自动化, 2018(23): 62-64.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31752-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">刘建宏. MySQL数据库优化与集群[J]. 数字通信世界, 2017(7): 47.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">APP</journal-id>
+      <journal-title-group>
+        <journal-title>Applied  Physics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7567</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/APP.2017.711039</article-id>
+      <article-id pub-id-type="publisher-id">APP-22725</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>APP20171100000_46279585.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          宽广温度压强下Rb
+          <sub>x</sub>C
+          <sub>60</sub> (x = 3,4,6)的热力学性质
+          Thermodynamic Properties of Rb
+          <sub>x</sub>C
+          <sub>60</sub> (x = 3,4,6) at Wide Temperature and Pressure
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>杨</surname>
+            <given-names>维</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>鸿</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>戴</surname>
+            <given-names>松晖</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>成都大学信息科学与工程学院，四川 成都</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>11</issue>
+      <fpage>313</fpage>
+      <lpage>319</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文基于自由体积理论(FVT)应用解析平均场近似的方法对Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学性质进行研究。根据双指数势模型和文献中的压缩实验数据，拟合得到三套势参数，并对相应的势函数曲线进行了比较分析。在宽广温度和压强下对三种碱金属掺杂富勒烯Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学量，包括热膨胀、体积模量、等容热容量、亥姆霍兹自由能进行了计算和分析。我们采用的方法不仅计算简单而且结果与文献中实验数据非常一致。 Based on the free volume theory (FVT), the thermodynamic properties of Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6) are studied by means of analytic mean field approximation. According to the double exponential po-tential model and the compression experimental data in the literature, three sets of potential pa-rameters are obtained, and the corresponding potential function curves are compared and ana-lyzed. The thermodynamic properties of three alkali metal doped fullerene Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6), in-cluding thermal expansion, bulk modulus, constant volume heat capacity and Helmholtz free en-ergy, were calculated and analyzed under wide temperature and pressure. Our method is not only simple in calculation, but also in good agreement with the experimental data in the literature.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>
+          自由体积理论，Rb<sub>x</sub>C<sub>60</sub> (x = 3
+        </kwd>
+        <kwd>4</kwd>
+        <kwd>6)，指数势，热力学性质, Free Volume Theory</kwd>
+        <kwd>
+          Rb<sub>x</sub>C<sub>60</sub> (x = 3
+        </kwd>
+        <kwd>4</kwd>
+        <kwd>6)</kwd>
+        <kwd> Exponential Potential</kwd>
+        <kwd> Thermodynamic Properties</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        宽广温度压强下Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学性质<sup> </sup>
+      </title>
+      <p>
+        杨维<sup>*</sup>，刘鸿，戴松晖
+      </p>
+      <p>成都大学信息科学与工程学院，四川 成都</p>
+      <disp-formula id="hanspub.22725-formula9">
+        <graphic xlink:href="//html.hanspub.org/file/3-1270332x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2017年10月29日；录用日期：2017年11月10日；发布日期：2017年11月20日</p>
+      <disp-formula id="hanspub.22725-formula10">
+        <graphic xlink:href="//html.hanspub.org/file/3-1270332x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>
+        本文基于自由体积理论(FVT)应用解析平均场近似的方法对Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学性质进行研究。根据双指数势模型和文献中的压缩实验数据，拟合得到三套势参数，并对相应的势函数曲线进行了比较分析。在宽广温度和压强下对三种碱金属掺杂富勒烯Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学量，包括热膨胀、体积模量、等容热容量、亥姆霍兹自由能进行了计算和分析。我们采用的方法不仅计算简单而且结果与文献中实验数据非常一致。
+      </p>
+      <p>
+        关键词 :自由体积理论，Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)，指数势，热力学性质
+      </p>
+      <disp-formula id="hanspub.22725-formula11">
+        <graphic xlink:href="//html.hanspub.org/file/3-1270332x7_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/3-1270332x8_hanspub.png" />
+        <img src="//html.hanspub.org/file/3-1270332x9_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        近二十年来，富勒烯C<sub>60</sub>及其衍生物得到了人们的广泛关注。这是因为它们不仅具有奇妙的分子结构，而且其固相还具有迷人的晶体结构、力学和电学等性质。C<sub>60</sub>分子呈球笼状，60个碳原子对称等价地分布其上 [<xref ref-type="bibr" rid="hanspub.22725-ref1">1</xref>] 。在高温下，C<sub>60</sub>以面心立方(fcc)结构呈现，分子自由高速转动。在温度低于260 K，晶格转化为简单立方(sc)结构，低于90 K时冻结为玻璃相 [<xref ref-type="bibr" rid="hanspub.22725-ref2">2</xref>] 。富勒烯C<sub>60</sub>及其衍生物的发现和制备不仅在理论上取得了巨大进展，而且在实践上也开拓了很多新的领域，从而导致新的产业和产品的出现。特别是最近几年来，人们对碱金属掺杂富勒烯进行了大量的研究工作，在实验和理论上取得了重大的成果。在研究中，人们主要集中于对其结构和电磁性质的研究 [<xref ref-type="bibr" rid="hanspub.22725-ref3">3</xref>] 。三种碱金属掺杂富勒烯Rb <sub>3</sub>C <sub>60</sub>，Rb <sub>4</sub>C <sub>60</sub>和Rb <sub>6</sub>C <sub>60</sub>表现出不同的性质，面心立方结构Rb <sub>3</sub>C <sub>60</sub>具有金属和超导体的性质，体心正方结构Rb <sub>4</sub>C <sub>60</sub>具有绝缘性能，体心立方结构Rb <sub>6</sub>C <sub>60</sub>是绝缘体 [<xref ref-type="bibr" rid="hanspub.22725-ref4">4</xref>] 。目前，只有几项关于Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学性质的报道 [<xref ref-type="bibr" rid="hanspub.22725-ref5">5</xref>] [<xref ref-type="bibr" rid="hanspub.22725-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22725-ref7">7</xref>] [<xref ref-type="bibr" rid="hanspub.22725-ref8">8</xref>] 。研究小组测得了Rb <sub>3</sub>C <sub>60</sub>的实验状态方程，并采用通用状态方程对热物性进行了研究，但这些方程适用的温度压强范围有限，不能很好考虑温度效应。虽然Rb <sub>4</sub>C <sub>60</sub>在0.8 GPa时发生Mott相变引起人们的极大兴趣，但迄今为止还没有更多压缩实验数据的最新报道。Poloni小组 [<xref ref-type="bibr" rid="hanspub.22725-ref9">9</xref>] 对Rb <sub>6</sub>C <sub>60</sub>和Cs <sub>6</sub>C <sub>60</sub>体系性质在实验和理论方面进行了研究，得到了一些有用的结论。Sabouri-Dodaran等 [<xref ref-type="bibr" rid="hanspub.22725-ref10">10</xref>] 利用x-ray射线衍射实验得到了Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的实验状态方程，并用ab initio对其热力学性质进行计算。但人们对Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)高温高压下的热力学性质研究相对较少。在理论方面人们大多基于在谐性或准谐性近似下进行计算，不能很好地考虑材料在高温下的非简谐效应。本文基于自由体积模型并应用解析平均场方法可以方便地导出Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的解析状态方程和能量的表达式，该方法不仅物理意义清晰，而且便于计算，可以对材料在超出实验条件的温度压力下的性质做出合理预测。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 自由体积模型</title>
+      <p>
+        自由体积模型 [<xref ref-type="bibr" rid="hanspub.22725-ref11">11</xref>] (亦称胞腔模型)是一种平均场近似，通常是考虑原子对晶相的劾姆赫兹自由能的热贡献。该模型认为每一个原子被限制在由它周围最近邻原子形成的Wigner-Seitz (WS)元胞中心。研究表明虽然这种元胞模型忽略了原子间的相互关联，但它包含了高温下重要的非简谐项。它能对硬球型固体、方井固体、面心立方LJ晶系、六指数势模型固体和氯化钠等的热力学性质进行很好的描述。十年前，王义等 [<xref ref-type="bibr" rid="hanspub.22725-ref12">12</xref>] 提出了解析平均场方法并成功应用于许多的物质。孙等 [<xref ref-type="bibr" rid="hanspub.22725-ref13">13</xref>] 证明了这种方法是FVT的一种解析近似，它与FVT是等效的。在根据FVT不能导出解析状态方程或者进行平均场积分太复杂的情况下，采用解析平均场方法就非常方便。根据解析平均场近似模型和元胞理论，将粒子热运动的自由能表示为
+      </p>
+      <p>F = F ( V , T ) = − N k T [ 3 2 ln ( 2 π μ k T / h 2 ) + ln v f ] (1)</p>
+      <p>胞中心粒子是在周围粒子作用形成的平均场中运动，其自由运动的有效体积(即自由容积)可表示为</p>
+      <p>v f = v f ( V , T ) = 4 π ∫ 0 r m exp [ − g ( r , V ) / k T ] r 2 d r (2)</p>
+      <p>
+        g ( r , V ) 表示某一分子漂移距中心分子为 r 时的势能。基于物理意义上的考虑，用这种近似方法将平均势能用冷能来表示，可以很方便地建立Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的解析状态方程并对其热力学性质研究。
+      </p>
+    </sec>
+    <sec id="s5">
+      <title>3. 势函数的选取</title>
+      <p>
+        研究表明，指数势能很好的描述固态富勒烯、金刚石、立方氮化硼等材料在宽广温度和压力下的热力学性质 [<xref ref-type="bibr" rid="hanspub.22725-ref14">14</xref>] 。由于Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)分子内的振动对状态方程和热力学性质(热容量除外)影响很小，所以我们也只考虑分子之间相互作用对状态方程和热力学性质的贡献。因此，本文采用双指数势描述Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)分子间的相互作用。该势函数的表达式如下
+      </p>
+      <p>ε ( s ) = ε 0 ⋅ [ C 1 e λ 1 ( 1 − s ) + C 2 e λ 2 ( 1 − s ) ] , s = r / r 0 (3)</p>
+      <p>{ C 1 = λ 2 / ( λ 1 − λ 2 ) C 2 = − λ 1 / ( λ 1 − λ 2 ) (4)</p>
+      <p>式中 r 是径向坐标， r 0 是分子间平衡距离， ε 0 是势阱深度，两个势参数 λ 1 ， λ 2 描述势能随径向坐标r的变化。</p>
+    </sec>
+    <sec id="s6">
+      <title>4. 计算结果分析</title>
+      <p>
+        运用解析平均场方法得到的解析状态方程和热力学量的表达式，我们对Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的热力学性质进行了计算和分析。美国学者Girifalco [<xref ref-type="bibr" rid="hanspub.22725-ref15">15</xref>] 指出，在C<sub>60</sub>分子中原子间是强烈的共价键相互作用构成高度对称的球笼状分子，而分子间是较弱的范德瓦尔斯相互作用。因此固态C<sub>60</sub>的热物理性质可以视为分子内和分子间的振动贡献之和，而分子内振动对状态方程和热物理量(热容量除外)的贡献可以忽略，所以没有把这部分贡献考虑在状态方程和热力学性质中。因此，在本文中我们也仅仅考虑Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)分子之间相互作用对状态方程和热力学性质的贡献。Sabouri-Dodaran等 [<xref ref-type="bibr" rid="hanspub.22725-ref10">10</xref>] 在室温(取为296 K)不同压强范围分别测得了这三种材料的压缩数据。考虑到Rb <sub>3</sub>C <sub>60</sub>是fcc结构、Rb <sub>4</sub>C <sub>60</sub>是bct结构和Rb <sub>6</sub>C <sub>60</sub>是bcc结构的特点，我们拟合实验数据得到三套势参数。在图1中给出了实验数据和拟合曲线，从该图可以看出对三种材料的压缩实验数据拟合的效果很好，这说明解析平均场方法对于研究Rb<sub>x</sub>C<sub>60 </sub>(x = 3,4,6)的热力学性质是一种很适用的方法。本文还分别给出了它们在温度为2800 K时的密度随压强的变化趋势，由图1可以看出三种材料的密度随压强的增大而增大，随温度升高而减小。
+      </p>
+      <p>
+        根据Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的压缩实验数据，通过拟合得到三组势参数。在图2中，给出了Rb <sub>3</sub>C <sub>60</sub>、Rb <sub>4</sub>C <sub>60</sub>和Rb <sub>6</sub>C <sub>60</sub>的所对应的三条势函数曲线。从图2可以看出它们对应的势阱深度分别约为3630 K、12850 K和36000 K，这说明Rb <sub>6</sub>C <sub>60</sub>分子间的相互作用强于Rb <sub>3</sub>C <sub>60</sub>分子间和Rb <sub>4</sub>C <sub>60</sub>分子间的相互作用，该结果与实验结论一致。同时从图2还可以发现，三条势函数曲线间的变化趋势的差异在高压下很小但在低压下明显一些，在双指数势的吸引部分Rb <sub>6</sub>C <sub>60</sub>比Rb <sub>3</sub>C <sub>60</sub>和Rb <sub>4</sub>C <sub>60</sub>的势函数曲线的斜率更大，表明Rb <sub>6</sub>C <sub>60</sub>的势阱深度随r变化很快。Sabouri-Dodaran等 [<xref ref-type="bibr" rid="hanspub.22725-ref10">10</xref>] 利用第一性原理计算出的状态方程与Rb<sub>x</sub>C<sub>60</sub> (x = 3,4)的实验测量数据符合很好，同时他们还根据实验数据分别利用不同的通用状态方程得到了Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的体积模量及对压强的变化率，但结果稍有差异。对于fcc Rb <sub>3</sub>C <sub>60</sub>，考虑到室温下元胞参数为1.442 &#177; 0.002 nm [<xref ref-type="bibr" rid="hanspub.22725-ref10">10</xref>] ，我们得到的体积模量13.7 GPa与Sabouri-Dodaran分别采用的线性拟合(15.0 &#177; 2 GPa)、Murnaghan
+      </p>
+      <p>
+        图1. 在296 K和2800 K的压缩曲线，实验数据 [<xref ref-type="bibr" rid="hanspub.22725-ref10">10</xref>] (小圆圈)
+      </p>
+      <p>
+        图2. Rb<sub>x</sub>C<sub>60 </sub>(x = 3,4,6)的势函数曲线
+      </p>
+      <p>
+        方程(13.65 &#177; 1.2 GPa)以及Vinet方程(11.7 &#177; 1.5 GPa)符合很好。从我们的计算结果可以看出在低压下三种掺杂物中Rb <sub>3</sub>C <sub>60</sub>最软而Rb <sub>6</sub>C <sub>60</sub>最硬。尽管Rb <sub>4</sub>C <sub>60</sub>具有很大的自由体积(元胞体积减去分子体积)，但它比Rb <sub>3</sub>C <sub>60</sub>更硬(分别为24.8 GPa和13.7 GPa)比Rb <sub>6</sub>C <sub>60</sub> (44.9 GPa)软。图3表示温度分别为296 K和2800 K时Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的等温体积模量B<sub>T</sub>相对于压强P的变化。当温度一定时B<sub>T</sub>随压强的增大而增大，当压强一定时B<sub>T</sub>随温度的升高而减小，这表明增大压强和降低温度对体积模量有着相同的效果。三种掺杂物的体积模量在低压差异较小，但在高压差距较为明显。
+      </p>
+      <p>
+        自由能F是重要的热力学量，根据自由能很容易得到其它的热力学量的表达式。因此，在图4中我们给出了在四个温度(296 K、600 K、1000 K、1500 K)下自由能相对于密度r的变化。图4表明在四个不同的温度下Rb<sub>x</sub>C<sub>60</sub> (x = 3,4,6)的自由能是密度的增函数，具有相同的变化趋势，在低温时比在高温时变化更快。
+      </p>
+      <p>图3. 体积模量随压强的变化</p>
+      <p>图4. 自由能随密度的变化</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> The nearest-neighbor distance a in nm, linear thermal expansion coefficient α in 10−5 K−1, the bulk modulus BT in GPa, the heat capacity CV in kJ∙mol−1∙K−</title>
+        </caption>
+        </table-wrap>
+          </sec>
+            </body>
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.22725-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Stetzer, M.R., Heiney, P.A. and Stephens, P.W. et al. (2000) Structure and Phase Transitions of the 6,6-Cyclopropane Isomer of C61H2. Physical Review B, 62, 9305-9316. &lt;br&gt;https://doi.org/10.1103/PhysRevB.62.9305</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Sundqvistm, B. (1995) Phase Diagram, Structure, and Disorder in C60 below 300 K. Solid State Communications, 93, 109-112. &lt;br&gt;https://doi.org/10.1016/0038-1098(94)00750-0</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Yao, M.G., Sundqvist, B. and Wagberg, T. (2009) Reversible Pressure-Driven Nanoscale Phase Separation in Rb4C60. Physical Review B, 79, 081403-081406. &lt;br&gt;https://doi.org/10.1103/PhysRevB.79.081403</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Kuntscher, C.A. and Bendele, G.M. (1997) Alkali-Metal Stoichiometry and Structure of K4C60 and Rb4C60. Physical Review B, 55, 3366-3369. &lt;br&gt;https://doi.org/10.1103/PhysRevB.55.R3366</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Zhou, O., Vaughan, G.B.M., Zhu, Q. et al. (1992) Compressibility of M3C60 Fullerene Superconductors: Relation between Tc and Lattice Parameter. Science, 255, 833-835. &lt;br&gt;https://doi.org/10.1126/science.255.5046.833</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Diederichs, J., Schilling, J.S., Herwig, K.W., et al. (1997) Dependence of the Superconducting Transition Temperature and Lattice Parameter on Hydrostatic Pressure for Rb3C60. Journal of Physics and Chemistry of Solids, 58, 123-132.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Fietz, W.H., Ludwigand, H.A., Hornung, F.W., et al. (1994) The Compressibility of Rb3C60 Derived by X-Ray Experiments under High Pressure. Physica C, 234, 45-48. &lt;br&gt;https://doi.org/10.1016/0921-4534(94)90052-3</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Kerkoud, R. Auban-Senzier, P., Jérome, D., et al. (1996) Insulator-Metal Transition in Rb4C60 under Pressure from 13C-NMR. Journal of Physics and Chemistry of Solids, 57, 143-152. &lt;br&gt;https://doi.org/10.1016/0022-3697(95)00113-1</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Poloni, R., Fernandez-Serra, M.V., Le Floch, S., et al. (2008) Pressure-Induced Deformation of the C60 Fullerene in Rb6C60 and Cs6C60. Physical Review B, 77, 035429. &lt;br&gt;https://doi.org/10.1103/PhysRevB.77.035429</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Sabouri-Dodaran, A.A., Marangolo, M., Bellin, C. et al. (2004) Equations of state of RbxC60 (x=3, 4, and 6). Physical Review B, 70, 174114. &lt;br&gt;https://doi.org/10.1103/PhysRevB.70.174114</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref11">
+              <label>11</label>
+              <mixed-citation publication-type="other" xlink:type="simple">金家骏. 分子热力学[M]. 北京: 科学出版社, 1990: 255-264.</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref12">
+              <label>12</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Wang, Y., Chen, D. and Zhang, X. (2000) Calculated Equation of State of Al, Cu, Ta, Mo, and W to 1000 GPa. Physical Review Letter, 84, 3220-3223. &lt;br&gt;https://doi.org/10.1103/PhysRevLett.84.3220</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref13">
+              <label>13</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Sun, J.X., Caiand, L.C., Wu, Q. et al. (2005) Equivalence of the Analytic Mean-Field Potential Approach with Free-Volume Theory and Verification of Its Applicability Based on the Vinet Equation of State. Physical Review B, 71, 024107. &lt;br&gt;https://doi.org/10.1103/PhysRevB.71.024107</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref14">
+              <label>14</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Yang, W., Sun, J. and Yu, X.F. (2009) Thermodynamic Properties of Cubic Boron Nitride Based on an Analytic Mean Field Approach. The European Physical Journal B, 71, 211-217. &lt;br&gt;https://doi.org/10.1140/epjb/e2009-00300-7</mixed-citation>
+            </ref>
+            <ref id="hanspub.22725-ref15">
+              <label>15</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Girifalco, L.A. (1992) Molecular Properties of C60 in the Gas and Solid Phases. Journal of Physical Chemistry, 96, 858-861. &lt;br&gt;https://doi.org/10.1021/j100181a061</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

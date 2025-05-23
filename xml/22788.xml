@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ASS</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Social Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2169-2556</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/ASS.2017.611206</article-id>
+      <article-id pub-id-type="publisher-id">ASS-22788</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>ASS20171100000_25343434.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>人文社科</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          基于DEA-Malmquist方法的温州市渔业全要素生产率研究
+          A DEA-Malmquist Based Research on the Total Factor Productivity in Wenzhou Fishery
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>越</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>林</surname>
+            <given-names>瑞跃</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>温州大学数学与信息科学学院，浙江 温州</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>839430954@qq.com(刘越)</email>;<email>rachel@wzu.edu.cn(林瑞)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>06</volume>
+      <issue>11</issue>
+      <fpage>1467</fpage>
+      <lpage>1476</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文将数据包络分析中的超效率模型和Malmquist指数相结合，利用浙江省渔业生产2008~2016年的市级面板数据，从渔业总体、海水养殖、海水捕捞、淡水养殖和淡水捕捞五个角度出发对温州市渔业生产的全要素生产率进行测算，并将全要素生产率的变化分解为技术效率、技术水平和规模效率三种成分。结果表明，近年来温州渔业总体、淡水养殖和淡水捕捞的全要素生产率呈下降趋势，而海水捕捞和海水养殖的全要素生产率呈上升趋势。 This paper combines the super-efficiency model and Malmquist index in data envelopment analysis to measure total factor productivity in Wenzhou fishery from the perspective of overall fishery, mariculture, sea fishing, freshwater aquaculture and freshwater fishing by using the municipal panel data of fishery production in Zhejiang from 2008 to 2016. The change of total factor productivity is decomposed into three aspects: technical efficiency, technical level and scale efficiency. The results show that the total factor productivity in Wenzhou fishery production, freshwater aquaculture and freshwater fishing has been declining in recent years, while the total factor productivity of mariculture and sea fishing is on the rise.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>数据包络分析，Malmquist指数，渔业，全要素生产率, Data Envelopment Analysis</kwd>
+        <kwd>Malmquist Index</kwd>
+        <kwd> Fishery</kwd>
+        <kwd> Total Factor Productivity</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        基于DEA-Malmquist方法的温州市渔业全要素生产率研究<sup> </sup>
+      </title>
+      <p>刘越，林瑞跃</p>
+      <p>温州大学数学与信息科学学院，浙江 温州</p>
+      <p>收稿日期：2017年11月2日；录用日期：2017年11月16日；发布日期：2017年11月24日</p>
+      <disp-formula id="hanspub.22788-formula17">
+        <graphic xlink:href="//html.hanspub.org/file/19-2390825x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文将数据包络分析中的超效率模型和Malmquist指数相结合，利用浙江省渔业生产2008~2016年的市级面板数据，从渔业总体、海水养殖、海水捕捞、淡水养殖和淡水捕捞五个角度出发对温州市渔业生产的全要素生产率进行测算，并将全要素生产率的变化分解为技术效率、技术水平和规模效率三种成分。结果表明，近年来温州渔业总体、淡水养殖和淡水捕捞的全要素生产率呈下降趋势，而海水捕捞和海水养殖的全要素生产率呈上升趋势。</p>
+      <p>关键词 :数据包络分析，Malmquist指数，渔业，全要素生产率</p>
+      <disp-formula id="hanspub.22788-formula18">
+        <graphic xlink:href="//html.hanspub.org/file/19-2390825x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/19-2390825x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/19-2390825x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>渔业是温州海洋经济的传统支柱产业，是组成温州农业的重要部分，其发展对温州市农村产业链调整，增加渔民人均收入、提升温州市农产品的国际竞争力、改善水产食品安全等各方面都具有重要的作用。根据2016年渔业统计年报显示，温州市有重点渔业乡镇15个、渔业村206个，渔业户42,365户，渔业人口为153,893人，其中传统渔民75,279人，渔业从业人员77,880人，专业从业人员58,958人。2016年，温州全市海洋捕捞总量为51.4712万吨，产值45.4099亿元，分别占渔业第一产业总产量、产值的79.98%和59.84%。在科学技术强有力的支持下，温州市渔业的发展空间逐步扩大，渔业生产能力不断提高，但是在技术创新上仍有所欠缺。渔业科技的投入不够充足，创新成果的利用率不高，技术水平跟不上产业发展，科技力量的整合度低下等等因素大大阻碍了渔业科技的发展。</p>
+      <p>
+        渔业中科学技术的进步对渔业经济的增长所起到的贡献程度定义为渔业科技进步贡献率。在目前渔业科技发展背景下，测算温州渔业科技进步贡献率有助于了解温州市渔业的生产效率，探究科技进步对渔业发展影响的比重，为实现温州渔业可持续发展具有十分重要的现实意义。在多数文献中，研究人员都采用全要素(TFP)生产率来测算科技进步贡献率。随着国内外理论方法的发展，目前主要使用的科技进步贡献率测算方法有四种：索洛余值法 [<xref ref-type="bibr" rid="hanspub.22788-ref1">1</xref>] 、C-D生产函数 [<xref ref-type="bibr" rid="hanspub.22788-ref2">2</xref>] 、CES生产函数 [<xref ref-type="bibr" rid="hanspub.22788-ref3">3</xref>] 和数据包络分析 [<xref ref-type="bibr" rid="hanspub.22788-ref4">4</xref>] (DEA)-Malmquist指数法 [<xref ref-type="bibr" rid="hanspub.22788-ref5">5</xref>] 。本文采用DEA模型对浙江省11个地区的渔业总体、海水养殖、海水捕捞、淡水养殖、淡水捕捞的生产效率和科技进步贡献率进行测算。鉴于传统DEA模型并不能对所有参评单元进行排序，本文采用DEA中的超效率模型 [<xref ref-type="bibr" rid="hanspub.22788-ref6">6</xref>] 对温州渔业生产效率和全要素生产率进行测算，并在此基础上全面评价温州渔业的经济增长方式，并对影响温州渔业生产率的因素进行定量分析，为转变渔业增长方式提供决策依据。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 研究方法及数据</title>
+      <sec id="s4_1">
+        <title>2.1. 研究方法</title>
+        <p>
+          Malmquist指数最初用于测算消费数量，Caves等学者 [<xref ref-type="bibr" rid="hanspub.22788-ref5">5</xref>] 将其运用到生产分析中，通过投入和产出距离函数之比构造了Malmquist生产率指数。由于没有找到合适的测度生产效率的方法，Malmquist生产率指数在很长时间内都没能引起学术界的注意。直到采用Charnes等学者提出的DEA方法来测度技术效率后，Malmquist指数才得到了迅速的发展和广泛应用，成为生产分析中的一种重要方法。基于DEA方法，Fare等 [<xref ref-type="bibr" rid="hanspub.22788-ref7">7</xref>] 将Malmquist指数进行了分解，将指数分解成技术效率变动，技术进步和规模效率变动。Ray和Desli [<xref ref-type="bibr" rid="hanspub.22788-ref8">8</xref>] 认为Fare等对Malmquist指数的分解存在着逻辑上的错误，他们对Fare等的模型进行了修正，但Fare等 [<xref ref-type="bibr" rid="hanspub.22788-ref9">9</xref>] 并没有认可Ray和Desli的修正。此后，Lovell [<xref ref-type="bibr" rid="hanspub.22788-ref10">10</xref>] 从理论角度对Malmquist指数分解进行了探讨，再次肯定了Ray和Desli模型的正确性。虽然，Grosskopf [<xref ref-type="bibr" rid="hanspub.22788-ref11">11</xref>] 仍对Fare等的模型作了辩解，但学术界基本上确认了Ray和Desli模型的正确性。鉴于此，本研究将采用Ray和Desli模型来分解Malmquist指数。
+        </p>
+        <p>
+          假设存在 j = 1 , ⋯ , n 个决策单元(DMU)，每个DMU在 t = 1 , ⋯ , T 期使用 m 种投入 x i j t ( i = 1 , ⋯ , m )，并得到 r 种产出 y r j t ( r = 1 , ⋯ , s )。为了更好地观察各个DMU效率值的变化，本研究采用Lin和Chen提出的超效率模型 [<xref ref-type="bibr" rid="hanspub.22788-ref12">12</xref>] 来观测第 k ( k ∈ { 1 , ⋯ , n } )个DMU的绩效，因此观察到的DMU所构造的 t 期规模报酬不变(CRS)的生产可能集为：
+        </p>
+        <p></p>
+        <p>并通过下面的线性规划测算DMU的生产效率：</p>
+        <p>max     β k s .t .       ∑ j = 1 j ≠ k n λ j t x i j t ≤ x i k t , i = 1 , ⋯ , m ,         ∑ j = 1 j ≠ k n λ j t y r j t ≥ y r k t , r = 1 , ⋯ , s ,         λ j ≥ 0 , j = 1 , ⋯ , n , j ≠ k . (1)</p>
+        <p>令模型(1)的最优值为 β k t t ，则DMU k 在第t期的CRS超效率值为 1 − β k t t 。若 1 − β k t t &lt; 0 ，则DMUk为非有效的；若 1 − β k t t ≥ 0 ，则DMUk为有效的。 1 − β k t t 的值越小代表着在第t期DMUk的CRS生产效率越低下。若是需要测算规模报酬可变(VRS)下的生产效率，则要在模型(1)中加入约束 ∑ j = 1 j ≠ k n λ j = 1 。</p>
+        <p>非有效的DMU在相对有效前沿面上的映射实际为它的改进提供了一个可行的方案。DMUk对应的点 ( x i k t , y r k t ) 在超效率前沿面的投影为：</p>
+        <p>x ^ i k t = ∑ j = 1 j ≠ k n λ j t * x i j t ,     i = 1 , ⋯ , m , y ^ r k t = ∑ j = 1 j ≠ k n λ j t * y r j t ,     r = 1 , ⋯ , s ,</p>
+        <p>其中， λ j t * 为模型(1)最大化松弛变量和的最优解。 ( x ^ i k t , y ^ r k t ) 所代表的新DMU相对于原来的 n 个DMU来说，是DEA有效的。</p>
+        <p>基于t和t + 1期参照技术定义的Malmquist生产率指数分别为：</p>
+        <p>M t ( x t , y t , x t + 1 , y t + 1 ) = D c t ( x t + 1 , y t + 1 ) D c t ( x t , y t ) ,</p>
+        <p>M t + 1 ( x t , y t , x t + 1 , y t + 1 ) = D c t + 1 ( x t + 1 , y t + 1 ) D c t + 1 ( x t , y t ) .</p>
+        <p>这里， D c t ( x t , y t ) 的值即为 1 − β k t t ，将 x i k t + 1 和 y r k t + 1 分别替代模型(1)中的 x i k t 和 y r k t 计算得出的最优值 β k t , t + 1 ， D c t ( x t + 1 , y t + 1 ) 的值为即 1 − β k t , t + 1 。同理， D c t + 1 ( x t + 1 , y t + 1 ) 亦可由模型(1)计算得出。</p>
+        <p>Malmquist生产率指数为第 t 期和第 t + 1 期参照技术定义的Malmquist生产率指数的几何平均，即</p>
+        <p>M ( x t , y t , x t + 1 , y t + 1 ) = M t ( x t , y t , x t + 1 , y t + 1 ) &#215; M t + 1 ( x t , y t , x t + 1 , y t + 1 ) = | D c t ( x t + 1 , y t + 1 ) D c t ( x t , y t ) D c t + 1 ( x t + 1 , y t + 1 ) D c t + 1 ( x t , y t ) | 1 2</p>
+        <p>
+          M ( x t , y t , x t + 1 , y t + 1 ) &lt; 1 , = 1 , &gt; 1 代表着从第 t 期到第 t + 1 期生产力衰退、不变或进步。根据Ray和Desli [<xref ref-type="bibr" rid="hanspub.22788-ref8">8</xref>] 以及Lovell [<xref ref-type="bibr" rid="hanspub.22788-ref10">10</xref>] 在VRS条件下对Malmquist指数的分解，Malmquist指数可以做如下分解：
+        </p>
+        <p>M ( x t , y t , x t + 1 , y t + 1 ) = T E Δ ( x t , y t , x t + 1 , y t + 1 ) &#215; T Δ ( x t , y t , x t + 1 , y t + 1 ) &#215; S Δ ( x t , y t , x t + 1 , y t + 1 ) .</p>
+        <p>这里，</p>
+        <p>T E Δ ( x t , y t , x t + 1 , y t + 1 ) = D v t + 1 ( x t + 1 , y t + 1 ) D v t ( x t , y t ) , (2)</p>
+        <p>T Δ ( x t , y t , x t + 1 , y t + 1 ) = | D v t ( x t , y t ) D v t + 1 ( x t , y t ) D v t ( x t + 1 , y t + 1 ) D v t + 1 ( x t + 1 , y t + 1 ) | 1 2 , (3)</p>
+        <p>S Δ ( x t , y t , x t + 1 , y t + 1 ) = | D c t ( x t + 1 , y t + 1 ) / D c t ( x t + 1 , y t + 1 ) D c t ( x t , y t ) / D v t ( x t , y t ) D c t + 1 ( x t + 1 , y t + 1 ) / D v t + 1 ( x t + 1 , y t + 1 ) D c t + 1 ( x t , y t ) / D v t + 1 ( x t , y t ) | 1 2 , (4)</p>
+        <p>其中 D v t ( x t , y t ) ， D v t + 1 ( x t + 1 , y t + 1 ) ， D v t + 1 ( x t , y t ) 和 D v t ( x t + 1 , y t + 1 ) 可由VRS形式的模型(1)求解得出。</p>
+        <p>T E Δ 指数表示两个时期内相对技术效率的变化，即追赶效应，它衡量了DMU是否更靠近当期的生产前沿面进行生产。当 T E Δ &gt; 1 时，表明DMU的生产更接近生产前沿面，相对技术效率有所提高； T E Δ &lt; 1 时，DMU是技术效率退步的； T E Δ = 1 时，DMU是技术效率不变的。</p>
+        <p>T Δ 指数表示规模报酬变化状态下两个时期内生产前沿面的移动，即前沿面移动效应或增长效应。这种效应表明了技术的创新，并且该效应的度量与所选参考期 t 的生产前沿面相关。当 T Δ &gt; 1 时，意味着生产前沿面“向上”移动，DMU是技术进步的；当 T Δ = 1 时，意味着DMU技术水平不变；当 T Δ &lt; 1 时，意味着DMU技术水平降低。</p>
+        <p>S Δ 指数表示从前一时期到后一时期规模效率的变化，当 S Δ &gt; 1 时，意味着DMU的规模效率提高；当 S Δ = 1 时，DMU的规模效率不变；当 S Δ &lt; 1 时，DMU的规模效率降低。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 数据来源及变量设置</title>
+        <p>本文所用的数据均来自浙江省渔业统计填报分析系统，包含了2008~2016年浙江省11个城市(杭州、宁波、温州、嘉兴、湖州、绍兴、金华、衢州、舟山、台州和丽水)的渔业生产数据。考虑到数据的完整性和连续性，在测算不同类型的渔业生产活动的全要素生产率时，所涉及到的地区和时间跨度不尽相同。</p>
+        <p>
+          考虑到渔业生产活动的多样性，我们借鉴黄武等 [<xref ref-type="bibr" rid="hanspub.22788-ref13">13</xref>] 的方法，将渔业生产划分为渔业总体、海水养殖、海水捕捞、淡水养殖和淡水捕捞五种，并分别对每一种生产活动进行全要素生产率的测算。考虑到数据的可获性和质量，在产出指标方面，我们考虑各类渔业活动的渔业总产值(单位为万元)作为产出指标，在投入指标方面，我们将水产养殖面积(单位为公顷)、生产性机动渔船的机动力(单位为千瓦)以及专业渔业从业人员数作为投入指标。其中，捕捞业并无相应的水产养殖面积，因此在测算海水捕捞和淡水捕捞的生产效率和全要素生产率时，这一指标并不考虑在内。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 温州渔业全要素生产率测算及其分析</title>
+      <p>本节将利用全省各市渔业生产的面板数据，对温州市渔业总体、淡水养殖渔业、淡水捕捞渔业、海水养殖渔业、海水捕捞渔业生的Malmquist生产率指数及其分解进行测算。本节所有结果均由Matlab软件计算得出。</p>
+            </sec>
+        <sec id="s5_1">
+        <title>3.1. 渔业总体</title>
+        <p>表1报告了温州渔业总体全要素生产率变化的测算结果。测算结果表明，2008年~2016年，温州市渔业的全要素生产率年均下降0.27%，全要素生产率的降低主要受制于规模效率降低，而温州在2008~2016年技术效率变化年均值仅下降0.02%，其年均技术水平是进步的。由表1中的数据，我们可得知：</p>
+        <p>1) 在2008~2009，2009~2010，2010~2011期间，温州渔业总体的技术效率变化值都小于1，这就意味着从2008至2011年，温州渔业总体的技术效率较之上一年份是退步的。同理，2011~2012，2012~2013，2013~2014，2015~2016期间，温州渔业总体的技术效率值都大于1，这就意味着从2011至2016年温州渔业总体的技术效率较之上一年份是进步的。</p>
+        <p>2) 在2009~2010，2012~2013，2013~2014以及2015~2016期间，温州渔业总体的技术水平变化值均小于1，这说明2010、2013、2014和2016年度的温州渔业总体科技水平较之上一年度有所下降，在观察期的其余时间段，温州渔业总体的技术水平变化值均大于1，说明在2009、2011、2012和2015年，温州渔业总体的技术水平是上升的。</p>
+        <p>3) 温州渔业总体的规模效率变化值仅在2012~2013以及2015~2016期间是大于1的，也就是说其规模效率仅在2013和2016年度较之上一年度有所提高，但在观察期的其余年份，其规模效率较之上一年度是下降的。</p>
+        <p>4) 在2008~2009，2009~2010，2010~2011，2011~2012以及2012~2013期间，温州渔业总体Malmquist生产率指数均小于1，这说明从2009至2013年，温州渔业总体的生产力较之上一年都有所衰退。造成其衰退的原因各个年份各不相同，例如，2010至2011年间是由于技术效率退步和规模效率下降造成温州渔业总体的生产力的衰退，而从2012到2013年是由于技术退步造成温州渔业总体的生产力衰退。2013~2014，2014~2015以及2015~2016期间，温州渔业总体Malmquist生产率指数均大于1，说明从2014至2016年温州渔业总体的生产力较之上一年份是进步的。</p>
+        <p>表2给出了浙江省渔业总体2008年到2016年平均的Malmquist生产率指数及其分解。对比表2的最后一行可以看出，近年来温州渔业总体的全要素生产率的增长率要低于全省平均水平，而且在技术效率和规模效率的改进方面的表现也要差于全省平均水平，仅技术水平的改进方面要略优于全省水平。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 海水养殖</title>
+        <p>用于测算海水养殖渔业生产效率和Malmquist生产率指数的样本数据为我省沿海五个城市(宁波、温州、嘉兴、舟山、台州)从2008年到2016年的面板数据。表3报告了温州海水养殖全要素生产率及其分解效率的测算结果。结果表明，2008~2016年，温州海水养殖全要素生产率年均增长0.41%。全要素生产率的年均增长主要得益于技术效率的改良和规模效率的提高，而技术水平则是略有下降。</p>
+        <p>由表3中的数据，我们有如下分析：</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Malmquist productivity index and its decomposition of Wenzhou overall fisher</title>
+          </caption>
+          </table-wrap>
+                  </sec>
+    </body>
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22788-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Solow, R.W. (1957) Technical Change and the Aggregate Production Function. Review of Economics and Statistics, 39, 312-320. &lt;br&gt;https://doi.org/10.2307/1926047</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Cobb, C.W. and Douglas, P.H. (1928) A Theory of Production. American Economic Review, 18, 61-94.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Arrow, K.J., Chenery, H.B., Minhas, B.S. and Solow, R.M. (1961) Capital-Labor Substitution and Economic Efficiency. The Review of Economics and Statistics, 43, 225-250. &lt;br&gt;https://doi.org/10.2307/1927286</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Charnes, A., Cooper, W.W. and Rhodes, E. (1978) Measuring the Efficiency of Decision Making Units. European Journal of Operational Research, 2, 429-444. &lt;br&gt;https://doi.org/10.1016/0377-2217(78)90138-8</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Caves, D.W., Christensen, L.R. and Diewert, W.E. (1982) The Economic Theory of Index Numbers and the Measurement of Input, Output, and Productivity. Econometrica, 50, 1393-1414. &lt;br&gt;https://doi.org/10.2307/1913388</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Andersen, P. and Petersen, N.C. (1993) A Procedure for Ranking Efficient Units in Data Envelopment Analysis. Management Science, 39, 1261-1264. &lt;br&gt;https://doi.org/10.1287/mnsc.39.10.1261</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Fare, R., Grosskopf, S., Norris, M. and Zhang, Z. (1994b) Productivity Growth, Technical Progress, and Efficiency Change in Industrialized Countries. American Economic Review, 84, 66-83.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Ray, S.C. and Desli, E. (1997) Productivity Growth, Technical Progress, and Efficiency Change in Industrialized Countries: Comment. American Economic Review, 87, 1033-1039.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref9">
+                <label>9</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Fare, R., Grosskopf, S. and Norris, M. (1997) Productivity Growth, Technical Progress, and Efficiency Change in Industrialized Countries: Reply. American Economic Review, 87, 1040-1043.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref10">
+                <label>10</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Lovell, C.A.K. (2003) The Decomposition of Malmquist Productivity Indexes. Journal of Productivity Analysis, 20, 437-458.
+                  &lt;br&gt;https://doi.org/10.1023/A:1027312102834
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref11">
+                <label>11</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Grosskopf, S. (2003) Some Remarks on Productivity and Its Decompositions. Journal of Productivity Analysis, 20, 459-474.
+                  &lt;br&gt;https://doi.org/10.1023/A:1027364119672
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref12">
+                <label>12</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Lin, R. and Chen, Z. (2015) Super-Efficiency Measurement under Variable Return to Scale: An Approach Based on a New Directional Distance Function. Journal of the Operational Research Society, 66, 1506-1510.
+                  &lt;br&gt;https://doi.org/10.1057/jors.2014.118
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22788-ref13">
+                <label>13</label>
+                <mixed-citation publication-type="other" xlink:type="simple">黄武, 万婷, 林连升. 江苏渔业全要素生产率: 基于Malmquist TFP指数的分解[J]. 改革与开放, 2014(1): 9-12.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

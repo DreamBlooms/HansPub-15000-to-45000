@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">CSA</journal-id>
+      <journal-title-group>
+        <journal-title>Computer Science and Application</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2161-8801</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/CSA.2017.711125</article-id>
+      <article-id pub-id-type="publisher-id">CSA-22797</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>CSA20171100000_85986405.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>信息通讯</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          一种新的谱聚类算法及其仿真
+          A New Spectral Clustering Algorithm and Its Simulation
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>李</surname>
+            <given-names>娇</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>晅</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>陕西师范大学物理学与信息技术学院，陕西 西安</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>23</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>07</volume>
+      <issue>11</issue>
+      <fpage>1107</fpage>
+      <lpage>1117</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          针对传统谱聚类基于欧氏距离度量样本之间的相似性，不能反映样本的概率分布特性，特别是具有多峰分布的样本聚类，欧氏距离具有较大的偏差，另外在传统谱聚类中广泛使用的k-means算法由于初始中心的随机性设置，经常会产生不稳定的聚类结果。本文针对相似性度量问题提出了一种能够反映样本概率分布特性的相似性度量方法，并在此基础上对谱聚类中的k-means算法进行了改进，给出了一种对初始中心进行自适应设置的方法。实验结果表明，该算法相比传统的谱聚类在人工数据集与UCI真实数据集上具有更好的聚类效果。 The similarity between the samples based on Euclidean distance measurement can not reflect the probability distribution characteristics of the samples, especially the sample clustering with multi-peak distribution, and the Euclidean distance has a large deviation. In addition, the k-means algorithm widely used in the class often produces unstable clustering results due to the randomness of the initial center. In this paper, a similarity measure method which can reflect the probability distribution of the sample is proposed for the similarity measure. On this basis, the k-means algorithm in spectral clustering is improved, and a method is proposed for the initial center adaptive setting method. The experimental results show that the proposed algorithm has better clustering effect than the traditional spectral clustering in the artificial data set and the UCI real data set.
+
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>谱图理论，谱聚类，相似性矩阵，k-Means, Spectral Graph Theory</kwd>
+        <kwd> Spectral Clustering</kwd>
+        <kwd> Similarity Matrix</kwd>
+        <kwd> k-Means</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        一种新的谱聚类算法及其仿真<sup> </sup>
+      </title>
+      <p>
+        李 娇，王 晅<sup>*</sup>
+      </p>
+      <p>陕西师范大学物理学与信息技术学院，陕西 西安</p>
+      <disp-formula id="hanspub.22797-formula46">
+        <graphic xlink:href="//html.hanspub.org/file/8-1540875x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2017年11月7日；录用日期：2017年11月20日；发布日期：2017年11月27日</p>
+      <disp-formula id="hanspub.22797-formula47">
+        <graphic xlink:href="//html.hanspub.org/file/8-1540875x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>针对传统谱聚类基于欧氏距离度量样本之间的相似性，不能反映样本的概率分布特性，特别是具有多峰分布的样本聚类，欧氏距离具有较大的偏差，另外在传统谱聚类中广泛使用的k-means算法由于初始中心的随机性设置，经常会产生不稳定的聚类结果。本文针对相似性度量问题提出了一种能够反映样本概率分布特性的相似性度量方法，并在此基础上对谱聚类中的k-means算法进行了改进，给出了一种对初始中心进行自适应设置的方法。实验结果表明，该算法相比传统的谱聚类在人工数据集与UCI真实数据集上具有更好的聚类效果。</p>
+      <p>关键词 :谱图理论，谱聚类，相似性矩阵，k-Means</p>
+      <disp-formula id="hanspub.22797-formula48">
+        <graphic xlink:href="//html.hanspub.org/file/8-1540875x7_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/8-1540875x8_hanspub.png" />
+        <img src="//html.hanspub.org/file/8-1540875x9_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        聚类分析是机器学习领域的一个重要的分支，是人们认识和探索事物之间内在联系的有效手段 [<xref ref-type="bibr" rid="hanspub.22797-ref1">1</xref>] 。其过程主要考虑特征选择、相似性度量、聚类准则、聚类算法及结果验证几个方面的内容 [<xref ref-type="bibr" rid="hanspub.22797-ref2">2</xref>] 。聚类算法在数据挖掘与机器学习中具有广阔的应用前景，近年来成为该领域的研究热点 [<xref ref-type="bibr" rid="hanspub.22797-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.22797-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.22797-ref5">5</xref>] 。
+      </p>
+      <p>
+        传统的聚类算法主要依据样本点的距离或者密度，根据其生成聚类方法的不同分为分割聚类与层次聚类两类。基于距离的分割聚类算法将聚类问题转化为针对全局标准的优化算法，代表性的算法主要有K-means、CLARA及CLARANS算法等；而基于密度的分割聚类算法通过优化样本密度分布的局部目标函数实现聚类。层次聚类根据其解决问题的方式分为分裂与合并两种。上述算法都是基于假设样本空间为凸球形的，但当样本空间不为凸或具有复杂的多峰分布时，算法性能会显著下降。另外，分割聚类算法大多通过基于目标的优化过程实现，会陷入局部最优解 [<xref ref-type="bibr" rid="hanspub.22797-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.22797-ref7">7</xref>] 。
+      </p>
+      <p>
+        谱聚类算法计算样本点对的局部相似性基于谱图理论挖掘样本空间的全局结构，不需要样本空间概率分布的前提假设，具有更广泛的适用性。因此，受到广泛关注 [<xref ref-type="bibr" rid="hanspub.22797-ref8">8</xref>] 。谱聚类通常由两个主要步骤组成，首先是基于数据样本点的相似性度量建立关系图，其次构建算法对图进行聚类分割 [<xref ref-type="bibr" rid="hanspub.22797-ref9">9</xref>] 。现有的提升谱聚类性能的研究成果分为两种类型，第一种类型是在样本点关系图固定的情况下，重点提升图的分割过程；另外一类工作是构建合适的关系图通过常用的分割算法提升聚类性能。
+      </p>
+      <p>构建关系图的关键问题是如何定义两个样本点之间的相似性，传统的谱聚类基于欧式距离度量不能完全反映数据聚类复杂的空间分布特性。其分割过程常用的k-means算法由于初始集群中心的随机性，经常会产生不稳定的聚类结果。因此，本文在这两方面进行了改进：一方面本文利用Peng Yang等人提出的密度敏感的谱聚类方法计算相似性度量，另一方面对k-means算法进行改进，该算法不仅可以放大不同高密度区域内数据点之间的距离，同时可以缩短同一高密度区域内数据点之间的距离，最终有效描述数据的实际聚类分布，而且它可以获得一个更好的聚类中心。将该算法与传统聚类算法以及常用谱聚类算法进行比较，有效性分析和结果表明，本文提出的算法能够获得更好的聚类效果。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 算法回顾</title>谱聚类<p>
+        谱聚类算法的思想来源于谱图划分理论，它将聚类问题看成是一个无向图的多路划分问题。该算法发展了很多不同的具体实现方法，但是都可以归纳为以下三个主要步骤 [<xref ref-type="bibr" rid="hanspub.22797-ref10">10</xref>] [<xref ref-type="bibr" rid="hanspub.22797-ref11">11</xref>] ：
+      </p><p>Step 1：构建表示样本集的矩阵Z；</p><p>Step 2：通过计算Z的前k个特征值与特征向量，构建特征向量空间；</p><p>Step 3：利用k-means聚类算法对特征向量空间中的特征向量进行聚类。</p><p>传统的谱聚类算法的步骤如下：</p><p>输入： n 个数据点 { x l } 、聚类数 k ， σ 为事先指定的参数。</p><p>输出：数据的划分 c 1 , c 2 , c 3 , ⋯ , c k 。</p><p>(1) 根据欧氏距离量度构造相似性矩阵 S i j = exp ( − d i s t 2 σ 2 ) ；</p><p>(2) 构造拉普拉斯矩阵 L = D − 1 2 S D − 1 2 ，其中 D 为对角矩阵；</p><p>(3) 求拉普拉斯 L 的 k 个最大特征值对应的特征向量 v 1 , v 2 , v 3 , ⋯ , v k ，并且构造矩阵 V = [ v 1 , v 2 , ⋯ , v k ] ∈ R n &#215; k ，其中 v k 为列向量；</p><p>(4) 单位化 V 的行向量，得到矩阵 Y ，其中 Y i j = V i j ( ∑ j V i j 2 ) 1 2 ；</p><p>(5) 将 Y 的每一行看成是 R k 空间内的一点，使用K均值将其聚为 k 类；</p><p>(6) 如果 Y 的第 i 行属于第 j 类，则将原始数据点 x i 也划分到第 j 类。</p><p>谱聚类算法仅与数据点的数目有关，而与维数无关，因而可以避免由高维特征向量造成的奇异性问题。该算法又是一种判别方法，不针对数据的全局结构作假设。尽管它是一种极具竞争力的聚类方法，但其目前仍处于研究初期，算法本身存在一些亟待解决的问题。现有的算法对分析尺度的选择非常敏感，使得尺度参数的正确选择成为算法成功的关键。在真实数据集问题中，数据通常具有多重尺度，而现有的谱聚类算法仍然不适合处理一些多尺度聚类问题。</p><p>在谱聚类算法中，除了相似度矩阵的问题之外，还涉及到了k-means算法的问题，而这两个问题是直接影响聚类效果的好坏。k-means聚类算法是目前应用最广泛的划分聚类算法之一。容易实施、简单、高效、成功的应用案例和经验是其至今流行的主要原因。但是，该聚类算法仍然存在一些缺点，它不仅是一个NP难优化问题，也是一个贪心算法，仅能获得局部最优，无法获得全局最优，且该算法的初始聚类中心是随机选取的。</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 改进的算法</title>
+      <p>在这一部分，我们首先针对谱聚类算法中存在的两种问题提出了解决方法，最后，我们提出了改进的算法。</p>
+      <sec id="s5_1">
+        <title>3.1. 优化的相似性度量</title>
+        <p>从上述谱聚类算法的步骤中我们可知，相似度矩阵的选择是聚类效果性能的重要指标，只要选择了好的相似度矩阵，那么就会获得一个较好的聚类结果。</p>
+        <p>
+          在创建相似性矩阵W的过程中，传统的谱聚类通常基于欧氏距离通过高斯核函数计算相似度 [<xref ref-type="bibr" rid="hanspub.22797-ref12">12</xref>] 。对于复杂问题，简单的基于欧氏距离的相似性度量不能完全的反映聚类结构。因此，本文在构造相似矩阵W时应用了基于密度敏感的相似性度量，因为从数据的空间分布情况来看，同一聚类内的数据趋向于分布在一个密度较高的区域，而不同聚类之间存在一个数据分布相对稀疏的低密度区域，我们根据数据密度改进相似度矩阵，应用密度敏感的相似度矩阵 [<xref ref-type="bibr" rid="hanspub.22797-ref13">13</xref>] 。
+        </p>
+        <p>定义1：局部线段长度：</p>
+        <p>L ( x i , x j ) = ρ d ( x i , x j ) − 1 (1)</p>
+        <p>其中， d ( x i , x j ) 是数据 x i 和 x j 之间的欧氏距离， ρ &gt; 1 ，称为伸缩因子。</p>
+        <p>定义2：将数据点集 V = { x } 视作为加权无向图 G = { V , E } 的顶点，边的集合表示在每对数据点之间的连接权值的集合。把 p ∈ V ′ 作为长度 l = | p | − 1 的路径，其连接在点 p 1 和 p 2 之间。 p i j 表示 ( p k , p k + 1 ) ∈ E 连接数据点 ( p k , p k + 1 ) ∈ E 所有路径的集合，其中 ( 1 ≤ i , j &lt; n ) 。则 x i 和 x j 之间新的相似性距离定义为：</p>
+        <p>D i j = min p ∈ p j ∑ k = 1 l − 1 L ( p k , p k + 1 ) (2)</p>
+        <p>其中 L ( p k , p k + 1 ) 表示两点之间密度可调节的线段长度。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 优化的K-means算法</title>
+        <p>
+          从上述可知，传统的谱聚类算法的最后一步是完成k均值算法聚类。由于k均值算法严格依赖于初始聚类中心，然而，初始聚类中心通常是随机生成的，所以每个集群中心不是在基本算法开始时相同的，且可能产生不稳定的聚类结果 [<xref ref-type="bibr" rid="hanspub.22797-ref14">14</xref>] [<xref ref-type="bibr" rid="hanspub.22797-ref15">15</xref>] 。
+        </p>
+        <p>根据k均值算法及其相关改进方法的研究，本文设计了一种简单有效的选择初始聚类中心的方法。该方法只是基于传统的k均值算法进行简单的改变，即在随机初始化聚类中心的步骤中增加随机数，对于每个随机初始化k个集群中心，计算彼此之间的欧氏距离集群。然后，保存并选择k个聚类中心的最大距离中心。该聚类中心使得聚类结果稳定并且使得聚类结果得到很大的提高。</p>
+        <p>改进算法的核心如下：随机选择k个数据对象作为数据集X的初始聚类中心；在k个聚类中心之间计算欧氏距离；然后随机地重复选择k个数据对象；再次计算k个聚类中心之间的欧氏距离。如果这次的距离大于上一次的距离，我们需要保存这个k集群中心和对应的距离，或者对于下一个随机选择不进行修改，直到达到设置的随机数。最终，该算法得到了一个更好的初始聚类中心。</p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 改进的谱聚类算法</title>
+        <p>根据上述的两种优化方案，可以得到改进的谱聚类算法。实验证明改进的谱聚类算法比原始的算法具有更好的性能。</p>
+        <p>改进的谱聚类算法的步骤如下：</p>
+        <p>输入： n 个数据点、聚类数 k 及伸缩因子 ρ 。</p>
+        <p>输出：数据的划分 c 1 , c 2 , c 3 , ⋯ , c k 。</p>
+        <p>(1) 根据密度敏感的相似性度量构造相似性矩阵 W ∈ R n &#215; n ，</p>
+        <p>其中 W i j = 1 min p ∈ p i j ( ∑ k = 1 l − 1 ( ρ d i s t ( p k , p k + 1 ) − 1 ) ) ,   W i j = 0 ；</p>
+        <p>(2) 构造拉普拉斯矩阵 L = D − 1 2 S D − 1 2 ，其中 D 为对角矩阵， D i i = ∑ j = 1 n W i j ；</p>
+        <p>(3) 求拉普拉斯 L 的 k 个最大特征值对应的特征向量 v 1 , v 2 , v 3 , ⋯ , v k ，并且构造矩阵 V = [ v 1 , v 2 , ⋯ , v k ] ∈ R n &#215; k ，其中 v k 为列向量；</p>
+        <p>(4) 单位化 V 的行向量，得到矩阵 Y ，其中 Y i j = V i j ( ∑ j V i j 2 ) 1 2 ；</p>
+        <p>(5) 将 Y 的每一行看成是 R k 空间内的一点，使用改进的K均值算法将其聚为 k 类；</p>
+        <p>(6) 如果 Y 的第 i 行属于第 j 类，则将原始数据点 x i 也划分到第 j 类。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 实验仿真</title>
+      <p>
+        为了验证本文提出的改进谱聚类算法的聚类性能。将该算法应用在人工数据集 [<xref ref-type="bibr" rid="hanspub.22797-ref16">16</xref>] 和UCI数据集的聚类问题上，并分析实验结果。让该算法与传统的K均值算法(K-means)，传统的谱聚类算法(NJW-SC)和密度敏感的谱聚类算法(DNJW-SC)进行比较。结果表明，本文提出的改进的谱聚类算法在大部分数据集中的性能较好。
+      </p>    </sec>
+      <sec id="s6_1">
+        <title>4.1. 人工数据集</title>
+        <p>本文中，在TwoS、2Spirals与circle data三个2-维人工数据集(图1)中应用四种聚类算法。这是数据集都是具有“挑战性”问题的图示，它们的类别数均为2。</p>
+        <p>在(a)图中，正确的分类标准应该是右上角的倒“S”是一类，左下角的正“S”是另一类。</p>
+        <p>图1. 原始数据集</p>
+        <p>在(b)图中，正确的分类标准应该是以靠左边的点为起点画出的螺旋是一类，靠右边点为起点画出的螺旋是另一类。</p>
+        <p>在(c)图中，正确的分类标准应该是内椭圆是一类，而外椭圆是另外一类。</p>
+        <p>如图2~图4四种聚类算法应用在3个不同的人工数据集上得到的聚类结果。其中(a) 传统的K均值算法，(b) 传统的谱聚类算法，(c) 密度敏感的谱聚类算法，(d) 改进的谱聚类算法。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. UCI数据集</title>
+        <p>UCI数据集是一个用于机器学习的常用标准测试集，是University of California Irvine提出的真实数据集。下面选用该测试集中4个真实数据集进一步验证本文提出算法的优越性，具体数据特征如表1所示。</p>
+        <p>为了评估聚类的性能，本文采用了Rand Index(RI)和F-measure两种聚类评价指标来判断。</p>
+        <p>
+          第一种：采用Rand Index(RI)评估聚类结果的正确率，实际上这是一种用排列组合原理来对聚类进行评价的手段 [<xref ref-type="bibr" rid="hanspub.22797-ref17">17</xref>] ，记为RI，公式如下：
+        </p>
+        <p>图2. 人工数据集TwoS的4种算法对比</p>
+        <p>图3. 人工数据集2Spiral的4种算法对比</p>
+        <p>图4. 人工数据集circle data 的4种算法对比</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Experiment dataset and data characteristic</title>
+          </caption>
+          </table-wrap>
+              </sec>
+                </body>
+                  
+          <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22797-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Jain, A., Murty, M. and Flynn, P. (1999) Data Clustering: A Review. ACM Computing Surveys, 31, 264-323.
+                  &lt;br&gt;https://doi.org/10.1145/331499.331504
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">王晅, 马建峰. 数字图像分析与模式识别[M]. 北京: 科学出版社, 2011: 228-229.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Huang, Z. (1998) Extensions to the k-Means Algorithm for Clustering Large Datasets with Categorical Values. Data Mining and Knowledge Discovery, 283-304.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Wu, X. and Zhang, S. (2003) Synthesizing High-Frequency Rules from Different Data Sources. IEEE Transactions on Knowledge and Data Engineering, 15, 353-367.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Wu, X., Zhang, C. and Zhang, S. (2005) Database Classification for Multi-Database Mining. Information Systems, 30, 71-88. &lt;br&gt;https://doi.org/10.1016/j.is.2003.10.001</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Luxburg, U.V. (2007) A Tutorial on Spectral. Statistics and Computing, 17, 395-416.
+                  &lt;br&gt;https://doi.org/10.1007/s11222-007-9033-z
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Yan, D. (2009) Fast Approximate Spectral Clustering. UC Berkeley, 907-915.
+                  &lt;br&gt;https://doi.org/10.1145/1557019.1557118
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">蔡晓妍, 戴冠中, 等. 谱聚类算法综述[J]. 计算机科学, 2008, 35(7): 14-18.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref9">
+                <label>9</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Wu, Z. and Leahy, R. (1993) An Optimal Graph Theoretic Approach to Data Clustering: Theory and Its Application to Image Segmentation. IEEE Transactions on PAMI, 15, 1101-1113.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref10">
+                <label>10</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Chang, H. and Yeung, D.Y. (2011) Robust Path-Based Spectral Clustering. Applied and Computational Harmonic Analysis, 30, 319-336.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref11">
+                <label>11</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Chi, Y. and Song, X.D. (2009) On Evolutionary Spectral Clustering. ACM Transactions on Knowledge Discovery from Data, 3, Article No. 17. &lt;br&gt;https://doi.org/10.1145/1631162.1631165</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref12">
+                <label>12</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Tulin, I. (2015) A Parameter-Free Similarity Graph for Spectral Clustering. Expert Systems with Applications, 42, 9489-9498. &lt;br&gt;https://doi.org/10.1016/j.eswa.2015.07.074</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref13">
+                <label>13</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Mario, B. (2015) A Density-Based Similarity Matrix Construction for Spectral Clustering. Neurocomputing, 151, 835-844. &lt;br&gt;https://doi.org/10.1016/j.neucom.2014.10.012</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref14">
+                <label>14</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Yan, J., Cheng, D.B., Zong, M. and Deng, Z.Y. (2014) Improved Spectral Clustering Algorithm Based on Similarity Measure. In: Luo, X., Yu, J.X. and Li, Z., Eds., Advanced Data Mining and Applications. ADMA 2014. Lecture Notes in Computer Science, Vol. 8933, Springer, Cham, 641-654. &lt;br&gt;https://doi.org/10.1007/978-3-319-14717-8_50</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref15">
+                <label>15</label>
+                <mixed-citation publication-type="other" xlink:type="simple">
+                  Anil, K.J. (2010) Data Clustering: 50 Years beyond K-Means. Pattern Recognition Letters, 31, 651-666.
+                  &lt;br&gt;https://doi.org/10.1016/j.patrec.2009.09.011
+                </mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref16">
+                <label>16</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Ng, A.Y., Jordan, M.I. and Weiss, Y. (2002) On Spectral Clustering: Analysis and an Algorithm. In: Advances in Neural Information Processing Systems, MIT Press, Cambridge, MA, 894-856.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref17">
+                <label>17</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Yang, P., Zhu, Q.S. and Huang, B. (2011) Spectral Clustering with Density Sensitive Similarity Function. Knowledge-Based Systems, 24, 621-628. &lt;br&gt;https://doi.org/10.1016/j.knosys.2011.01.009</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref18">
+                <label>18</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Zhang, X., Jiao, L., Liu, F., et al. (2008) Spectral Clustering Ensemble Applied to SAR Image Segmentation. IEEE Transactions on Geosciences and Remote Sensing, 46, 2126-2136. &lt;br&gt;https://doi.org/10.1109/TGRS.2008.918647</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref19">
+                <label>19</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Cai, X.Y., Dai, G.Z. and Yang, L.B. (2009) A New Self-Adaptive Clustering Algorithm. China Science and Technology Press, Beijing, 329-334.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22797-ref20">
+                <label>20</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Fiedler, M. (1975) A Property of Eigenvectors of Non-Negative Symmetric Matrices and Its Application to Graph Theory. Czechoslovak Mathematical Journal, 25, 619-633.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

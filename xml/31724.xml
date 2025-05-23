@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">HJAS</journal-id>
+      <journal-title-group>
+        <journal-title>Hans Journal of Agricultural Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2164-5507</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/HJAS.2019.98089</article-id>
+      <article-id pub-id-type="publisher-id">HJAS-31724</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>HJAS20190800000_40585494.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>地球与环境</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          11个品种的红花的重要性状与分子标记的聚类和关联性分析
+          Clustering and Correlation Analysis of Traits and Molecular Markers of 11 Cultivars of Saf-flower
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>林</surname>
+            <given-names>寒</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>吴</surname>
+            <given-names>智华</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>张</surname>
+            <given-names>丽</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>虹</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陈</surname>
+            <given-names>雁</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>方</surname>
+            <given-names>莹</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>覃</surname>
+            <given-names>瑞</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>中南民族大学生命科学学院，湖北 武汉</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>06</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>08</issue>
+      <fpage>612</fpage>
+      <lpage>629</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          红花(Carthamus tinctorius L.)作为重要的油料作物引种中国后，各地区的自然环境差异使得红花品系丰富多样，为红花重要农艺性状的品种选育和推广提供丰富的资源。然而，在早期红花引种改良的过程中，由于缺乏对红花的种植资源的保存和引种记录的记载，又因为红花性状的表现容易受环境因素的影响，因此为研究我国红花的遗传多样性造成了一定的阻力。EST-SSR (表达序列标签的微卫星标记)，因具有共显性和稳定性特征在资源的鉴定和分类中具有重要的应用价值。因此，本研究利用NCBI上的红花EST数据库下载的41,584条红花EST序列对红花的转录组进行拼装，进行SSR位点的鉴定后共计获得987个SSR位点。随机选择其中96对引物设计引物对11个品种的红花进行PCR扩增，共有35对引物能够扩增出多态性条带。同时，对该11个品种的红花进行了农艺性状统计、叶片形态学观察以及油用性状的测定。红花EST-SSR的聚类结果和农艺性状、叶片形态学性状以及种子的性状的聚类结果不完全一致，可能是由于红花的性状受环境影响较大、样本统计量的限制及分子标记的数目。未来，在红花形态学的研究上应选取更为稳定，数量更多的性状以及更丰富的分子标记作为遗传学分析的依据。本研究开发的EST-SSR为红花资源鉴定提供丰富的分子标记，农艺性状的考量为选育高品质的红花资源提供理论依据。 After introduction of safflower (Carthamus tinctorius L.) as an important oil crop to China, the regional environment differences in various regions have made the safflower variety rich and diverse, providing abundant resources for the breeding and promotion of safflower variety with important agronomic traits. However, in the early process of introduction and improvement of safflower, due to the lack of preservation and introduction records of safflower planting resources, as the performance of safflower traits is easily affected by environmental factors, this has caused some resistance to the study of the genetic diversity of safflower in China. EST-SSR (microsatellite marker expressing sequence tags) has important application value in the identification and classification of resources due to its codominance and stability characteristics. Therefore, in this study, 41,584 safflower EST sequences downloaded from the safflower EST database on NCBI were used to assemble the transcriptome of safflower, and a total of 987 SSR loci were obtained after identification of SSR loci. 96 pairs of primers were randomly selected to PCR amplification of 11 varieties of safflower, and a total of 35 pairs of primers were able to amplify the polymorphic bands. The agronomic traits, leaf morphology observation and oil traits of the 11 varieties of safflower were measured. The clustering results of EST-SSR were not completely consistent with the agronomic traits, leaf morphological traits and seed traits. It may be due to the environmental influence on safflower traits, the limitation of sample statistic and molecular markers. In the future, in the study of safflower morphology, more stable, more numerous traits and more abundant molecular markers should be selected as the basis for genetic analysis. The EST-SSR developed in this study provides abundant molecular markers for the identification of safflower resources. The consideration of agronomic traits provides a theoretical basis for the selection of high-quality safflower resources.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>红花，EST-SSR，表型观察，含油率, Carthamus tinctorius L.</kwd>
+        <kwd> EST-SSR</kwd>
+        <kwd> Traits Observation</kwd>
+        <kwd> Oil Content</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        11个品种的红花的重要性状与分子标记的聚类和关联性分析<sup> </sup>
+      </title>
+      <p>林寒，吴智华，张丽，刘虹，陈雁，方莹，覃瑞</p>
+      <p>中南民族大学生命科学学院，湖北 武汉</p>
+      <disp-formula id="hanspub.31724-formula18">
+        <graphic xlink:href="//html.hanspub.org/file/2-2181161x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年7月25日；录用日期：2019年8月8日；发布日期：2019年8月15日</p>
+      <disp-formula id="hanspub.31724-formula19">
+        <graphic xlink:href="//html.hanspub.org/file/2-2181161x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>红花(Carthamus tinctorius L.)作为重要的油料作物引种中国后，各地区的自然环境差异使得红花品系丰富多样，为红花重要农艺性状的品种选育和推广提供丰富的资源。然而，在早期红花引种改良的过程中，由于缺乏对红花的种植资源的保存和引种记录的记载，又因为红花性状的表现容易受环境因素的影响，因此为研究我国红花的遗传多样性造成了一定的阻力。EST-SSR (表达序列标签的微卫星标记)，因具有共显性和稳定性特征在资源的鉴定和分类中具有重要的应用价值。因此，本研究利用NCBI上的红花EST数据库下载的41,584条红花EST序列对红花的转录组进行拼装，进行SSR位点的鉴定后共计获得987个SSR位点。随机选择其中96对引物设计引物对11个品种的红花进行PCR扩增，共有35对引物能够扩增出多态性条带。同时，对该11个品种的红花进行了农艺性状统计、叶片形态学观察以及油用性状的测定。红花EST-SSR的聚类结果和农艺性状、叶片形态学性状以及种子的性状的聚类结果不完全一致，可能是由于红花的性状受环境影响较大、样本统计量的限制及分子标记的数目。未来，在红花形态学的研究上应选取更为稳定，数量更多的性状以及更丰富的分子标记作为遗传学分析的依据。本研究开发的EST-SSR为红花资源鉴定提供丰富的分子标记，农艺性状的考量为选育高品质的红花资源提供理论依据。</p>
+      <p>关键词 :红花，EST-SSR，表型观察，含油率</p>
+      <disp-formula id="hanspub.31724-formula20">
+        <graphic xlink:href="//html.hanspub.org/file/2-2181161x7_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/2-2181161x8_hanspub.png" />
+        <img src="//html.hanspub.org/file/2-2181161x9_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 简介</title>
+      <p>
+        红花Carthamus tinctorius L.属菊科，是一年生或越年生的草本直根系植物，而红花也是红花属中唯一的栽培种。红花对于干旱和高温具有较强的抵抗力，能够适应恶劣和贫瘠的环境。红花作为一种油料作物含油量高，且不饱和脂肪酸的含量高 [<xref ref-type="bibr" rid="hanspub.31724-ref1">1</xref>] ；另外红花的花丝提取物在临床实验中能够有效地抗氧化、抗炎症和抗肿瘤，具有极大的开发价值 [<xref ref-type="bibr" rid="hanspub.31724-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.31724-ref3">3</xref>] 。
+      </p>
+      <p>
+        我国红花种植历史悠久且幅员辽阔，曾有20多个省份种植过红花 [<xref ref-type="bibr" rid="hanspub.31724-ref4">4</xref>] ，形成了丰富多样的红花品系，并在20世纪70年代先后引进了共2000余份国外的优质红花品种，红花种植资源十分丰富 [<xref ref-type="bibr" rid="hanspub.31724-ref5">5</xref>] 。但是由于当时缺乏对红花种植资源的保护和管理，导致了许多具有研究价值的红花品种被市场淘汰，而红花的性状受周围环境的影响较大，不同的生长环境会对红花的性状产生不同影响，所以目前我国国内红花的分类还比较混乱、各地区的红花品种的引种来源都少有记载。
+      </p>
+      <p>
+        植物的基因组中存在大量的重复序列，其中简单重复序列(Simple Sequence Repeats, SSR)就是以几个核苷酸作为单位串联重复而组成的序列。利用重复序列开发出的分子标记具有位点丰富，特异性强和重复性好等特点，被广泛的应用于植物的遗传学研究。而表达序列标签简单重复序列 [<xref ref-type="bibr" rid="hanspub.31724-ref6">6</xref>] (Expressed Sequence Tags-Simple Sequence Repeats, EST-SSR)与SSR的区别主要在于EST-SSR开发背景是植物的转录组序列，因此EST-SSR的多态性很可能关联于功能基因，开发的引物具有更高的通用性。随着植物转录组序列数据越来越普及，已经有大量的EST-SSR标记在不同的物种中被开发。
+      </p>
+      <p>
+        而荧光标记毛细管电泳是一种新兴的分子标记检测技术，与传统聚丙烯凝胶电泳相比，对SSR引物进行荧光标记毛细管电泳检测，检测效率更高、时间较短。毛细管电泳检测结果对于片段长度差异性分析的精确度能够达到1 bp，比起对聚丙烯酰胺凝胶进行肉眼读带和统计，结果更加科学和准确，已经在许多物种的SSR引物开发中得到应用 [<xref ref-type="bibr" rid="hanspub.31724-ref7">7</xref>] [<xref ref-type="bibr" rid="hanspub.31724-ref8">8</xref>] 。因此本研究选用毛细管电泳作为红花EST-SSR引物开发的检测方法。
+      </p>
+      <p>
+        综上，本研究选取11个不同来源地品种的红花作为研究对象进行栽培，首先利用NCBI上的红花EST数据库对红花进行EST-SSR引物的开发和聚类分析，本研究还对该11个品种的红花的农艺性状进行了聚类分析以与EST-SSR的聚类结果进行比较，又由于植物的重要器官如叶片和种子的性状相比其他的性状较为稳定，对其进行解剖学分析能够为研究植物的起源与亲缘关系、某些重要性状的分析提供重要的证据 [<xref ref-type="bibr" rid="hanspub.31724-ref9">9</xref>] ，因此本研究对11个品种的红花的叶片和种子进行进一步的解剖学观察和电镜观察，综合EST-SSR和农艺性状的分析结果对研究对象之间的亲缘关系进行讨论。
+      </p>
+      <p>由于红花具有极大的开发价值，而红花种子的含油率以及脂肪酸组成又是红花最主要的经济价值之一，因此本研究对红花种子的含油率与脂肪酸比例进行了测定并与红花其他的性状进行关联分析，在对红花进行种质资源评价的同时寻找红花性状之间的关联性，为红花的遗传育种提供研究基础。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 材料与方法</title>
+      <sec id="s4_1">
+        <title>2.1. 材料</title>
+        <p>
+          实验选用湖北省武汉市中南民族大学红花种植基地栽培的11个红花品种作为材料，种植基地的海拔高度约50 m，种植红花面积约200 m<sup>2</sup>。种植时间为2017年3月~8月。具体的品种信息如表1所示。
+        </p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Germplasm information of 11 safflower sample</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >编号(Number)</th>
+                  <th align="center" valign="middle" >国家编号(Name)</th>
+                  <th align="center" valign="middle" >原产地(Origin)</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >17H01</td>
+                <td align="center" valign="middle" >WGHH1969</td>
+                <td align="center" valign="middle" >土耳其</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H05</td>
+                <td align="center" valign="middle" >WGHH2029</td>
+                <td align="center" valign="middle" >印度</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H08</td>
+                <td align="center" valign="middle" >WGHH2128</td>
+                <td align="center" valign="middle" >印度</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H09</td>
+                <td align="center" valign="middle" >WGHH2131</td>
+                <td align="center" valign="middle" >印度</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H10</td>
+                <td align="center" valign="middle" >ZGHH0068</td>
+                <td align="center" valign="middle" >新疆</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H11</td>
+                <td align="center" valign="middle" >ZGHH0070</td>
+                <td align="center" valign="middle" >新疆</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H14</td>
+                <td align="center" valign="middle" >ZGHH0140</td>
+                <td align="center" valign="middle" >甘肃</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H16</td>
+                <td align="center" valign="middle" >ZGHH0155</td>
+                <td align="center" valign="middle" >辽宁</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H21</td>
+                <td align="center" valign="middle" >ZGHH1223</td>
+                <td align="center" valign="middle" >云南</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H25</td>
+                <td align="center" valign="middle" >ZGHH1300</td>
+                <td align="center" valign="middle" >云南</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >17H20</td>
+                <td align="center" valign="middle" >ZGHH1190</td>
+                <td align="center" valign="middle" >云南</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 11份红花材料的种质资源信息</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 实验方法</title>
+        <sec id="s4_2_1">
+          <title>2.2.1. 红花EST-SSR引物的开发</title>
+          <p>使用EST-trimmer (https://webblast.ipk-gatersleben.de/misa/)对红花EST序列进行过短序列和Poly A尾的去除。再利用Sequencher V5.4.5 (https://www.genecodes.com/)对预处理后的EST序列进行序列拼装。使用SSR-HUNTER对拼装后的高质量Contigs进行SSR位点的搜索。筛选标准为：二核苷酸重复次数大于6次，三，四，五，六核苷酸重复次数大于4次。再使用在线的Primer 3软件对引物进行引物设计。引物设计原理为GC含量40%~60%，退火温度为55℃左右，引物的长度范围18~28 bp。随机选取96对引物送武汉擎科生物有限公司进行引物合成。</p>
+          <p>提取11个品种的红花基因组DNA后对EST-SSR引物进行PCR扩增，PCR体系如表2所示。PCR反应程序为：94℃ 5 min→(94℃ 40 s, 55℃ 30 s, 72℃ 40 s) &#215; 35→72℃ 7 min→4℃保存。</p>
+          <p>向96孔板中加入均一化参比荧光染料Rox作为分子量内标及1 μL稀释10倍的PCR扩增产物，95℃变性1 min，迅速冰浴中冷却，以3000 r/min离心1 min，采用MegaBACE1000型DNA测序仪进行毛细管电泳检测，其中进样电压3 kV，电泳电压8 kV，进样时间45 s，电泳时间90 min。</p>
+          <table-wrap id="table2" >
+            <label>
+              <xref ref-type="table" rid="table2">Table 2</xref>
+            </label>
+            <caption>
+              <title> Reaction mixture of PC</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >PCR</th>
+                    <th align="center" valign="middle" >Composition (μL)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >
+                    ddH<sub>2</sub>O
+                  </td>
+                  <td align="center" valign="middle" >11.45</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >10&#215;PCR Buffer</td>
+                  <td align="center" valign="middle" >1.5</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >引物(F + R)</td>
+                  <td align="center" valign="middle" >0.3</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >模板DNA</td>
+                  <td align="center" valign="middle" >1</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >dNTPs</td>
+                  <td align="center" valign="middle" >0.45</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >Taq酶 (5U/μL)</td>
+                  <td align="center" valign="middle" >0.3</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >体积合计</td>
+                  <td align="center" valign="middle" >15</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表2. PCR反应体系</p>
+        </sec>
+        <sec id="s4_2_2">
+          <title>2.2.2. 红花的农艺性状统计</title>
+          <p>每个品种的红花随机抽取10株进行性状统计，统计项目为花色、叶片是否有刺、苞叶是否有刺、基生叶缘的形态、出苗期、花果数、株高、一级分支数、二级分支数、最低一级分支高度、最高一级分枝高度，统计结果取平均值。</p>
+        </sec>
+        <sec id="s4_2_3">
+          <title>2.2.3. 红花叶片的光学显微镜观察</title>
+          <p>取顶端以下成熟叶片，避开中心叶脉剪取叶片中心位置大小为5 mm &#215; 5 mm的小块。取样后放于2%戊二醛固定液中固定保存。</p>
+          <p>将戊二醛中固定的材料用磷酸缓冲液冲洗4次后用1%的锇酸在室温下固定2 h，用30%~50%~70%~80%~90%~95%~100%的酒精逐级脱水。每级15 min，然后依次用丙酮：乙醇为1:1，丙酮：乙醇为4:1，丙酮：环氧树脂为1:1，丙酮：环氧树脂为1:4，纯环氧树脂过渡，每级1 h，包埋后置于37℃约12 h，再置于45℃约12 h，最后置于60℃，12 h三段分段升温聚合。用切片机进行半薄切片，切片厚度2 μm。在处理干净的载玻片滴一滴水，将切片用镊子转移置于水滴上，利用水面的张力将切片自然展开，加温使切片完全铺平，用NaOH的乙醇饱和溶液洗脱半薄切片的树脂，浸泡3 min，使组织周围的树脂脱落，组织切片颜色变浅，切片仍平展附于载玻片上。干燥后经甲苯胺蓝(硼砂1 g，甲苯胺蓝1 g，蒸馏水100 mL)染色。</p>
+          <p>观察的叶片横切面，拍照并测量叶片厚度，栅栏组织厚度，海绵组织厚度，上下表皮的厚度，随机选取3个视野并对数据取平均值。计算细胞结构紧密度CTR和细胞结构疏松度CSR。</p>
+          <p>细胞结构紧密度(CTR) = (栅栏组织厚度/叶片厚度) &#215; 100%</p>
+          <p>细胞结构疏松度(CSR) = (海绵组织厚度/叶片厚度) &#215; 100%</p>
+        </sec>
+        <sec id="s4_2_4">
+          <title>2.2.4. 红花种子的含油率和脂肪酸组成测定</title>
+          <p>随机选取11种红花的种子各20粒，待干燥过夜后对种子的长度、宽度以及百粒重，统计结果取平均值。</p>
+          <p>将已干燥的红花种子磨碎后，称取2.00 g后进一步进行干燥脱水。之后转移至比色管中，将红花种子与石油醚50 mL混合后三角烧瓶。放入超声波清洗器震荡，重复提取两次。水浴回收中的石油醚后，将水浴蒸干后继续干燥。待冷却后进行称重，重复以上步骤直至恒重。</p>
+          <p>磨碎并称取红花种子0.2 g，加石油醚–乙醚(1:1)溶液400 μL，振荡混匀，放置40 min。加入KOH-甲醇(0.4 mol/L)溶液800 μL混匀，放入超声波清洗器中振荡10 min，再沿管壁加入600 μL双蒸水。待分层后，吸取1 mL上清液到自动进样小瓶。</p>
+          <p>气相色谱条件：用石英玻璃色谱柱，起始温度为70℃，以10℃/min升至185℃，保持10 min，汽化室温度250℃，检测室温度250℃，载气(氮气)流速60 mL/min，氢气流速40 mL/min，空气流速400 mL/min，出峰保留时间13 min，进样量2 μL，分流比30:1。与标准品对比确定脂肪酸种类，实验重复3次。</p>
+        </sec>
+        <sec id="s4_2_5">
+          <title>2.2.5. 聚类分析和相关性分析</title>
+          <p>在采集到11个品种的红花性状后，利用SPSS 24.0软件对红花的农艺性状、红花叶片和种子的性状分别进行聚类分析和相关性分析。</p>
+          <p>对每对EST-SSR引物检测的位点的多态性条带进行统计，有带记为“1”，无带记为“0”。所有引物对的读带结果形成01矩阵，利用NTSYS软件中SHAN程序和UPGMA方法对11个品种的红花进行聚类分析。</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 结果与分析</title>
+      <sec id="s5_1">
+        <title>3.1. 实验结果</title>
+        <sec id="s5_1_1">
+          <title>3.1.1. 红花转录组中EST-SSR的分布</title>
+          <p>在NCBI上搜索到红花的EST序列共41584条，大小为33.68 Mb。用SSR-HUNTER对拼装后的高质量Contigs进行SSR位点搜索，结果在红花转录组中发现了987个SSR位点。基序为二核苷酸的SSR位点中，TC和CT出现次数较多，以CG和GC为重复单位的位点并没有出现。三核苷酸基序在所有SSR位点中占比最多(66.8%)，其中以TTC、TCT、CTT、GAA为基序的位点出现的频率最高，未发现以CGT、GTT、GTC为基序的重复序列。三核苷酸比例最高反映了来自于基因表达序列的SSR的特征，因为三核苷酸的重复不会造成基因的移码突变带来的蛋白序列提前终止。四核苷酸基序中AATC和TTTC出现次数较其他重复单位多；五核苷酸基序中仅TTCAA出现2次，其余重复单位均只出现一次；六核苷酸基序的位点均为单拷贝(如图1所示)。</p>
+          <p>其中(a)为二基序的位点重复次数，(b)为三基序的位点重复次数，(c)为四基序的位点重复次数，(d)为五基序的位点重复次数。</p>
+          <p>图1. 不同基序的SSR位点分布</p>
+        </sec>
+        <sec id="s5_1_2">
+          <title>3.1.2. EST-SSR引物的筛选结果</title>
+          <p>根据拼装后的高质量Contigs序列利用Primer 3软件设计引物，选取96对引物进行引物合成和初步筛选。扩增结果显示共有35对引物可以扩增得到清晰的条带(如图2所示)。</p>
+          <p>图2. 96对SSR引物扩增结果</p>
+        </sec>
+        <sec id="s5_1_3">
+          <title>3.1.3. EST-SSR引物的多态性检测</title>
+          <p>根据可以扩增出清晰条带的35对引物的序列信息合成荧光引物，并对11个红花进行毛细管电泳扩增，部分扩增结果如图3所示，35对荧光引物的引物序列、多态性条带的条数以及扩增片段大小(bp)信息如表3所示。</p>
+          <p>35对荧光引物共计扩增出135条带，平均每对引物对扩增3.94条多态性条带。多态性最高的两对引物是26号和28号引物对，有效扩增条带数均为11条。15号引物对的多态性条带数为8个，16、17号引物对的多态性条带数为9个。其余引物条带数范围为2~4个。其中，扩增片段最小的是29号引物对的扩增结果(157 bp)，扩增片段最大的28号引物对的扩增结果(351 bp)。</p>
+          <table-wrap-group id="3">
+            <label>
+              <xref ref-type="table" rid="table3">Table 3</xref>
+            </label>
+            <caption>
+              <title> Fragment sizes of SSR primer amplificatio</title>
+            </caption>
+            <table-wrap id="3_1">
+              <table>
+                <tbody>
+                  <thead>
+                    <tr>
+                      <th align="center" valign="middle" >引物编号</th>
+                      <th align="center" valign="middle" >引物序列</th>
+                      <th align="center" valign="middle" >多态性条带数</th>
+                      <th align="center" valign="middle" >扩增片段大小(bp)</th>
+                    </tr>
+                  </thead>
+                  <tr>
+                    <td align="center" valign="middle" >1</td>
+                    <td align="center" valign="middle" >F-GGAAAACACACTGAGAAAGG R-TTAGTAGATGGATCCGGTTG</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >235~241</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >F-GACTGGGTTGCTGCTACTAC R-GTGCCTGCTTGATTATTACC</td>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >180~226</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >F-GACCATGCAATGGATAGTTT R-AATCAGCTGAGAAGTGGAAA</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >200~206</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >F-CGCATGAAGTTATCAGTCAA R-GTTACATGGTGAATGGCTCT</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >240~244</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >5</td>
+                    <td align="center" valign="middle" >F-GATCAGAATGGTCGGAAATA R-AAGTAAGGCCAGACATCAAA</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >181~211</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >6</td>
+                    <td align="center" valign="middle" >F-GAGTTCGAATCCAACAACAT R-TAGATCGCTAACCTCTGAGC</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >233~239</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >7</td>
+                    <td align="center" valign="middle" >F-GATCTCTAACAACCCACCAA R-CATTGCCAACTTTCTCTCTC</td>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >204~213</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >8</td>
+                    <td align="center" valign="middle" >F-CATGTAATGCCACGGTTT R-TTGAGATGTATGGACGTGTG</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >179~223</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >9</td>
+                    <td align="center" valign="middle" >F-TTTCGCTCCTTGTAGTTTGT R-AGCAACAAAAGCAGGTGTAT</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >238~239</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <table-wrap id="3_2">
+              <table>
+                <tbody>
+                  <thead>
+                    <tr>
+                      <th align="center" valign="middle" >10</th>
+                      <th align="center" valign="middle" >F-AGTGAGGATTGAATTGGTTG R-TCACCTTGCCGTCTATAGTT</th>
+                      <th align="center" valign="middle" >3</th>
+                      <th align="center" valign="middle" >222~224</th>
+                    </tr>
+                  </thead>
+                  <tr>
+                    <td align="center" valign="middle" >11</td>
+                    <td align="center" valign="middle" >F-CAAGTGTGTGTGTCAGATCC R-ATCTGTCGTGCTTTTACTGC</td>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >229~290</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >12</td>
+                    <td align="center" valign="middle" >F-GACGAATCTTGATCTCTCACA R-GTGATGGATGGCATAAGAGT</td>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >176~192</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >13</td>
+                    <td align="center" valign="middle" >F-CTTCCACGCCAAATACTATC R-AATTGAGCAAAGAGAGTGGA</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >203~210</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >14</td>
+                    <td align="center" valign="middle" >F-TCACCAAACCCTATCTCATC R-ATAGCAGTAATTGGCGTCAT</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >173~181</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >15</td>
+                    <td align="center" valign="middle" >F-ACTATGTAGCCTGCTTTGGA R-AGAGATAGGTGGTGATGACG</td>
+                    <td align="center" valign="middle" >8</td>
+                    <td align="center" valign="middle" >201~222</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >16</td>
+                    <td align="center" valign="middle" >F-ACTATGTAGCCTGCTTTGGA R-AGAGATAGGTGGTGATGACG</td>
+                    <td align="center" valign="middle" >9</td>
+                    <td align="center" valign="middle" >198~219</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >17</td>
+                    <td align="center" valign="middle" >F-TTTCACGAGCTCTCTCTCTC R-AAGTGAAGCTTGCTTTTACG</td>
+                    <td align="center" valign="middle" >9</td>
+                    <td align="center" valign="middle" >227~285</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >18</td>
+                    <td align="center" valign="middle" >F-AAAAGCAAGCTTCACTTCAC R-CCAAAACCTCAAACTCACAT</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >231~260</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >19</td>
+                    <td align="center" valign="middle" >F-GCACCAAATATCTCATTTCC R-CGAAGTCAAAATCACATCAG</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >239~259</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >20</td>
+                    <td align="center" valign="middle" >F-AATACCCCTCGCTCACTATT R-CTACAAAAGCAACCAAAAGG</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >224~237</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >21</td>
+                    <td align="center" valign="middle" >F-AGACAACAACAACAACAACG R-GTGAAATCGTTGAGAGGAAG</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >221~234</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >22</td>
+                    <td align="center" valign="middle" >F-TCCATGTAACAGAGTTGCAG R-GATTTTGTCCTTCCAGTTGA</td>
+                    <td align="center" valign="middle" >1</td>
+                    <td align="center" valign="middle" >168</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >23</td>
+                    <td align="center" valign="middle" >F-TCTCCTTCTACCTCCTCCTC R-GTCCGTATTTGGATTTGAAG</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >198~213</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >24</td>
+                    <td align="center" valign="middle" >F-CTTCAACTCCACTTCACCAT R-TTCGAAGTCATAAACGAGGT</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >180~182</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >25</td>
+                    <td align="center" valign="middle" >F-CAGGAAGATCCACTTCAAGA R-CACCACATAGAAACACCTGA</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >258~260</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >26</td>
+                    <td align="center" valign="middle" >F-TGCTATTCTCCTCCCTCTCT R-ACGTGAGATTGCTGAAGATT</td>
+                    <td align="center" valign="middle" >11</td>
+                    <td align="center" valign="middle" >182~218</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >27</td>
+                    <td align="center" valign="middle" >F-CTTGCTGACACCCACTTACT R-CCTCTTCAAATAGACGTGGT</td>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >162~184</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >28</td>
+                    <td align="center" valign="middle" >F-ATGTATGCCCTGCTAACAAT R-AATCGATCGTGAAATCTCTG</td>
+                    <td align="center" valign="middle" >11</td>
+                    <td align="center" valign="middle" >204~351</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >29</td>
+                    <td align="center" valign="middle" >F-GTTGTAAGCAAGCTCCAAAT R-TGAATTAGGGAAGAAGGATG</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >157~168</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >30</td>
+                    <td align="center" valign="middle" >F-AACAAGAAGAGAGCACTGGA R-GTCGAAAGAGGCAAAGATT</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >209~222</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >31</td>
+                    <td align="center" valign="middle" >F-TTCGAGATAGTTCGATTCGT R-ACTTGATTGTGATCGTTTCC</td>
+                    <td align="center" valign="middle" >4</td>
+                    <td align="center" valign="middle" >243~252</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >32</td>
+                    <td align="center" valign="middle" >F-ATTAGTCCCACCACAACAAC R-CGAGATGGAGACATGAGATT</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >222~230</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >33</td>
+                    <td align="center" valign="middle" >F-GGACCAATCCTATGTAAGCA R-TCTACACCTTCCCAATCATC</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >238~266</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >34</td>
+                    <td align="center" valign="middle" >F-TAAAGTCCTTGCCTTTGTTG R-GATGGATTGCAGAGATGAAT</td>
+                    <td align="center" valign="middle" >3</td>
+                    <td align="center" valign="middle" >224~226</td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="middle" >35</td>
+                    <td align="center" valign="middle" >F-TGCTCCGACCTATTTGTACT R-TTGATGTCGATGTAGGTGAA</td>
+                    <td align="center" valign="middle" >2</td>
+                    <td align="center" valign="middle" >196~202</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </table-wrap-group>
+          <p>表3. SSR引物序列及其扩增片段大小</p>
+          <p>图3. 编号为22，26，28号引物对部分的电泳结果</p>
+          <p>(a)为22号引物对对1号红花的扩增结果的峰图；(b)为26号引物对对6号红花的扩增结果的峰图；(c)为28号引物对对10号红花的扩增结果的峰图，图3中的峰值的高低与荧光强度有关，达阈值后确定为有效峰，代表该扩增片段的大小为有效扩增。对于扩增片段的大小则采用GeneMapper 4.0将扩增得到的原始数据与内标相比较来确定。</p>
+        </sec>
+        <sec id="s5_1_4">
+          <title>3.1.4. 红花的农艺性状统计结果</title>
+          <p>如图4所示，11个不同品种的红花中出现4种不同的花色，分别为红色、黄色、白色和桔红色。开红花的品种来源为云南省，开白花的品种来源为印度。开黄色花品种数较多，来源为土耳其，印度，中国新疆、辽宁省和云南省。而桔红色花的品种则来源于甘肃省和云南省。来源于甘肃省的17H14和云南省的17H21的苞叶性状为无刺但是叶片性状为有刺，其余品种的叶片刺和苞叶刺的性状均为同时有刺或者同时无刺。来源于云南省的17H20的基生叶缘性状为深裂型，其他品种的基生叶缘性状主要包括全缘和浅裂。</p>
+          <p>图4. 11种红花的开花图片</p>
+          <p>数量性状的统计如表4所示。11个红花品种的出苗期为6~9天，开黄色花的红花品种出苗天数浮动较大，开红色花、白色花和桔红色花的品种的出苗期均为6天。在11个红花品种的单株花果数统计结果中，单株花果数最少的品种是17H25，平均每株只有5个花果。单株花果数最多的品种是17H20，平均每株花果数为52个。植株株高最高的品种为来源于云南省的17H16，平均高度为139 cm，而株高最低的品种为新疆的17H11，平均株高约81 cm。红花一级分枝数的数量范围为5~30个，二级分支数的数量范围为7~54个。离地高度最低的一级分枝的高度范围为0 cm~95 cm，在离地高度最低一级分支的比较中，离地高度最低的品种为17H20，离地高度最高的品种为17H14。具有离地高度最高的一级分枝的高度范围为48 cm~113 cm，在离地高度最高一级分支的比较中，离地高度最低的品种为17H20，离地高度最高的品种为17H21。</p>
+        </sec>
+        <sec id="s5_1_5">
+          <title>3.1.5. 红花叶片的光学显微镜观察结果</title>
+          <p>红花叶片的光学显微镜观察结果如图5所示，17H20与其余红花品种差异较大，其特征为叶片的上表面间隔生有刺，栅栏组织细胞结构相比其余品种相对松散，其余10个品种的红花的表皮细胞均排列规则，大小比较一致。栅栏组织细胞共2层，排列结构相对比较紧密。所有材料的海绵组织结构疏松，结构差异不大。细胞结构紧密度范围为53.8%~67.4%，细胞结构疏松度范围为21.47%~29.28%，细胞结构紧密度最高的是17H25，来源于云南省，细胞结构疏松度最高的是17H14，来源于甘肃省。11个的红花叶片厚度范围为241.98 μm~321.33 μm，其中，17H14的叶片厚度最小，17H25叶片厚度最大。红花叶片的角质层厚度范围为1.94 μm~5.65 μm，其中，17H14的角质层厚度最小，17H25角质层厚度最大。叶片上表皮厚度范围为11.30 μm~20.56 μm，下表皮厚度范围为9.94 μm~15.56 μm。其中，17H25具有最厚的叶片厚度和角质层厚度，而且细胞结构紧密度也是最高的。17H14叶片和角质层最薄，疏松度也最高。红花叶片横切面结构如图2所示，具体统计结果如表5所示。</p>
+          <table-wrap id="table4" >
+            <label>
+              <xref ref-type="table" rid="table4">Table 4</xref>
+            </label>
+            <caption>
+              <title> Statistics of agronomic traits of 11 safflower</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >实验编号</th>
+                    <th align="center" valign="middle" >来源</th>
+                    <th align="center" valign="middle" >花色</th>
+                    <th align="center" valign="middle" >叶片刺</th>
+                    <th align="center" valign="middle" >苞叶刺</th>
+                    <th align="center" valign="middle" >基生叶缘</th>
+                    <th align="center" valign="middle" >出苗期 (天)</th>
+                    <th align="center" valign="middle" >花果数 (个)</th>
+                    <th align="center" valign="middle" >株高 (cm)</th>
+                    <th align="center" valign="middle" >一级 分枝数</th>
+                    <th align="center" valign="middle" >二级 分支数</th>
+                    <th align="center" valign="middle" >最低一级 分枝高度 (cm)</th>
+                    <th align="center" valign="middle" >最高一级 分枝高度 (cm)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >17H01</td>
+                  <td align="center" valign="middle" >土耳其</td>
+                  <td align="center" valign="middle" >黄</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >全缘</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >94</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >7</td>
+                  <td align="center" valign="middle" >42</td>
+                  <td align="center" valign="middle" >73</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H05</td>
+                  <td align="center" valign="middle" >印度</td>
+                  <td align="center" valign="middle" >黄</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >全缘</td>
+                  <td align="center" valign="middle" >9</td>
+                  <td align="center" valign="middle" >17</td>
+                  <td align="center" valign="middle" >104</td>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >17</td>
+                  <td align="center" valign="middle" >58</td>
+                  <td align="center" valign="middle" >70</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H08</td>
+                  <td align="center" valign="middle" >印度</td>
+                  <td align="center" valign="middle" >白</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >浅裂</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >11</td>
+                  <td align="center" valign="middle" >113</td>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >15</td>
+                  <td align="center" valign="middle" >65</td>
+                  <td align="center" valign="middle" >84</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H09</td>
+                  <td align="center" valign="middle" >印度</td>
+                  <td align="center" valign="middle" >白</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >全缘</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >11</td>
+                  <td align="center" valign="middle" >106</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >10</td>
+                  <td align="center" valign="middle" >70</td>
+                  <td align="center" valign="middle" >81</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H10</td>
+                  <td align="center" valign="middle" >新疆</td>
+                  <td align="center" valign="middle" >黄</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >全缘</td>
+                  <td align="center" valign="middle" >8</td>
+                  <td align="center" valign="middle" >26</td>
+                  <td align="center" valign="middle" >133</td>
+                  <td align="center" valign="middle" >10</td>
+                  <td align="center" valign="middle" >25</td>
+                  <td align="center" valign="middle" >70</td>
+                  <td align="center" valign="middle" >94</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H11</td>
+                  <td align="center" valign="middle" >新疆</td>
+                  <td align="center" valign="middle" >黄</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >全缘</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >7</td>
+                  <td align="center" valign="middle" >81</td>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >7</td>
+                  <td align="center" valign="middle" >55</td>
+                  <td align="center" valign="middle" >61</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H14</td>
+                  <td align="center" valign="middle" >甘肃</td>
+                  <td align="center" valign="middle" >桔红</td>
+                  <td align="center" valign="middle" >无刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >浅裂</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >13</td>
+                  <td align="center" valign="middle" >133</td>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >12</td>
+                  <td align="center" valign="middle" >95</td>
+                  <td align="center" valign="middle" >107</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H16</td>
+                  <td align="center" valign="middle" >辽宁</td>
+                  <td align="center" valign="middle" >黄</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >浅裂</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >31</td>
+                  <td align="center" valign="middle" >139</td>
+                  <td align="center" valign="middle" >7</td>
+                  <td align="center" valign="middle" >25</td>
+                  <td align="center" valign="middle" >80</td>
+                  <td align="center" valign="middle" >93</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H21</td>
+                  <td align="center" valign="middle" >云南</td>
+                  <td align="center" valign="middle" >红</td>
+                  <td align="center" valign="middle" >无刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >浅裂</td>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >130</td>
+                  <td align="center" valign="middle" >23</td>
+                  <td align="center" valign="middle" >44</td>
+                  <td align="center" valign="middle" >48</td>
+                  <td align="center" valign="middle" >113</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H25</td>
+                  <td align="center" valign="middle" >云南</td>
+                  <td align="center" valign="middle" >桔红</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >全缘</td>
+                  <td align="center" valign="middle" >9</td>
+                  <td align="center" valign="middle" >22</td>
+                  <td align="center" valign="middle" >111</td>
+                  <td align="center" valign="middle" >9</td>
+                  <td align="center" valign="middle" >24</td>
+                  <td align="center" valign="middle" >67</td>
+                  <td align="center" valign="middle" >79</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H20</td>
+                  <td align="center" valign="middle" >云南</td>
+                  <td align="center" valign="middle" >黄</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >有刺</td>
+                  <td align="center" valign="middle" >深裂</td>
+                  <td align="center" valign="middle" >8</td>
+                  <td align="center" valign="middle" >12</td>
+                  <td align="center" valign="middle" >131</td>
+                  <td align="center" valign="middle" >30</td>
+                  <td align="center" valign="middle" >54</td>
+                  <td align="center" valign="middle" >0</td>
+                  <td align="center" valign="middle" >48</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表4. 11个红花的农艺性状统计</p>
+          <p>图5. 11种红花的叶横切面结构</p>
+          <p>其中，图5中所有图片的放大倍数均为200倍，(a) = 17H01，(b) = 17H05，(c) = 17H08，(d) = 17H09，(e) = 17H10，(f) = 17H11，(g) = 17H14，(h) = 17H16，(i) = 17H21，(j) = 17H25，(k) = 17H20。</p>
+          <table-wrap id="table5" >
+            <label>
+              <xref ref-type="table" rid="table5">Table 5</xref>
+            </label>
+            <caption>
+              <title> Statistics of anatomical structures of leave</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >编号</th>
+                    <th align="center" valign="middle" >原产地</th>
+                    <th align="center" valign="middle" >角质层厚 (μm)</th>
+                    <th align="center" valign="middle" >叶片厚 (μm)</th>
+                    <th align="center" valign="middle" >叶中脉厚 (μm)</th>
+                    <th align="center" valign="middle" >上表皮厚 (μm)</th>
+                    <th align="center" valign="middle" >下表皮厚 (μm)</th>
+                    <th align="center" valign="middle" >栅栏组织 厚度 (μm)</th>
+                    <th align="center" valign="middle" >海绵组织 厚度 (μm)</th>
+                    <th align="center" valign="middle" >紧密度(CTR)</th>
+                    <th align="center" valign="middle" >疏松度(CSR)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >17H01</td>
+                  <td align="center" valign="middle" >土耳其</td>
+                  <td align="center" valign="middle" >4.58</td>
+                  <td align="center" valign="middle" >285.81</td>
+                  <td align="center" valign="middle" >28.88</td>
+                  <td align="center" valign="middle" >12.84</td>
+                  <td align="center" valign="middle" >9.94</td>
+                  <td align="center" valign="middle" >182.83</td>
+                  <td align="center" valign="middle" >75.63</td>
+                  <td align="center" valign="middle" >64.0%</td>
+                  <td align="center" valign="middle" >26.46%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H05</td>
+                  <td align="center" valign="middle" >印度</td>
+                  <td align="center" valign="middle" >3.29</td>
+                  <td align="center" valign="middle" >288.36</td>
+                  <td align="center" valign="middle" >16.24</td>
+                  <td align="center" valign="middle" >11.3</td>
+                  <td align="center" valign="middle" >10.37</td>
+                  <td align="center" valign="middle" >185.13</td>
+                  <td align="center" valign="middle" >78.27</td>
+                  <td align="center" valign="middle" >64.2%</td>
+                  <td align="center" valign="middle" >27.14%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H08</td>
+                  <td align="center" valign="middle" >印度</td>
+                  <td align="center" valign="middle" >3.29</td>
+                  <td align="center" valign="middle" >276.04</td>
+                  <td align="center" valign="middle" >35.88</td>
+                  <td align="center" valign="middle" >14.28</td>
+                  <td align="center" valign="middle" >15.56</td>
+                  <td align="center" valign="middle" >164.93</td>
+                  <td align="center" valign="middle" >77.98</td>
+                  <td align="center" valign="middle" >60.0%</td>
+                  <td align="center" valign="middle" >28.25%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H09</td>
+                  <td align="center" valign="middle" >印度</td>
+                  <td align="center" valign="middle" >3.83</td>
+                  <td align="center" valign="middle" >277.90</td>
+                  <td align="center" valign="middle" >32.55</td>
+                  <td align="center" valign="middle" >17.09</td>
+                  <td align="center" valign="middle" >13.48</td>
+                  <td align="center" valign="middle" >165.01</td>
+                  <td align="center" valign="middle" >78.51</td>
+                  <td align="center" valign="middle" >59.4%</td>
+                  <td align="center" valign="middle" >28.25%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H10</td>
+                  <td align="center" valign="middle" >新疆</td>
+                  <td align="center" valign="middle" >3.19</td>
+                  <td align="center" valign="middle" >248.96</td>
+                  <td align="center" valign="middle" >30.39</td>
+                  <td align="center" valign="middle" >16.53</td>
+                  <td align="center" valign="middle" >14.61</td>
+                  <td align="center" valign="middle" >146.35</td>
+                  <td align="center" valign="middle" >68.27</td>
+                  <td align="center" valign="middle" >58.8%</td>
+                  <td align="center" valign="middle" >27.42%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H11</td>
+                  <td align="center" valign="middle" >新疆</td>
+                  <td align="center" valign="middle" >3.9</td>
+                  <td align="center" valign="middle" >263.57</td>
+                  <td align="center" valign="middle" >25.33</td>
+                  <td align="center" valign="middle" >14.65</td>
+                  <td align="center" valign="middle" >13.79</td>
+                  <td align="center" valign="middle" >159.65</td>
+                  <td align="center" valign="middle" >71.59</td>
+                  <td align="center" valign="middle" >60.6%</td>
+                  <td align="center" valign="middle" >27.16%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H14</td>
+                  <td align="center" valign="middle" >甘肃</td>
+                  <td align="center" valign="middle" >1.94</td>
+                  <td align="center" valign="middle" >241.98</td>
+                  <td align="center" valign="middle" >28.18</td>
+                  <td align="center" valign="middle" >14.11</td>
+                  <td align="center" valign="middle" >11.05</td>
+                  <td align="center" valign="middle" >130.136</td>
+                  <td align="center" valign="middle" >84.73</td>
+                  <td align="center" valign="middle" >53.8%</td>
+                  <td align="center" valign="middle" >35.02%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H16</td>
+                  <td align="center" valign="middle" >辽宁</td>
+                  <td align="center" valign="middle" >3.46</td>
+                  <td align="center" valign="middle" >274.26</td>
+                  <td align="center" valign="middle" >27.34</td>
+                  <td align="center" valign="middle" >15.86</td>
+                  <td align="center" valign="middle" >11.82</td>
+                  <td align="center" valign="middle" >177.03</td>
+                  <td align="center" valign="middle" >66.08</td>
+                  <td align="center" valign="middle" >64.5%</td>
+                  <td align="center" valign="middle" >24.09%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H21</td>
+                  <td align="center" valign="middle" >云南</td>
+                  <td align="center" valign="middle" >3.45</td>
+                  <td align="center" valign="middle" >279.3</td>
+                  <td align="center" valign="middle" >33.35</td>
+                  <td align="center" valign="middle" >16.02</td>
+                  <td align="center" valign="middle" >12.1</td>
+                  <td align="center" valign="middle" >182.026</td>
+                  <td align="center" valign="middle" >65.71</td>
+                  <td align="center" valign="middle" >65.2%</td>
+                  <td align="center" valign="middle" >23.53%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H25</td>
+                  <td align="center" valign="middle" >云南</td>
+                  <td align="center" valign="middle" >5.65</td>
+                  <td align="center" valign="middle" >321.33</td>
+                  <td align="center" valign="middle" >27.46</td>
+                  <td align="center" valign="middle" >13.7</td>
+                  <td align="center" valign="middle" >15.51</td>
+                  <td align="center" valign="middle" >216.73</td>
+                  <td align="center" valign="middle" >68.99</td>
+                  <td align="center" valign="middle" >67.4%</td>
+                  <td align="center" valign="middle" >21.47%</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H20</td>
+                  <td align="center" valign="middle" >云南</td>
+                  <td align="center" valign="middle" >3.47</td>
+                  <td align="center" valign="middle" >266.12</td>
+                  <td align="center" valign="middle" >18.2</td>
+                  <td align="center" valign="middle" >20.56</td>
+                  <td align="center" valign="middle" >12.79</td>
+                  <td align="center" valign="middle" >151.31</td>
+                  <td align="center" valign="middle" >77.89</td>
+                  <td align="center" valign="middle" >56.9%</td>
+                  <td align="center" valign="middle" >29.28%</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表5. 叶片的解剖学形态统计</p>
+        </sec>
+        <sec id="s5_1_6">
+          <title>3.1.6. 红花种子的含油率和脂肪酸组成测定结果</title>
+          <p>如表6所示，11个品种的红花种子的种壳除17H20外为黄色外，其余品种种壳均为白色，红花种子的长度范围为5.000 mm~8.714 mm，宽度范围为3.420 mm~4.839 mm，种子长度最大的是17H14，种子宽度最大的是17H01，种子长度和宽度最小的均为17H20。种子的长宽比例最大的是17H11。在红花种子的百粒重统计中，种子重量的范围是1.415 g~4.750 g。17H20的质量最小，质量最大的是17H25。在本实验中的11个红花种子的大小和长宽比都表现出一定的差异。研究中编号为17H25的品种的百粒重最大，但是种子的长度和宽度是所有栽培红花中最小的，种子的密度较大。</p>
+          <p>11个红花品种的种子含油率范围为13.20413%~20.69606%。平均含油率为17.24409%。其中含油率最高的是17H10，含油率最低的是17H11，两个品种均来源于新疆。17H21，17H25，17H20均来源于云南省，四个品种的含油率分别为13.6836%，15.35505%，17.55138%和19.50467%。两个来源于印度的红花品种(17H08，17H09)含油率分别为16.70813%和17.24753%，相对比较接近。从红花种子的脂肪酸组成来看，所有红花的脂肪酸的组成均以C16:0 (棕榈酸)和C18:0 (硬脂酸)，C18:1 (油酸)，C18:2 (亚油酸)为主，其中亚油酸所占比例最大，是红花脂肪酸中最主要的成分。在11个品种的红花脂肪酸组成中，不饱和脂肪酸所占的比例远高于饱和脂肪酸的比例。其中，17H20的C16:0 (棕榈酸)比例最高(10.150%)，17H16的C16:0 (棕榈酸)的比例最低(3.057%)。17H20的C18:0 (硬脂酸)比例最高(4.530%)，17H16的C18:0 (硬脂酸)的比例最低(1.577%)。17H20的C18:1 (油酸)比例最高(22.016%)，17H16的C18:1 (油酸)比例最低(8.930%)。17H16的C18:2 (亚油酸)比例最高(83.450%)，17H20的C18:2 (亚油酸)比例最低(62.092%)。C18:3只在部分品种的红花中被检测到，其中具有最高C18:3含量的是17H11。17H20的C20:0 (花生酸)比例最高(0.623%)，17H10的C20:0 (花生酸)比例最低(0.258%)。17H20的C22:1 (鲸油酸)比例最高(0.239%)，而在17H08中没有检测到C22:1 (鲸油酸)。</p>
+          <table-wrap id="table6" >
+            <label>
+              <xref ref-type="table" rid="table6">Table 6</xref>
+            </label>
+            <caption>
+              <title> Oil content and fatty acid composition of 11 cultivars of safflower</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >编号</th>
+                    <th align="center" valign="middle" >种壳颜色</th>
+                    <th align="center" valign="middle" >长度(mm)</th>
+                    <th align="center" valign="middle" >宽度(mm)</th>
+                    <th align="center" valign="middle" >长宽比</th>
+                    <th align="center" valign="middle" >百粒重(g)</th>
+                    <th align="center" valign="middle" >含油率</th>
+                    <th align="center" valign="middle" >C16:0 (%)</th>
+                    <th align="center" valign="middle" >C18:0 (%)</th>
+                    <th align="center" valign="middle" >C18:1 (%)</th>
+                    <th align="center" valign="middle" >C18:2 (%)</th>
+                    <th align="center" valign="middle" >C18:3 (%)</th>
+                    <th align="center" valign="middle" >C20:0 (%)</th>
+                    <th align="center" valign="middle" >C20:1 (%)</th>
+                    <th align="center" valign="middle" >C20:2 (%)</th>
+                    <th align="center" valign="middle" >C22:1 (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >17H01</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >7.818</td>
+                  <td align="center" valign="middle" >4.839</td>
+                  <td align="center" valign="middle" >1.62:1</td>
+                  <td align="center" valign="middle" >4.160</td>
+                  <td align="center" valign="middle" >20.20346</td>
+                  <td align="center" valign="middle" >6.105</td>
+                  <td align="center" valign="middle" >2.334</td>
+                  <td align="center" valign="middle" >12.388</td>
+                  <td align="center" valign="middle" >78.327</td>
+                  <td align="center" valign="middle" >0.000</td>
+                  <td align="center" valign="middle" >0.305</td>
+                  <td align="center" valign="middle" >0.120</td>
+                  <td align="center" valign="middle" >0.260</td>
+                  <td align="center" valign="middle" >0.160</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H05</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >7.534</td>
+                  <td align="center" valign="middle" >4.558</td>
+                  <td align="center" valign="middle" >1.65:1</td>
+                  <td align="center" valign="middle" >3.950</td>
+                  <td align="center" valign="middle" >19.50467</td>
+                  <td align="center" valign="middle" >5.787</td>
+                  <td align="center" valign="middle" >2.062</td>
+                  <td align="center" valign="middle" >10.449</td>
+                  <td align="center" valign="middle" >80.790</td>
+                  <td align="center" valign="middle" >0.040</td>
+                  <td align="center" valign="middle" >0.272</td>
+                  <td align="center" valign="middle" >0.116</td>
+                  <td align="center" valign="middle" >0.310</td>
+                  <td align="center" valign="middle" >0.174</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H08</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >7.526</td>
+                  <td align="center" valign="middle" >4.238</td>
+                  <td align="center" valign="middle" >1.78:1</td>
+                  <td align="center" valign="middle" >2.690</td>
+                  <td align="center" valign="middle" >16.70813</td>
+                  <td align="center" valign="middle" >5.441</td>
+                  <td align="center" valign="middle" >2.080</td>
+                  <td align="center" valign="middle" >12.638</td>
+                  <td align="center" valign="middle" >79.021</td>
+                  <td align="center" valign="middle" >0.087</td>
+                  <td align="center" valign="middle" >0.261</td>
+                  <td align="center" valign="middle" >0.123</td>
+                  <td align="center" valign="middle" >0.349</td>
+                  <td align="center" valign="middle" >0.000</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H09</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >7.398</td>
+                  <td align="center" valign="middle" >3.976</td>
+                  <td align="center" valign="middle" >1.86:1</td>
+                  <td align="center" valign="middle" >2.550</td>
+                  <td align="center" valign="middle" >17.24753</td>
+                  <td align="center" valign="middle" >5.302</td>
+                  <td align="center" valign="middle" >2.104</td>
+                  <td align="center" valign="middle" >10.392</td>
+                  <td align="center" valign="middle" >81.240</td>
+                  <td align="center" valign="middle" >0.061</td>
+                  <td align="center" valign="middle" >0.302</td>
+                  <td align="center" valign="middle" >0.110</td>
+                  <td align="center" valign="middle" >0.315</td>
+                  <td align="center" valign="middle" >0.174</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H10</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >7.440</td>
+                  <td align="center" valign="middle" >4.148</td>
+                  <td align="center" valign="middle" >1.79:1</td>
+                  <td align="center" valign="middle" >3.695</td>
+                  <td align="center" valign="middle" >20.69606</td>
+                  <td align="center" valign="middle" >5.491</td>
+                  <td align="center" valign="middle" >1.955</td>
+                  <td align="center" valign="middle" >8.374</td>
+                  <td align="center" valign="middle" >83.353</td>
+                  <td align="center" valign="middle" >0.034</td>
+                  <td align="center" valign="middle" >0.258</td>
+                  <td align="center" valign="middle" >0.095</td>
+                  <td align="center" valign="middle" >0.306</td>
+                  <td align="center" valign="middle" >0.133</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H11</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >8.472</td>
+                  <td align="center" valign="middle" >4.210</td>
+                  <td align="center" valign="middle" >2.01:1</td>
+                  <td align="center" valign="middle" >3.675</td>
+                  <td align="center" valign="middle" >13.20413</td>
+                  <td align="center" valign="middle" >5.794</td>
+                  <td align="center" valign="middle" >1.916</td>
+                  <td align="center" valign="middle" >8.942</td>
+                  <td align="center" valign="middle" >82.432</td>
+                  <td align="center" valign="middle" >0.095</td>
+                  <td align="center" valign="middle" >0.276</td>
+                  <td align="center" valign="middle" >0.105</td>
+                  <td align="center" valign="middle" >0.302</td>
+                  <td align="center" valign="middle" >0.138</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H14</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >8.714</td>
+                  <td align="center" valign="middle" >4.458</td>
+                  <td align="center" valign="middle" >1.95:1</td>
+                  <td align="center" valign="middle" >3.675</td>
+                  <td align="center" valign="middle" >18.28973</td>
+                  <td align="center" valign="middle" >4.827</td>
+                  <td align="center" valign="middle" >1.702</td>
+                  <td align="center" valign="middle" >17.253</td>
+                  <td align="center" valign="middle" >75.237</td>
+                  <td align="center" valign="middle" >0.000</td>
+                  <td align="center" valign="middle" >0.264</td>
+                  <td align="center" valign="middle" >0.158</td>
+                  <td align="center" valign="middle" >0.258</td>
+                  <td align="center" valign="middle" >0.300</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H16</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >6.886</td>
+                  <td align="center" valign="middle" >3.924</td>
+                  <td align="center" valign="middle" >1.75:1</td>
+                  <td align="center" valign="middle" >3.640</td>
+                  <td align="center" valign="middle" >17.24034</td>
+                  <td align="center" valign="middle" >4.640</td>
+                  <td align="center" valign="middle" >1.577</td>
+                  <td align="center" valign="middle" >8.930</td>
+                  <td align="center" valign="middle" >83.450</td>
+                  <td align="center" valign="middle" >0.035</td>
+                  <td align="center" valign="middle" >0.292</td>
+                  <td align="center" valign="middle" >0.164</td>
+                  <td align="center" valign="middle" >0.360</td>
+                  <td align="center" valign="middle" >0.553</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H21</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >6.900</td>
+                  <td align="center" valign="middle" >4.634</td>
+                  <td align="center" valign="middle" >1.49:1</td>
+                  <td align="center" valign="middle" >3.645</td>
+                  <td align="center" valign="middle" >15.35505</td>
+                  <td align="center" valign="middle" >5.405</td>
+                  <td align="center" valign="middle" >2.393</td>
+                  <td align="center" valign="middle" >12.604</td>
+                  <td align="center" valign="middle" >78.826</td>
+                  <td align="center" valign="middle" >0.000</td>
+                  <td align="center" valign="middle" >0.271</td>
+                  <td align="center" valign="middle" >0.119</td>
+                  <td align="center" valign="middle" >0.257</td>
+                  <td align="center" valign="middle" >0.126</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H25</td>
+                  <td align="center" valign="middle" >白色</td>
+                  <td align="center" valign="middle" >6.314</td>
+                  <td align="center" valign="middle" >3.656</td>
+                  <td align="center" valign="middle" >1.73:1</td>
+                  <td align="center" valign="middle" >4.750</td>
+                  <td align="center" valign="middle" >17.55138</td>
+                  <td align="center" valign="middle" >6.421</td>
+                  <td align="center" valign="middle" >2.072</td>
+                  <td align="center" valign="middle" >10.291</td>
+                  <td align="center" valign="middle" >80.308</td>
+                  <td align="center" valign="middle" >0.000</td>
+                  <td align="center" valign="middle" >0.308</td>
+                  <td align="center" valign="middle" >0.136</td>
+                  <td align="center" valign="middle" >0.283</td>
+                  <td align="center" valign="middle" >0.182</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >17H20</td>
+                  <td align="center" valign="middle" >黄色</td>
+                  <td align="center" valign="middle" >5.000</td>
+                  <td align="center" valign="middle" >3.420</td>
+                  <td align="center" valign="middle" >1.46:1</td>
+                  <td align="center" valign="middle" >1.415</td>
+                  <td align="center" valign="middle" >13.68448</td>
+                  <td align="center" valign="middle" >10.150</td>
+                  <td align="center" valign="middle" >4.530</td>
+                  <td align="center" valign="middle" >22.016</td>
+                  <td align="center" valign="middle" >62.092</td>
+                  <td align="center" valign="middle" >0.000</td>
+                  <td align="center" valign="middle" >0.623</td>
+                  <td align="center" valign="middle" >0.068</td>
+                  <td align="center" valign="middle" >0.281</td>
+                  <td align="center" valign="middle" >0.239</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表6. 11种红花的含油率和脂肪酸比例</p>
+        </sec>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 红花的聚类分析与相关性分析</title>
+        <sec id="s5_2_1">
+          <title>3.2.1. 红花EST-SSR的聚类结果</title>
+          <p>红花EST-SSR的聚类结果如图6所示，17H05，17H08，17H09 (印度来源的红花)与17H01 (土耳其)，17H14 (甘肃)，17H16 (辽宁)，形成一个大的分支；17H10 (新疆)，17H21 (云南)形成第二个分支；17H11 (新疆)和17H25 (云南)形成第三个分支；17H20 (云南)表现出与其它红花具有较远的亲缘关系。从分子水平上，EST-SSR反映了这11个品种之间的遗传距离。虽然似乎并不与来源地完全匹配，这可能暗示了11个品种在引种入中国后记载的混乱。</p>
+          <p>图6. 11个品种红花的EST-SSR聚类结果</p>
+        </sec>
+        <sec id="s5_2_2">
+          <title>3.2.2. 红花性状的聚类结果</title>
+          <p>农艺性状的调查聚类结果显示3个印度的品种(17H08，17H09，17H05)与云南省的品种17H25被聚类在类群I中，类群II中包括17H01与17H11，两个品种分别来自土耳其和新疆；来自新疆的17H10和来自辽宁的17H16被聚类在类群III中，来源于甘肃省的17H14，独自划分为类群IV，类群I和类群II的关系较近，类群III和类群IV的关系较近；来源于云南省的17H21单独被划分为类群V；而17H20则显示出与其余10个品种红花较远的关系(类群VI) (图7(a))。</p>
+          <p>叶片形态的观察聚类结果显示来源于印度的17H08、17H09包含在类群I中，来源于新疆的17H11、来源于云南的17H20包含在类群II中。类群III中包括来源于辽宁省的17H16和云南省的17H21。17H01和17H05分别来自土耳其和云南省，它们为聚类为类群IV，类群I和类群II关系较近，类群III和IV的关系也比较接近。类群V则包括来源于新疆的17H10和来源于甘肃省的17H14。来源于云南的17H25被独立划分至类群VI (图7(b))。</p>
+          <p>图7. 11个品种的红花性状的聚类结果</p>
+          <p>种子的大小、含油率和脂肪酸组成的聚类结果显示类群I包括印度红花17H08，云南红花17H21和土耳其红花17H01，类群II中包括印度17H09，云南红花17H25和17H05，辽宁红花17H16以及新疆红花17H10，类群III中只有新疆红花17H11，类群IV中只包括甘肃红花17H14。17H20被单独划分至与其余10个品种红花较远的分支(类群V) (图7(c))。</p>
+          <p>其中，(a)为红花的农艺性状聚类结果，(b)为红花的叶片形态学数据的聚类结果，(c)为红花的种子的大小、含油率和脂肪酸组成的聚类结果。</p>
+        </sec>
+        <sec id="s5_2_3">
+          <title>3.2.3. 红花性状的相关性分析</title>
+          <p>如表7所示，C16:0脂肪酸比例与最低一级分支高呈显著负相关、与最高一级分支高呈极显著负相关，C18:0脂肪酸与最低一级分支高呈极显著负相关。C20:0脂肪酸的比例与角质层厚度呈极显著相关，与最高一级分支高呈显著负相关。C20:2脂肪酸与C18:1脂肪酸、C18:2脂肪酸呈显著相关性，而且C18:2脂肪酸与C18:1脂肪酸呈极显著负相关。C22:1脂肪酸与叶中脉厚度呈显著负相关，与花果数数呈显著相关性。红花种子的含油率与种子的百粒重呈显著相关性。</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 讨论</title>
+      <p>首次对红花数据库的EST-SSR进行了开发鉴定，为红花的资源鉴定及选育提供一定的理论依据。在红花的性状聚类结果和红花EST-SSR的聚类结果中，云南红花17H20与其余10个品种亲缘关系较远。同时，农业性状的聚类和含油率和脂肪酸组成上，都显示17H20相对较远，进一步证明17H20在红花中的遗传聚类相对其它10个品种是最远的。</p>
+      <p>在本研究中所选用的3种印度红花在叶片形态学聚类，EST-SSR的聚类，农艺性状聚类以及种子的性状的聚类结果中虽然聚类情况有所差别但相对我国的红花品种来说性状比较稳定。一方面反映出我国红花遗传多样性丰富的特点，从另一角度也反映出我国红花的引种关系比较混乱。红花EST-SSR的聚类结果和农艺性状、叶片形态学性状以及种子的性状的聚类结果在整体上呈现聚类不一致的情况，原因可能是由于红花的性状受环境影响较大，统计的性状样本数目相对较小。因此，未来需要加大表型统计的样本量，并结合更多的EST-SSR进行联合分析。</p>
+      <p>
+        对红花的叶片进行解剖学研究结果表明了红花为典型的旱生植物，其叶肉栅栏组织较厚，抗旱性和保水性较强，能够有效的降低红花的蒸腾作用 [<xref ref-type="bibr" rid="hanspub.31724-ref10">10</xref>] ，细胞的排列比较紧密，可以提供机械支持和应对一定程度上的机械损伤。发达的主脉有利于水分和养分的运输 [<xref ref-type="bibr" rid="hanspub.31724-ref11">11</xref>] 。叶片的角质层发达，表面存在坚硬的角质层和蜡质，能减少水分丧失和防止过强日照。而植物的形态结构与所处的环境之间往往表现出高度的统一 [<xref ref-type="bibr" rid="hanspub.31724-ref12">12</xref>] 。叶片作为光合作用的主要器官受环境影响显著，不同地区的红花叶片会表现出在叶形态的变化、叶片厚度等方面的差异 [<xref ref-type="bibr" rid="hanspub.31724-ref13">13</xref>] ，而且在适应环境过程中可能会形成特殊的结构 [<xref ref-type="bibr" rid="hanspub.31724-ref14">14</xref>] 。如旱生植物会形成特殊的叶结构或同化枝、叶表皮生有绒毛、较厚的角质层、气孔位置较深等情况。对甘肃省的红花叶片扫描电镜观察发现其叶片生有毛状体，该品种细胞结构紧密度最低，叶片厚度和角质层最薄。因此推测可能是由于该品种的机械组织与其他品种相比不发达，而毛状体的产生就是增强其持水能力，避免组织温度过高的另一种抗旱机制的特征。
+      </p>
+      <p>
+        相关性分析结果表明种子的质量对种子的含油率具有重要影响。种子的质量越大，种子的含油率较高。而刘仁建等 [<xref ref-type="bibr" rid="hanspub.31724-ref15">15</xref>] 对48份红花的相关性分析结果中表示株高对种子含油率有影响，但在本研究中红花的株高与其种子的含油率的相关性并不显著。植株的最低一级分支越高，C16:0脂肪酸，C18:0脂肪酸的比例越低；最高一级分支数越高，C16:0脂肪酸的比例越低。因此在育种过程中选择最低一级分支数较高的品种饱和脂肪酸的含量会较低，相对应的不饱和脂肪酸含量的比例会升高。花生酸的比例与角质层厚度呈极显著相关，随着角质层厚度的增加，花生酸的比例也会增加，有研究表示超长链脂肪酸是蜡、角质等的组成部分，对植物的自我保护起重要作用，本文的相关性分析的结论与之前的研究结果一致 [<xref ref-type="bibr" rid="hanspub.31724-ref16">16</xref>] 。
+      </p>
+      </sec>
+        </body>
+        <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.31724-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">王兆木. 世界红花种质资源评价与利用[M]. 北京: 中国科学技术出版社, 1993: 1-4.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">宋浩然, 白咸勇. 红花组分抗肿瘤作用机制研究进展[J]. 中国民康医学, 2016, 28(24): 43-44.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">汪宏雷. 红花的药理作用[J]. 中医药临床杂志, 2014, 26(5): 519.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">王兆木, 陈跃华, 陈友强. 红花[M]. 北京: 中国中医药出版社, 2001.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref5">
+              <label>5</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Liu, X. and Jiang, H. (1996) Study and Utilization on Fine Germplasms Resource of Safflower (Carthamus tinctorius L.). Journal of Yunnan Agri-cultural University, 11, 209-214.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref6">
+              <label>6</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Eujayl, I., Sorrells, M.E., Baum, M., et al. (2002) Isolation of EST-Derived Microsatel-lite Markers for Genotyping the A and B Genomes of Wheat. Theoretical &amp; Applied Genetics, 104, 399-407. &lt;br&gt;https://doi.org/10.1007/s001220100738</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref7">
+              <label>7</label>
+              <mixed-citation publication-type="other" xlink:type="simple">李雄伟, 孟宪桥, 贾惠娟, 王力荣, 王志强, 马瑞娟, 吴大军, 董冰, Maria jose Aranzana, Pere Arus, 高中山. 桃品种特异性荧光SSR分子标记数据库构建[J]. 果树学报, 2013, 30(6): 924-932.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref8">
+              <label>8</label>
+              <mixed-citation publication-type="other" xlink:type="simple">陈雅琼, 李凤霞, 李锡坤, 徐军, 张磊, 王绍美. 烟草SSR荧光标记与毛细管电泳检测技术研究[J]. 中国烟草科学, 2011, 32(2): 66-70.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref9">
+              <label>9</label>
+              <mixed-citation publication-type="other" xlink:type="simple">傅怡宁, 薛华杰, 印丽萍, 魏莎莎. 数量分类学方法在曼陀罗属种子形态分类上的应用[J]. 植物检疫, 2011, 25(4): 47-51.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref10">
+              <label>10</label>
+              <mixed-citation publication-type="other" xlink:type="simple">张香凝, 王保平, 孙向阳, 乔杰, 崔令军. Larreatridentata叶片解剖结构与保水特性的研究[J]. 生态环境学报, 2011, 20(11): 1634-1637.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref11">
+              <label>11</label>
+              <mixed-citation publication-type="other" xlink:type="simple">燕玲, 李红, 贺晓, 王晓容. 阿拉善地区9种珍稀濒危植物营养器官生态解剖观察[J]. 内蒙古农业大学学报: 自然科学版, 2000, 21(3): 65-71.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref12">
+              <label>12</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Stace, C.A. (1965) Cuticular Studies as an Aid to Plant Taxonomy. Bulletin of the British Museum (Natural History), 4, 3-78.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref13">
+              <label>13</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Fahn, A. (1986) Structural and Functional Properties of Trichomes of Xeromorphic Leaves. Annual of Botany, 57, 631- 637. &lt;br&gt;https://doi.org/10.1093/oxfordjournals.aob.a087146</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref14">
+              <label>14</label>
+              <mixed-citation publication-type="other" xlink:type="simple">郭丽芬, 张跃, 徐宁生, 高梅, 李文昌, 胡尊红, 邓剑川, 刘旭云. 红花种质资源形态性状遗传多样性分析[J]. 热带作物学报, 2015, 36(1): 83-91.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref15">
+              <label>15</label>
+              <mixed-citation publication-type="other" xlink:type="simple">刘仁建, 吴卫, 郑有良, 杨玉霞, 陈黎, 黄春燕. 48份红花材料种子含油率及其籽油脂肪酸分析[J]. 西南农业学报, 2006, 19(5): 920-927.</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref16">
+              <label>16</label>
+              <mixed-citation publication-type="other" xlink:type="simple">Damude, H.G., Zhang, H., Farrall, L., Ripp, K.G., Tomb, J.F., Hollerbach, D. and Yadav, N.S. (2006) Identi-fication of Bifunctional Δ12/ω3 Fatty Acid Desaturases for Improving the Ratio of ω3 to ω6 Fatty Acids in Microbes and Plants. Proceedings of the National Academy of Sciences, 103, 9446-9451. &lt;br&gt;https://doi.org/10.1073/pnas.0511079103</mixed-citation>
+            </ref>
+            <ref id="hanspub.31724-ref17">
+              <label>17</label>
+              <mixed-citation publication-type="other" xlink:type="simple">
+                Millar, A.A. and Kunst, L. (1997) Very Long Chain Fatty Acid Biosyn-thesis Is Controlled through the Expression and Specificity of the Condensing Enzyme. The Plant Journal, 12, 121-131.
+                &lt;br&gt;https://doi.org/10.1046/j.1365-313X.1997.12010121.x
+              </mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

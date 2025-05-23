@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">HJCB</journal-id>
+      <journal-title-group>
+        <journal-title>Hans Journal of Computational Biology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2164-5426</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/HJCB.2019.93006</article-id>
+      <article-id pub-id-type="publisher-id">HJCB-32018</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>HJCB20190300000_91345790.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>生命科学</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          基于拟南芥DNA序列的变值统计可视化分析
+          The Visual Analysis of Variables Statistic Based on Arabidopsis DNA Sequences
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>周</surname>
+            <given-names>影平</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>罗</surname>
+            <given-names>佳</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>袁</surname>
+            <given-names>鑫</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>邱</surname>
+            <given-names>国宸</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>曲</surname>
+            <given-names>恒熠</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>郑</surname>
+            <given-names>智捷</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>云南大学软件学院，云南 昆明</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>09</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>03</issue>
+      <fpage>39</fpage>
+      <lpage>47</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          随着植物基因组测序的展开，拟南芥基因测序因其巨大的科研价值得到了世界各国的重视。拟南芥基因序列的研究得到了极大的进展。由于传统的基因图示非常特殊和复杂，我们试图利用一种更为直观和普适的基因变值图示系统。利用该类模式，对从基因库获取到的DNA序列进行预处理后，统计碱基A，C，G，T的数量，计算AG，AT的数量，然后将数量投影到二维或者三维图像中，从而观察拟南芥的DNA序列的特征。从给出的系列图示可以看到，新的统计分布结果对后续为基因序列的相似性分析和更高维的特征研究提供基础信息。 With the development of plant genome sequencing, Arabidopsis gene sequencing has received great attention from all over the world for its great scientific research value. At the same time, the research on the sequence of Arabidopsis gene has been greatly advanced. Because of the specific and complex of traditional genetic representations, we try to use a more intuitive and universal genetic variable mapping system. Using this model, after preprocessing the DNA sequence obtained from the gene pool, we count the number of bases A, C, G, and T and calculate the number of AG, and AT. Then the quantity is projected into a two-dimensional or three-dimensional image which can observe the characteristics of the DNA sequence of Arabidopsis. As can be seen from the series of diagrams given, the new statistical distribution results provide basic information for subsequent similarity analysis of gene sequences and higher dimensional studies.
+           
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>拟南芥，DNA序列，变值图示，可视化,  Arabidopsis</kwd>
+        <kwd> DNA Sequence</kwd>
+        <kwd> Variable Diagram</kwd>
+        <kwd> Visuali-zation</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        基于拟南芥DNA序列的变值统计可视化分析<sup> </sup>
+      </title>
+      <p>周影平，罗佳，袁鑫，邱国宸，曲恒熠，郑智捷</p>
+      <p>云南大学软件学院，云南 昆明</p>
+      <p>
+        <img src="//html.hanspub.org/file/1-1690082x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年8月14日；录用日期：2019年8月28日；发布日期：2019年9月4日</p>
+      <disp-formula id="hanspub.32018-formula4">
+        <graphic xlink:href="//html.hanspub.org/file/1-1690082x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>随着植物基因组测序的展开，拟南芥基因测序因其巨大的科研价值得到了世界各国的重视。拟南芥基因序列的研究得到了极大的进展。由于传统的基因图示非常特殊和复杂，我们试图利用一种更为直观和普适的基因变值图示系统。利用该类模式，对从基因库获取到的DNA序列进行预处理后，统计碱基A，C，G，T的数量，计算AG，AT的数量，然后将数量投影到二维或者三维图像中，从而观察拟南芥的DNA序列的特征。从给出的系列图示可以看到，新的统计分布结果对后续为基因序列的相似性分析和更高维的特征研究提供基础信息。</p>
+      <p>关键词 :拟南芥，DNA序列，变值图示，可视化</p>
+      <disp-formula id="hanspub.32018-formula5">
+        <graphic xlink:href="//html.hanspub.org/file/1-1690082x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/1-1690082x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/1-1690082x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>拟南芥，学名Arabidopsis。拟南芥是一种实验友好的植物，遗传背景简单清晰，在分子生物学的研究上有着很大的优势。植物基因研究人员们将其视为植物中的“果蝇”。基因序列的测序工作在各国工程组的努力下正在逐渐完善，更多生物种类的DNA，RNA以及蛋白质的序列正在填充各个基因库环境下，拟南芥基因组全序列在2000年底完全测定并公开发表。拟南芥是第一种完成全基因组测序的有花植物、第三种完成测序的多细胞生物、第四种完成测序的真核生物，而人类基因组测序在2001年第一次完成草图，2003年完成测序的最终版本，至今尚未完成真正的全基因组测序。在拟南芥之前完成测序的真核生物，只有酿酒酵母(1996年)、秀丽隐杆线虫(1998年)和果蝇(2000年)。拟南芥的基因组由5对染色体组成，总大小只有1.35亿碱基对；作为对比，人类有23对染色体，32亿碱基对，是拟南芥的23.7倍。从中可以窥见，拟南芥在植物基因序列研究有着极大的科研价值。</p>
+      <p>
+        随着植物基因组测序的展开，拟南芥基因测序因其巨大的科研价值得到了世界各国的重视，拟南芥基因的序列的研究得到了极大的进展。由于传统的基因图示非常特殊和复杂，本文试图利用一种更为直观和普适的基因变值图示系统给出基因图示。利用该类模式，对从基因库获取到的DNA序列进行预处理后，统计碱基A，C，G，T的数量，计算AG，AT的数量，然后将数量投影到二维或者三维图像中，从而观察拟南芥的DNA序列的特征 [<xref ref-type="bibr" rid="hanspub.32018-ref1">1</xref>] 。从给出的系列图示可以看到，新的统计分布结果为后续的基因序列的相似性分析和更高维的特征研究提供基础信息。
+      </p>
+      <p>
+        Hamori和Ruskin提出了G曲线和H曲线表示方法 [<xref ref-type="bibr" rid="hanspub.32018-ref2">2</xref>] 。G曲线是在5维空间下，分别以A、C、G、T四种核苷酸以及DNA序列中核苷酸的位置为坐标。H曲线在G曲线的基础上，为了便于人们理解，将五维降为3维。为了更直观的表示，在此之后，Gates，Nandy，Leong和Morgenthaler分别独立发现了DNA序列有退化性的2维图形表示方法 [<xref ref-type="bibr" rid="hanspub.32018-ref3">3</xref>] [<xref ref-type="bibr" rid="hanspub.32018-ref4">4</xref>] [<xref ref-type="bibr" rid="hanspub.32018-ref5">5</xref>] 。为了克服2维图示较高的退化性，Xiaofeng Guo [<xref ref-type="bibr" rid="hanspub.32018-ref6">6</xref>] 等人提出了较低退化的2维表示方法。为了提供一种简单直接的图形方法，既可以消除退化性又可以将序列展示出来，Yonghui Wu [<xref ref-type="bibr" rid="hanspub.32018-ref7">7</xref>] 等人提出了DB-曲线。DB-曲线在平面上一次表示2个核酸基的性质。但是DB-曲线不能保证任意一条DNA序列和它的图形表示之间的映射是一一对应的。而为了克服一一对应关系，Stephen S. T. Yau [<xref ref-type="bibr" rid="hanspub.32018-ref8">8</xref>] 提出了一种新的2维DNA序列图形表示方法，但是计算冗杂。而本文的变值图示在满足了消除退化性和一一对应的基础上，更为直观和便于计算。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 模型处理</title>
+      <sec id="s4_1">
+        <title>2.1. 相关介绍</title>
+        <p>染色体的主要化学成分和组成基因的材料是脱氧核糖核酸(DNA)编码遗传信息的生物大分子。DNA的结构是由一对多核苷酸链相互盘绕组成的双螺旋。DNA序列组成的四种核苷酸分别是腺嘌呤(A)，鸟漂呤(G)，胞嘧啶(C)，胸腺嘧啶(T)，这四种核苷酸无间隔的排列在一起构成序列。任意长度大于4的一串核昔酸被称作一个序列。近二十年来，序列的图形表示方法不断发展和演变，在研究序列局部和整体的比较分析中起到了很大的作用。序列图形表示方法的主要思想是用4个向量去表示DNA的4种核苷酸，将其映射成3维空间或2维平面上的曲线图形，由此提取序列的数值特征，从而用于DNA序列的相似性分析。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 研究模型和方法</title>
+        <p>模型处理过程如图1所示：</p>
+        <p>图1. 处理流程</p>
+        <p>方法：</p>
+        <p>
+          输入：从TAIR官网 [<xref ref-type="bibr" rid="hanspub.32018-ref9">9</xref>] 获取TAIR10_genome_release版本的拟南芥1号染色体前36万个碱基的DNA序列。
+        </p>
+        <p>数据预处理：首先去除基因序列文件中的信息标注；然后将文件格式转换为需要的数据格式，本文将其转换为纯文本文件格式；最后根据需要决定是否拆分数据文件，本文根据需要拆分得到前36万个碱基序列文件。</p>
+        <p>数据统计：分段处理和统计基因序列，分别以50，60，70，80，90，100，110，120，130，140，150，160和170为数据长度单位对DNA序列中的四个碱基(A, C, G, T)数量进行统计，并计算得到AT和AG的数量，作为可视化模块的输入。</p>
+        <p>输出：分段统计的DNA序列每段中四个碱基A、G、C、T的数量以及AT和AG的数量。</p>
+        <p>可视化：利用MATLAB，根据统计的数据进行绘图。</p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 变量说明</title>
+        <p>NUM：数据分段长度，本文中的分段长度采用距离为10的十组长度，其中NUM ∝ {50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170}。</p>
+        <p>V：两个碱基数据集的集合：V ∝ {AT, AG}。</p>
+        <p>其中：AT表示AT的数量，AT的数量 = A的数量 + T的数量。</p>
+        <p>AG表示AG的数量，AG的数量 = A的数量 + G的数量。</p>
+        <p>Pv：两个碱基数据集的比例。</p>
+        <p>其中：P(X, Y) ∝ P(AT, AG)，X，Y分别为X轴和Y轴的坐标，通过映射生成二维图形上的点。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 图示结果</title>
+      <sec id="s5_1">
+        <title>3.1. 图示生成流程</title>
+        <p>1) 数据预处理：将下载得到的汇编编译文件转换为纯文本格式，去掉文件中的信息标注。</p>
+        <p>2) 分段并统计：对应段落中的AGCT的数量，分别统计AG，AT的数量，以此作为X、Y轴的坐标。其中分段的长度分别为NUM。</p>
+        <p>3) 统计数据点的深度作为Z轴的坐标。</p>
+        <p>4) 运用MATLAB中的绘图函数绘图。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 图示结果</title>
+        <p>图示结果分别如下图2~14所示：</p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 简要分析</title>
+        <p>1) 当以50为统计长度单位时，AT和AG的数量主要分布于30到40区域，数据特征最为明显。</p>
+        <p>2) 当以100为统计长度单位时，AT和AG的数量主要分布于70到90区域，数据特征相对明显。</p>
+        <p>3) 当以150为统计长度单位时，AT和AG的数量主要分布于80到120区域，数据特征开始离散化，但较长度为200生成的图仍相对明显。</p>
+        <p>图2. 以50为数据长度单位统计</p>
+        <p>图3. 以60为数据长度单位统计</p>
+        <p>图4. 以70为数据长度单位统计</p>
+        <p>图5. 以80为数据长度单位统计</p>
+        <p>图6. 以90为数据长度单位统计</p>
+        <p>图7. 以100为数据长度单位统计</p>
+        <p>图8. 以110为数据长度单位统计</p>
+        <p>图9. 以120为数据长度单位统计</p>
+        <p>图10. 以130为数据长度单位统计</p>
+        <p>图11. 以140为数据长度单位统计</p>
+        <p>图12. 以150为数据长度单位统计</p>
+        <p>图13. 以160为数据长度单位统计</p>
+        <p>图14. 以170为数据长度单位统计</p>
+        <p>4) 数据中心点与数据分段长度有关，体现了一一对应关系，避免了因不同碱基序列得到相同图示的问题。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 总结</title>
+      <p>拟南芥的基因在植物基因研究上的作用类似于果蝇在真核生物研究上的作用。本文所做的拟南芥变值图示系统可以更方便和清晰地看到拟南芥DNA序列的特征。随着植物基因序列的研究领域里更多新型测序和研究方法的出现，变值图示系统在将来也许能为植物基因的高维研究与序列分析提供更有效的参考。</p>
+    </sec>
+    <sec id="s7">
+      <title>致谢</title>
+      <p>感谢郑智捷教授对本文工作的悉心指导，感谢云南大学软件学院和云南省重点工程实验室的支持。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>周影平,罗 佳,袁 鑫,邱国宸,曲恒熠,郑智捷. 基于拟南芥DNA序列的变值统计可视化分析 The Visual Analysis of Variables Statistic Based on Arabidopsis DNA Sequences[J]. 计算生物学, 2019, 09(03): 39-47. https://doi.org/10.12677/HJCB.2019.93006</p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.32018-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Zheng, J. (2018) Variant Construction from Theoretical Foundation to Applications. Springer, Berlin.
+          &lt;br&gt;https://doi.org/10.1007/978-981-13-2282-2
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hamori, E. and Ruskin, J. (1983) H Curves, a Novel Method of Representation of Nucleotide Series Especially Suited for Long DNA Sequences. The Journal of Biological Chemistry, 258, 1318-1327.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Gates, M.A. (1986) A Simple Way to Look at DNA. Journal of Theoretical Biology, 119, 319-328.
+          &lt;br&gt;https://doi.org/10.1016/S0022-5193(86)80144-8
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Nandy, A. (1996) A New Graphical Representation and Analysis of DNA Sequence Structure I. Methodology and Application to Globin Genes. Current Science, 70, 611-668.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Leong, P.M. and Morgenthaler, S. (1995) Random Walk and Gap Plots of DNA Sequences. Computer Applications in the Biosciences, 11, 503-507. &lt;br&gt;https://doi.org/10.1093/bioinformatics/11.5.503</mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Guo, X., Randic, M. and Basak, S.C. (2002) A Novel 2-D Graphical Representation of DNA Sequences of Low Degeneracy. Chemical Physics Letters, 350, 106-112. &lt;br&gt;https://doi.org/10.1016/S0009-2614(01)01246-5</mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Wu, Y., Liew, A.W., Yan, H. and Yang, M. (2003) DB-Curve: A Novel 2D Method of DNA Sequence Visualization and Representation. Chemical Physics Letters, 367, 170-176. &lt;br&gt;https://doi.org/10.1016/S0009-2614(02)01684-6</mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Yau, S.S.S., Wang, J., Niknejad, A., Lu, C., Jin, N. and Ho, Y. (2003) DNA Sequence Representation without Degeneracy. Nucleic Acid Research, 31, 3078-3080. &lt;br&gt;https://doi.org/10.1093/nar/gkg432</mixed-citation>
+      </ref>
+      <ref id="hanspub.32018-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">&lt;br&gt;https://www.arabidopsis.org/download/index-auto.jsp?dir=%2Fdownload_files%2FGenes%2FTAIR10_genome_release</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

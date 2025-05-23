@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <body>
+    <sec id="s1">
+      <title>摘要</title>
+      <p>由于污染给社会生活带来了诸多困扰，以及污染源的固有特性，作为污染源信息需求者的环境保护机构和个人，从大量污染源信息中找到自己关注的信息往往不是一件容易的事情；而对于污染源信息提供者，让自己的信息为广大用户所关注，也是一件非常困难的事情。推荐系统就是解决这一矛盾的主要工具。通过建立分析用户喜好模型，采用UFTB算法从用户看过的污染源信息及其信息类型入手，对用户看过的污染源信息类型与评分数据进行分析。在建立分析污染源信息推荐模型中，采用协同过滤算法计算修正后的余弦相似度，对缺省值进行预测以优化算法。为防止过度优化，采取剔除用户非喜好类型污染源信息，得到优化缺省值预测矩阵，将相似度数据带入推荐公式得出数值并使用排序，找出与目标用户相似度最高的N个用户，根据它们的喜好对目标用户进行污染源信息推荐。</p>
+    </sec>
+    <sec id="s2">
+      <title>关键词</title>
+      <p>协同过滤，UTFB算法，污染源信息推荐</p>
+    </sec>
+    <sec id="s3">
+      <title>
+        Pollution Source Information Recommendation Based on UTFB Algorithm<sup> </sup>
+      </title>
+      <p>Lina Wang</p>
+      <p>School of Economics and Management, Hainan Normal University, Haikou Hainan</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-1760222x4_hanspub.png" />
+      </p>
+      <p>
+        Received: Sep. 9<sup>th</sup>, 2020; accepted: Sep. 23<sup>rd</sup>, 2020; published: Oct. 10<sup>th</sup>, 2020
+      </p>
+      <p>
+        <img src="//html.hanspub.org/file/6-1760222x5_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>ABSTRACT</title>
+      <p>Because pollution has brought a lot of trouble to social life, as well as the inherent characteristics of pollution sources, as the source of pollution information needs of environmental protection institutions and individuals, from a large number of pollution source information to find their own concern of the information is often not an easy thing. The recommendation system is the main tool to solve this contradiction. By establishing the model of analyzing user preferences, UFTB algorithm is used to analyze the type of pollution source information and scoring data that users have seen. In establishing the recommendation model for analyzing pollution source information, the modified cosine similarity is calculated by using the co-filter algorithm, and the default value is predicted to optimize the algorithm. In order to prevent over-optimization, we should take the information of eliminating the user's non-preferred type of pollution source, get the optimization default prediction matrix, bring the similarity data into the recommended formula to get the value and use the sort, find the N user with the highest similarity to the target user, and recommend the target user the pollution source information according to their preferences.</p>
+      <p>Keywords:Co-Filtering, UTFB Algorithm, Pollution Source Information Recommendation</p>
+      <disp-formula id="hanspub.37985-formula18">
+        <graphic xlink:href="//html.hanspub.org/file/6-1760222x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2020 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/6-1760222x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/6-1760222x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s5">
+      <title>1. 引言</title>
+      <p>
+        近年来，在环境保护领域，由于污染给社会生活带来了非常多的困扰，以及污染源的固有特性，作为污染源信息需求者的环境保护机构和个人，从大量污染源信息中找到自己需要借助信息系统 [<xref ref-type="bibr" rid="hanspub.37985-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.37985-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.37985-ref3">3</xref>]。本文通过采用UFTB算法，从用户看过的污染源信息及其信息类型入手，对用户看过的污染源信息类型与评分数据进行分析。在建立分析污染源信息推荐模型中，为防止过度优化，采取剔除用户非喜好类型污染源信息，得到优化缺省值预测矩阵，将相似度数据带入推荐公式得出数值并根据它们的喜好对目标用户进行污染源信息推荐。模型基本假设如下：
+      </p>
+      <p>用户对污染源信息的评分不受已有评分影响；用户在短时间的兴趣是不会改变的；用户感兴趣的污染源信息类型仅与用户评分高的污染源信息类型相同；年龄相似，职业相仿的人兴趣相同；年龄对观看污染源信息类型的影响度大于职业；年龄差相同的情况下，年龄越大，两个用户的相似度越高。模型的符号说明如表1。</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> Model’s signal specification</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >符号</th>
+                <th align="center" valign="middle" >符号说明</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >R i j</td>
+              <td align="center" valign="middle" >用户i对项j的评分</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >s i m c</td>
+              <td align="center" valign="middle" >两类污染源信息间类型相似度</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >s i m i j</td>
+              <td align="center" valign="middle" >两类污染源信息评分相似度</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >R c , i</td>
+              <td align="center" valign="middle" >用户c对污染源信息i的评分</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >s i m ( T I , n )</td>
+              <td align="center" valign="middle" >目标项TI与其最近邻居n之间的相似度</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >R i &#175;</td>
+              <td align="center" valign="middle" >用户i对所有污染源信息的平均打分</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >s i m ( i , j )</td>
+              <td align="center" valign="middle" >用户i和j的相似度</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >F u ( i )</td>
+              <td align="center" valign="middle" >基于UFTB算法对用户u的第i个污染源信息的评分</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >F ( i | x &amp; y )</td>
+              <td align="center" valign="middle" >未评分污染源信息i所获评测分值</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >P u , T I</td>
+              <td align="center" valign="middle" >用户对项TI的预测评分</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表1. 模型的符号说明</p>
+    </sec>
+    <sec id="s6">
+      <title>2. 基于UFTB算法的用户喜好模型</title>
+      <p>建立分析用户喜好的数学模型，应考虑用户看过污染源信息种类以及用户对其打分，若用户对某类污染源信息打分越高则说明用户喜欢该类污染源信息，对此本文从两个步骤进行：</p>
+      <p>
+        步骤一：读取每位用户看过的污染源信息和所有污染源信息的分类，构造用户评分矩阵 [<xref ref-type="bibr" rid="hanspub.37985-ref1">1</xref>]。
+      </p>
+      <p>步骤二：计算每位用户对各类型污染源信息的评分x以及全部类型的平均评分值 x &#175; ，计算用户对各个类型的评分个数y和全部类型的平均评分值个数 y &#175; ，比较后得出结果。</p>
+      <p>先建立一个m*n的用户评分矩阵A (m, n)，m代表用户观看的污染源信息，n代表用户。第i行第j列的元素r，代表用户i对项j的评分，若i用户对项j无评分，记 R i j = 0 。用户评分数据矩阵如表2所示。</p>
+      <table-wrap id="table2" >
+        <label>
+          <xref ref-type="table" rid="table2">Table 2</xref>
+        </label>
+        <caption>
+          <title> User scoring data matri</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >
+                  Item<sub>1 </sub>
+                </th>
+                <th align="center" valign="middle" >……</th>
+                <th align="center" valign="middle" >
+                  Item<sub>k</sub><sub> </sub>
+                </th>
+                <th align="center" valign="middle" >……</th>
+                <th align="center" valign="middle" >
+                  Item<sub>k</sub><sub> </sub>
+                </th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                User<sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >
+                R<sub>11</sub>
+              </td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >
+                R<sub>1k</sub>
+              </td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >
+                R<sub>1n</sub>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                User<sub>j</sub>
+              </td>
+              <td align="center" valign="middle" >
+                R<sub>j</sub><sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >
+                R<sub>jk</sub>
+              </td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >
+                R<sub>jn</sub>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >……</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                User<sub>m</sub>
+              </td>
+              <td align="center" valign="middle" >
+                R<sub>m</sub><sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >
+                R<sub>mk</sub>
+              </td>
+              <td align="center" valign="middle" >……</td>
+              <td align="center" valign="middle" >
+                R<sub>mn</sub>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表2. 用户评分数据矩阵</p>
+      <p>
+        采用UFTB算法 [<xref ref-type="bibr" rid="hanspub.37985-ref2">2</xref>] 判断用户是否喜好某类污染源信息，即 F ( x &amp; y ) = { 1 ,     当 x 大 于 x &#175; ,   且 y 大 于 y &#175; 0 ,     其 他 情 况 ，其中
+      </p>
+      <p>F ( x &amp; y ) 中的x为用户对某类污染源信息的评分值，y表示用户对此类污染源信息的评分个数，其中 x &#175; 表示用户对全部污染源信息类型的平均评分值。 y &#175; 表示用户对全部污染源信息类型的平均评分值个数。若 F ( x &amp; y ) = 1 ，则表明用户喜欢该类污染源信息。否则不喜欢或中立。本文使用某数据网上的943个用户，1682个污染源信息的数据进行模拟，将108号用户数据带入模型得到图1 (用excel表示)，图中用户平均评分值高于总体平均线的污染源信息类型即为该用户喜好的污染源信息类型。</p>
+      <p>图1. 108号用户各类型污染源信息平均分折线图</p>
+      <p>图2. 108号用户各类型观看平均次数折线图</p>
+      <p>对图1与图2综合分析可知，108号用户对6，8，12，17这四个类型的污染源信息评分高于总体平均分且观看次数高于总体平均次数，我们可以得出结论：108号用户喜好I、II、III、IV这4种类型的污染源信息(18类主要污染源信息分别为：1) 大气污染：I. 烟尘、II. 二氧化硫；2) 水污染：III. 生活污水和其它耗氧废物、IV. 传染病菌和病毒、V. 植物营养剂——如氮和磷、VI. 有机化学合成剂——如杀虫剂、除锈剂和合成洗涤剂、VII. 来自工、矿、农业操作的其他矿物质和化学物质、VIII. 来自土地侵蚀的沉淀物、IX. 放射性物质、X. 热污染；3) 土壤污染：XI. 化肥、农药、XII. 有机和无机污染物、XIII. 来自大气、水的污染物质迁移转化进入土壤的污染物质、XIV. 自然界或矿床周围元素富集形成的污染；4) 其他污染源：XV. 光污染、XVI. 噪声、XVII. 电磁辐射、XVIII. 其他污染——资料来源：http://mip.findlaw.cn/shpc/teshuqinquanjiufen/pcjf/1416533.html)。类似108号用户的分析，对10位用户逐一分析，可得表3。</p>
+      <table-wrap id="table3" >
+        <label>
+          <xref ref-type="table" rid="table3">Table 3</xref>
+        </label>
+        <caption>
+          <title> Specific users’ preferences pollution source information type</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >用户编号</th>
+                <th align="center" valign="middle" >用户喜好污染源信息类型</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >108</td>
+              <td align="center" valign="middle" >I, II, III, IV</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >133</td>
+              <td align="center" valign="middle" >V, II, IV</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >228</td>
+              <td align="center" valign="middle" >X, V, II, IV</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >232</td>
+              <td align="center" valign="middle" >VI, I, II, III, VII, VIII, IX</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >336</td>
+              <td align="center" valign="middle" >X, V, III, I, VII, IX</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >338</td>
+              <td align="center" valign="middle" >II, XI, VII, IX</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >545</td>
+              <td align="center" valign="middle" >X, V, XII, VII, VIII, IX, IV</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >613</td>
+              <td align="center" valign="middle" >V, XIII, VII, VIII, IX, IV</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >696</td>
+              <td align="center" valign="middle" >V, I, II, XIV, XI, IV</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >777</td>
+              <td align="center" valign="middle" >XIII</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表3. 特定用户喜好污染源信息类型</p>
+      <p>对UFTB算法模型利用MATLAB编程进行求解，可以得到图1、图2。并且利用原始数据对表2进行了验证，以108号用户为例，由模型可知用户的喜好类型为{I, II, III, IV}，查原始数据知108号用户所看污染源信息大部分属于此集合，且评分普遍较高。其他用户类似。由实际经验可知分析结果的可靠性。</p>
+    </sec>
+    <sec id="s7">
+      <title>3. 结论</title>
+      <p>
+        本文模型的建立基于协同过滤算法 [<xref ref-type="bibr" rid="hanspub.37985-ref4">4</xref>]，基于关联规则挖掘也可以实现污染源信息的推荐，常用的实现算法为Apriori算法 [<xref ref-type="bibr" rid="hanspub.37985-ref5">5</xref>]。通过Apriori算法，得到如下结果，见表4。
+      </p>
+      <table-wrap id="table4" >
+        <label>
+          <xref ref-type="table" rid="table4">Table 4</xref>
+        </label>
+        <caption>
+          <title> Recommendation of pollution source information based on association rule</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >用户编号</th>
+                <th align="center" valign="middle" >推荐污染源信息编号</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >108</td>
+              <td align="center" valign="middle" >50, 56, 174</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >133</td>
+              <td align="center" valign="middle" >56, 98, 172, 174, 181</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >228</td>
+              <td align="center" valign="middle" >79, 98, 174, 258, 300</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >232</td>
+              <td align="center" valign="middle" >1, 50, 56, 174, 181, 204</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >336</td>
+              <td align="center" valign="middle" >50, 181, 204</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >338</td>
+              <td align="center" valign="middle" >50, 100, 174, 181, 258, 294, 300</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >545</td>
+              <td align="center" valign="middle" >1, 100, 286, 313</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >613</td>
+              <td align="center" valign="middle" >50, 174, 204</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >696</td>
+              <td align="center" valign="middle" >50, 98, 100, 174, 268, 286, 300</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >777</td>
+              <td align="center" valign="middle" >50, 98, 100, 181</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表4. 基于关联规则的污染源信息推荐</p>
+      <p>分析基于协同过滤与基于关联规则的推荐污染源信息编号，可以发现重合度并不高，这是因为两种推荐规则依据不同，所以最后在结果方面会有所不同，但都具有实用性。所以各环保当局和个人在实际应用中可以设计基于多种推荐方法的组合推荐系统来实现对污染相关信息的取舍，指导具体的环境管理实践和进行相关环保政策制定。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>nullnull,王丽娜. 基于UTFB算法的污染源信息推荐Pollution Source Information Recommendation Based on UTFB Algorithm[J]. 数据挖掘, 2020, 10(04): 277-281. https://doi.org/10.12677/HJDM.2020.104029</p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献</title>
+    </sec>
+  </body>
+
+
+  <ref id="hanspub.37985-ref1">
+    <label>1</label>
+    <mixed-citation publication-type="other" xlink:type="simple"></mixed-citation>
+  </ref>
+  
+</article>

@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">MM</journal-id>
+      <journal-title-group>
+        <journal-title>Modern Management</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7311</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/MM.2019.93051</article-id>
+      <article-id pub-id-type="publisher-id">MM-31016</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>MM20190300000_93592305.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          政府补助、研发投入与人工智能公司创新绩效——基于CAS理论
+          Government Subsidies, R&amp;D Investment and Innovation Performance of AI Companies—Based on CAS Theory
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>蔡</surname>
+            <given-names>颜</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>孟</surname>
+            <given-names>庆军</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>河海大学商学院，江苏 南京</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>03</issue>
+      <fpage>414</fpage>
+      <lpage>424</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          人工智能迎来发展机遇，受到政府大力支持，但在复杂环境下其创新绩效提升受到干扰。文章基于复杂适应理论构建人工智能公司创新复杂系统，然后对2013~2017年112家人工智能概念股上市公司进行实证研究发现：研发资本投入对于创新绩效的正向促进作用得到证实，且存在滞后效应和累积效应；当政府补助超出一定值时，政府补助对研发资本投入和创新绩效之间关系存在显著负向调节效应。以上结论说明由于存在高科技，高收入和高风险等特征，导致了人工智能公司研发投入与创新绩效存在“非线性”等复杂关系，但长期来看研发投入对创新绩效具有正向影响。
+          The development opportunity of artificial intelligence is greatly supported by the government, but the improvement of its innovation performance is disturbed in the complex environment. Based on the complex adaptation theory, this paper constructs the innovative complex system of artificial intelligence companies. Then an empirical study was conducted on 112 AI concept listed companies from 2013 to 2017 finds that: the positive promotion effect of R&amp;D capital investment on innovation performance is confirmed, and there are lag effects and cumulative effects. When the government subsidy exceeds a certain value, the government subsidy has a significant negative moderating effect on the relationship between R&amp;D capital input and innovation performance. The above conclusion indicates that due to the characteristics of high technology, high income and high risk, there is a complex relationship between R&amp;D investment and innovation performance of AI companies, such as “non-linear”, but in the long run, R&amp;D investment has a dynamic effect on innovation performance.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>创新绩效，研发投入，政府补助，人工智能，CAS理论, Innovation Performance</kwd>
+        <kwd> R D Investment</kwd>
+        <kwd> Government Subsidies</kwd>
+        <kwd> CAS Theory</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>政府补助、研发投入与人工智能公司创新绩效</title>
+      <p>
+        ——基于CAS理论<sup> </sup>
+      </p>
+      <p>蔡颜，孟庆军</p>
+      <p>河海大学商学院，江苏 南京</p>
+      <p>
+        <img src="//html.hanspub.org/file/13-1121118x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2019年6月6日；录用日期：2019年6月20日；发布日期：2019年6月27日</p>
+      <disp-formula id="hanspub.31016-formula11">
+        <graphic xlink:href="//html.hanspub.org/file/13-1121118x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>人工智能迎来发展机遇，受到政府大力支持，但在复杂环境下其创新绩效提升受到干扰。文章基于复杂适应理论构建人工智能公司创新复杂系统，然后对2013~2017年112家人工智能概念股上市公司进行实证研究发现：研发资本投入对于创新绩效的正向促进作用得到证实，且存在滞后效应和累积效应；当政府补助超出一定值时，政府补助对研发资本投入和创新绩效之间关系存在显著负向调节效应。以上结论说明由于存在高科技，高收入和高风险等特征，导致了人工智能公司研发投入与创新绩效存在“非线性”等复杂关系，但长期来看研发投入对创新绩效具有正向影响。</p>
+      <p>关键词 :创新绩效，研发投入，政府补助，人工智能，CAS理论</p>
+      <disp-formula id="hanspub.31016-formula12">
+        <graphic xlink:href="//html.hanspub.org/file/13-1121118x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/13-1121118x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/13-1121118x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>人工智能产业成为多国促进经济可持续发展的新增长点。中国人工智能市场的规模现正在形成。政府支持人工智能企业发展。如2016年国家发改委、科技部等联合出台《“互联网+”人工智能三年行动实施方案》。2017年国务院印发《新一代人工智能发展规划》。习主席在“十九大”报告中特别指出要推动互联网、大数据、人工智能和实体经济深度融合，建立以公司为主体、市场为导向、产学研深度融合的技术创新体系。但目前与美、日、德等主要发达国家相比，虽然我国创新要素投入在不断增加，产业创新绩效还处于相对较低的水平。</p>
+      <p>本文可能的贡献主要在于两方面。第一，沿袭企业研发投入与创新绩效关系的研究，本文对新兴产业中的人工智能产业，进行人工智能上市公司研发投入与创新绩效关系的分析。第二，本文尝试运用CAS理论，分析导致目前人工智能公司研发困境的原因，深入探索背后的创新机制，以合理配置科技研发支出的各项指标，优化利用各项资源，从而加快人工智能公司技术创新水平和创新成果转化，促进其绩效提高。从政府宏观层面和人工智能公司自身微观层面进行具体考察，能为我国人工智能政策的制定、人工智能公司发展提供有效建议。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 理论分析与研究假设</title>
+      <sec id="s4_1">
+        <title>2.1. CAS理论的启发</title>
+        <p>
+          CAS理论是由美国霍兰(John Holland)教授于1994年正式提出，在自然科学和工程技术各个领域涌现出并迅速成为一种研究的新概念范式。CAS理论中基本观念是“适应造就复杂性”，即复杂性生成的内因是系统或事物为了维持生存和求得发展而适应环境，在适应中涌现复杂性 [<xref ref-type="bibr" rid="hanspub.31016-ref1">1</xref>] 。人工智能公司等主体增加研发投入，追求创新绩效，就属于适应环境变化的“适应性行动者”，具体见图1。
+        </p>
+        <p>图1. CAS与公司研发投入与创新绩效关系</p>
+        <p>CAS理论认为一个复杂系统，具有四大性质和三大机制：</p>
+        <p>1) 四大性质</p>
+        <p>a) “聚集”。相似、大量的行动者通过“黏着”形成聚集体——高一层次的行动者主体。中国人工智能公司得到发展的机遇，越来越多的资金和技术资源，聚入研发投入项目。如截至2017年6月，人工智能公司已获人民币六百多亿元的投资，约占全球投入AI资金的33%。</p>
+        <p>b) “非线性”行动者在相互适应的过程中，会产生相互影响，这种影响并非是一种简单的线性关系。许多公司在人工智能领域虽然投入大量研发资金，但最终创新失败的多，导致研发投入与公司绩效的关系不明朗。</p>
+        <p>c) “流”。适应性行动者彼此之间、与环境之间存在物资流、能量流和信息流。人工智能公司从内外部集中的研发投入资源，应该在经营活动中明确资源使用中的责、权、利。如这些资源应有公正、透明的绩效考核制度，加强资金管理。</p>
+        <p>d) “多样性”。行动者在适应过程中得到适合自身的个性发展，最终各适应性主体形成分化，产生了各主体的多样性。人工智能公司创新资源来源就多样化。基于自身优势和不足，应选择多样性的创新路径，如智能制造、智能家居、智能金融、智能交通、智能安防、智能医疗等。</p>
+        <p>2) 三大机制</p>
+        <p>a) “标识”。标识是引导众多适应性行动者辨别方向、选择目标、确定和哪些行动者合作或竞争以及竞争合作的机制、旗帜。如人工智能公司研发投入的方向、额度和创新绩效状况，是政府和相关投资者对其考核、评价和激励的依据。</p>
+        <p>b) “内部模型”。行动者在大量涌现的信息流中进行识别和选择，将经验提炼成图式，这些图示的集合就是内部模型。人工智能公司依据自身标识，规范内部规章制度，就属于提高创新绩效的内部模型。</p>
+        <p>c) “积木”。即在复杂系统中无论环境如何变化，都会存在基本规则。人工智能公司在研发投入的管理中，需要遵守市场经营规则。如合理配置创新资源；完善激励机制；处理好利益相关者之间关系等，就属于“积木”范畴。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 研发投入与创新绩效的“非线性”关系</title>
+        <p>
+          现代内生经济增长理论认为，技术进步和知识积累是决定一个国家经济增长的重要因素 [<xref ref-type="bibr" rid="hanspub.31016-ref2">2</xref>]，而研发投入是技术和知识的主要源泉，需要集中资源投入，才能有“聚集”性质。以往国内外学者通常从三个层次研究研发资本投入与创新绩效的关系。从区域层次来看，解学梅等选取我国27个省市自治区高新技术企业的相关数据，研究发现各省研发投入均与创新绩效之间存在显著正相关关系 [<xref ref-type="bibr" rid="hanspub.31016-ref3">3</xref>] 。从产业层次来看，David Aboody与Baruchlev发现，美国化工行业研发投入产生了26%~28%的高投资收益率 [<xref ref-type="bibr" rid="hanspub.31016-ref4">4</xref>] ；马文聪等基于新兴产业和传统产业的比较研究，发现研发经费投入强度对企业创新绩效均有显著的正向影响 [<xref ref-type="bibr" rid="hanspub.31016-ref5">5</xref>] 。从公司层次来看，PetrHanel和Alain St .Pierre [<xref ref-type="bibr" rid="hanspub.31016-ref6">6</xref>] 发现在知识产权得到有效保护的条件下研发投入将对公司效率产生直接影响；梁莱歆和张焕凤以我国高科技上市公司为研究对象，发现企业研发资金投入对主营业务利润率、主营业务收入增长率和利润增长率都有显著正向影响 [<xref ref-type="bibr" rid="hanspub.31016-ref7">7</xref>] 。
+        </p>
+        <p>
+          也有一些学者如Chan [<xref ref-type="bibr" rid="hanspub.31016-ref8">8</xref>] 和李培楠 [<xref ref-type="bibr" rid="hanspub.31016-ref9">9</xref>] 等认为研发投入会给企业带来极大的不确定性。当研发经费超过一定值时，提高研发经费不利于创新绩效的提高。提出以下假设:
+        </p>
+        <p>H1：人工智能公司研发资本投入与创新绩效显著正相关。</p>
+        <p>
+          同时，王玉春 [<xref ref-type="bibr" rid="hanspub.31016-ref10">10</xref>] 和Scherer [<xref ref-type="bibr" rid="hanspub.31016-ref11">11</xref>] 等部分学者提出研发资本投入与创新绩效存在滞后效应和累积效应。因此本文在检验当期研发资本投入与当期创新绩效关系基础之上，继续研究滞后一期和滞后两期研发资本投入与当期创新绩效关系。提出以下假设：
+        </p>
+        <p>H2：人工智能公司研发资本投入存在滞后效应和累积效应。</p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 政府补助的“标识”调节作用</title>
+        <p>
+          Bloom等 [<xref ref-type="bibr" rid="hanspub.31016-ref12">12</xref>]、陆国庆 [<xref ref-type="bibr" rid="hanspub.31016-ref13">13</xref>]、李常洪等 [<xref ref-type="bibr" rid="hanspub.31016-ref14">14</xref>]、Go-mez等 [<xref ref-type="bibr" rid="hanspub.31016-ref15">15</xref>]、邵传林 [<xref ref-type="bibr" rid="hanspub.31016-ref16">16</xref>] 都证明了政府补助对企业财务绩效和创新绩效有促进作用。政府补助与企业研发投入两者之间的关系也引起了学者的广泛关注。杜文献，吴林海以1991~2004年我国政府与企业研发投入为例，从宏观层次上实证检验了政府研发投入对企业研发投入的诱导效应 [<xref ref-type="bibr" rid="hanspub.31016-ref17">17</xref>] 。解维敏等以中国证券市场2003至2005年间的上市公司为样本，发现政府研发资助刺激了企业研发支出 [<xref ref-type="bibr" rid="hanspub.31016-ref18">18</xref>] 。Lee &amp; Cin以韩国制造业的中小企业作为样本，强调了政府补助能够有效促进企业研发活动 [<xref ref-type="bibr" rid="hanspub.31016-ref19">19</xref>] 。
+        </p>
+        <p>
+          从已有文献中可以看到，政府补助与企业研发投入和创新产出之间均有促进作用，可能存在对研发投入与创新绩效之间关系的调节作用。王一卉运用我国高技术企业的面板数据研究得出，政府补贴对研发投入与创新绩效之间关系有显著的负向调节作用，在欠发达地区中尤为明显 [<xref ref-type="bibr" rid="hanspub.31016-ref20">20</xref>] 。综合以上研究结果，认为政府方面补助等资源支持属于“多样性”投入资源的来源之一。本文提出以下假设：
+        </p>
+        <p>H3：政府补助对人工智能公司研发投入与创新绩效之间关系有调节效应。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 研究设计</title>
+      <sec id="s5_1">
+        <title>3.1. 样本选取</title>
+        <p>本文使用的公司财务数据和公司治理数据来源于国泰安(CSMAR)数据库；本研究中使用的上市公司研发数据、政府补助有关的数据资料来自于对上市公司年度报告手工收集整理得到。</p>
+        <p>本文以截止2018年9月同花顺数据平台的人工智能概念股板块的全部136家上市公司为样本，样本筛选过程如下：</p>
+        <p>1) 剔除主营业务不属于人工智能领域范畴的上市公司；</p>
+        <p>2) 剔除在此期间被ST、PT的上市公司；</p>
+        <p>3) 剔除当年IPO的上市公司；</p>
+        <p>4) 剔除未披露期末研发支出数据的上市公司。</p>
+        <p>最终得到有效数据2013~2017年人工智能概念股上市公司112家，共315个观测值。本文对主要连续变量在1%和99%分位上进行了缩尾处理。所使用的统计分析工具为Stata 15.0和Excel2016。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 变量选取</title>
+        <p>1) 因变量——人工智能公司创新绩效</p>
+        <p>
+          创新绩效可分为技术创新绩效和商场化创新绩效。技术创新绩效一般采用三种专利授权或申请数作为测量指标，市场化创新绩效通常采用新产品销售额作为指标变量。目前人工智能成果研发周期长，新成果难以商业化等问题 [<xref ref-type="bibr" rid="hanspub.31016-ref21">21</xref>]，因此相比技术创新绩效，市场化创新绩效对于人工智能公司更具有商业价值。人工智能公司主营业务和产品均含有高科技创新性质，创新绩效本质上等同于财务绩效。而且根据现有的披露情况，以及数据资料的获取途径的局限性，新产品销售收入的数据很难获得。综上所述，借鉴杨宝和袁天荣的做法 [<xref ref-type="bibr" rid="hanspub.31016-ref22">22</xref>]，本文采用资产收益率衡量人工智能公司创新绩效。
+        </p>
+        <p>2) 自变量——研发投入</p>
+        <p>本文依据现有文献的处理方法，同时考虑到研发投入多少会受到公司规模的影响，因此选取研发投入与营业收入的比例来衡量公司研发投入，该指标能够在公司年报的经营层讨论中直接获得。</p>
+        <p>3) 调节变量——政府补助</p>
+        <p>
+          在参考臧志彭 [<xref ref-type="bibr" rid="hanspub.31016-ref23">23</xref>] 和郑春美 [<xref ref-type="bibr" rid="hanspub.31016-ref24">24</xref>] 的选取方法的基础上，将“计入当期损益的政府补助”(以下简称“政府补助”)的金额与营业收入的比值作为衡量政府补助的指标。为了使因变量前的系数具有实际意义，将政府补助由连续变量转换为虚拟变量。
+        </p>
+        <p>4) 控制变量</p>
+        <p>
+          借鉴魏芳和耿修林 [<xref ref-type="bibr" rid="hanspub.31016-ref25">25</xref>]、卢馨 [<xref ref-type="bibr" rid="hanspub.31016-ref26">26</xref>] 的研究方法，公司股权集中度、公司规模、公司成长性、公司营运能力都有可能对研发投入与创新绩效的关系产生影响，所以本文在模型中将上述变量作为控制变量。此外，样本中属于软件和信息技术服务业的公司比例为71.59%，因此本文控制了年度因素，不考虑行业因素。
+        </p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 模型设计</title>
+        <sec id="s5_3_1">
+          <title>3.3.1. 主效应与滞后效应模型设计</title>
+          <p>因为本文截面个数少，属于面板数据但是非常不平衡。故作为横截面数据处理，用最小二乘法估计模型。由于本文通过怀特检验，发现模型有异方差，因此用稳健标准误处理异方差。</p>
+          <p>
+            模型(1)用于检验当期人工智能公司研发资本投入与创新绩效的关系，模型(2)用于检验当期人工智能公司研发资本投入与滞后一期创新绩效的关系，模型(3)用于检验当期人工智能公司研发资本投入与滞后两期创新绩效的关系。下标i表示公司(1 ≤ i ≤ 92)，下标t表示年份(2013 ≤ t ≤ 2017)，ε<sub>i</sub><sub>,t</sub>表示公司和时间混合差异的随机误差项。
+          </p>
+          <p>R O A i , t = α 0 + β 1 R D I i , t + λ 1 G R O i , t + λ 2 S I Z E i , t + λ 3 T O P 1 i , t + λ 4 T A T i , t + λ 5 Y E A R + ε i , t (1)</p>
+          <p>R O A i , t + 1 = α 0 + β 1 R D I i , t + λ 1 G R O i , t + λ 2 S I Z E i , t + λ 3 T O P 1 i , t + λ 4 T A T i , t + λ 5 Y E A R + ε i , t (2)</p>
+          <p>R O A i , t + 2 = α 0 + β 1 R D I i , t + λ 1 G R O i , t + λ 2 S I Z E i , t + λ 3 T O P 1 i , t + λ 4 T A T i , t + λ 5 Y E A R + ε i , t (3)</p>
+        </sec>
+        <sec id="s5_3_2">
+          <title>3.3.2. 调节效应模型设计</title>
+          <p>参考目前大量文献的做法，本文选择生成交互项检验调节效应，若交互项前回归系数显著则说明存在调节效应。</p>
+          <p>R O A i , t = α 0 + β 1 R D I i , t + β 2 R D 1 _ G O V V i , t + β 3 G O V i , t + λ 1 G R O i , t + λ 2 S I Z E i , t + λ 3 T O P 1 i , t + λ 4 Y E A R i . t + ε i , t (4)</p>
+          <p>为了使主要解释变量前的系数具有实际意义，本文将政府补助由连续变量生成虚拟变量(GOVV)，以GOV的均值为临界点，当GOV大于等于其均值时，GOVV = 1；当GOV小于其均值时，GOVV = 0。RDI_GOVV表示公司研发投入与政府补助的交互项。</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 实证分析</title>
+      <sec id="s6_1">
+        <title>4.1. 描述性统计</title>
+        <p>样本数据基本情况如表1所示。研发投入(RDI)平均值为0.0975，中值为0.0755。据《2017年中国科技统计年鉴》显示，2009~2016年全国研发投入最高为0.0211，因此说明，人工智能产业由于属于知识密集型产业，人工智能公司研发投入水平较高；研发投入(RDI)最小值0.0008，最大值0.484，说明研发投入同时也存在较大个体差异。</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Descriptive statistic</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >变量</th>
+                  <th align="center" valign="middle" >N</th>
+                  <th align="center" valign="middle" >均值</th>
+                  <th align="center" valign="middle" >标准差</th>
+                  <th align="center" valign="middle" >中值</th>
+                  <th align="center" valign="middle" >最小值</th>
+                  <th align="center" valign="middle" >最大值</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >ROA</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >0.0626</td>
+                <td align="center" valign="middle" >0.0485</td>
+                <td align="center" valign="middle" >0.0570</td>
+                <td align="center" valign="middle" >−0.0669</td>
+                <td align="center" valign="middle" >0.245</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >0.105</td>
+                <td align="center" valign="middle" >0.0975</td>
+                <td align="center" valign="middle" >0.0755</td>
+                <td align="center" valign="middle" >0.000800</td>
+                <td align="center" valign="middle" >0.484</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GOV</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >0.0154</td>
+                <td align="center" valign="middle" >0.0178</td>
+                <td align="center" valign="middle" >0.0101</td>
+                <td align="center" valign="middle" >0.0000465</td>
+                <td align="center" valign="middle" >0.105</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GRO</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >0.0798</td>
+                <td align="center" valign="middle" >0.0773</td>
+                <td align="center" valign="middle" >0.0699</td>
+                <td align="center" valign="middle" >−0.161</td>
+                <td align="center" valign="middle" >0.357</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >SIZE</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >22.16</td>
+                <td align="center" valign="middle" >1.330</td>
+                <td align="center" valign="middle" >22.02</td>
+                <td align="center" valign="middle" >19.95</td>
+                <td align="center" valign="middle" >26.53</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TOP1</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >0.310</td>
+                <td align="center" valign="middle" >0.147</td>
+                <td align="center" valign="middle" >0.285</td>
+                <td align="center" valign="middle" >0.0801</td>
+                <td align="center" valign="middle" >0.749</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TAT</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >0.520</td>
+                <td align="center" valign="middle" >0.337</td>
+                <td align="center" valign="middle" >0.436</td>
+                <td align="center" valign="middle" >0.0550</td>
+                <td align="center" valign="middle" >2.387</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 描述性统计</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 皮尔森(Pearson)相关性检验</title>
+        <p>表2给出了回归变量的相关系数。大部分相关系数值均小于0.7；大部分变量之间不存在严重共线性问题，这说明指标设计具有较好的区分度。</p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> Pearson correlation tes</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" ></th>
+                  <th align="center" valign="middle" >ROA</th>
+                  <th align="center" valign="middle" >RDI</th>
+                  <th align="center" valign="middle" >GOV</th>
+                  <th align="center" valign="middle" >GRO</th>
+                  <th align="center" valign="middle" >SIZE</th>
+                  <th align="center" valign="middle" >TOP1</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >ROA</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >0.0100</td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GOV</td>
+                <td align="center" valign="middle" >
+                  −0.108<sup>*</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.458<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GRO</td>
+                <td align="center" valign="middle" >
+                  0.861<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.118<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.146<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >SIZE</td>
+                <td align="center" valign="middle" >−0.00900</td>
+                <td align="center" valign="middle" >
+                  −0.296<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.285<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.132<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" ></td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TOP1</td>
+                <td align="center" valign="middle" >
+                  0.184<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.258<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.183<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.164<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.171<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >1</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TAT</td>
+                <td align="center" valign="middle" >
+                  0.125<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.335<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  −0.350<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.232<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.330<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.170<sup>***</sup>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. Pearson相关性检验</p>
+        <p>
+          注：<sup>***</sup>、<sup>**</sup>、<sup>*</sup>分别指的是1%、5%和10%的显著性水平。
+        </p>
+        <p>从单变量的分析看，研发投入与创新绩效的相关系数未通过显著性检验，说明研发资本投入与创新绩效之间不存在显著的相关性，初步验证了CAS理论下，研发投入与创新绩效之间存在的复杂关系。政府补助与研发投入相关系数为0.458，通过了显著性1%的检验，说明政府补助对人工智能公司研发投入有显著的刺激效应。政府补助与创新绩效相关系数为−0.108，通过了显著性10%的检验，说明政府补助对人工智能公司创新绩效可能存在抑制效应。</p>
+      </sec>
+      <sec id="s6_3">
+        <title>4.3. 主效应与滞后效应检验</title>
+        <p>由于研发投入与创新绩效的复杂关系可能是一种非线性关系，因此本文对函数(1)进行“连接检验”(link test)来检验函数(1)形式是否正确。检验结果显示，函数(1)不存在设定误差，可以用来进行主效应检验，其结果如表3。</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> Regression results of main effect and lag effect model</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >变量</th>
+                  <th align="center" valign="middle" >(1)</th>
+                  <th align="center" valign="middle" >(2)</th>
+                  <th align="center" valign="middle" >(3)</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >
+                  0.0494<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >−0.00667</td>
+                <td align="center" valign="middle" >
+                  0.0817<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(3.068)</td>
+                <td align="center" valign="middle" >(−0.236)</td>
+                <td align="center" valign="middle" >(2.117)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >SIZE</td>
+                <td align="center" valign="middle" >
+                  −0.00412<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >0.00205</td>
+                <td align="center" valign="middle" >
+                  0.0160<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(−3.067)</td>
+                <td align="center" valign="middle" >(0.967)</td>
+                <td align="center" valign="middle" >(2.822)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TOP1</td>
+                <td align="center" valign="middle" >
+                  0.0296<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.0380<sup>**</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.0861<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(4.015)</td>
+                <td align="center" valign="middle" >(2.066)</td>
+                <td align="center" valign="middle" >(2.766)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TAT</td>
+                <td align="center" valign="middle" >−0.00332</td>
+                <td align="center" valign="middle" >−0.00764</td>
+                <td align="center" valign="middle" >−0.0101</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(-0.868)</td>
+                <td align="center" valign="middle" >(−1.135)</td>
+                <td align="center" valign="middle" >(−0.885)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GRO</td>
+                <td align="center" valign="middle" >
+                  0.554<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.322<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  0.254<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(19.74)</td>
+                <td align="center" valign="middle" >(5.321)</td>
+                <td align="center" valign="middle" >(2.649)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Constant</td>
+                <td align="center" valign="middle" >
+                  0.0919<sup>***</sup>
+                </td>
+                <td align="center" valign="middle" >−0.0130</td>
+                <td align="center" valign="middle" >
+                  −0.275<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(3.171)</td>
+                <td align="center" valign="middle" >(−0.296)</td>
+                <td align="center" valign="middle" >(−2.365)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >YEAR</td>
+                <td align="center" valign="middle" >控制</td>
+                <td align="center" valign="middle" >控制</td>
+                <td align="center" valign="middle" >控制</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >N</td>
+                <td align="center" valign="middle" >315</td>
+                <td align="center" valign="middle" >227</td>
+                <td align="center" valign="middle" >133</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Adj-R2</td>
+                <td align="center" valign="middle" >0.772</td>
+                <td align="center" valign="middle" >0.325</td>
+                <td align="center" valign="middle" >0.316</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 主效应与滞后效应模型回归结果</p>
+        <p>
+          注：括号汇报的是T值，<sup>***</sup>、<sup>**</sup>、<sup>*</sup>分别指的是1%、5%和10%的显著性水平。
+        </p>
+        <p>1) 结果(1)显示，当期研发投入与当期创新绩效之间的回归系数为0.0494，通过1%的显著性检验，假设1成立；从控制变量来看，公司规模与当期创新绩效之间的关系在1%显著性水平下负相关。由于本文衡量研发投入是以研发投入占营业收入这个相对指标来衡量的，因此企业规模越大，研发投入产生的经济利益流入越多，并且往往形成规模效应，导致该比例越小；而规模较小的企业则难以形成巨大的规模效应，该比例往往较高。因此，企业规模与研发投入强度呈显著负相关，是符合现实情况的。公司成长性和股权集中度在1%显著性水平下正相关，说明公司的可持续增长和股权高度集中对创新绩效有积极影响。</p>
+        <p>2) 从结果(1)与(3)的对比结果可以看出，当期模型中，研发投入的回归系数为0.0494；滞后两期模型中，研发投入的回归系数为0.0817，从系数变化来看，研发投入对创新绩效的弹性呈递增趋势，同时显著性水平从1%降到5%，由此表明，对于人工智能公司而言，研发投入越高，创新绩效会越好。且研发投入对创新绩效的促进效果经过两年的积累后更明显，假设2成立。</p>
+      </sec>
+      <sec id="s6_4">
+        <title>4.4. 调节效应检验</title>
+        <p>在上文的主效应检验中，公司营运能力与创新绩效关系并不显著。进行调节效应分析时，一般要求所选取的控制变量与因变量之间显著相关，因此在政府补助调节效应检验过程中，保留公司规模、公司成长性和股权集中度这三个主要控制变量。</p>
+        <p>分析结果见表4，交互项RDI_GOVV的回归系数−0.0713，在5%的水平下显著，表明政府补助对研发投入与创新绩效之间的影响关系具有反向调节作用，假设3成立。</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> Moderating effect model regression result</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >变量</th>
+                  <th align="center" valign="middle" >(4)</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >RDI</td>
+                <td align="center" valign="middle" >
+                  0.0911<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(3.503)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >RDI_GOVV</td>
+                <td align="center" valign="middle" >
+                  −0.0713<sup>**</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(−2.275)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GOVV</td>
+                <td align="center" valign="middle" >
+                  0.00721<sup>*</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(1.715)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >GRO</td>
+                <td align="center" valign="middle" >
+                  0.549<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(19.73)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >SIZE</td>
+                <td align="center" valign="middle" >
+                  −0.00367<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(−2.727)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >TOP1</td>
+                <td align="center" valign="middle" >0.0289***</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(3.936)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Constant</td>
+                <td align="center" valign="middle" >
+                  0.0795<sup>***</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" ></td>
+                <td align="center" valign="middle" >(2.717)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >YEAR</td>
+                <td align="center" valign="middle" >控制</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >N</td>
+                <td align="center" valign="middle" >315</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Adj-R2</td>
+                <td align="center" valign="middle" >0.776</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表4. 调节效应模型回归结果</p>
+        <p>
+          注：括号汇报的是T值，<sup>***</sup>、<sup>**</sup>、<sup>*</sup>分别指的是1%、5%和10%的显著性水平。
+        </p>
+        <p>本文进一步计算当研发投入取不同值时，政府补助对创新绩效的边际效应分别为多少，见图2。</p>
+        <p>图2. RDI取值不同时GOV对ROA的平均边际效应</p>
+        <p>结果表明：相对于政府补助小于1.54%的人工智能公司，随着研发投入的增加，政府补助大于等于1.54%的人工智能公司的政府补助对创新绩效的边际效应逐渐减小；当研发投入增大到一定值时，政府补助大于等于1.54%的人工智能公司创新绩效的边际值比政府补助小于1.54%的人工智能公司的低。</p>
+        <p>4.5. 稳健性检验</p>
+        <p>本文采用净资产收益率代替资产收益率，得出的实质结果基本一致，假设1和假设2继续得到支持。本文以政府补助中位数为分界线，政府补助大于等于中位数的，令GOVE = 1，反之，GOVE = 0。设置虚拟变量GOVE对政府补助的调节效应进行稳健性检验，结果显示在5%的水平下显著，表明政府补助对研发投入与创新绩效之间的影响关系具有反向调节作用，与前文结论一致。限于篇幅，不再详细报告。</p>
+        <p>5. 结论与政策建议</p>
+        <p>5.1. 实证结论与定性分析</p>
+        <p>以上研究结果显示，假设1、假设2、假设3均通过验证。这说明：(1) 人工智能公司研发投入与当期创新绩效显著正相关，且研发投入存在滞后效应和积累效应。(2) 当政府补助达到一定值时，增加政府补助对研发投入与创新绩效之间关系有反向调节效应。以下将对实证结果进行定性分析：</p>
+        <p>研发投入的“流”，对创新绩效的正向影响是一个长期呈现的过程。研发投入与当期创新绩效和滞后两期的创新绩效显著正相关，与滞后一期创新绩效无显著关系，且回归系数为负。人工智能技术研发与成果转化相对于其他高新产业，所经历的周期更加漫长，公司若没有良好的现金流和充足资金的“聚集”，则难以支撑长期研发支出。尤其是初创企业，容易进入企业生命周期中的“死亡谷”。基于研究机构Gartner对“新兴技术成熟度曲线”的普遍规律，AI技术已处于期望膨胀期与泡沫化的关键阶段，按照行业专家李开复的观点：“倒闭潮将集中爆发在2018年，直接的原因是AI项目融资高峰期在2017年上半年，一般融资的使用周期是18个月左右”。但如果人工智能公司跳出“死亡谷”，技术研发成功转换成新产品，开始在市场盈利，R&amp;D资本投入对公司创新绩效的正向影响是显著的，且这种促进效应逐年增加。</p>
+        <p>当政府补助小于1.54%时，增加研发投入对创新绩效的边际效应变大；当政府补助大于1.54%时，增加研发投入对创新绩效的边际效应减小反而对创新绩效有反向影响。说明，一方面，由于研发投入大，研发周期长，风险大，研发活动存在“市场失灵”的情况。</p>
+        <p>政府需要对研发活动的“市场失灵”进行矫正，需要有考核的“标识”。这具体表现为向人工智能公司提供直接资金资助或者间接的税收优惠，此时政府补助对研发投入会产生激励效应。另一方面，当政府补助过高时，公司可能会将政府补助用于弥补亏损，粉饰财务报表，此时会产生“账面效应”，公司的研发创新能力和核心竞争力并没有得到提升。</p>
+        <p>5.2. 政策建议</p>
+        <p>1) 政府加大对R&amp;D等支持力度能够起到“标识”作用</p>
+        <p>根据上文的描述性分析可知，目前大部分人工智能公司的政府补助出于较低水平，此时提高政府补助水平，有利于创新绩效的进一步提升，因此政府应继续加大对人工智能产业的补助力度，扩大补助范围，增加补助方式，注重政府补助对人工智能公司的有效性。其次要建立政府补助引导人工智能公司R&amp;D活动的长效机制，从而有效帮助建设和提升公司核心竞争力，公司创新绩效也能得到持续提升。最后，政府应对补助的人工智能公司展开定期的评估考核工作，将评估结果与后期补助发放挂钩，使有限的资源得到充分的利用。</p>
+        <p>2) 人工智能公司加强研发投入中资源“聚集”机制的建设</p>
+        <p>人工智能公司的产品更新换代快，如果不对研发投入进行良好的管理，很快会被市场淘汰。一方面要重视研发投入，通过不断研制出新产品，满足客户新需求，提高市场份额，提升企业价值。另一方面要提高研发效率。研发投入与创新绩效回归系数较小，表明很多产品在研发过程中会以失败告终，这不仅无法提升企业价值，还会造成资源浪费，费用增加。尽管研发投入必然会有部分项目以失败告终，但是公司需尽量做好控制措施，事前充分进行可行性研究，事中强化研发阶段的监督，事后注重经验的总结，尽量降低失败率，提高研发效率。</p>
+        <p>3) 人工智能公司协同创新中重视“积木”机制的经营</p>
+        <p>人工智能公司需要重视处理与政府、科研院所和金融机构等组织在协同创新过程中互惠互利关系。这样才能在更大范围增加投入资源的“流”。</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>基金项目</title>
+      <p>2018年度河海大学国家级大学生创新创业训练立项项目“人工智能公司研发投入与创训绩效复杂关系研究”(201810294093)。</p>
+    </sec>
+    <sec id="s8">
+      <title>文章引用</title>
+      <p>蔡颜,孟庆军. 政府补助、研发投入与人工智能公司创新绩效——基于CAS理论Government Subsidies, R&amp;D Investment and Innovation Performance of AI Companies—Based on CAS Theory[J]. 现代管理, 2019, 09(03): 414-424. https://doi.org/10.12677/MM.2019.93051</p>
+    </sec>
+    <sec id="s9">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.31016-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">苗东升. 系统科学精要[M]. 北京: 中国人民大学出版社, 2016: 228-236.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Romer, P. (1990) Endogenous Technological Change. Journal of Political Economy, 98, 71-102.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">10.1086/261725</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">解学梅, 戴智华, 刘丝雨. 高新技术企业科技研发投入与新产品创新绩效——基于面板数据的比较研究[J]. 工业工程与管理, 2016, 18(3): 92-96.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Aboody, D. and Lev, B. (2001) R&amp;D Productivity in the Chemical Industry. In: Measuring Up: Research &amp; Development Counts for the Chemical Industry, Council for Chemical Research, Washington DC, 82-93.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">马文聪, 侯羽, 朱桂龙. 研发投入和人员激励对创新绩效的影响机制[J]. 科学学与科学技术管理, 2013, 34(3): 58-68.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Hanel, P. and St-Pierre, A. (2002) Effects of R&amp;D Spillovers on the Profitability of Firms. Review of Industrial Organization, 20, 305-322.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">10.1023/A:1015677626496</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">梁莱歆, 张焕风. 高科技上市公司R&amp;D投入绩效的实证研究[J]. 中南大学学报(社会科学版), 2005, 11(2): 232-236.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Chan, L.K.C., Josef, L. and Theodore, S. (2001) The Stock Market Valuation of Research and Development Expenditures. Journal of Finance, 56, 2431-2456.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">10.1111/0022-1082.00411</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李培楠, 赵兰香, 万劲波. 创新要素对产业创新绩效的影响——基于中国制造业和高技术产业数据的实证分析[J]. 科学学研究, 2014, 32(4): 604-612.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王玉春, 郭媛嫣. 上市公司R&amp;D投入与产出效果的实证分析[J]. 产业经济研究, 2008(6): 44-52.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Scherer, F.M. (1965) Firm Sizes, Market Structure, Opportunity and the Output of Patented Innovations. American Economic Review, 55, 1097-1125.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Bloom, N., Griffith, R. and Van Reenen, J.M. (2002) Do R&amp;D Tax Credits Work? Evidence from a Panel of Countries 1979-1997. Journal of Public Economics, 85, 1-31.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">10.1016/S0047-2727(01)00086-X</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref17">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">陆国庆. 中国中小板上市公司产业创新的绩效研究[J]. 经济研究, 2011(2): 138-148.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref18">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李常洪, 郭嘉琦, 宋志红, 范建平. 创新投入、创新产出与企业绩效: 基于CDM模型的实证研究[J]. 华东经济管理, 2013(5):164-168.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref19">
+        <label>19</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Gomez, M.A. and Sequeira, T.N. (2014) Should the US Increase Subsidies to R&amp;D? Lessons from an Endogenous Growth Theory. Oxford Economic Papers—New Series, 66, 254-282.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref20">
+        <label>20</label>
+        <mixed-citation publication-type="other" xlink:type="simple">10.1093/oep/gpt007</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref21">
+        <label>21</label>
+        <mixed-citation publication-type="other" xlink:type="simple">邵传林. 制度环境、财政补贴与企业创新绩效——基于中国工业企业微观数据的实证研究[J]. 软科学, 2015(9): 34-37, 42.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref22">
+        <label>22</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杜文献, 吴林海. 政府R&amp;D投入对企业R&amp;D投入的诱导效应——基于1991~2004年中国科技统计数据的实证分析[J]. 科技进步与对策, 2007, 24(11): 20-23.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref23">
+        <label>23</label>
+        <mixed-citation publication-type="other" xlink:type="simple">解维敏, 唐清泉, 陆姗姗. 政府R&amp;D资助, 企业R&amp;D支出与自主创新——来自中国上市公司的经验证据[J]. 金融研究, 2009(6): 86-99.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref24">
+        <label>24</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Lee, E.Y. and Cin, B.C. (2010) The Effect of Risk-Sharing Government Subsidy on Corpo-rate R&amp;D Investment: Empirical Evidence from Korea. Technological Forecasting and Social Change, 77, 881-890.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref25">
+        <label>25</label>
+        <mixed-citation publication-type="other" xlink:type="simple">10.1016/j.techfore.2010.01.012</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref26">
+        <label>26</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王一卉. 政府补贴、研发投入与企业创新绩效——基于所有制、企业经验与地区差异的研究[J]. 经济问题探索, 2013(7): 138-143.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref27">
+        <label>27</label>
+        <mixed-citation publication-type="other" xlink:type="simple">任翔. 技术创新的主要投入因素对创新成果的影响[J]. 数量经济技术经济研究, 2001, 18(11): 19-22.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref28">
+        <label>28</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杨宝, 袁天荣. 风险资本介入、研发投入与创新绩效关系研究[J]. 科技进步与对策, 2013, 30(13): 83-86.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref29">
+        <label>29</label>
+        <mixed-citation publication-type="other" xlink:type="simple">臧志彭. 政府补助、研发投入与文化产业上市公司绩效[J]. 华东经济管理, 2015(6): 80-88.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref30">
+        <label>30</label>
+        <mixed-citation publication-type="other" xlink:type="simple">郑春美, 李佩. 政府补助与税收优惠对企业创新绩效的影响——基于创业板高新技术企业的实证研究[J]. 科技进步与对策, 2015(16): 83-87.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref31">
+        <label>31</label>
+        <mixed-citation publication-type="other" xlink:type="simple">魏芳, 耿修林. 政府科技资助方式、风险投资对企业创新投入的影响[J]. 西部论坛, 2018, 28(1): 100-108.</mixed-citation>
+      </ref>
+      <ref id="hanspub.31016-ref32">
+        <label>32</label>
+        <mixed-citation publication-type="other" xlink:type="simple">卢馨. 企业人力资本、R&amp;D与自主创新——基于高新技术上市企业的经验证据[J]. 暨南学报(哲学社会科学版), 2013, 35(1): 104-117.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

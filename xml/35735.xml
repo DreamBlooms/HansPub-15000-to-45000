@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">AIRR</journal-id>
+      <journal-title-group>
+        <journal-title>Artificial Intelligence and Robotics Research</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2326-3415</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/AIRR.2020.92017</article-id>
+      <article-id pub-id-type="publisher-id">AIRR-35735</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>AIRR20200200000_12332219.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>信息通讯</subject>
+          <subject> 工程技术</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          基于人工智能的电力物资抽检策略决策支持系统研究
+          Research on Decision Support System of Electric Power Material Sampling Inspection Strategy Based on Artificial Intelligence
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>左</surname>
+            <given-names>世彦</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>金</surname>
+            <given-names>娜</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>黄</surname>
+            <given-names>丽</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <addr-line>国网上海市电力公司物资公司，上海</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>国网上海市电力公司金山供电公司，上海</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>03</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>02</issue>
+      <fpage>146</fpage>
+      <lpage>153</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          差异化抽检策略是提升电力物资质量管理的有效手段。针对目前通过人工制定抽检策略对供应商没有针对性，抽检策略制定费时费力，抽检措施不够细化、智能化的现状，本文提出一种基于人工智能的电力物资抽检策略决策支持系统，构建由知识图谱库与规则库组成的知识库。按照知识图谱构建方法，建立供应商评价知识图谱。根据抽检项目，建立供应商抽检策略规则库。通过推理引擎算法，实现对知识图谱库和抽检策略规则库智能匹配。实现抽检策略的智能化输出，为实现差异化抽检策略管理，实现供应商抽检策略千人千面打下基础。
+          The difference sampling strategy is an effective way to improve the quality management of power materials. At present, there is no pertinence to suppliers through manual sampling strategy for-mulation, which takes time and effort, and the sampling measures are not detailed and intelligent enough. In this paper, an artificial intelligence based decision support system for power material sampling inspection strategy is proposed, which is composed of a knowledge graph database and a rule database. According to the construction method of knowledge graph, the knowledge graph of supplier evaluation is established. According to the random inspection items, the supplier random inspection strategy rule base is established. Through the algorithm of inference engine, the intel-ligent matching of knowledge graph base and sampling strategy rule base is realized. The intelli-gent output of sampling strategy is realized, which lays the foundation for the management of dif-ferentiated sampling strategy and the realization of supplier sampling strategy.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>人工智能，知识图谱，差异化抽检策略，决策支持系统, Artificial Intelligence</kwd>
+        <kwd> Knowledge Graph</kwd>
+        <kwd> Differentiated Sampling Strategy</kwd>
+        <kwd> Decision Support System</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        基于人工智能的电力物资抽检策略决策支持系统研究<sup> </sup>
+      </title>
+      <p>
+        左世彦<sup>1</sup>，金娜<sup>1</sup>，黄丽<sup>2</sup>
+      </p>
+      <p>
+        <sup>1</sup>国网上海市电力公司金山供电公司，上海
+      </p>
+      <p>
+        <sup>2</sup>国网上海市电力公司物资公司，上海
+      </p>
+      <p>收稿日期：2020年5月3日；录用日期：2020年5月18日；发布日期：2020年5月25日</p>
+      <disp-formula id="hanspub.35735-formula17">
+        <graphic xlink:href="//html.hanspub.org/file/11-2610195x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>差异化抽检策略是提升电力物资质量管理的有效手段。针对目前通过人工制定抽检策略对供应商没有针对性，抽检策略制定费时费力，抽检措施不够细化、智能化的现状，本文提出一种基于人工智能的电力物资抽检策略决策支持系统，构建由知识图谱库与规则库组成的知识库。按照知识图谱构建方法，建立供应商评价知识图谱。根据抽检项目，建立供应商抽检策略规则库。通过推理引擎算法，实现对知识图谱库和抽检策略规则库智能匹配。实现抽检策略的智能化输出，为实现差异化抽检策略管理，实现供应商抽检策略千人千面打下基础。</p>
+      <p>关键词 :人工智能，知识图谱，差异化抽检策略，决策支持系统</p>
+      <disp-formula id="hanspub.35735-formula18">
+        <graphic xlink:href="//html.hanspub.org/file/11-2610195x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2020 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/11-2610195x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/11-2610195x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>抽检是物资质量管理的重要手段。抽检是指项目单位依据公司抽检技术标准、供货合同以及国家有关标准，对所采购物资在批次产品中随机抽取一定比例的数量进行有关项目检测，确定物资质量的活动。目前抽检工作统一按照国网的要求编制抽检计划，开展样品检测，并结合上海公司情况，对部分物资开展了差异化抽检初步探索，例如对直供现场的配电变压器开展备货抽检、对电缆保护管采取二次封样和统一制样、对水泥杆采取制造厂检测等等。但是供应商、物资的全面评价信息不够健全，未建立标准化的物资质量大数据。人工制定抽检策略受限于对业务的认知，不同的人对事件的判断，往往会有不同的结论，甚至相同的人在不同时间对同一事件的看法也会发生改变，这都造成了标准上的不统一。当前差异化抽检管理策略的依据需要进一步规范化、标准化和智能化。</p>
+      <p>
+        目前，国内同行针对电力物资差异化抽检策略的研究一般以常规方法分析为主。如井伟等基于分类评价的出厂试验抽检策略研究 [<xref ref-type="bibr" rid="hanspub.35735-ref1">1</xref>]，通过构建基于分类评价的差异化出厂试验抽检系数调整模型，对当前抽检比例进行物资维度和供应商维度的二次调整，使抽检比例的生成更科学化。从查询的文献资料来看，目前还较少有基于人工智能的物资抽检策略决策系统应用。本文采用人工智能中的智能设计理论和决策理论，通过将供应商物资年采购情况、供应商中标情况、历史质量管控等资料建立供应商评价知识图谱，同时建立物资抽检策略规则库，通过智能决策支持系统将供应商评价指标分数与物资抽检策略规则库进行自动匹配，从而输出抽检策略。基于人工智能的电力物资抽检策略决策支持系统研究，能有效解决抽检策略对专家依赖性太强的问题，实现差异化抽检策略管理，实现供应商抽检策略千人千面。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 基于人工智能的抽检策略决策系统构建</title>
+      <sec id="s4_1">
+        <title>2.1. 供应商评价知识图谱建立</title>
+        <p>知识图谱是一种知识表示的方式，由本体和本体约束的实例构成。知识图谱主要有自顶向下(top-down)与自底向上(bottom-up)两种构建方式。自顶向下指的是先为知识图谱定义好本体与数据模式，再将实体加入到知识库。该构建方式需要利用一些现有的结构化知识库作为其基础知识库。由于电力物资供应商评价的结构化数据较好，数据逻辑清晰，结构简单，因此本文采用自顶向下知识图谱进行本体构建，再进行知识抽取、知识表示、知识融合，最后进行知识存储。电力物资供应商知识图谱构建过程，如图1所示。</p>
+        <p>图1. 知识图谱构建过程</p>
+        <p>针对数据源多样性的现状，首先对于半结构化和非结构化数据进行预处理，统一转换成结构化数据，然后应用ETL工具对结构化数据进行抽取、转换、清洗，最后将数据加载到知识本体库中。</p>
+        <p>电力物资种类繁多，目前一共有25个物资大类，1万多种不同物资类别，每种物资类别包含多个检测项目，每一个检测项目又包括多项检测内容。这样进行组合得到的检测内容项多达几十万，再与几万家供应商进行组合，数据非常庞大。以变压器检测项目为例，其检测项目包括23个抽检项目，143项抽检内容，由于篇幅所限，只列举其中部分内容，见表1。</p>
+        </sec>
+      </sec>
+          </body>
+            <back>
+          <ref-list>
+            <title>References</title>
+            <ref id="hanspub.35735-ref1">
+              <label>1</label>
+              <mixed-citation publication-type="other" xlink:type="simple">井伟, 肖少非, 杨店飞. 基于分类评价的出厂试验抽检策略研究[J]. 物流工程与管理, 2018(9): 149-150.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35735-ref2">
+              <label>2</label>
+              <mixed-citation publication-type="other" xlink:type="simple">史忠植. 高级人工智能[M]. 北京: 科学出版社, 2011.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35735-ref3">
+              <label>3</label>
+              <mixed-citation publication-type="other" xlink:type="simple">詹金武, 李涛, 李超. 基于人工智能的TBM选型适应性评价决策支持系统[J]. 煤炭学报, 2019, 44(10): 3258-3271.</mixed-citation>
+            </ref>
+            <ref id="hanspub.35735-ref4">
+              <label>4</label>
+              <mixed-citation publication-type="other" xlink:type="simple">温有奎, 温浩, 乔晓东. 让知识产生智慧——基于人工智能的文本挖掘与问答技术研究[J]. 情报学报, 2019, 38(7): 722-730.</mixed-citation>
+            </ref>
+          </ref-list>
+        </back>
+</article>

@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" 
+"http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" 
+dtd-version="3.0" xml:lang="en" article-type="research article">
+    <body>
+    <sec id="s1">
+      <title>
+        保利尔胶囊处方替代质量标准研究<sup> </sup>
+      </title>
+      <p>唐广玉，赵婷，张立英，黎明</p>
+      <p>内蒙古蒙医药工程技术研究院，内蒙古 通辽</p>
+      <p>
+        <img src="//html.hanspub.org/file/4-3070065x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2018年10月15日；录用日期：2018年10月29日；发布日期：2018年11月6日</p>
+      <disp-formula id="hanspub.27440-formula60">
+        <graphic xlink:href="//html.hanspub.org/file/4-3070065x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>
+        目的：为了产业的可持续发展，保利尔胶囊立题研究减去处方中濒危药材，并对处方替代后产品的质量可控性进行研究。方法：采用显微、TLC及气相色谱等方法对处方多味药材进行定性控制，采用高效液相色谱法对方中丹参的有效成分丹参酮II<sub>A</sub>、丹酚酸B进行定量控制。结果：丹参酮II<sub>A</sub>在0.020064~0.40128 g范围内呈良好的线性关系(r = 0.9993)；丹酚酸B在0.0683~1.3660 g范围内呈良好的线性关系(r = 0.9996)。结论：本法灵敏，准确，专属性强，重现性好，可作为该制剂的质量控制方法。
+      </p>
+      <p>
+        关键词 :保利尔胶囊，薄层色谱法，高效液相色谱法，丹参酮II<sub>A</sub>，丹酚酸B
+      </p>
+      <disp-formula id="hanspub.27440-formula61">
+        <graphic xlink:href="//html.hanspub.org/file/4-3070065x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2018 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/4-3070065x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/4-3070065x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>保利尔胶囊是蒙药传统复方制剂，功能行气活血，化瘀解滞，升清降浊，用于高脂血症气滞血瘀、痰浊内阻证，症见胸闷，气短，心胸刺痛，眩晕，头痛等。药效学研究证明，保利尔胶囊可以降低实验动物的TC、TG、LDL-C值，升高HDL-C值，同时，还能降低高脂血症家兔全血粘度，抑制高脂血症大鼠血小板聚集，能使大鼠血栓长度缩短，血栓湿重减轻，对血小板粘附前、后数量无影响；可降低蛋黄引起的高脂血症小鼠血清中TC、TG值，并能延长小鼠凝血时间，对正常小鼠血清TC、TG值无明显影响。本文旨在研究保利尔胶囊处方中减去降香、檀香等生长缓慢的乔本植物药材后的标准控制方法。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 仪器与试药</title>
+      <sec id="s4_1">
+        <title>2.1. 仪器</title>
+        <p>兰博4000型高效液相色谱仪(包括兰博4000型可编程可变波长紫外/可见光检测器、4000型四元高压梯度泵)，OV-2001柱温箱，AS-3000自动进样器，EZChrom Elite化学工作站，赛多利斯CP225D电子分析天平，HS3120超声波溶解仪。</p>
+        <p>显微镜(型号：XSZ-106)；</p>
+        <p>ZF-2型三用紫外分析仪。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 试药</title>
+        <p>对照品均由中国药品生物制品检定所提供。</p>
+        <p>
+          丹参酮II<sub>A</sub>对照品，批号110766-200619。
+        </p>
+        <p>胆酸对照品，批号：10078-0013。</p>
+        <p>猪去氧胆酸对照品，批号：100087-200610。</p>
+        <p>栀子苷对照品，批号：110749-200309。</p>
+        <p>麝香酮对照品，批号：110719-200409。</p>
+        <p>人参皂苷Rb1对照品，批号：110704-200420。</p>
+        <p>人参皂苷Rg1对照品，批号：110703-200726。</p>
+        <p>三七皂苷R1对照品，批号：110745-200415。</p>
+        <p>甲醇为色谱纯，水为双重蒸馏水。</p>
+        <p>保利尔胶囊样品：内蒙古蒙药股份有限公司生产。</p>
+        <p>
+          硅胶G、硅胶GF<sub>254</sub> (薄层色谱用)：青岛海洋化工厂生产。
+        </p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 方法与结果</title>
+      <p>
+        研究所用方法均参照中国药典 [<xref ref-type="bibr" rid="hanspub.27440-ref1">1</xref>] 及原处方制剂的质量标准 [<xref ref-type="bibr" rid="hanspub.27440-ref2">2</xref>] 进行。
+      </p>
+      <sec id="s5_1">
+        <title>3.1. 鉴别</title>
+        <sec id="s5_1_1">
+          <title>3.1.1. 显微鉴别</title>
+          <p>按显微镜下观察的先后次序分别鉴别：木香、荜茇、牛心、三七。具体观察情况如下：</p>
+          <p>木纤维成束，呈长梭形，纹孔细小，横裂缝状或相交成十字形、人字形(木香)。石细胞淡黄色、淡黄绿色或无色，单个或数个成群散列于暗棕色中果皮薄壁组织中，层纹较明显，纹孔及孔沟较稀疏，胞腔内含灰棕色物(荜茇)。横纹肌纤维无色或淡黄色，横纹细密平直或微波状(牛心)，见图1。</p>
+          <p>图1. 显微鉴别图</p>
+        </sec>
+        <sec id="s5_1_2">
+          <title>3.1.2. 用TLC法鉴别栀子所含栀子苷</title>
+          <p>
+            取本品新处方、原处方内容物各3 g，分别加乙醚15 ml，回流提取1小时，弃去乙醚，挥干，残渣加醋酸乙酯20 ml，加热回流1小时，滤过，滤液蒸干，残渣加甲醇2 ml使溶解，滤过，滤液作为供试品溶液和阳性对照溶液；取不含栀子的阴性对照样品，同法制成阴性对照溶液(空白溶液)。另取栀子苷对照品加甲醇制成每1 ml含1 mg的溶液，作为对照品溶液，照薄层色谱法(中国药典2010年版一部附录VI B)试验，吸取上述4种溶液各5 μl，分别点于同一含0.5%羧甲基纤维素钠为粘合剂的硅胶GF<sub>254</sub>薄层板上，以氯仿-甲醇(3:1)为展开剂，展开，取出，晾干，置紫外灯(254 nm)下检视，供试品色谱中，在与对照品色谱相应的位置上显相同颜色的荧光斑点；固将此方法列入质量标准正文中。主斑点栀子苷R<sub>f</sub>值为0.6，结果见图2。
+          </p>
+          <p>图2. 栀子苷的TLC鉴别图</p>
+        </sec>
+        <sec id="s5_1_3">
+          <title>3.1.3. 用TLC法鉴别保利尔中人工牛黄所含成分胆酸、猪去氧胆酸</title>
+          <p>
+            取[含量测定]项下供试液作为该项鉴别的供试液，取原处方样品1 g，同法制成阳性对照溶液，取不含人工牛黄的阴性对照样品，同法制成阴性对照(空白)溶液。另取胆酸、猪去氧胆酸对照品，分别加乙醇制成每1 ml含2 mg的溶液作为对照品溶液。照薄层色谱法(中国药典2010年版一部附录VI B)，吸取上述5种溶液各5 μl，分别点于同一含0.5%羧甲基纤维素钠为粘合剂的硅胶G薄层板上，以正己烷-醋酸乙酯-醋酸-甲醇(20:25:2:3)的上层溶液为展开剂，展开，取出，晾干，在105℃烘约10分钟，置紫外灯(365 nm)下检视，供试品色谱中，在与对照品色谱相应位置上，显相同颜色的荧光斑点；固将此方法列入质量标准正文中。结果见图3，胆酸的R<sub>f</sub>值为0.38 (黄绿色荧光)，猪去氧胆酸的R<sub>f</sub>值为0.15 (淡蓝色荧光)。
+          </p>
+          <p>图3. 人工牛黄TLC鉴别图</p>
+        </sec>
+        <sec id="s5_1_4">
+          <title>3.1.4. 用气相色谱法鉴别保利尔中的人工麝香</title>
+          <p>条件：GC-7A气相色谱仪，SP-4290积分仪，固定相：SE-30。涂布浓度2%，色谱柱：3 mm &#215; 1.6 m (玻璃柱)，柱温200℃，检测器：FID230℃。</p>
+          <p>取本品内容物3 g，置具塞试管中，加无水乙醇5 ml，浸泡1小时，并时时振摇，过滤，取滤液作为供试品溶液。另取麝香酮对照品，用无水乙醇制成0.3 mg/ml的溶液，作为对照品溶液。精密量取上述对照品、供试品溶液各1 μl，分别注入气相色谱仪中测试。</p>
+          <p>供试品色谱中，未出现与对照品具有相同保留时间的色谱峰。因为调整后的处方人工麝香量减少，仅占处方比例的0.044%，含量较少，难以检测。固不将此方法列入质量标准正文中。</p>
+        </sec>
+        <sec id="s5_1_5">
+          <title>3.1.5. 用TLC法鉴别处方中的三七</title>
+          <p>取本品10粒，取内容物，研细，加乙醚50 ml，超声处理20分钟，弃去乙醚液，残渣挥干，加甲醇50 ml，超声处理30分钟，滤过，滤液蒸干，残渣加水50 ml使溶解，用水饱和的正丁醇提取2次，每次30 ml，合并正丁醇液，用氨试液洗涤2次，每次60 ml。取正丁醇液蒸干，残渣加甲醇1 ml使溶解，作为供试品溶液。取原处方样品10粒，同法制成阳性对照溶液，取不含三七的阴性对照样品，同法制成阴性对照溶液。另取人参皂苷Rb1、人参皂苷Rg1及三七皂苷R1对照品，加甲醇制成每1 ml各含1 mg的混合溶液，作为对照品溶液。照薄层色谱法(附录VI B)试验，吸取供试品溶液、阳性对照溶液、阴性对照溶液各4 μl，对照品溶液5~10 μl，分别点于同一硅胶G薄层板上，以三氯甲烷-甲醇-水(13:7:2)的下层溶液为展开剂，展开，取出，晾干，喷以10%硫酸乙醇溶液，在105℃加热至斑点显色清晰。供试品色谱中，在与对照品色谱相应的位置上，显相同颜色的斑点，固将此方法列入质量标准正文中。见图4。</p>
+          <p>图4. 三七的TLC鉴别图</p>
+        </sec>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 检查</title>
+        <p>依据中国药典2010年版一部附录I L，符合胶囊剂项下有关的各项规定。</p>
+        <sec id="s5_2_1">
+          <title>3.2.1. 水分</title>
+          <p>取胶囊内容物，照水分测定法第二法(中国药典2010年版一部附录IX H)测定，结果见下表1。</p>
+          <table-wrap id="table1" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>
+            </label>
+            <caption>
+              <title> Moisture determination result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >批号</th>
+                    <th align="center" valign="middle" >%</th>
+                    <th align="center" valign="middle" >% (X)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="3"  >130729</td>
+                  <td align="center" valign="middle" >5.5</td>
+                  <td align="center" valign="middle"  rowspan="3"  >5.2</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >4.9</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >5.2</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表1. 水分测定结果</p>
+          <p>结果表明，水分检测符合限度规定(不得过9%)。</p>
+        </sec>
+        <sec id="s5_2_2">
+          <title>3.2.2. 装量差异</title>
+          <p>依照中国药典2010年版一部(附录I D)制剂通则胶囊剂【装量差异】项下对本品的装量差异进行了考察。取本品10粒，分别精密称定重量，倾出内容物，硬胶囊壳用小刷拭净，再分别精密称定囊壳重量，求出每粒内容物的装量，与标示量比较。结果见表2。</p>
+          <table-wrap id="table2" >
+            <label>
+              <xref ref-type="table" rid="table2">Table 2</xref>
+            </label>
+            <caption>
+              <title> Weight difference between the determination result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >批号</th>
+                    <th align="center" valign="middle" >每粒的重量(g)</th>
+                    <th align="center" valign="middle" >囊壳的重量(g)</th>
+                    <th align="center" valign="middle" >内容物的重量(g)</th>
+                    <th align="center" valign="middle" >装量范围</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >130729</td>
+                  <td align="center" valign="middle" >0.3914、0.3867、0.3943、0.3903、0.3949、0.3835、0.4004、0.3910、0.3834、0.3997</td>
+                  <td align="center" valign="middle" >0.0930、0.0941、0.0945、0.0930、0.0931、0.0950、0.0942、0.0952、0.0945、0.0958</td>
+                  <td align="center" valign="middle" >0.2984、0.3026、0.2998、0.2973、0.3018、0.2885、0.3062、0.2958、0.2889、0.3039</td>
+                  <td align="center" valign="middle" >0.27~0.33</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表2. 装量差异测定结果</p>
+          <p>结果表明，装量差异符合限度规定(&#177;10%)。</p>
+        </sec>
+        <sec id="s5_2_3">
+          <title>3.2.3. 崩解时限</title>
+          <p>依照中国药典2010年版一部(附录XII A)崩解时限检查法，取本品每份6粒、3份，加档板检查。结果见表3。</p>
+          <table-wrap id="table3" >
+            <label>
+              <xref ref-type="table" rid="table3">Table 3</xref>
+            </label>
+            <caption>
+              <title> Determination results of disintegration time limi</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >批号</th>
+                    <th align="center" valign="middle" >min</th>
+                    <th align="center" valign="middle" >min</th>
+                    <th align="center" valign="middle" >min</th>
+                    <th align="center" valign="middle" >Min ( X &#175; )</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >130729</td>
+                  <td align="center" valign="middle" >20</td>
+                  <td align="center" valign="middle" >22</td>
+                  <td align="center" valign="middle" >22</td>
+                  <td align="center" valign="middle" >21</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表3. 崩解时限测定结果</p>
+          <p>结果表明，供试品崩解时限均符合规定。</p>
+        </sec>
+        <sec id="s5_2_4">
+          <title>3.2.4. 微生物限度检查</title>
+          <p>按中国药典2010年版一部附录XIII C“微生物限度检查法”项下进行，结果见表4。</p>
+          <table-wrap id="table4" >
+            <label>
+              <xref ref-type="table" rid="table4">Table 4</xref>
+            </label>
+            <caption>
+              <title> Microbial limit test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >批号</th>
+                    <th align="center" valign="middle" >细菌数(个/g)</th>
+                    <th align="center" valign="middle" >霉菌、酵母菌数(个/g)</th>
+                    <th align="center" valign="middle" >大肠埃希菌(个/g)</th>
+                    <th align="center" valign="middle" >大肠菌群(个/g)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >130729</td>
+                  <td align="center" valign="middle" >&lt;200</td>
+                  <td align="center" valign="middle" >&lt;10</td>
+                  <td align="center" valign="middle" >未检出</td>
+                  <td align="center" valign="middle" >&lt;100</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表4. 微生物限度检查结果</p>
+          <p>试验结果表明，供试品微生物符合限度规定。</p>
+        </sec>
+        <sec id="s5_2_5">
+          <title>3.2.5. 重金属检查</title>
+          <p>依照重金属检查法第二法(中国药典2010年版一部附录IX E)试验。</p>
+          <p>1) 标准铅溶液的制备</p>
+          <p>精确称取在105℃干燥恒重的硝酸铅0.1602 g，置1000 ml量瓶中，加硝酸5 ml，溶解后，用水稀释至刻度，摇匀，即得标准铅储备溶液。</p>
+          <p>临用前，精密量取上述储备液10 ml，置100 ml量瓶中，加水稀释至刻度，摇匀，即得。(每1 ml相当于10 μg的铅)</p>
+          <p>2) 供试品溶液制备</p>
+          <p>取坩埚，分别精密称取9份样品各1 g (每次3份，平行做3次)，电炉上缓缓灼烧至完全碳化，放冷，加硫酸1.0 ml，使恰湿润，用低温加热至硫酸除尽后，加硝酸0.5 ml，蒸干，放冷，马弗炉中500℃~600℃灼烧至完全灰化，放冷加盐酸2 ml，置水浴上蒸干后加水15 ml，滴加氨试液至对酚酞指示液显中性，再加醋酸盐缓冲液(pH 3.5) 2 ml，微热溶解后，滤去残渣，用10 ml水洗，滤液移至纳氏比色管中，加水稀释至25 ml，即得。</p>
+          <p>3) 阳性对照制备</p>
+          <p>另取坩埚1只，精密量取标准铅溶液1 ml，电炉上缓缓灼烧至完全碳化，以下操作同供试品溶液。</p>
+          <p>4) 空白对照液制备</p>
+          <p>另取坩埚1只，加硫酸1.0 ml，加热使硫酸除尽，以下同供试品溶液。</p>
+          <p>5) 比色</p>
+          <p>向供试品溶液、阳性对照液、空白对照液的纳氏比色管中分别加硫代乙酰胺试液2 ml，混合，放置2分钟，摇匀比色，供试品溶液颜色低于对照液(&lt;10 ppm)。结果见表5。</p>
+          <table-wrap id="table5" >
+            <label>
+              <xref ref-type="table" rid="table5">Table 5</xref>
+            </label>
+            <caption>
+              <title> Heavy metal and arsenic salt result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >序号</th>
+                    <th align="center" valign="middle" >重金属</th>
+                    <th align="center" valign="middle" >砷盐</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >1</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >2</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >3</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >4</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >8</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >9</td>
+                  <td align="center" valign="middle" >&lt;10 ppm</td>
+                  <td align="center" valign="middle" >&lt;2 ppm</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表5. 重金属及砷盐检查结果</p>
+          <p>试验结果表明，9份样品重金属含量均小于10 ppm，符合规定，故未列入正文。</p>
+        </sec>
+        <sec id="s5_2_6">
+          <title>3.2.6. 砷盐检查</title>
+          <p>依照砷盐检查法第一法(中国药典2010年版一部附录IX F古蔡氏法)试验：</p>
+          <p>1) 标准砷溶液制备</p>
+          <p>称取三氧化二砷0.1322 g，置1000 ml量瓶中，加20%氢氧化钠溶液5 ml溶解后，用适量稀硫酸中和，再加稀硫酸10 ml，用水稀释至刻度，摇匀，即得砷贮备液。</p>
+          <p>临用前，精密量取储备液10 ml，置1000 ml量瓶中，加稀硫酸10 ml，用水稀释到刻度，摇匀，即得(每1 ml相当于1 μg的砷)。</p>
+          <p>2) 供试品溶液制备</p>
+          <p>取坩埚，分别精密称取9份样品各1 g (每次3份，平行做3次)，加氢氧化钙1 g，加水搅拌均匀，干燥后先用小火灼烧使碳化，置马弗炉中在500℃~600℃完全碳化呈灰色粉末，放冷，加3 ml盐酸，水浴上加热溶解，为供试品溶液。</p>
+          <p>3) 阳性对照液制备</p>
+          <p>精密量取标准砷溶液2 ml，置坩埚中，电炉上缓缓灼烧至完全碳化，以下操作同供试品溶液。</p>
+          <p>4) 空白对照液制备</p>
+          <p>另取坩埚一只，加硝酸5 ml，以下操作同供试品溶液。</p>
+          <p>5) 砷斑制备</p>
+          <p>将供试品溶液、阳性对照液，空白液分别移至测砷器中，再分别加碘化钾试液5 ml，酸性氯化亚锡试液5滴，在室温放置10分钟后，加无砷锌粒2 g，25℃~40℃放置2小时，取出溴化汞试纸观察砷斑颜色，结果供试品溶液砷斑颜色浅于标准砷颜色(&lt;2 ppm)。结果见表5。</p>
+          <p>试验结果表明，9份样品砷盐含量均小于2 ppm，符合规定，故未列入正文。</p>
+        </sec>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 含量测定</title>
+        <p>依据高效液相色谱图法(中国药典2010年版一部附录V D)及中药质量标准分析方法验证指导原则(中国药典2010年版一部附录XVIII A)项下规定进行。</p>
+        <sec id="s5_3_1">
+          <title>
+            3.3.1. 丹参酮II<sub>A</sub>含量测定方法学考查
+          </title>
+          <p>
+            丹参酮II<sub>A</sub>含量测定色谱条件及供试品溶液制备条件均与原处方保利尔胶囊质量标准(国家药品标准YBZ03792003-2012Z)相同。
+          </p>
+          <p>1) 色谱条件</p>
+          <p>色谱柱：十八烷基硅烷键合硅胶柱(型号为SMT-OD-100，4.6 &#215; 250 mm，5 μm)</p>
+          <p>流动相：甲醇-水(78:22)</p>
+          <p>检测波长：270 nm</p>
+          <p>柱温：30℃</p>
+          <p>进样量：10 μl</p>
+          <p>2) 线性关系考察</p>
+          <p>
+            精密称取丹参酮II<sub>A</sub>对照品加水溶解并稀释成每1 ml中含丹参酮II<sub>A</sub> 20.064 μg的对照品溶液。分别精密量取上述溶液1、2、5、10、15、20 μl，注入色谱柱中，记录峰面积，数据见表6。
+          </p>
+          <table-wrap id="table6" >
+            <label>
+              <xref ref-type="table" rid="table6">Table 6</xref>
+            </label>
+            <caption>
+              <title> Linear range test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" ></th>
+                    <th align="center" valign="middle" >1</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >3</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >5</th>
+                    <th align="center" valign="middle" >6</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >进样量(μg)</td>
+                  <td align="center" valign="middle" >0.020064</td>
+                  <td align="center" valign="middle" >0.040128</td>
+                  <td align="center" valign="middle" >0.10032</td>
+                  <td align="center" valign="middle" >0.20064</td>
+                  <td align="center" valign="middle" >0.30096</td>
+                  <td align="center" valign="middle" >0.40128</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >838,864</td>
+                  <td align="center" valign="middle" >1,674,096</td>
+                  <td align="center" valign="middle" >4,131,594</td>
+                  <td align="center" valign="middle" >8,087,959</td>
+                  <td align="center" valign="middle" >12,745,485</td>
+                  <td align="center" valign="middle" >17,103,204</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表6. 线性范围试验结果</p>
+          <p>峰面积值为纵坐标，以进样量(μg)为横坐标，绘制标准曲线，并进行线性回归，得回归方程：</p>
+          <p>Y = 2.32565 e − 008 X + 0.00294521 ,   r = 0.9993</p>
+          <p>
+            结果表明：丹参酮II<sub>A</sub>在0.020064~0.40128 &#181;g范围内呈良好的线性关系。见图5。
+          </p>
+          <p>
+            图5. 丹参酮II<sub>A</sub>标准曲线
+          </p>
+          <p>3) 稳定性实验</p>
+          <p>取同一批号含量测定项下的供试品溶液，分别于0、2、4、6、8、12小时进样测定记录峰面积，结果见表7。</p>
+          <table-wrap id="table7" >
+            <label>
+              <xref ref-type="table" rid="table7">Table 7</xref>
+            </label>
+            <caption>
+              <title> Stability test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >时间(h)</th>
+                    <th align="center" valign="middle" >0</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >6</th>
+                    <th align="center" valign="middle" >8</th>
+                    <th align="center" valign="middle" >12</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >17,484,521</td>
+                  <td align="center" valign="middle" >18,210,052</td>
+                  <td align="center" valign="middle" >18,078,640</td>
+                  <td align="center" valign="middle" >18,297,637</td>
+                  <td align="center" valign="middle" >18,530,279</td>
+                  <td align="center" valign="middle" >18,215,451</td>
+                  <td align="center" valign="middle" >1.9</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表7. 稳定性试验结果</p>
+          <p>
+            从表中数据可见，丹参酮II<sub>A</sub>供试品溶液在12小时内基本稳定。
+          </p>
+          <p>4) 精密度试验</p>
+          <p>对照品精密度：取同一对照品溶液10 μl，连续进样6次，记录峰面积，结果见表8。</p>
+          <table-wrap id="table8" >
+            <label>
+              <xref ref-type="table" rid="table8">Table 8</xref>
+            </label>
+            <caption>
+              <title> Precision test results of reference product</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >编号</th>
+                    <th align="center" valign="middle" >1</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >3</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >5</th>
+                    <th align="center" valign="middle" >6</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >8,502,796</td>
+                  <td align="center" valign="middle" >8,632,358</td>
+                  <td align="center" valign="middle" >8,627,387</td>
+                  <td align="center" valign="middle" >8,626,281</td>
+                  <td align="center" valign="middle" >8,624,378</td>
+                  <td align="center" valign="middle" >8,649,123</td>
+                  <td align="center" valign="middle" >0.63</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表8. 对照品精密度试验结果</p>
+          <p>
+            供试品精密度实验：取同一供试品溶液10 μl，连续进样6次，测定丹参酮II<sub>A</sub>峰面积，结果见表9。
+          </p>
+          <table-wrap id="table9" >
+            <label>
+              <xref ref-type="table" rid="table9">Table 9</xref>
+            </label>
+            <caption>
+              <title> Precision test results of test product</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >编号</th>
+                    <th align="center" valign="middle" >1</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >3</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >5</th>
+                    <th align="center" valign="middle" >6</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >20,243,175</td>
+                  <td align="center" valign="middle" >19,445,312</td>
+                  <td align="center" valign="middle" >19,232,503</td>
+                  <td align="center" valign="middle" >19,605,882</td>
+                  <td align="center" valign="middle" >19,869,745</td>
+                  <td align="center" valign="middle" >20,178,694</td>
+                  <td align="center" valign="middle" >1.8</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表9. 供试品精密度试验结果</p>
+          <p>5) 重复性试验</p>
+          <p>取同一批号(130729)保利尔胶囊内容物适量(约2.5 g)，平行称取6份，精密称定，分别按【含量测定】项下方法操作，测定每份的含量，结果见表10。</p>
+          <table-wrap id="table10" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>0
+            </label>
+            <caption>
+              <title> Reproducibility test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >样品号</th>
+                    <th align="center" valign="middle" >样品量(g)</th>
+                    <th align="center" valign="middle" >峰面积值</th>
+                    <th align="center" valign="middle" >含量(μg/粒)</th>
+                    <th align="center" valign="middle" >平均含量(μg/粒)</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >1</td>
+                  <td align="center" valign="middle" >2.50171</td>
+                  <td align="center" valign="middle" >18,097,531</td>
+                  <td align="center" valign="middle" >118.44</td>
+                  <td align="center" valign="middle"  rowspan="6"  >115.3</td>
+                  <td align="center" valign="middle"  rowspan="6"  >1.91</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >2</td>
+                  <td align="center" valign="middle" >2.50082</td>
+                  <td align="center" valign="middle" >17,472,422</td>
+                  <td align="center" valign="middle" >114.33</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >3</td>
+                  <td align="center" valign="middle" >2.50033</td>
+                  <td align="center" valign="middle" >17,308,425</td>
+                  <td align="center" valign="middle" >113.28</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >4</td>
+                  <td align="center" valign="middle" >2.50245</td>
+                  <td align="center" valign="middle" >17,613,173</td>
+                  <td align="center" valign="middle" >115.17</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >2.50029</td>
+                  <td align="center" valign="middle" >17,961,381</td>
+                  <td align="center" valign="middle" >117.55</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >2.50006</td>
+                  <td align="center" valign="middle" >17,298,627</td>
+                  <td align="center" valign="middle" >113.22</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表10. 重复性试验结果</p>
+          <p>6) 加样回收率试验</p>
+          <p>
+            取已知丹参酮II<sub>A</sub>含量(115.3 μg/粒)的保利尔胶囊内容物6份，按质量标准【含量测定】项下方法操作，制备供试品溶液，备用。分别精密量取上述溶液及对照品溶液各5 ml于10 ml容量瓶中，摇匀，进样检测峰面积，计算回收率，结果见表11。
+          </p>
+          <table-wrap id="table11" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>1
+            </label>
+            <caption>
+              <title> Test results of sample recover</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >序号</th>
+                    <th align="center" valign="middle" >取样量 (g)</th>
+                    <th align="center" valign="middle" >
+                      样品中丹参酮II<sub>A</sub>浓度 (μg/ml)
+                    </th>
+                    <th align="center" valign="middle" >对照品加入浓度 (&#181;g/ml)</th>
+                    <th align="center" valign="middle" >测得总浓度(&#181;g/ml)</th>
+                    <th align="center" valign="middle" >回收率 (%)</th>
+                    <th align="center" valign="middle" >平均回收率 (%)</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >1</td>
+                  <td align="center" valign="middle" >1.84497</td>
+                  <td align="center" valign="middle" >13.920</td>
+                  <td align="center" valign="middle" >11.008</td>
+                  <td align="center" valign="middle" >24.994</td>
+                  <td align="center" valign="middle" >100.6</td>
+                  <td align="center" valign="middle"  rowspan="6"  >101.75</td>
+                  <td align="center" valign="middle"  rowspan="6"  >1.18</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >2</td>
+                  <td align="center" valign="middle" >1.78324</td>
+                  <td align="center" valign="middle" >13.456</td>
+                  <td align="center" valign="middle" >11.008</td>
+                  <td align="center" valign="middle" >24.569</td>
+                  <td align="center" valign="middle" >101.2</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >3</td>
+                  <td align="center" valign="middle" >1.86830</td>
+                  <td align="center" valign="middle" >14.096</td>
+                  <td align="center" valign="middle" >11.008</td>
+                  <td align="center" valign="middle" >25.313</td>
+                  <td align="center" valign="middle" >101.9</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >4</td>
+                  <td align="center" valign="middle" >1.90130</td>
+                  <td align="center" valign="middle" >14.345</td>
+                  <td align="center" valign="middle" >11.008</td>
+                  <td align="center" valign="middle" >25.408</td>
+                  <td align="center" valign="middle" >100.5</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >1.81025</td>
+                  <td align="center" valign="middle" >13.658</td>
+                  <td align="center" valign="middle" >11.008</td>
+                  <td align="center" valign="middle" >24.985</td>
+                  <td align="center" valign="middle" >102.9</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >1.93073</td>
+                  <td align="center" valign="middle" >14.567</td>
+                  <td align="center" valign="middle" >11.008</td>
+                  <td align="center" valign="middle" >25.948</td>
+                  <td align="center" valign="middle" >103.4</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表11. 加样回收试验结果</p>
+          <p>7) 阴性对照试验</p>
+          <p>
+            取按处方量并以相同工艺制备的阴性对照品(缺丹参)，操作同质量标准[含量测定]项下方法，测得结果为：阴性对照品色谱图中在与丹参酮II<sub>A</sub>对照品色谱图相对应的保留时间处无色谱峰出现，表明其它组分对丹参酮II<sub>A</sub>的测定无干扰。
+          </p>
+          <p>8) 样品含量测定</p>
+          <p>取保利尔胶囊(批号130729)内容物6份，分别研细，各取约2.5 g，精密称定，置50 ml量瓶中，精密加入甲醇25 ml，密塞，称定重量，超声处理15 min，放冷，再称定重量，用甲醇补足减失重量，放冷，摇匀，滤过，取续滤液，置棕色瓶中，精密吸取上述溶液各10 μl，注入液相色谱仪，测定，结果见表12、图6、图7。</p>
+          <table-wrap id="table12" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>2
+            </label>
+            <caption>
+              <title> Determination results of sample conten</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >序号</th>
+                    <th align="center" valign="middle" >取样量 (g)</th>
+                    <th align="center" valign="middle" >保留时间 (min)</th>
+                    <th align="center" valign="middle" >峰面积值 (A)</th>
+                    <th align="center" valign="middle" >平均峰面积 ( A &#175; )</th>
+                    <th align="center" valign="middle" >含量 (μg/g)</th>
+                    <th align="center" valign="middle" >平均含量 (μg/g)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >1</td>
+                  <td align="center" valign="middle"  rowspan="2"  >2.50001</td>
+                  <td align="center" valign="middle" >35.057</td>
+                  <td align="center" valign="middle" >19,059,065</td>
+                  <td align="center" valign="middle"  rowspan="2"  >19,045,863</td>
+                  <td align="center" valign="middle"  rowspan="2"  >474.5</td>
+                  <td align="center" valign="middle"  rowspan="12"  >471.7</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >35.058</td>
+                  <td align="center" valign="middle" >19,032,661</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >2</td>
+                  <td align="center" valign="middle"  rowspan="2"  >2.50012</td>
+                  <td align="center" valign="middle" >35.003</td>
+                  <td align="center" valign="middle" >18,989,703</td>
+                  <td align="center" valign="middle"  rowspan="2"  >18,953,549</td>
+                  <td align="center" valign="middle"  rowspan="2"  >472.2</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >35.058</td>
+                  <td align="center" valign="middle" >18,917,395</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >3</td>
+                  <td align="center" valign="middle"  rowspan="2"  >2.49865</td>
+                  <td align="center" valign="middle" >35.050</td>
+                  <td align="center" valign="middle" >18,763,884</td>
+                  <td align="center" valign="middle"  rowspan="2"  >18,913,619</td>
+                  <td align="center" valign="middle"  rowspan="2"  >471.5</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >35.090</td>
+                  <td align="center" valign="middle" >19,063,364</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >4</td>
+                  <td align="center" valign="middle"  rowspan="2"  >2.50055</td>
+                  <td align="center" valign="middle" >35.090</td>
+                  <td align="center" valign="middle" >19,026,431</td>
+                  <td align="center" valign="middle"  rowspan="2"  >19,106,575</td>
+                  <td align="center" valign="middle"  rowspan="2"  >456.7</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >35.110</td>
+                  <td align="center" valign="middle" >19,186,719</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >5</td>
+                  <td align="center" valign="middle"  rowspan="2"  >2.50110</td>
+                  <td align="center" valign="middle" >35.085</td>
+                  <td align="center" valign="middle" >19,035,616</td>
+                  <td align="center" valign="middle"  rowspan="2"  >19,034,830</td>
+                  <td align="center" valign="middle"  rowspan="2"  >474.0</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >35.092</td>
+                  <td align="center" valign="middle" >19,134,044</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >6</td>
+                  <td align="center" valign="middle"  rowspan="2"  >2.50048</td>
+                  <td align="center" valign="middle" >35.093</td>
+                  <td align="center" valign="middle" >19,296,306</td>
+                  <td align="center" valign="middle"  rowspan="2"  >19,332,166.5</td>
+                  <td align="center" valign="middle"  rowspan="2"  >481.5</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >35.082</td>
+                  <td align="center" valign="middle" >19,368,027</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表12. 样品含量测定结果</p>
+          <p>
+            图6. 丹参酮II<sub>A</sub>专属性测定
+          </p>
+          <p>
+            图7. 丹参酮II<sub>A</sub>含量测定
+          </p>
+        </sec>
+        <sec id="s5_3_2">
+          <title>3.3.2. 丹酚酸B含量测定方法学考查</title>
+          <p>丹酚酸B含量测定色谱条件及供试品溶液制备条件均与原处方保利尔胶囊质量标准(国家药品标准 YBZ03792003-2012Z)相同。</p>
+          <p>1) 色谱条件</p>
+          <p>色谱柱：十八烷基硅烷键合硅胶柱(型号为SMT-OD-100，4.6 &#215; 250 mm，5 μm)</p>
+          <p>流动相：乙腈-甲醇-甲酸-水(10:30:1:59)</p>
+          <p>检测波长：286 nm</p>
+          <p>柱温：30℃</p>
+          <p>进样量：10 μl</p>
+          <p>2) 线性关系考察</p>
+          <p>精密称取丹酚酸B对照品13.66 mg，置100 ml容量瓶中，加水溶解并稀释至刻度，摇匀。精密量取上述溶液加水稀释成每1 ml含丹酚酸B 0.0683 mg的对照品溶液。分别精密量取上述对照品溶液1、2、5、10、15、20 &#181;l注入色谱仪，记录峰面积，数据见表13：</p>
+          <table-wrap id="table13" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>3
+            </label>
+            <caption>
+              <title> Linear range test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" ></th>
+                    <th align="center" valign="middle" >1</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >3</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >5</th>
+                    <th align="center" valign="middle" >6</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >进样量(μg)</td>
+                  <td align="center" valign="middle" >0.0683</td>
+                  <td align="center" valign="middle" >0.1366</td>
+                  <td align="center" valign="middle" >0.3415</td>
+                  <td align="center" valign="middle" >0.6830</td>
+                  <td align="center" valign="middle" >1.0245</td>
+                  <td align="center" valign="middle" >1.3660</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >609,783</td>
+                  <td align="center" valign="middle" >1,221,001</td>
+                  <td align="center" valign="middle" >3,049,615</td>
+                  <td align="center" valign="middle" >6,077,485</td>
+                  <td align="center" valign="middle" >8,961,500</td>
+                  <td align="center" valign="middle" >11,699,993</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表13. 线性范围试验结果</p>
+          <p>以峰面积作为纵坐标，进样量(μg)为横坐标，绘制标准曲线，并进行线性回归，得回归方程为：</p>
+          <p>Y = 1.16429 e − 007 X − 0.0102496 ,   r = 0.9996.</p>
+          <p>结果表明：丹酚酸B在0.0683~1.3660 &#181;g范围内呈良好的线性关系。见图8。</p>
+          <p>图8. 丹酚酸B标准曲线</p>
+          <p>3) 稳定性实验</p>
+          <p>取同一批号含量测定项下的供试品溶液，分别于0、2、4、6、8、12小时进样测定记录峰面积，结果见表14。</p>
+          <table-wrap id="table14" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>4
+            </label>
+            <caption>
+              <title> Stability test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >时间(h)</th>
+                    <th align="center" valign="middle" >0</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >6</th>
+                    <th align="center" valign="middle" >8</th>
+                    <th align="center" valign="middle" >12</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >4,526,767</td>
+                  <td align="center" valign="middle" >4,631,848</td>
+                  <td align="center" valign="middle" >4,620,423</td>
+                  <td align="center" valign="middle" >4,603,932</td>
+                  <td align="center" valign="middle" >4,630,786</td>
+                  <td align="center" valign="middle" >4,621,932</td>
+                  <td align="center" valign="middle" >0.87</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表14. 稳定性试验结果</p>
+          <p>从表中数据可见，丹酚酸B供试品溶液在12小时内基本稳定。</p>
+          <p>4) 精密度试验</p>
+          <p>对照品精密度：取同一对照品溶液10 μl，连续进样6次，记录峰面积，结果见表15。</p>
+          <table-wrap id="table15" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>5
+            </label>
+            <caption>
+              <title> Precision test results of reference product</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >编号</th>
+                    <th align="center" valign="middle" >1</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >3</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >5</th>
+                    <th align="center" valign="middle" >6</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >4,380,411</td>
+                  <td align="center" valign="middle" >4,368,009</td>
+                  <td align="center" valign="middle" >4,354,497</td>
+                  <td align="center" valign="middle" >4,357,100</td>
+                  <td align="center" valign="middle" >4,347,314</td>
+                  <td align="center" valign="middle" >4,336,422</td>
+                  <td align="center" valign="middle" >0.35</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表15. 对照品精密度试验结果</p>
+          <p>供试品精密度实验：取同一供试品溶液10 μl，连续进样6次，测定丹酚酸B峰面积，结果见表16。</p>
+          <table-wrap id="table16" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>6
+            </label>
+            <caption>
+              <title> Precision test results of test product</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >编号</th>
+                    <th align="center" valign="middle" >1</th>
+                    <th align="center" valign="middle" >2</th>
+                    <th align="center" valign="middle" >3</th>
+                    <th align="center" valign="middle" >4</th>
+                    <th align="center" valign="middle" >5</th>
+                    <th align="center" valign="middle" >6</th>
+                    <th align="center" valign="middle" >RSD(%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >峰面积</td>
+                  <td align="center" valign="middle" >4,705,695</td>
+                  <td align="center" valign="middle" >4,859,588</td>
+                  <td align="center" valign="middle" >4,857,523</td>
+                  <td align="center" valign="middle" >4,812,656</td>
+                  <td align="center" valign="middle" >4,699,210</td>
+                  <td align="center" valign="middle" >4,705,971</td>
+                  <td align="center" valign="middle" >1.64</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表16. 供试品精密度试验结果</p>
+          <p>5) 重复性试验</p>
+          <p>取同一批号样品粉末适量(约0.8 g)，平行称取6份，精密称定，分别按【含量测定】项下方法操作，测定每份的含量，结果见表17。</p>
+          <table-wrap id="table17" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>7
+            </label>
+            <caption>
+              <title> Reproducibility test result</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >样品号</th>
+                    <th align="center" valign="middle" >样品量(g)</th>
+                    <th align="center" valign="middle" >峰面积值</th>
+                    <th align="center" valign="middle" >含量(mg/粒)</th>
+                    <th align="center" valign="middle" >平均含量(mg/粒)</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >1</td>
+                  <td align="center" valign="middle" >0.80063</td>
+                  <td align="center" valign="middle" >4,501,648</td>
+                  <td align="center" valign="middle" >1.04</td>
+                  <td align="center" valign="middle"  rowspan="6"  >1.04</td>
+                  <td align="center" valign="middle"  rowspan="6"  >2.2</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >2</td>
+                  <td align="center" valign="middle" >0.80628</td>
+                  <td align="center" valign="middle" >4,659,869</td>
+                  <td align="center" valign="middle" >1.07</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >3</td>
+                  <td align="center" valign="middle" >0.83539</td>
+                  <td align="center" valign="middle" >4,535,638</td>
+                  <td align="center" valign="middle" >1.01</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >4</td>
+                  <td align="center" valign="middle" >0.83542</td>
+                  <td align="center" valign="middle" >4,616,767</td>
+                  <td align="center" valign="middle" >1.03</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >0.82756</td>
+                  <td align="center" valign="middle" >4,698,159</td>
+                  <td align="center" valign="middle" >1.05</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >0.82032</td>
+                  <td align="center" valign="middle" >4,586,360</td>
+                  <td align="center" valign="middle" >1.04</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表17. 重复性试验结果</p>
+          <p>6) 加样回收试验</p>
+          <p>取已知丹酚酸B含量(1.045 mg/粒)的保利尔胶囊内容物6份，精密称定，分别置50 ml量瓶中，再分别精密加入丹酚酸B对照品溶液(浓度为0.106 mg/ml) 10 ml，加水稀释至刻度，摇匀，虑过，取续滤液，备用。按【含量测定】项下方法操作并测定含量，计算回收率，见表18。</p>
+          <table-wrap id="table18" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>8
+            </label>
+            <caption>
+              <title> Test results of sample recover</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >序号</th>
+                    <th align="center" valign="middle" >取样量 (g)</th>
+                    <th align="center" valign="middle" >供试品中丹酚酸B的量 (mg)</th>
+                    <th align="center" valign="middle" >对照品加入量 (mg)</th>
+                    <th align="center" valign="middle" >测得总量 (mg)</th>
+                    <th align="center" valign="middle" >回收率 (%)</th>
+                    <th align="center" valign="middle" >平均回收率 (%)</th>
+                    <th align="center" valign="middle" >RSD (%)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle" >1</td>
+                  <td align="center" valign="middle" >0.40081</td>
+                  <td align="center" valign="middle" >1.37039</td>
+                  <td align="center" valign="middle" >1.06</td>
+                  <td align="center" valign="middle" >2.42649</td>
+                  <td align="center" valign="middle" >99.63</td>
+                  <td align="center" valign="middle"  rowspan="6"  >97.99</td>
+                  <td align="center" valign="middle"  rowspan="6"  >1.11</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >2</td>
+                  <td align="center" valign="middle" >0.37598</td>
+                  <td align="center" valign="middle" >1.28549</td>
+                  <td align="center" valign="middle" >1.06</td>
+                  <td align="center" valign="middle" >2.32549</td>
+                  <td align="center" valign="middle" >98.11</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >3</td>
+                  <td align="center" valign="middle" >0.39981</td>
+                  <td align="center" valign="middle" >1.36679</td>
+                  <td align="center" valign="middle" >1.06</td>
+                  <td align="center" valign="middle" >2.39839</td>
+                  <td align="center" valign="middle" >97.32</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >4</td>
+                  <td align="center" valign="middle" >0.38825</td>
+                  <td align="center" valign="middle" >1.32745</td>
+                  <td align="center" valign="middle" >1.06</td>
+                  <td align="center" valign="middle" >2.37876</td>
+                  <td align="center" valign="middle" >99.18</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >5</td>
+                  <td align="center" valign="middle" >0.38894</td>
+                  <td align="center" valign="middle" >1.32981</td>
+                  <td align="center" valign="middle" >1.06</td>
+                  <td align="center" valign="middle" >2.36031</td>
+                  <td align="center" valign="middle" >97.22</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >6</td>
+                  <td align="center" valign="middle" >0.39005</td>
+                  <td align="center" valign="middle" >1.33360</td>
+                  <td align="center" valign="middle" >1.06</td>
+                  <td align="center" valign="middle" >2.35628</td>
+                  <td align="center" valign="middle" >96.48</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表18. 加样回收试验结果</p>
+          <p>7) 阴性对照试验</p>
+          <p>取按处方量并以相同工艺制备的阴性对照品(缺丹参)，按质量标准【含量测定】项下方法操作，测得结果为：阴性对照品色谱图中在与丹酚酸B对照品色谱图相对应的保留时间处无色谱峰出现，表明其它组分对丹参中丹酚酸B的测定无干扰。</p>
+          <p>8) 样品含量测定</p>
+          <p>取保利尔胶囊(批号130729)内容物6份，分别研细，各取约0.8 g，精密称定，置50 ml量瓶中，加水约30 ml，超声处理20 min，放冷，加水至刻度，摇匀，滤过，取续滤液，精密吸取上述溶液各10 μl，注入液相色谱仪，测定，结果见表19、图9、图10。</p>
+          <table-wrap id="table19" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>9
+            </label>
+            <caption>
+              <title> Determination results of sample conten</title>
+            </caption>
+            <table>
+              <tbody>
+                <thead>
+                  <tr>
+                    <th align="center" valign="middle" >序号</th>
+                    <th align="center" valign="middle" >取样量 (g)</th>
+                    <th align="center" valign="middle" >保留时间 (min)</th>
+                    <th align="center" valign="middle" >峰面积值 (A)</th>
+                    <th align="center" valign="middle" >平均峰面积 ( A &#175; )</th>
+                    <th align="center" valign="middle" >含量 (mg/g)</th>
+                    <th align="center" valign="middle" >平均含量 (mg/g)</th>
+                  </tr>
+                </thead>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >1</td>
+                  <td align="center" valign="middle"  rowspan="2"  >0.80090</td>
+                  <td align="center" valign="middle" >7.507</td>
+                  <td align="center" valign="middle" >4,705,164</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4,635,652</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4.12</td>
+                  <td align="center" valign="middle"  rowspan="12"  >4.25</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7.307</td>
+                  <td align="center" valign="middle" >4,566,140</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >2</td>
+                  <td align="center" valign="middle"  rowspan="2"  >0.80454</td>
+                  <td align="center" valign="middle" >7.204</td>
+                  <td align="center" valign="middle" >4,838,343</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4,831,903</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4.25</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7.193</td>
+                  <td align="center" valign="middle" >4,825,463</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >3</td>
+                  <td align="center" valign="middle"  rowspan="2"  >0.80051</td>
+                  <td align="center" valign="middle" >7.178</td>
+                  <td align="center" valign="middle" >4,732,445</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4,727,668</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4.19</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7.170</td>
+                  <td align="center" valign="middle" >4,722,891</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >4</td>
+                  <td align="center" valign="middle"  rowspan="2"  >0.80007</td>
+                  <td align="center" valign="middle" >7.167</td>
+                  <td align="center" valign="middle" >4,671,822</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4,670,057.5</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4.16</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7.153</td>
+                  <td align="center" valign="middle" >4,668,293</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >5</td>
+                  <td align="center" valign="middle"  rowspan="2"  >0.82255</td>
+                  <td align="center" valign="middle" >7.315</td>
+                  <td align="center" valign="middle" >5,079,990</td>
+                  <td align="center" valign="middle"  rowspan="2"  >5,102,166</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4.42</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7.347</td>
+                  <td align="center" valign="middle" >5,124,342</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle"  rowspan="2"  >6</td>
+                  <td align="center" valign="middle"  rowspan="2"  >0.83191</td>
+                  <td align="center" valign="middle" >7.385</td>
+                  <td align="center" valign="middle" >5,101,596</td>
+                  <td align="center" valign="middle"  rowspan="2"  >5,108,136.5</td>
+                  <td align="center" valign="middle"  rowspan="2"  >4.35</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" >7.375</td>
+                  <td align="center" valign="middle" >5,114,677</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+          <p>表19. 样品含量测定结果</p>
+          <p>图9. 丹酚酸B专属性测定</p>
+          <p>图10. 丹酚酸B含量测定</p>
+        </sec>
+        <sec id="s5_3_3">
+          <title>3.3.3. 药材含量测定</title>
+          <p>
+            取制备上述保利尔胶囊样品用丹参药材3份，按中国药典2010年版一部“丹参”项下的含量测定方法，测得其中丹参酮II<sub>A</sub>的含量分别为：0.32%、0.30%、0.35%；其中含丹酚酸B的含量分别为：3.69%、3.88%、4.02%。
+          </p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 结语</title>
+      <p>
+        保利尔胶囊原处方中含有降香、檀香等生长缓慢的乔本植物药材，属国家林业保护物种。二次开发研究是减去处方中濒危、生长缓慢的乔本植物药材，同时对其他成分比例作以调整，质量研究主要参照原处方制剂质量标准(国家药品标准 YBZ03792003-2012Z)进行二者对比研究，鉴别项仍采用原有标准及方法；含量测定仍是对保利尔胶囊中丹参的主成分丹参酮II<sub>A</sub>及丹酚酸B采用高效液相色谱法测定。通过方法学验证，认为可行。
+      </p>
+    </sec>
+    <sec id="s7">
+      <title>文章引用</title>
+      <p>nullnull,唐广玉,赵 婷,张立英,黎 明. 保利尔胶囊处方替代质量标准研究Study on Quality Standard for Prescription Replacement of Baolier Capsule[J]. 药物化学, 2018, 06(04): 106-121. https://doi.org/10.12677/HJMCe.2018.64015</p>
+    </sec>
+    <sec id="s8">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  
+   <back>
+  <ref id="hanspub.27440-ref1">
+    <label>1</label>
+    <mixed-citation publication-type="other" xlink:type="simple"></mixed-citation>
+  </ref>
+  </back>
+</article>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">AMS</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Marine Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2376-4260</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/AMS.2018.52006</article-id>
+      <article-id pub-id-type="publisher-id">AMS-25264</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>AMS20180200000_16000129.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>地球与环境</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          我国海洋预报技术发展前沿热点与趋势研究
+          Frontier Hot Spot and Trend of Marine Forecasting Technology Development in China
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>卢</surname>
+            <given-names>扬</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>黎</surname>
+            <given-names>鑫</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>石</surname>
+            <given-names>岭琳</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>陆军工程大学图书馆，江苏 南京</addr-line>
+      </aff>
+      <aff id="aff3">
+        <addr-line>国防科技大学气象海洋学院，江苏 南京</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>luyang1231@qq.com(卢扬)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>05</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>05</volume>
+      <issue>02</issue>
+      <fpage>48</fpage>
+      <lpage>56</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          运用文献计量学方法从学科分布、论文年代分布、基金资助机构分布、论文作者分析、热点关键词分析等方面，对《海洋预报》近10年的载文进行分析，梳理出我国海洋预报技术的发展前沿热点，并对未来发展趋势做出大胆预测，以期对未来的海洋预报研究提供参考和借鉴。
+          The Bibliometrics method is used to analyze the literature of the ocean forecast in the past 10 years from the aspects of the distribution of subjects, the distribution of the papers, the distribution of funds, the analysis of the authors of the fund, the analysis of the author of the paper, and the analysis of the hot key words. The hot spots of the development of China’s marine forecast technology are combed and the future development trend is boldly predicted, in order to provide reference and reference for future marine prediction research.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>《海洋预报》，海洋预报技术，文献计量，热点分析, Marine Forecasts</kwd>
+        <kwd> Marine Forecast Technology</kwd>
+        <kwd> Bibliometric Analysis</kwd>
+        <kwd> Hot Keywords Analysis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>我国海洋预报技术发展前沿热点与趋势研究</title>
+      <p>—基于《海洋预报》近十年文献计量分析</p>
+      <p>
+        卢扬<sup>1</sup>，黎鑫<sup>2</sup>，石岭琳<sup>1</sup>
+      </p>
+      <p>
+        <sup>1</sup>陆军工程大学图书馆，江苏 南京
+      </p>
+      <p>
+        <sup>2</sup>国防科技大学气象海洋学院，江苏 南京
+      </p>
+      <p>
+        <img src="//html.hanspub.org/file/5-2830100x1_hanspub.png" />
+      </p>
+      <p>收稿日期：2018年5月8日；录用日期：2018年5月29日；发布日期：2018年6月5日</p>
+      <disp-formula id="hanspub.25264-formula46">
+        <graphic xlink:href="//html.hanspub.org/file/5-2830100x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>运用文献计量学方法从学科分布、论文年代分布、基金资助机构分布、论文作者分析、热点关键词分析等方面，对《海洋预报》近10年的载文进行分析，梳理出我国海洋预报技术的发展前沿热点，并对未来发展趋势做出大胆预测，以期对未来的海洋预报研究提供参考和借鉴。</p>
+      <p>关键词 :《海洋预报》，海洋预报技术，文献计量，热点分析</p>
+      <disp-formula id="hanspub.25264-formula47">
+        <graphic xlink:href="//html.hanspub.org/file/5-2830100x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2018 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/5-2830100x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/5-2830100x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>建设海洋强国是中国进入21世纪后提出的重要战略目标，亚丁湾护航、“21世纪海上丝绸之路”倡议等一系列重大活动是中国建设“海洋强国”的重要举措。然而，频频发生的海洋灾害大大增加了人类开发利用海洋的难度。掌握海洋环境特征，提供先进的海洋预报技术是安全进行海洋建设的重要基础。笔者通过前期同类别期刊的对比分析，选取《海洋预报》对我国近十年来海洋预报技术的发展进行分析。《海洋预报》于1984年创刊，由国家海洋局主管、国家海洋环境预报中心主办，是全国中文核心期刊、中国科技核心期刊、海洋学类核心期刊，主要刊登海洋预报、海洋气象预报和海洋防灾减灾的前沿发展相关论文和研究成果，它最能反映出我国海洋预报技术的发展水平和光辉历程。因此，笔者选取近10年的载文，运用文献计量方法对文献的一系列指标进行定量和定性分析，梳理出我国海洋预报技术的发展前沿热点，并对它未来发展趋势做出大胆预测，以期对未来的海洋环境预报研究提供参考和借鉴。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 数据、方法介绍</title>
+      <sec id="s4_1">
+        <title>2.1. 方法介绍</title>
+        <p>
+          本研究主要运用文献计量学，结合可视化软件，对收集到的文献进行不同层面的统计分析和基于核心作者、高产机构、热点关键词进行可视化研究 [<xref ref-type="bibr" rid="hanspub.25264-ref1">1</xref>] 。文献计量分析工具采用CNKI自带的分析工具、微软公司的Excel软件以及CiteSpace5.0软件，首先定量分析年发文数量、学科分布、基金资助的分布，并对研究热点关键词、核心作者、高产机构进行科学知识图谱分析。
+        </p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 数据简介</title>
+        <p>本文数据来源于中国知网(CNKI)中国学术期刊网络出版库，利用数据库高级检索工具栏，在文献来源中输入“海洋预报”并精确匹配，时间设定为2007.01.01~2016.12.31，导出全部文献数据，剔除掉其中征稿、目录、会议、讲话及其他不相关条目，最终获得有效论文735篇(检索时间是2017年11月)。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 结果分析</title>
+      <sec id="s5_1">
+        <title>3.1. 学科分布</title>
+        <p>
+          收集到的735篇研究论文通过CNKI自带的分析工具、微软公司的Excel软件，绘制出一系列简单明了的表格与时空分布图。首先从学科分布来看(如表1) [<xref ref-type="bibr" rid="hanspub.25264-ref2">2</xref>] ，已收集到735篇论文中，海洋学科的论文占全部文献的54%，处于重心地位；气象学科的论文占全部文献的36%，其余专业方面的论文占到了10%，例如环境科学、水利电工程、船舶工业、新能源等专业，说明海洋预报技术在未来的发展中，可能会广泛的应用于其他的相关领域，有很好的发展前景；随着海洋预报技术也需要更多新型元素的加入。例如，随着军地海洋建设的快速发展，无人机、直升机等飞行器在海上搜救、防灾减灾中应用愈发广泛，常要求超低空飞行。然而，飞行过低则容易撞击海面。因此，海洋预报还需要提供击水概率(撞击海面的概率)的预报 [<xref ref-type="bibr" rid="hanspub.25264-ref3">3</xref>] 。此外，随着资源危机、环境危机愈发严峻，海洋资源开发是人类实现可持续发展的保障。在资源开发中，为了提高采集效率，有必要提供海洋资源的短期预报 [<xref ref-type="bibr" rid="hanspub.25264-ref4">4</xref>] 。但目前为止，关于击水概率、海洋新能源预报的研究极为稀少，需求迫切，未来需要加强这方面的研究。
+        </p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 论文年代分布</title>
+        <p>通过图1可以看出论文年代分布情况，《海洋预报》的年发文量没有明显的差异，有些年度因为期刊的专栏设置调整、专家约稿等客观原因，造成了个别年度的发文量略微增多或者减少。将收集的数据绘制成曲线表，更加清晰直观的看到发表论文数量的年度变化情况，《海洋预报》近10年的总体发文趋势比较稳定，能够客观地反映出我国海洋预报技术近10年的发展水平以及相关领域的专家、 学者研究热点。</p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 基金资助机构分布</title>
+        <p>本文还统计分析了论文的项目资助情况，见图2。不难看出，近2/3的论文都有相应的基金支持，资助主要来源于中国国家自然科学基金、国家重点基础研究发展计划基金、国家科技支撑计划、国家高技术研究发展计划与省、市局以及海洋专业研究机构、高校基金项目的广泛支持；也从侧面反映了国家对海洋预报技术的高度重视，随着资助力度的加强，相关的研究成果也大量产出。</p>
+        <p>图1. 2007-2016年10年间发文总体趋势图</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Distribution of papers by discipline and percentage during 2007-201</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >学科</th>
+                  <th align="center" valign="middle" >海洋学</th>
+                  <th align="center" valign="middle" >气象学</th>
+                  <th align="center" valign="middle" >环境科学与 资源利用</th>
+                  <th align="center" valign="middle" >水利水电 工程</th>
+                  <th align="center" valign="middle" >船舶工业</th>
+                  <th align="center" valign="middle" >新能源</th>
+                  <th align="center" valign="middle" >航空航天 科学与工程</th>
+                  <th align="center" valign="middle" >资源科学</th>
+                  <th align="center" valign="middle" >地球物理学</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >论文数量(篇)</td>
+                <td align="center" valign="middle" >403</td>
+                <td align="center" valign="middle" >271</td>
+                <td align="center" valign="middle"  colspan="7"  >61</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >所占比(%)</td>
+                <td align="center" valign="middle" >54</td>
+                <td align="center" valign="middle" >36</td>
+                <td align="center" valign="middle"  colspan="7"  >10</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表1. 2007~2016 的论文学科分布及所占百分比</p>
+        <p>图2. 基金资助机构分布图</p>
+      </sec>
+      <sec id="s5_4">
+        <title>3.4. 论文作者分析</title>
+        <sec id="s5_4_1">
+          <title>3.4.1 核心作者分析</title>
+          <p>
+            普莱斯(Price)是著名的科学家与科学史学家，他通过大量的实验研究发现了科学家人数和论文数量之间的关联，即“在同一主题中，半数的论文是一群高生产力作者所写，这一作者集合约等于全部作者总数的平方根”，他随后在其代表名著《小科学，大科学》一书中，提出了普赖斯定律，根据定律 “高生产力作者”一定程度上也可以理解为“核心作者”，他们对推动学科发展、拓展研究领域都起着至关重要的影响。一般来说，期刊的核心作者所撰写的论文代表了该学科的研究前沿和未来的发展方向，因此进一步对核心作者进行统计和分析是有必要的 [<xref ref-type="bibr" rid="hanspub.25264-ref5">5</xref>] 。
+          </p>
+          <p>
+            普赖斯定律用公式也可以表示为<inline-formula>
+              <inline-graphic xlink:href="//html.hanspub.org/file/5-2830100x11_hanspub.png" xlink:type="simple"/>
+            </inline-formula>，其中n<sub>max</sub>为最高产核心作者发表论文数，m即为核心作者的最低发文量。统计结果表明，2007~2016年间《海洋预报》作者总数为266人，人均发文量为2.8篇，期间发文量最多的作者共发表26篇论文，即n<sub>max</sub> = 26，通过计算可知m = 3.8，因此对于《海洋预报》来说，近10年核心作者的最低发文量为4篇，也就是说可以把近十年内发表论文数量在4篇以上(包含4篇)的作者可以视为本刊的核心作者。通过统计得知核心作者共有47位，占全部作者的17.6%，其发表的文献累计为312篇，占全部文献的42%。核心作者人均发文篇数6.6篇，相较于全体论文作者人均发文2.8篇，可见核心作者已成为《海洋预报》的绝对力量，且这些作者绝大多数为我国海洋预报专业领域的专家学者、科研人员及业务骨干；这也从侧面反映出《海洋预报》作为海洋预报技术领域内的重要期刊，能广泛吸引固定的作者群体，重视依靠高水平的作者群体提高刊物质量，并有一些专家学者作为特别专栏的约稿人，定期推出该学科前沿动态的论文，这对于海洋预报技术学科的发展也起到了重要的推动作用 [<xref ref-type="bibr" rid="hanspub.25264-ref6">6</xref>] 。
+          </p>
+        </sec>
+        <sec id="s5_4_2">
+          <title>3.4.2. 合作作者分析</title>
+          <p>
+            为进一步对作者合作情况进行分析，我们选用可视化软件CiteSpace制作科学知识图谱，更直观的了解作者之间的合作情况。CiteSpace是一款基于文献计量的可视化软件，由美国德雷塞尔大学陈美超教授支持开发，CiteSpace软件通过节点的选择来绘制不同的分析图谱 [<xref ref-type="bibr" rid="hanspub.25264-ref7">7</xref>] [<xref ref-type="bibr" rid="hanspub.25264-ref8">8</xref>] 。首先将前期收集到的CNKI的文献数据转换成软件可读取的格式，第二步对软件的相关参数进行设置，把节点类型(Node Type)选择为作者(Auther)，时间范围(Time Slicing)设置为“2007~2016”，时间分区(per Slice)为“1”，是1年一个分区，阈值(Top N)设置为47，即发文量最多的47位核心作者，即可绘制出相关的可视化图谱。根据软件分析出的图谱进行细微的调整得到图3，图中的每一个点代表着一位核心作者，点越大，说明该
+          </p>
+          <p>图3. 作者共现图谱</p>
+          <p>作者的发文量越多；作者之间的连线代表合作关系，连线粗细代表合作密度，合作越多，线越粗; 连线的颜色代表合作的时间，可以看出一些核心作者之间存在着长期合作关系。最后进一步进行聚类分析得到图4，从图中可以清晰地看到大部分的点与点之间不是孤立的，成片区分布的，其中，以任湘湘、夏冬冬和于福江为中心的三个作者合作群为主形成片区，片区内的连线越多表示相互交叉合作关系更为密切，这说明核心作者之间相互合作很多，也体现出了核心作者对该学科的发展起到了很好的带动作用，这也是促进学科专业发展的良好模式。</p>
+        </sec>
+      </sec>
+      <sec id="s5_5">
+        <title>3.5. 高产机构分布分析</title>
+        <p>在此统计了发表论文高产单位的前10位(图5)，依次是国家海洋局东海海洋环境局、解放军理工大学、中国海洋大学、解放军海军海洋水文中心、中国卫星海上测控部、解放军61741部队、河海大学等，共发表论文493篇，占论文总数的67%，可见在我国海洋预报技术领域，军内外很多高校、科研机构、业务单位是主要研究主体，这些论文里不光包含了高校、科研院所科研人员的理论研究成果，也包含了海洋预报一线业务工作者的宝贵经验。将前期的统计数据导入CiteSpace软件进一步进行可视化分析，绘制出图6，在图中点代表着作者机构，点越大，说明该机构发表的论文越多；颜色代表着该机构发表论文持续的时间，颜色越多，说明时间越久；连线表示每个机构之间的合作关系，线越粗则合作越是紧密。</p>
+        <p>我们可以看出，高产单位之间有着紧密的联系，合作也很多，有许多大型的科研课题是共同完成的，各个单位之间相互借鉴、取长补短、亲密合作是海洋预报技术蓬勃发展的重要保障。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>3.6. 热点关键词分析</title>
+      <sec id="s7_0_1">
+        <title>3.6.1. 热点关键词共现</title>
+        <p>某学科领域的研究热点通常通过对一定时期内同类期刊的论文中出现频率较高的关键词来确定的研究热点，通过Citespace软件来进行词频统计，进一步来确定《海洋预报》近十年来的研究热点。我们利用citespace5.0软件，把节点类型(Node Type)选择为关键词(Keyword)，Thresholds阈值(C, CC, CCV)设定为(2, 2, 20)，表示图3中的关键词满足出现次数大于2次，共现次数大于2次，关键词间相似系数大于0.2这三个条件。软件运行结果共获得106个热点关键词及521条关键词间的连线，由此构成如图7所示的热点关键词图谱，图中点的大小表示该关键词出现频次的高低，点越大说明出现频次越高；节点之间</p>
+        <p>图4. 作者聚类图谱</p>
+        <p>图5. 高产机构分布图</p>
+        <p>图6. 高产机构科学知识图谱</p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> Hotspot keyword statistic</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >关键词</th>
+                  <th align="center" valign="middle" >频次</th>
+                  <th align="center" valign="middle" >关键词</th>
+                  <th align="center" valign="middle" >频次</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >风暴潮</td>
+                <td align="center" valign="middle" >52</td>
+                <td align="center" valign="middle" >台风浪</td>
+                <td align="center" valign="middle" >7</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >热带气旋</td>
+                <td align="center" valign="middle" >41</td>
+                <td align="center" valign="middle" >EFO分析/经验正交函数分析</td>
+                <td align="center" valign="middle" >6</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >数值模拟</td>
+                <td align="center" valign="middle" >28</td>
+                <td align="center" valign="middle" >西北太平洋</td>
+                <td align="center" valign="middle" >6</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >海洋预报</td>
+                <td align="center" valign="middle" >25</td>
+                <td align="center" valign="middle" >中国海</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >Noaa</td>
+                <td align="center" valign="middle" >17</td>
+                <td align="center" valign="middle" >海面风场</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >数值预报</td>
+                <td align="center" valign="middle" >15</td>
+                <td align="center" valign="middle" >非结构网络</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >副热带高压</td>
+                <td align="center" valign="middle" >10</td>
+                <td align="center" valign="middle" >台风风暴潮</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >冷空气</td>
+                <td align="center" valign="middle" >9</td>
+                <td align="center" valign="middle" >ENSO/南方涛动</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >有效波高</td>
+                <td align="center" valign="middle" >9</td>
+                <td align="center" valign="middle" >业务化</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >SST/海表温度</td>
+                <td align="center" valign="middle" >9</td>
+                <td align="center" valign="middle" >ECMWF/欧洲中期天气预报中心</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >气候特征</td>
+                <td align="center" valign="middle" >8</td>
+                <td align="center" valign="middle" >温带气旋</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >SWAN模式</td>
+                <td align="center" valign="middle" >8</td>
+                <td align="center" valign="middle" >风暴增水</td>
+                <td align="center" valign="middle" >5</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表2. 热点关键词统计</p>
+        <p>的连线表示关键词之间共现的强弱，连线越粗，共现的强度越大。后对一些有缩写或中英文表述相同的关键词进行合并统计，取频次大于5的关键词列于表2中。</p>
+        <p>从图7可以看出，出现频率比较高的关键词有风暴潮(52)、热带气旋(41)、数值模拟(28)、海洋预报(25)、NOAA (17)、数值预报(15)、副热带高压(10)、冷空气(9)、有效波高(9)、SST/海表温度(9)等，这些关键词代表了近10年我国海洋预报领域的主要内容。</p>
+      </sec>
+      <sec id="s7_0_2">
+        <title>3.6.2. 热点关键词聚类</title>
+        <p>通过获得106个热点关键词及521条关键词间的连线，还是无法确定研究的领域与方向，还要对这些热点关键词进行聚类分析，得到了11个聚类，但有些聚类只有1~2个成员，这些聚类不能代表主要研究内容和方向，删除这些无效聚类后，保留其中5个聚类，根据每个聚类所包含的关键词总结出该聚类的名称，5个聚类就是海洋预报领域的主要研究内容的总结和概括，见表3。</p>
+        <p>“海洋防灾减灾”、“海洋预报”、“海洋气候”是2007~2016年海洋预报领域比较热点的主体内容和研究方向，这也是与我国国情相适应的，我国海域面积辽阔、海岸线漫长，海洋灾害频发给国民经济造成了损失巨大，也吸引了越来越多的学者专家关注，这部分文献主要是针对一些比较成熟的海洋预报技术应用与推广，借鉴了一些国外科研机构如NOAA (美国大气海洋局)、ECMWF(欧洲中期天气预报中心)先进经验和技术，同时也加入了EFO分析、数值模拟、人工神经网络等新型技术要素。</p>
+        <p>
+          “海洋能源资源与开发”、“海洋调查与观测”是这期间海洋预报领域新出现的研究热点，这也是受国家政策的正面激励与影响，十八大报告中提出“提高海洋资源开发能力，坚决维护国家海洋权益，建设海洋强国”，对海洋能源资源的开发与保护、对海洋多样性的调查与观测也是急国家之所需，在今后也将是海洋预报技术的主要发展趋势 [<xref ref-type="bibr" rid="hanspub.25264-ref9">9</xref>] [<xref ref-type="bibr" rid="hanspub.25264-ref10">10</xref>] 。值得注意的是，随着“21世纪海上丝绸之路”建设的深入展开，未来研究区域将由中国近海转移至北印度洋，尤其是关于该区域的海洋自然环境(风、浪、流、海温、风暴潮、热带气旋等)、海洋新能源(波浪能、风能、潮汐能等资源)，上述要素的时空分布特征、短期预报尤为重要，以保障“21世纪海上丝绸之路”建设中的远洋航线规划、海洋资源开发、防灾减灾、海上搜救等。
+        </p>
+        <p>图7. 热点关键词共现图谱</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> Cluster names and main content</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >聚类编号</th>
+                  <th align="center" valign="middle" >聚类名称</th>
+                  <th align="center" valign="middle" >聚类内容(首次出现时间)</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >0</td>
+                <td align="center" valign="middle" >海洋防灾减灾</td>
+                <td align="center" valign="middle" >风暴潮(2007)、风暴增水(2007)、热带气旋(2007)、台风风暴潮(2007)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1</td>
+                <td align="center" valign="middle" >海洋气象预报</td>
+                <td align="center" valign="middle" >数值预报(2007)、EFO分析/经验正交函数分析风暴增水(2008)、Noaa(2009)、ECMWF/欧洲中期天气预报中心风暴增水(2007)、人工神经网络(2010)、风暴增水(2007)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >2</td>
+                <td align="center" valign="middle" >海洋气候</td>
+                <td align="center" valign="middle" >气候特征(2009)、ENSO(2007)、气候变化(2009)、副热带高压(2009)、季节预报(2011)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >3</td>
+                <td align="center" valign="middle" >海洋能源资源与开发</td>
+                <td align="center" valign="middle" >有效波高(2010)、海面风场(2010)、SWAN模式(2007)、动力高度(2010)</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >4</td>
+                <td align="center" valign="middle" >海洋调查与观测</td>
+                <td align="center" valign="middle" >北极海冰(2011)、业务化(2012)、海岸带(2009)、特征分析(2011)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 聚类名称与主要内容</p>
+      </sec>
+    </sec>
+     
+    <sec id="s8">
+      <title>4. 结语</title>
+      <p>本文采用微软公司的Excel软件、CiteSpace5.0软件，采用数量统计、共现分析、聚类分析等方式对CNKI数据库2007~2016年《海洋预报》中的752篇文献进行统计分析，我们发现了近10年来我国海洋预报技术领域的研究现状很稳定，也开始与其他学科相交叉，这些交叉学科主要涉及到海洋资源、环境科学、海洋工程、管理科学等，也延伸出了许多新的研究热点如海洋新能源评估、气候变化与国家安全、生态保护、科学考察与海洋环境监测等，这也是今后我国海洋预报技术领域的发展热点。</p>
+    </sec>
+    <sec id="s9">
+      <title>文章引用</title>
+      <p>卢 扬,黎 鑫,石岭琳. 我国海洋预报技术发展前沿热点与趋势研究 Frontier Hot Spot and Trend of Marine Forecasting Technology Development in China[J]. 海洋科学前沿, 2018, 05(02): 48-56. https://doi.org/10.12677/AMS.2018.52006</p>
+    </sec>
+    <sec id="s10">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.25264-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">邱均平. 文献计量学[M]. 北京: 科技文献出版社, 1988.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">钟赛香, 曲波, 苏香燕, 毛鹏, 游细斌. 从《地理学报》看中国地理学研究的特点与趋势——基于文献计量方法[J]. 地理学报, 2014, 69(8): 1077-1092.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">郑崇伟, 潘静, 黄刚. 利用WW3模式实现中国海击水概率数值预报[J]. 北京航空航天大学学报, 2014, 40(3): 314-320.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">郑崇伟, 高悦, 陈璇. 巴基斯坦瓜达尔港风能资源的历史变化趋势及预测[J]. 北京大学学报(自然科学版), 2017, 53(4): 617-626.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张媛, 蔡建东. 中国学前教育研究二十年——基于《学前教育研究》的文献计量分析[J]. 学前教育研究, 2014(1): 3-10.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李栎,张志强. 情报研究中核心著者的影响力评价方法研究[J]. 情报杂志,2010,29(10):80-83+141.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">Chen, C. (2012) Predictive Effects of Structural Variation on Citation Counts. Journal of the American Society for Information Science and Technology, 63, 431-449. https://doi.org/10.1002/asi.21694</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          Chen, C. and Leydesdorff, L. (2013) Patterns of Connections and Movements in Du-al-Map Overlays: A New Method of Publication Portfolio Analysis. Journal of the Association for Information Science and Tech-nology, 65, 334-351.
+          https://doi.org/10.1002/asi.22968
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">罗润东, 徐丹丹. 我国政治经济学研究领域前沿动态追踪——对2000年以来CNKI数据库的文献计量分析[J]. 经济学动态, 2015(1): 86-95.</mixed-citation>
+      </ref>
+      <ref id="hanspub.25264-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">郑崇伟, 李崇银. 全球海域波浪能资源评估的研究进展[J]. 海洋预报, 2016, 33(3): 76-88.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

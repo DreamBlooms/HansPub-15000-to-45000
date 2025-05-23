@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">JLCE</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Low Carbon Economy</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2324-7924</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/JLCE.2017.64006</article-id>
+      <article-id pub-id-type="publisher-id">JLCE-22728</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>JLCE20170400000_87215675.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>经济与管理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          别墅屋顶并网光伏发电系统投资效益分析
+          Analysis on Investment Benefit of Roof and Grid Photovoltaic Power Generation System of Villa
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>赵</surname>
+            <given-names>新刚</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陈</surname>
+            <given-names>杰</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <addr-line>华北电力大学经济与管理学院，北京</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>13263458663@163.com(陈杰)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>11</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>06</volume>
+      <issue>04</issue>
+      <fpage>37</fpage>
+      <lpage>45</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          光伏建筑一体化是解决我国建筑高能耗的有效手段之一，但是在我国的居民建筑中并未普及，其核心问题就是光伏项目的投资效益不高。因此本文以别墅用户为研究对象，研究其屋顶并网光伏发电系统在不同的上网模式、用电量以及补贴政策等影响下的投资效益，建议政府根据用电量实行不同的补贴政策，逐渐取消交叉补贴，实行峰谷分时电价政策。 PV building integration is one of the effective means to solve the high energy consumption of China's building, but it is not popular in the residential building of our country. The core problem is that the investment benefit of PV project is not high. Therefore, this paper takes the villa users as the research object, and studies the investment benefit of the roof grid-connected PV system under different influence on the Internet mode, electricity consumption and subsidy policy. It is suggested that the government implements different subsidy policies based on electricity consumption, gradually cancels cross subsidies and carries out the peak-valley time-of-use tariff policy.
+
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>BAPV，投资效益，峰谷分时电价, BAPV</kwd>
+        <kwd> Investment Benefit</kwd>
+        <kwd> Peak-Valley Time-of-Use Tariff</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        别墅屋顶并网光伏发电系统投资效益分析<sup> </sup>
+      </title>
+      <p>赵新刚，陈杰</p>
+      <p>华北电力大学经济与管理学院，北京</p>
+      <p>收稿日期：2017年10月29日；录用日期：2017年11月12日；发布日期：2017年11月20日</p>
+      <disp-formula id="hanspub.22728-formula1">
+        <graphic xlink:href="//html.hanspub.org/file/1-2680105x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>光伏建筑一体化是解决我国建筑高能耗的有效手段之一，但是在我国的居民建筑中并未普及，其核心问题就是光伏项目的投资效益不高。因此本文以别墅用户为研究对象，研究其屋顶并网光伏发电系统在不同的上网模式、用电量以及补贴政策等影响下的投资效益，建议政府根据用电量实行不同的补贴政策，逐渐取消交叉补贴，实行峰谷分时电价政策。</p>
+      <p>关键词 :BAPV，投资效益，峰谷分时电价</p>
+      <disp-formula id="hanspub.22728-formula2">
+        <graphic xlink:href="//html.hanspub.org/file/1-2680105x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/1-2680105x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/1-2680105x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        世界能源消耗基本分布在三大领域，一是工业能耗，二是交通能耗，三是建筑能耗。建筑节能是节能减排的重要领域之一，因此各个国家都在制定建筑零能耗的发展目标。长期以来，我国建筑节能的观念较为淡薄，据统计，我国现有建筑的99%以上都属于高能耗建筑 [<xref ref-type="bibr" rid="hanspub.22728-ref1">1</xref>] ，因此减少建筑能耗显得尤为迫切。我国太阳能资源丰富，将光伏发电巧妙地融入到建筑中，不仅为光伏技术开辟了新的应用领域，而且可以真正地减少建筑能耗，达到建筑节能的目的。
+      </p>
+      <p>
+        光伏建筑的经济效益是决定其发展状况的重要因素。在有关光伏建筑的经济性方面，国内学者张鸣、蔡亮、虞维平以南京浦口区一栋商用楼楼顶为研究对象，计算出动态平直供电成本为3.49元/千瓦时，已经远远超过南京市居民用电价格，认为光伏发电成本过高是制约发展BIPV (Building Integrated PV)系统的主要原因，建议通过完善光伏产业链和发展光伏技术来降低成本 [<xref ref-type="bibr" rid="hanspub.22728-ref2">2</xref>] ；吕双辉，蔡声霞，王守相研究天津市不同负荷类型用户所适合的光伏应用方式，以及不同的电价模式对用户经济性的影响，通过计算净收益和成本利润率，得出储能成本对用户经济性影响较大，建议政府制定适当的储能补贴政策 [<xref ref-type="bibr" rid="hanspub.22728-ref3">3</xref>] ；邵汉桥，张籍，张维选取全国6个地区的居民和工商业光伏发电进行经济性分析，通过对不同地区的太阳能资源、内部收益率、年发电量等进行对比分析和敏感性分析，发现不同地区太阳能年辐射量和年日照时间影响光伏系统的内部收益率和静态投资回收期，已经出台地方补贴政策的地区，光伏系统经济性要更好，建议各省市政府尽快完善地方补贴政策 [<xref ref-type="bibr" rid="hanspub.22728-ref4">4</xref>] 。
+      </p>
+      <p>
+        国外学者Lim Yun Seng，G.Lalchand，Gladys Mak Sow Lin对马来西亚光伏建筑进行经济、技术和环境分析，认为在现有商业模式和监管制度下，政府的高补贴政策对于光伏系统的经济性影响很小。另外，硅原料的缺失和空气污染物导致太阳辐射的减少也是马来西亚光伏行业面临的挑战 [<xref ref-type="bibr" rid="hanspub.22728-ref5">5</xref>] ；Jose L. Bernal-Agustin，Rodolfo Dufo-Lopez以西班牙并网型光伏系统为研究对象，利用净现值和投资回收期评价其经济性，资源可再生的时间成本、污染物的减排量和外部成本评价其环境效益，认为光伏建筑虽然有利可图，但是投资效益并不明显，建议利用光伏产生的环境效益奖励光伏系统的所有者 [<xref ref-type="bibr" rid="hanspub.22728-ref6">6</xref>] ；Hongbo Ren，Weijun Gao，Yingjun Ruan针对住宅并网型光伏系统进行经济优化和敏感性分析，利用线性规划模型，规划如何使得客户的年度能源成本最低，并对不同条件的典型住宅进行平均成本和投资回收期敏感性分析，得出资本成本对光伏容量和投资回收期影响较大，平均成本主要受资本成本、光伏系统效率和利率影响的结论 [<xref ref-type="bibr" rid="hanspub.22728-ref7">7</xref>] 。
+      </p>
+      <p>别墅建筑具有可安装光伏系统面积大、产权明确等优点，同时也具有建筑能耗大等缺点，因此本文将针对别墅用户的特点，分析不同因素对其并网屋顶光伏发电系统投资效益的影响，为推广我国别墅用户光伏系统的发展提出建议。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 别墅用户光伏建筑投资效益分析模型</title>
+      <sec id="s4_1">
+        <title>2.1. 成本分析</title>
+        <p>由于BIPV光伏建筑设计、施工情况比较复杂，BIPV成本与工程总承包商、关键设备供应商以及装机容量等有直接关系，因此只有确定了具体的项目之后，才能够根据实际情况对BIPV项目的发电成本进行核算。而BAPV (Building Attached PV)安装方式简单，影响成本的不确定因素较少，投资效益分析的结果更具有借鉴价值，因此本文主要考虑别墅在BAPV系统时的情况，其成本主要考虑以下三部分：</p>
+        <p>1) 初始投资成本，即太阳能电池组件、支架、逆变器、电缆以及系统安装成本等的总和；</p>
+        <p>
+          2) 经常性运营成本，即光伏发电系统的定期清洁维护成本，与系统的装机规模有关，一般为50元/(KW&#183;年) [<xref ref-type="bibr" rid="hanspub.22728-ref4">4</xref>] ；
+        </p>
+        <p>3) 财务费用，主要是借款的利息费用，采取分期偿还、等额本息的方式还款，可以用下式表示：</p>
+        <p>C n = C 0 X 1 R</p>
+        <p>式中， C i ：第i年的财务费用； C 0 ：初始投资成本； X 1 ：贷款比例； R ：贷款利率； i ：还款年限，取 1 , 2 , ⋯ , M (M为还款期限)。</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 收益分析</title>
+        <p>别墅的业主一般有经济实力自建光伏发电系统，在这种情况下，业主是屋顶的使用者和光伏初始投资者，拥有光伏发电系统所有权和所发电量收益权，可以选择不同售电方式：</p>
+        <p>1) 全额上网</p>
+        <p>I d n = E d n P C 1</p>
+        <p>式中， I d n ：光伏发电系统第n年第d日收益； E d n ：光伏发电系统第n年第d日发电量； P C 1 ：国家规定的光伏电站上网标杆电价； n ：系统运行年限，取 1 , 2 , ⋯ , N (N为系统运行年限，一般为25年)。</p>
+        <p>2) 自发自用，余电上网</p>
+        <p>这种模式下，业主的收益包括政府补贴、卖电所得以及电费的减少。其中，由于现在实行居民阶梯电价，所以下式的 P C 3 可能不一定都相同。</p>
+        <p>1) 日发电量大于白天用电量时，业主收益：</p>
+        <p>I d n = E d n ( G p 1 + G p 2 ) + ( E d n − Q d n X 3 ) P C 2 + Q d n P C 3 − Q d n ( 1 − X 3 ) P C 3</p>
+        <p>式中， G p 1 ：国家补贴； G p 2 ：地方补贴； Q d n ：别墅用户第n年第d日用电量； X 3 ：典型别墅白天用电量占全天用电量的比例； P C 2 ：当地燃煤机组标杆上网电价； P C 3 ：用户目录电价。</p>
+        <p>2) 日发电量小于白天用电量时，业主收益：</p>
+        <p>I d n = E d n ( G P 1 + G P 2 ) + Q d n P C 3 − ( Q d n − E d n ) P C 3</p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 光伏建筑投资效益评估模型</title>
+        <sec id="s4_3_1">
+          <title>2.3.1. 平准化度电成本</title>
+          <p>平准化度电成本(简称LCOE)，是对项目生命周期内的成本和发电量进行平准化后计算得到的发电成本，能够使人清晰地看到光伏项目单位发电量的成本水平，可以用下式表示：</p>
+          <p>L C O E = C 0 + ∑ n = 1 N I n ( 1 + i 0 ) n ∑ n = 1 N E n ( 1 + i 0 ) n</p>
+          <p>式中， L C O E ：平准化度电成本； I n ：第n年的运营总支出； i 0 ：基准折现率。</p>
+        </sec>
+        <sec id="s4_3_2">
+          <title>2.3.2. 净现值</title>
+          <p>净现值指标是按一定的折现率将各年净现金流量折现到同一时点(通常是期初)的现值累加值，可以用下式表示：</p>
+          <p>N P V = ∑ n = 0 N ( C I − C O ) n ( 1 + i 0 ) − n</p>
+          <p>式中， N P V ：净现值； C I n ：第n年的现金流入额； C O n ：第n年的现金流出额。</p>
+          <p>判别标准：</p>
+          <p>1) 若 N P V ≥ 0 ，则项目应予接受；</p>
+          <p>2) 若 N P V &lt; 0 ，则项目应拒绝。</p>
+        </sec>
+        <sec id="s4_3_3">
+          <title>2.3.3. 内部收益率</title>
+          <p>内部收益率是净现值为零时的折现率，是反映资金利用效率的效率型指标，可以用下式表示：</p>
+          <p>N P V ( I R R ) = ∑ n = 0 N ( C I − C O ) n ( 1 + I R R ) − n = 0</p>
+          <p>式中， I R R ：内部收益率</p>
+          <p>判别标准：</p>
+          <p>1) 若 I R R ≥ i 0 ，则项目在经济效果上可以接受；</p>
+          <p>2) 若 I R R &lt; i 0 ，则项目在经济效果上不可接受。</p>
+        </sec>
+        <sec id="s4_3_4">
+          <title>2.3.4. 投资回收期</title>
+          <p>投资回收期是从项目投建之日起，用项目各年的净收入将全部投资收回所需的期限，可以用下式表示：</p>
+          <p>∑ n = 0 T P ( C I n − C O n ) = K</p>
+          <p>式中， T P ：投资回收期； K ：投资总额。</p>
+        </sec>
+        <sec id="s4_3_5">
+          <title>2.3.5. 净现值指数</title>
+          <p>净现值指数作为净现值的辅助指标，反映了资金的利用效率，即单位投资现值所能带来的净利润现值，可以用下式表示：</p>
+          <p>N P V I = ∑ n = 0 N ( C I − C O ) n ( 1 + i 0 ) − n ∑ n = 0 N K n ( 1 + i 0 ) − n</p>
+          <p>式中， N P V I ：净现值指标； K n ：第n年的投资总额。</p>
+          <p>对于投资成本相同，但是收益不同的项目，NPVI越大，资金的利用效率越高。</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 别墅案例分析</title></sec>
+      <sec id="s5_1">
+        <title>3.1. 案例项目简介</title>
+        <p>上海闵行区的一栋别墅，位于北纬31.12˚，东经121.24˚，屋顶上安装了装机容量为2992 Wp的光伏发电系统，由22块多晶硅光伏组件制成，总面积22平方米，朝南倾斜25˚，周围没有建筑物遮挡。本项目以25年为经济分析周期。</p>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 项目的成本分析</title>
+        <p>1) 初始投资成本12748.92元/KW，即总初始投资成本为38144.76元；</p>
+        <p>2) 经常性运营成本为149.6元/年。</p>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 项目的发电量分析</title>
+        <p>
+          上海闵行区的太阳能全年辐射量为1283.47 kWh/m<sup>2</sup>，系统效率取78%，则别墅25年的发电量见表1。
+        </p>
+      </sec>
+      <sec id="s5_4">
+        <title>3.4. 项目的用电量分析</title>
+        <p>
+          建筑面积为350 m<sup>2</sup>，居住人口4~6人的别墅，在考虑电器使用时间以及上海的气温等具体情况下，得出上海别墅的年逐时耗电量总和为36502.7 KWh [<xref ref-type="bibr" rid="hanspub.22728-ref8">8</xref>] ，则每日用电量为100.01 KWh。
+        </p>
+      </sec>
+      <sec id="s5_5">
+        <title>3.5. 项目的投资效益分析</title>
+        <p>国家补贴和上网电价均需缴纳增值税，一般取17%；基准折现率取6.8%。</p>
+        <p>1) “全额上网”模式</p>
+        <p>上海属于第Ⅲ类资源区，光伏上网标杆电价为0.85元/千瓦时(含税)，则案例项目的投资效益见表2。</p>
+        <p>“全额上网”方式下，项目的净现值小于0，资金的利用率比较低，因此项目不可行，本项目的平准化度电成本为1.16元/KWh，而光伏上网标杆电价为0.85元/KWh，小于成本，所以“全额上网”的经济效益并不理想。</p>
+        <p>2) “自发自用，余电上网”模式</p>
+        <p>由于日发电量远小于日用电量，故“自发自用，余电上网”模式下所发电量全部自用。上海市对个人投资的光伏项目，给予0.4元/千瓦时的奖励，奖励时间为5年，且单个项目年度奖励金额不超过5000万元，则案例项目的投资效益见表3。</p>
+        <p>“自发自用，余电上网”模式下净现值大于0，项目可行，资金的利用效率比较高，投资回收期也比较合理。</p>
+        <p>① 不同地方补贴</p>
+        <p>目前我国大部分地区没有地方补贴，而不同地区地方补贴的金额和期限也不尽相同，例如同样为省级补贴，北京市为0.3元/千瓦时(含税)，补贴5年；江西省为0.2元/千瓦时(含税)，补贴20年；河北省为0.2元/千瓦时(含税)，补贴3年；吉林省为0.15元/千瓦时(含税)；浙江省为0.1元/千瓦时(含税)。为探究地方补贴的变化对案例项目经济性的影响，本文以净现值为敏感性分析的指标，以现有地方补贴为基点，比较不同变动幅度对项目的投资效益的影响，结果见表4。</p>
+        <p>从表可以看出，地方补贴对于项目净现值的影响不大，即使全部取消，项目仍具有可行性。这是由于别墅用电量比较大，即使减去光伏发电量，购电量仍处于阶梯电价的第三档，相当于电力公司按照0.917元/KWh购买光伏电量，因此节省的电费收益更明显。</p>
+        <p>② 不同用电量</p>
+        <table-wrap id="table1" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> 25 years power generation of villa, KW</title>
+          </caption>
+          </table-wrap>
+          </sec>
+</body>
+  <back>
+            <ref-list>
+              <title>References</title>
+              <ref id="hanspub.22728-ref1">
+                <label>1</label>
+                <mixed-citation publication-type="other" xlink:type="simple">马文生, 郝斌. 光伏建筑一体化相关问题的探讨[J]. 可再生能源, 2011(29): 94-97.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref2">
+                <label>2</label>
+                <mixed-citation publication-type="other" xlink:type="simple">张鸣, 蔡亮, 虞维平. BIPV系统经济性分析[J]. 应用能源技术, 2007(11): 1-4.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref3">
+                <label>3</label>
+                <mixed-citation publication-type="other" xlink:type="simple">吕双辉, 蔡声霞, 王守相. 分布式光伏–储能系统的经济性评估及发展建议[J]. 中国电力, 2015(48): 139-144.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref4">
+                <label>4</label>
+                <mixed-citation publication-type="other" xlink:type="simple">邵汉桥, 张籍, 张维. 分布式光伏发电经济性及政策分析[J]. 电力建设, 2014(35): 51-57.</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref5">
+                <label>5</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Seng, L.Y., Lalchand, G. and Lin, G.M.S. (2008) Economical, Environmental and Technical Analysis of Building Inte-grated Photovoltaic Systems in Malaysia. Energy Policy, 36, 2130-2142. &lt;br&gt;https://doi.org/10.1016/j.enpol.2008.02.016</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref6">
+                <label>6</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Bernal-Agustín, J.L. and Dufo-López, R. (2006) Economical and Environmental Analysis of Grid Connected Photovoltaic Systems in Spain. Renewable Energy, 31, 1107-1128. &lt;br&gt;https://doi.org/10.1016/j.renene.2005.06.004</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref7">
+                <label>7</label>
+                <mixed-citation publication-type="other" xlink:type="simple">Ren, H., Gao, W. and Ruan, Y. (2009) Economic Optimization and Sensitivity Analysis of Photovoltaic System in Residential Buildings. Renewable Energy, 34, 883-889. &lt;br&gt;https://doi.org/10.1016/j.renene.2008.06.011</mixed-citation>
+              </ref>
+              <ref id="hanspub.22728-ref8">
+                <label>8</label>
+                <mixed-citation publication-type="other" xlink:type="simple">沙浩洁, 李永光, 杨天海. 结合别墅用户的分布式风力发电经济性评估[J]. 上海电力, 2009(1): 42-44.</mixed-citation>
+              </ref>
+            </ref-list>
+          </back>
+</article>

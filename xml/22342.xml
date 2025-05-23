@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">JOGT</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Oil and Gas Technology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2471-7185</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/JOGT.2017.395082</article-id>
+      <article-id pub-id-type="publisher-id">JOGT-22342</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>JOGT20170500000_79265544.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>地球与环境</subject>
+          <subject> 工程技术</subject>
+          <subject> 合作期刊</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          服务器虚拟化技术研究与应用
+          Research and Application of Server Virtualization Technology
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>焦</surname>
+            <given-names>玉锋</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>罗</surname>
+            <given-names>鑫</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>付</surname>
+            <given-names>全彬</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>冯</surname>
+            <given-names>杏芬</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>李</surname>
+            <given-names>静</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>郭</surname>
+            <given-names>永伟</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>中原石油工程有限公司录井公司，河南 濮阳</addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>3517839265@qq.com(焦玉)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>10</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>39</volume>
+      <issue>05</issue>
+      <fpage>185</fpage>
+      <lpage>190</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          随着石油工程企业信息化的发展，各类专业及管理的应用系统日益增多，导致了数据机房压力过大、服务器利用率不高、故障恢复时间较长等问题。采用虚拟化技术搭建服务器集群平台，能有效提高石油工程企业信息系统的部署能力和管理水平、提高资源利用率、降低运营成本，一定程度上解决了上述问题。以VMware vSphere为例探讨石油工程企业信息化系统的VMware虚拟化技术解决方案。 With the development of enterprise informatization in petroleum engineering, the applications and management systems for various specialties increased day by day, which created some problem, such as the overpressure of computer room, low utilization of server, long time for recovery. The server cluster built by virtualization technology can solve the above problems at a certain extent. This paper uses VMware vSphere as an example to explore the virtualization technology solution of informatization in petroleum engineering enterprise.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>虚拟化，服务器，VMware，信息化, Virtualization</kwd>
+        <kwd> Server</kwd>
+        <kwd> VMware</kwd>
+        <kwd> Informatization</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        服务器虚拟化技术研究与应用<sup> </sup>
+      </title>
+      <p>焦玉锋，罗鑫，付全彬，冯杏芬，李静，郭永伟</p>
+      <p>中原石油工程有限公司录井公司，河南 濮阳</p>
+      <p>作者简介：焦玉锋(1979-)，男，高级工程师，现主要从事录井信息化管理工作。</p>
+      <p>收稿日期：2017年5月30日；录用日期：2017年6月7日；发布日期：2017年10月15日</p>
+      <disp-formula id="hanspub.22342-formula53">
+        <graphic xlink:href="//html.hanspub.org/file/22342x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>随着石油工程企业信息化的发展，各类专业及管理的应用系统日益增多，导致了数据机房压力过大、服务器利用率不高、故障恢复时间较长等问题。采用虚拟化技术搭建服务器集群平台，能有效提高石油工程企业信息系统的部署能力和管理水平、提高资源利用率、降低运营成本，一定程度上解决了上述问题。以VMware vSphere为例探讨石油工程企业信息化系统的VMware虚拟化技术解决方案。</p>
+      <p>关键词 :虚拟化，服务器，VMware，信息化</p>
+      <disp-formula id="hanspub.22342-formula54">
+        <graphic xlink:href="//html.hanspub.org/file/22342x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors, Yangtze University and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>传统服务器是在每台服务器上安装单一操作系统，为保证应用稳定运行，一般一台服务器上只运行一个应用，在具有多个应用的数据中心中就会有多台服务器分别为单一应用服务，这就导致了数据中心服务器数量的增加，从而增加了日常维护工作的工作量，并且严重浪费了服务器资源和电力资源。</p>
+      <p>随着信息技术的发展，信息系统越来越庞大和复杂，用虚拟化技术将少量的物理服务器整合为服务器集群平台成为一种趋势。虚拟化技术实现了硬件资源的共享，使各类应用及用户共同使用这些资源；虚拟化技术还可以为信息化提供更高的安全性、容灾性、高可用性、稳定性，并且可以显著降低企业运营成本，提高管理维护的灵活性。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 服务器虚拟化的优势</title>
+      <p>虚拟化技术允许多个虚拟机在同一台物理服务器或服务器集群上运行多个不同类型的操作系统。虚拟化技术的技术优势就是将少量的物理服务器整合为服务器集群平台，使运行在其上的各类系统和应用共享这些物理服务器硬件资源，这样的虚拟化平台通过数据迁移、高可用性、动态资源分配等技术还可以为系统和应用提供更高的安全性、稳定性。</p>
+      <p>通过虚拟化技术对应用服务器的整合，可以减少服务器的采购，使企业在硬件采购上节约大量的成本。服务器数量的减少同时也意味着机房耗电量和散热量的减少，从而减少了服务器和空调的用电量，为企业减少了能源支出。服务器的减少就减少了数据机房的服务器空间占用，为数据机房节省了物理空间。虚拟化技术的使用可以减少管理维护人员的维护工作量，可以缩短甚至小区计划和非计划的停机时间。虚拟化技术可以整合数据机房中原有的物理服务器，减少新服务器的采购。</p>
+    </sec>
+    <sec id="s5">
+      <title>3. VMware vSphere介绍</title>
+      <p>VMware vSphere是VMware公司推出的业界领先的虚拟化平台，在全球范围有着广泛的使用，有着很多的成功案例。典型的VMware vSphere数据中心由计算服务器、网络环境、存储网络和存储阵列、vCenter Server、vCenter Client管理客户端等基础部件组成(图1)。</p>
+      <p>在计算服务器上运行的ESXi软件为运行虚拟机以及vCenter Server提供基础环境和资源，这些计算服务器被称为物理服务器。VMware的虚拟机支持Linux、Windows、Unix等多种系统，具有很高的兼容性和很强的适应性，使虚拟化具有了很宽广的使用范围。</p>
+      <p>VMware vSphere能够满足不同数据中心对不同存储技术的需求，能够支持光纤通道SAN阵列、iSCSI SAN阵列和NAS阵列等常见的现有存储技术通过为每台物理服务器配置多个冗余网络适配器以及冗余网络交换机和冗余网络链路，可以为整个VMware vSphere数据中心提供高带宽和可靠的网络连接。</p>
+      <p>vCenter Server安装后自动运行，作为ESXi主机的中心管理员，为数据中心提供一个管理控制点，将多个物理服务器的资源加入池中并统一管理这些资源并将这些资源共享给整个数据中心的虚拟机。vCenter Server具有基本的数据中心服务功能，如访问控制、性能监控和配置功能。</p>
+      <p>数据中心管理和虚拟机访问的管理客户端包括VMware vSphere Client、vSphere Web Client (用于通过Web浏览器访问)或vSphere命令行界面(vSphere CLI)。推荐使用VMware vSphere Client客户端来对整个虚拟机系统进行管理和维护。</p>
+      <p>图1. 典型VMware vSphere数据中心物理拓扑</p>
+      <p>VMware vSphere具有动态迁移技术(VMotion)、存储动态迁移技术(Storage vMotion)、系统资源动态分配技术DRS(VMware Distributed Resource Scheduler)、存储资源动态分配、容错技术(fault Tolerance)以及为应用程序提供高可用性(High Availability，HA)等先进技术，在这些技术的可实现运行中的虚拟机从一台物理服务器迁移到另一台物理服务器上而不中断业务，将故障物理服务器上虚拟机在同一集群中其他物理服务器上重新启动，在主从虚拟机之间切换来保证虚拟机的连续可用性，集群资源的动态分配来改善所有主机和集群资源的分配和功耗。这些先进技术保证了数据中心的容灾能力和稳定性。</p>
+      <p>Vmare Vmotion可以将正在运行中的虚拟机从一台物理服务器实时迁移到集群中另一台物理服务器上，从而做到了零停机时间并且提供了连续可用的服务，最关键的是保证了事务的完整性。要实现VMotion虚拟机文件必须存放在共享存储中，执行Vmare Vmotion实际上并不改变虚拟机文件的存放位置，只是在逻辑上将虚拟机的归属转移到不同的物理服务器上。要使用Vware Vmotion功能就需要保证ESXi物理服务器的CPU类型必须是一样的，但可以是同类型的CPU的不同型号，即可以是Intel的不同型号的CUP或者AMD的不同型号的CUP。完全相同的CUP可以提高Mware Vmotion的稳定性和效率。</p>
+      <p>VMware HA不间断地检测集群中的所有安装ESXi的物理服务器，并检测故障，每台ESXi主机上的代理程序不断向集群中的其他主机发出“心跳信号”，VMware HA还不间断地监控集群中资源使用情况，当VMare HA检测不到“心跳信号”时会将判断ESXI主机故障并将该物理服务器上的虚拟机在其他的物理服务器上重新启动，由于是重启虚拟机，这会导致业务的中断。</p>
+      <p>VMware DRS不间断监控集群中资源的使用情况，并根据实际业务情况和不预定义规则的优先级，为集群中的虚拟机进行智能、动态地资源分配。当某台虚拟机负载增大时，VMware DRS会将虚拟机重新分发给资源池中资源较多的物理服务器来实现自动分配可用资源，这种重新分发有两种方式，一种是将重负载的虚拟机迁移到具有更多资源的另一台物理服务器上，也可以是将该物理服务器上的其他虚拟机迁移到其他物理服务器上，来将原物理服务器上的资源更多地分配给重负载的虚拟机，从而为该虚拟机提供更多的资源。VMware DRS具有自动模式和手动模式，自动模式下由VMware DRS来决定在不同物理服务器之间分发虚拟机的最佳策略，并自动将虚拟机迁移到最合适的物理服务器上；采用手动模式时，VMware DRS会提供一个把虚拟机放到最佳物理服务器的建议，然后将建议提交给管理人员，由其决定具体的执行方式。</p>
+    </sec>
+    <sec id="s6">
+      <title>4. 服务器虚拟化实施方案</title>
+      <p>随着中原工程公司数据中心的业务发展，原有的服务器已无法满足各种应用的需要。在对数据中心的升级中考虑到了VMware的虚拟化技术，并根据实际情况设计了VMware虚拟化数据中心。</p>
+      <sec id="s6_1">
+        <title>4.1. 硬件配置</title>
+        <p>整个系统设计采用光纤通道SAN存储阵列实现数据存储，将虚拟机文件共享在SAN存储阵列中，最大化发挥WMware vSphere虚拟化架构的优势，保证了动态迁移(VMotion)、系统资源动态分配(DRS)、应用程序提供高可用性(HA)的可靠性和高效率。</p>
+        <p>9台浪潮NF8480物理服务器各配置一组4个万兆网卡和一组4个千兆网卡通过2条负载均衡冗余链路连接1台华为万兆交换机(华为S6720)和一台千兆交换机(华三S5120)作为服务器上网线路，其中万兆交换机网络设计为业务主干网络，千兆交换机网络设计为虚拟机管理网络和负载均衡冗余网络。NF8480物理服务器配置8GB HBA卡连接浪潮光存储交换机SANbox5800，浪潮光存储交换机SANbox5800连接浪潮SAN存储矩阵AS1000的A和B两路控制器，从而实现物理服务器通过光存储交换机与光存储阵列的数据链路。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 冗余设计</title>
+        <p>整个系统充分考虑了冗余设计，双电源负载均衡并采用20kVA在线式UPS和64个12V 100AH免维护电池。网络部分采用1个万兆交换机和1个千兆交换机组成的双线路配合每台物理服务器的双网卡形成整个系统的网络负载冗余。可以将万兆网络作为业务网络，千兆网络作为管理网络，也可以将万兆和千兆两条网络互为备份的冗余网络。每台物理服务器采用三电源和双风扇的冗余设计。物理服务器配备双HBA卡与双光纤存储交换机、存储阵列的冗余设计提供了容灾功能，保证了数据的安全。</p>
+      </sec>
+      <sec id="s6_3">
+        <title>4.3. 软件配置</title>
+        <p>各物理服务器安装虚拟化底层软件VMware ESXi 5.5，将物理服务器的组成大的资源池，在每台物理服务器上部署的多台虚拟机将共享该资源池。每台虚拟机根据不同业务需求，分门别类安装不同的数据库、应用系统、web服务、邮箱服务、视频会议服务等业务。</p>
+        <p>vCenter Server采用虚拟主机的方式。使用虚拟主机不但能够实现vCenter Server的快速部署和快速恢复，而且还能够借助动态迁移VMotion、系统资源动态分配DRS和应用程序提供高可用性(HA)等特性来使Center Server像其他虚拟机一样的动态、动态分配资源，从而保证Center Server的稳定连续运行。</p>
+        <p>Center Server负责整个系统的管理、控制、调度、备份/恢复、迁移、虚拟机建立与维护、系统性能的监控与管理。可以在普通的PC机上安装VMware vSphere Client，管理员和用户就可从任何Windows PC通过VMware vSphere Client远程连接到vCenter Server中来管理和维护虚拟机集群。在实际的使用中，为安全考虑可以通过网络的访问策略限制访问IP等方式实现只有特定的管理员在特定的电脑上进行虚拟化系统的管理和维护工作。</p>
+        <p>维护管理人员通过在Windows PC上安装Vmware vCenter Converter Standalone虚拟机迁移软件将虚拟机或者物理服务器迁移到ESXi物理服务器中作为虚拟机，Vmware vCenter Converter Standalone可以对Windows和Linux系统进行迁移，并且能够迁移第三方虚拟机(如微软的Virtual PC、HyperVM等)和第三方虚拟机镜像。Vmware vCenter Converter Standalone还支持热迁移，可以将正在运行的系统迁移到ESXi物理机中作为虚拟机。通过这个方法可以快速实现将传统服务器上的应用迁移到虚拟机集群系统中来，并保持业务的连续性。</p>
+      </sec>
+      <sec id="s6_4">
+        <title>4.4. 实施过程</title>
+        <p>在9台物理服务器上安装VMware ESXi5.5，并配置密码和网络。通过OVF模版方式部署VMware vCenter5.5到物理服务器上并配置网络。通过VMware vCenter建立集群并添加物理服务器，并根据网路环境配置主机虚拟机交换机和网络环境。配置存储阵列并映射到物理服务器主机群。通过Vmware vCenter Converter Standalone将运行中系统迁移到物理服务器中作为虚拟机。创建Windows Server2008、Windows Server2012等常用服务器系统模版，由模版快速创建相应系统的虚拟机部署应用。手动创建特殊需求的虚拟机硬件并安装相应的操作系统及应用。采用虚拟化集中管理软件对整个虚拟化集群高效管理。使用自动化脚本及相应软件对虚拟机以及数据库等重要数据进行备份及容灾管理。</p>
+      </sec>
+      <sec id="s6_5">
+        <title>4.5. 实施效果</title>
+        <p>通过VMware虚拟化系统在中原工程公司数据中心的部署，将地区公司原门户网站、OA办公、视频会议等十余套系统成功迁移到虚拟化系统中，解决了服务器单点故障问题。各应用数据集中存放在共享存储阵列中，保证了数据安全性并提高了I/O性能，实现了数据集中管理和备份，可实现快速可靠的灾难恢复，实现了故障服务器自动迁移和虚拟化应用的高可用性。减少了服务器数量，简化了管理，减少了运维人员的工作量，降低了运维成本。</p>
+        <p>在实际使用过程中，除了正常的应用及业务的使用外，VMware虚拟化系统可以快速搭建测试环境，虚拟机的部署时间非常快，在使用模版的情况下几分钟就可以部署一台虚拟机服务器，中原工程公司数据中心在开发业务中经常使用虚拟环境部署多台虚拟机服务器来作为测试环境，测试完后可随时将测试虚拟机从虚拟化及集群中删除来释放资源，为开发工作提供了高效的环境，提高了开发效率，并且减少了硬件采购的支出。</p>
+        <p>在调试过程中对VMwareVmotion、VMware HA、WMware DRS进行了测试，实现了各模块的功能。特别是Vmotion的使用非常方便，当需要对某个物理服务器进行停机维护时，通过使用Vmotion将该物理服务器上的虚拟机迁移到其他的物理服务器上，既保证了虚拟机业务的连续性又保证了对物理服务器的维护。可以通过使用Vmotion功能来对物理服务器进行计划内的停机维护而又不停止业务。</p>
+      </sec>
+      <sec id="s6_6">
+        <title>4.6. 虚拟化实施建议</title>
+        <p>由于所有虚拟机文件都保存在SAN共享存储阵列中，相当于把数据的鸡蛋都放在了SAN存储阵列的一个篮子里。数据存储的安全性尤为重要，存储阵列的热备和冗余设计是必须要考虑的。使用VMware vCenter Converter Standalone迁移系统耗时较长并且产生虚拟机占用空间特别大，对于重建难度不大的系统不建议采用Converter Standalone进行系统迁移。</p>
+        <p>虚拟化并不适合所有的应用。由于高性能计算业务会充分利用CPU的资源，在使用高性能计算业务时CPU利用率会非常高，具有资源的独占性，所以高性能计算适宜采用虚拟化技术。视频服务之类连续占用计算机资源的应用也不适合使用虚拟化技术。占用大量I/O和内存资源的大负载应用同样也不适合采用虚拟化技术。</p>
+        <p>虚拟化的实施应根据公司的资源及资源使用情况以及实际业务情况，制定系统的实施规划，而不能盲目地追赶虚拟化的新技术。在资源充足的情况下可以考虑异地双活的虚拟化方案，这种方式可以最大化地保证数据的安全性和业务的连续性。</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>5. 结语</title>
+      <p>服务器虚拟化是一项较新的信息技术，随着虚拟化技术发展成熟，服务器虚拟化技术必将得到越来越广泛的使用。服务器虚拟化将成为未来服务器发展的新趋势。当然在数据中心建设过程中还是要根据实际应用情况来考虑不同的服务器形式。</p>
+      <p>VMware虚拟化系统经过一段时间的运行后，实践证明了虚拟化技术的优势。VMware虚拟化应用在中原工程公司数据中心已初见成效。下一步可研究多集群、异地双活、异地容灾等内容来进一步提高数据应用的安全高效应用。</p>
+      <p>[编辑] 帅群</p>
+    </sec>
+  </body>
+  <back>
+     <ref-list>
+  <ref id="hanspub.22342-ref1">
+    <label>1</label>
+    <mixed-citation publication-type="other" xlink:type="simple"></mixed-citation>
+  </ref>
+  </ref-list>
+  </back>
+</article>

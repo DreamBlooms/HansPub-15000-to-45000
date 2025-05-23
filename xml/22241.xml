@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">NST</journal-id>
+      <journal-title-group>
+        <journal-title>Nuclear Science and Technology</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2332-7111</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/NST.2017.54029</article-id>
+      <article-id pub-id-type="publisher-id">NST-22241</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>NST20170400000_55309698.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>工程技术</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          符合法测量
+          <sup>60</sup>Co放射源活度的精度研究
+          Study on Accuracy of
+          <sup>60</sup>Co Radioactive Source Activity Measured by Coincidence Method
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>殷</surname>
+            <given-names>志成</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>赵</surname>
+            <given-names>修良</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>贺</surname>
+            <given-names>三军</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>陈</surname>
+            <given-names>航</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>丽艳</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>周</surname>
+            <given-names>超</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <addr-line>南华大学核科学技术学院，湖南 衡阳 </addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>南华大学核科学技术学院，湖南 衡阳</addr-line>
+      </aff>
+      <aff id="aff1">
+        <addr-line>null</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="cor1">
+          * E-mail:<email>zhaoxiul@163.com(赵修)</email>;
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>09</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>05</volume>
+      <issue>04</issue>
+      <fpage>226</fpage>
+      <lpage>236</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+
+          本文介绍了γ-γ符合法测量放射源活度的基本原理，阐述实验过程中为达到最高精度，各个插件参数的设置方法；详细讨论了测量时间对测量结果的影响，并讨论在该条件下符合法测量源活度能够达到的精度。实验结果表明：最佳测量时间为100 s；符合法实验测得<sup>60</sup>Co放射源的活度为142,620 &#177; 924 Bq，测量精度为308 Bq，测量结果的相对偏差为0.217%；实验所得的源活度与实验时源的参考活度相对偏差为1.09%，在误差范围内一致。 This paper introduces the basic principle of γ-γ coincidence method for measuring the activity of radioactive source, and the setting method of each plug-in parameter is described in order to achieve the highest precision. The influence of the measurement time on the measurement results is discussed in detail, and the accuracy of the measurement method can be achieved under the condition of the method. The experimental results show that the best measurement time is 100 s. The activity of the <sup>60</sup>Co radioactive source is 142,620 &#177; 924 Bq, the measurement accuracy is 308 Bq, and the relative deviation of the measurement result is 0.217%. The experiment turns out that the activity and experimental time the relative deviation of the reference activity of the source is 1.09%, which is consistent within the error range.
+
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>γ-γ符合，测量精度，相对偏差，最佳测量时间, γ-γ Coincidence</kwd>
+        <kwd> Measurement Accuracy</kwd>
+        <kwd> Relative Deviation</kwd>
+        <kwd> The Best Measurement Time</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        符合法测量<sup>60</sup>Co放射源活度的精度研究<sup> </sup>
+      </title>
+      <p>
+        殷志成，赵修良<sup>*</sup>，贺三军，陈航，刘丽艳，周超
+      </p>
+      <p>南华大学核科学技术学院，湖南 衡阳</p>
+      <disp-formula id="hanspub.22241-formula11">
+        <graphic xlink:href="//html.hanspub.org/file/5-3150100x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2017年9月8日；录用日期：2017年9月22日；发布日期：2017年9月30日</p>
+      <disp-formula id="hanspub.22241-formula12">
+        <graphic xlink:href="//html.hanspub.org/file/5-3150100x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>
+        本文介绍了γ-γ符合法测量放射源活度的基本原理，阐述实验过程中为达到最高精度，各个插件参数的设置方法；详细讨论了测量时间对测量结果的影响，并讨论在该条件下符合法测量源活度能够达到的精度。实验结果表明：最佳测量时间为100 s；符合法实验测得<sup>60</sup>Co放射源的活度为142,620 &#177; 924 Bq，测量精度为308 Bq，测量结果的相对偏差为0.217%；实验所得的源活度与实验时源的参考活度相对偏差为1.09%，在误差范围内一致。
+      </p>
+      <p>关键词 :γ-γ符合，测量精度，相对偏差，最佳测量时间</p>
+      <disp-formula id="hanspub.22241-formula13">
+        <graphic xlink:href="//html.hanspub.org/file/5-3150100x7_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2017 by authors and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/5-3150100x8_hanspub.png" />
+        <img src="//html.hanspub.org/file/5-3150100x9_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>
+        γ标准放射源活度的准确测量是γ放射性活度绝对测量计量传递的关键技术。<sup>60</sup>Co放射源被广泛应用于放射性临床诊断、治疗 [<xref ref-type="bibr" rid="hanspub.22241-ref1">1</xref>] 、生物化学、动植物学及核科学等的基础研究，放射源活度测量的准确性直接影响到患者的治疗效果及科研结果的科学性。在不同领域的使用，对<sup>60</sup>Co放射源的测量精度有不同的要求；因此在进行相应的基础研究或诊断、治疗之前需要确定实验条件并选择合适的实验装置对放射源的活度进行测量 [<xref ref-type="bibr" rid="hanspub.22241-ref2">2</xref>] 。符合法作为一种放射源活度的绝对测量方法在各个领域中得到广泛应用；开设核学科的高校都设有符合法测量源活度的实验，在进行符合法测源活度时，本科生并不能准确、快速的将源的活度测量出来；本文意在给出符合法测量源活度数据上的参考，并讨论出高校一般符合测量系统能够达到的最高测量精度。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. 符合法原理</title>
+      <p>
+        γ-γ符合法测量<sup>60</sup>Co放射源的活度，实际上就是利用β衰变产生，退激放出2个γ粒子γ<sub>1</sub>、γ<sub>2</sub>之间的符合；如图1(a)，<sup>60</sup>Co的衰变为级联辐射，<sup>60</sup>Co经过β衰变到<sup>60</sup>Ni的激发态，通过放出一组级联γ<sub>1</sub>、γ<sub>2</sub>射线退激到<sup>60</sup>Ni的基态 [<xref ref-type="bibr" rid="hanspub.22241-ref3">3</xref>] ；如图1(b)，用两个探测器分别探测源放出的γ射线，输出的信号送入符合电路。
+      </p>
+      <p>实验所用实验装置如图2(a)、图2(b)，两个探头都为NaI(TI)闪烁探测器。</p>
+      <sec id="s4_1">
+        <title>2.1. 放射源活度的计算公式推导</title>
+        <p>
+          令<sup>60</sup>Co放射源的活度为A，实验装置第1道，第2道和符合道所接定标器测量折合的计数率分别为n<sub>γ</sub><sub>1</sub>、n<sub>γ</sub><sub>2</sub>、n<sub>γγ</sub>，设ε<sub>11</sub>、ε<sub>21</sub>分别为第1道对γ<sub>1</sub>、γ<sub>2</sub>射线的探测效率，ε<sub>12</sub>、ε<sub>22</sub>分别为第2道对γ<sub>1</sub>、γ<sub>2</sub>射线的探测效率，Ω<sub>γ</sub><sub>1</sub>、Ω<sub>γ</sub><sub>2</sub>分别为探测器1、探测器2对放射源所张的立体角；则有如下关系式：
+        </p>
+        <p>第1道计数率：</p>
+        <p>
+          n γ 1 = A Ω γ 1 ( ε 11 + ε 21 ) (1)<sub> </sub>
+        </p>
+        <p>第2道计数率：</p>
+        <p>
+          图1. (a) <sup>60</sup>Co衰变纲图；(b) 符合法示意图
+        </p>
+        <p>
+          图2. (a) γ-γ符合测量实验系统框图 [<xref ref-type="bibr" rid="hanspub.22241-ref4">4</xref>] ; (b) γ-γ符合测量实验系统实物图
+        </p>
+        <p>n γ 2 = A Ω γ 2 ( ε 12 + ε 22 ) (2)</p>
+        <p>符合道计数率：</p>
+        <p>n γ γ = A Ω γ 1 Ω γ 2 ( ε 11 ε 22 + ε 21 ε 12 ) (3)</p>
+        <p>式(1)、(2)代入式(3)，可得：</p>
+        <p>A = n γ 1 n γ 2 2 n γ γ [ 1 − ( ε γ 11 − ε γ 21 ) ( ε γ 12 − ε γ 22 ) ( ε γ 11 + ε γ 21 ) ( ε γ 12 + ε γ 22 ) ] (4)</p>
+        <p>
+          如果γ<sub>1</sub>、γ<sub>2</sub>的能量相近时有 ε γ 11 ≈ ε γ 21 ， ε γ 12 ≈ ε γ 22 ，则
+        </p>
+        <p>A = ( n γ 1 − n b 1 ) ( n γ 2 − n b 2 ) 2 ( n γ γ − n r c − n b ) (5)</p>
+        <p>
+          为了计算结果更加准确，在此基础上对n<sub>γ</sub><sub>1</sub>、n<sub>γ</sub><sub>2</sub>、n<sub>γγ</sub>进行本底修正、偶然符合计数修正后 [<xref ref-type="bibr" rid="hanspub.22241-ref5">5</xref>] ，则
+        </p>
+        <p>A = n γ 1 n γ 2 2 n γ γ (6)</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 最佳测量时间的测量</title>
+      <p>测量时间是符合测量过程中一个重要参数；设置的时间太长使得测量效率太低，太短则测量数据的统计涨落影响测量结果的准确度，因此需要设置一个恰当测量时间。</p>
+      <p>将测量时间依次设置为10 s、20 s、30 s、40 s、50 s、100 s、200 s，重复进行下述实验。</p>
+      <sec id="s5_1">
+        <title>3.1. 探测器与仪器预热</title>
+        <p>
+          按照图1连接实验装置图；将2个插件机箱的电源打开，仪器预热30分钟。测量探头的工作坪曲线，确定最佳工作电压，最佳工作电压取坪区1/3或1/2 [<xref ref-type="bibr" rid="hanspub.22241-ref6">6</xref>] ，这里最佳工作电压取坪区1/3；计算得探头A的最佳工作电压为550 V，探头B的最佳工作电压为540 V，分别将高压插件 [<xref ref-type="bibr" rid="hanspub.22241-ref7">7</xref>] 调至对应探头的最佳工作电压。
+        </p>
+        <p>
+          对各个道对应的定标器进行自检，定标器选择为“自检”，定时时间设为1 s (定器：k = 1，n = 0)，若仪器显示“19,456”，则证明定标器计数正常 [<xref ref-type="bibr" rid="hanspub.22241-ref8">8</xref>] ；
+        </p>
+        <p>
+          分别将<sup>137</sup>Cs源分别置于NaI (TI)探头1与NaI (TI)探头2之前，见图3(a)；2探头之间放置铅砖，减小源与源之间的干扰；将2个NaI (TI)探头输出 [<xref ref-type="bibr" rid="hanspub.22241-ref9">9</xref>] 、信号放大器的输出信号 [<xref ref-type="bibr" rid="hanspub.22241-ref10">10</xref>] 、2个单道的输出信号 [<xref ref-type="bibr" rid="hanspub.22241-ref11">11</xref>] 和符合插件 [<xref ref-type="bibr" rid="hanspub.22241-ref12">12</xref>] 的输出信号分别接入示波器观察是否有信号输出、输出的信号是否失真。
+        </p>
+        <p>
+          图3. (a) <sup>137</sup>Cs与探头位置；(b) <sup>60</sup>Co与探头位置
+        </p>
+      </sec>
+      <sec id="s5_2">
+        <title>
+          3.2. <sup>60</sup>Co放射源活度测量
+        </title>
+        <sec id="s5_2_1">
+          <title>3.2.1. 脉冲宽度的设置</title>
+          <p>1) 单道的工作方式选择为“积分”；</p>
+          <p>2) 调节放大器增益的粗调和微调使放大器的输出脉冲的幅度为3 V；</p>
+          <p>
+            <sup>137</sup>Cs输出的脉冲幅度为3 V时，在测量<sup>60</sup>Co源活度时，保持放大器的放大倍数不变，<sup>60</sup>Co源能量为1.137 MeV全能峰对应脉冲幅度大约6 V；由于单道的甄别阈为0~10 V，如若<sup>137</sup>Cs脉冲幅度太小，可能造成全能峰的重叠 [<xref ref-type="bibr" rid="hanspub.22241-ref13">13</xref>] ；若<sup>137</sup>Cs脉冲幅度太大，<sup>60</sup>Co的脉冲幅度更大，使得单道的阈值对于<sup>60</sup>Co来说毫无意义；因此本实验将<sup>137</sup>Cs的脉冲幅度调为3 V。
+          </p>
+          <p>3) 调节单道的甄别阈值为放大器输出脉冲幅度的75% (保证全能峰的计数都能够被记录下来；又去掉了X射线峰、反散射峰的计数贡献) (图4)；</p>
+          <p>
+            理想情况下阈值选择V3位置最好，但是由于探测器探测的全能峰会偏移 [<xref ref-type="bibr" rid="hanspub.22241-ref14">14</xref>] ，全能峰可能产生的漏计数；如若阈值选择V1位置峰的偏移，可能会记录到反散射峰贡献的计数；彭朝华等 [<xref ref-type="bibr" rid="hanspub.22241-ref15">15</xref>] 证实康普顿坪计数对活度测量影响为3%~5%；因此选择V2，V2靠近V3，既不会产生全能峰漏计数，也能减小康普顿坪计数对活度测量的影响；在上述工作电压、放大倍数的条件下，通过多道脉冲幅度分析器，得到<sup>137</sup>Cs该条件下的能谱；通过能谱测量得到V4 ≈ 2.8 V，V3 ≈ 2.45 V，V2 ≈ 2.1 V，V2/V4 ≈ 75%，峰偏移时，各个位置对应与脉冲幅度之间的比例不会改变，则V2的位置可近似看做脉冲幅度的75%。
+          </p>
+          <p>4) 调节符合插件上符合成形时间，经过2017年殷志成等(待发表)大量实验证明，该符合测量系统的最佳脉冲个宽度为0.39 μs；因此将符合电路插件I和II路的“监测”输出脉冲宽度调到0.39 μs。</p>
+        </sec>
+        <sec id="s5_2_2">
+          <title>3.2.2. 偶然符合计数及符合道符合计数测量</title>
+          <p>
+            1) 将两个<sup>137</sup>Cs源拿掉，并使<sup>60</sup>Co放射源夹于两个NaI (TI)闪烁探头之间，见图3(b)；
+          </p>
+          <p>2) 放大器增益的粗调和微调的倍数保持不变；单道工作方式仍为积分，通过示波器观察此时放大器输出脉冲幅度，调节对应单道的阈值为脉冲幅度的75%；</p>
+          <p>3) 固定将符合电路插件上I路延时固定某一位置，改变另一道的延时，延时从0.4 μs慢慢调节到最大处，若符合道的计数先是保持不变，在慢慢增大，增大后又慢慢减下，最后又保持不变，则最开始保持不变的计数即为偶然符合计数，该过程如图5所示；图中的1和4不产生符合计数，此时符合道的计数即为偶然符合计数。用定标器对符合道进行计数，计数时间为10秒，计数3次；</p>
+          <p>4) 再调节延迟使符合道脉冲计数为最大后，仪器预热30 s，用定标器对符合道进行计数，计数时间为10秒，计数3次</p>
+          <p>
+            图4. <sup>137</sup>cs的γ能谱及阈值选择示意图
+          </p>
+          <p>图5. 符合脉冲示意图</p>
+          <p>5) 将源拿掉并置于远离探头的位置，对第1道、第二道和符合道的本底计数进行测量，用定标器对符合道进行计数，计数时间为10秒，计数3次。</p>
+          <p>6) 定标器的测量时间后，预热30秒，重复3.3的测量过程；得到的测量数据处理以后见表1。</p>
+          <p>
+            γ-γ符合法测得的放射性活度A的物理量并不是直接得到的，它要通过诸如式(8)中各参量按着一定的函数关系计算得到。因此，实验中各个直接测量的物理量存在的误差会传递到间接测量的结果中去。所以对符合法测量误差进行分析可以考虑采用间接测量的误差传递公式。本符合测量中，物理量n<sub>γ</sub><sub>1</sub>、n<sub>γ</sub><sub>2</sub>中包含n<sub>γγ</sub>，所以这3个量是相关。为了选择独立的变量，可把n<sub>γ</sub><sub>1</sub>分成两部分：一部分是符合计数n<sub>γγ</sub>，另一部分是未符合的计数用n<sub>x</sub>表示。对n<sub>γ</sub><sub>2</sub>也是这样分成两部分即n<sub>γγ</sub>和n<sub>y</sub>。于是n<sub>γ</sub><sub>1</sub>、n<sub>γ</sub><sub>2</sub>可以写成。
+          </p>
+          <p>n γ 1 = n γ γ + n x ,     n γ 2 = n γ γ + n y</p>
+          <p>A = ( n γ γ + n x − n b 1 ) ( n γ γ + n y − n b 2 ) 2 ( n γ γ − n r c − n b ) (7)</p>
+          <p>
+            式中，n<sub>x</sub>、n<sub>y</sub>、n<sub>c</sub>、n<sub>b</sub><sub>1</sub>、n<sub>b</sub><sub>2</sub>、n<sub>b</sub>、n<sub>rc</sub>均为互相独立的变量，根据误差传递公式可得A的方差 [<xref ref-type="bibr" rid="hanspub.22241-ref5">5</xref>] ：
+          </p>
+          <p>σ A 2 = ( ∂ A ∂ n γ γ ) 2 σ n c 2 + ( ∂ A ∂ n x ) 2 σ n x 2 + ( ∂ A ∂ n y ) 2 σ n y 2 + ( ∂ A ∂ n b ) 2 σ n b 2     + ( ∂ A ∂ n b 1 ) 2 σ n b 1 2 + ( ∂ A ∂ n b 2 ) 2 σ n b 2 2 + ( ∂ A ∂ n r c ) 2 σ r c 2 (8)</p>
+          <p>其相对误差：</p>
+          <p>δ A = σ A A (9)</p>
+          <p>
+            由表2可知：测量时间越长测量得到<sup>60</sup>Co放射源的相对误差越小，计数统计误差越小；测量时间100 s、200 s的相对误差分别为0.35%、0.24%，2者之间相对误差接近，但是200 s的测量时间要比100 s的测量时间多100 s，极大的减慢了测量的速度；为确保测量的效率，又使统计误差的影响降低；测量时间取100 s。
+          </p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>
+        4. <sup>60</sup>Co放射源活度测量
+      </title>
+      <p>实验室构建两套符合测量实验系统。又偶然符合计数为式 n r c = 2 τ n γ 1 n γ 2 ，将式(6)计算放射源的公式变形成如下所示：</p>
+      <table-wrap id="table1" >
+        <label>
+          <xref ref-type="table" rid="table1">Table 1</xref>
+        </label>
+        <caption>
+          <title> The Calculated of nb1, nb2, nγ1, nγ2, nγγ, nrc and </title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >测量时间/s</th>
+                <th align="center" valign="middle" >
+                  n<sub>b</sub><sub>1</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >
+                  n<sub>b</sub><sub>2</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >
+                  n<sub>b</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >
+                  n<sub>γ</sub><sub>1</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >
+                  n<sub>γ</sub><sub>2</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >
+                  n<sub>γγ</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >
+                  n<sub>rc</sub>/s<sup>−</sup><sup>1</sup>
+                </th>
+                <th align="center" valign="middle" >A/Bq</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >7.6</td>
+              <td align="center" valign="middle" >8.3</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9955.5</td>
+              <td align="center" valign="middle" >8942.9</td>
+              <td align="center" valign="middle" >377.8</td>
+              <td align="center" valign="middle" >63</td>
+              <td align="center" valign="middle" >141,139</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >20</td>
+              <td align="center" valign="middle" >8.4</td>
+              <td align="center" valign="middle" >8.25</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9948.4</td>
+              <td align="center" valign="middle" >9001.8</td>
+              <td align="center" valign="middle" >377.3</td>
+              <td align="center" valign="middle" >63.6</td>
+              <td align="center" valign="middle" >142,479</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >30</td>
+              <td align="center" valign="middle" >8.3</td>
+              <td align="center" valign="middle" >8.5</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9646.9</td>
+              <td align="center" valign="middle" >9284.4</td>
+              <td align="center" valign="middle" >377.1</td>
+              <td align="center" valign="middle" >63.7</td>
+              <td align="center" valign="middle" >142,630</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >40</td>
+              <td align="center" valign="middle" >8.0</td>
+              <td align="center" valign="middle" >8.7</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9978.5</td>
+              <td align="center" valign="middle" >9043.2</td>
+              <td align="center" valign="middle" >380.2</td>
+              <td align="center" valign="middle" >63.7</td>
+              <td align="center" valign="middle" >142,290</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >50</td>
+              <td align="center" valign="middle" >8.2</td>
+              <td align="center" valign="middle" >8.3</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9640.4</td>
+              <td align="center" valign="middle" >9399.5</td>
+              <td align="center" valign="middle" >380.2</td>
+              <td align="center" valign="middle" >65.2</td>
+              <td align="center" valign="middle" >143,557</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >100</td>
+              <td align="center" valign="middle" >8.4</td>
+              <td align="center" valign="middle" >8.6</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9565.2</td>
+              <td align="center" valign="middle" >9272.1</td>
+              <td align="center" valign="middle" >375.4</td>
+              <td align="center" valign="middle" >63.7</td>
+              <td align="center" valign="middle" >141,985</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >200</td>
+              <td align="center" valign="middle" >8.1</td>
+              <td align="center" valign="middle" >8.8</td>
+              <td align="center" valign="middle" >0</td>
+              <td align="center" valign="middle" >9958.9</td>
+              <td align="center" valign="middle" >9396.9</td>
+              <td align="center" valign="middle" >394.2</td>
+              <td align="center" valign="middle" >66.1</td>
+              <td align="center" valign="middle" >142,372</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>
+        表1. n<sub>b</sub><sub>1</sub>, n<sub>b</sub><sub>2</sub>, n<sub>γ</sub><sub>1</sub>, n<sub>γ</sub><sub>2</sub>, n<sub>γγ</sub>, n<sub>rc</sub>及A计算值
+      </p>
+      <table-wrap id="table2" >
+        <label>
+          <xref ref-type="table" rid="table2">Table 2</xref>
+        </label>
+        <caption>
+          <title> Measured A, σA and δA by different measurement time</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >测量时间/s</th>
+                <th align="center" valign="middle" >A/Bq</th>
+                <th align="center" valign="middle" >
+                  σ<sub>A</sub>/Bq
+                </th>
+                <th align="center" valign="middle" >
+                  δ<sub>A</sub>
+                </th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >141,139</td>
+              <td align="center" valign="middle" >1530</td>
+              <td align="center" valign="middle" >1.08%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >20</td>
+              <td align="center" valign="middle" >142,479</td>
+              <td align="center" valign="middle" >1095</td>
+              <td align="center" valign="middle" >0.77%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >30</td>
+              <td align="center" valign="middle" >142,630</td>
+              <td align="center" valign="middle" >896</td>
+              <td align="center" valign="middle" >0.63%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >40</td>
+              <td align="center" valign="middle" >142,290</td>
+              <td align="center" valign="middle" >769</td>
+              <td align="center" valign="middle" >0.54%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >50</td>
+              <td align="center" valign="middle" >143,557</td>
+              <td align="center" valign="middle" >698</td>
+              <td align="center" valign="middle" >0.49%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >100</td>
+              <td align="center" valign="middle" >141,985</td>
+              <td align="center" valign="middle" >490</td>
+              <td align="center" valign="middle" >0.35%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >200</td>
+              <td align="center" valign="middle" >142,372</td>
+              <td align="center" valign="middle" >338</td>
+              <td align="center" valign="middle" >0.24%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>
+        表2. 不同测量时间测量得到的A, σ<sub>A</sub>及δ<sub>A</sub>
+      </p>
+      <p>A = ( n γ 1 − n b 1 ) ( n γ 2 − n b 2 ) 2 ( n γ γ − 2 τ n γ 1 n γ 2 − n b ) (10)</p>
+      <p>重复上述3.3.1的步骤，经测量计算得到2套符合测量系统探头最佳工作电压如表3所示。</p>
+      <sec id="s6_1">
+        <title>4.1. 符合分辨时间τ的测量</title>
+        <p>1) 单道的工作方式选择为“积分”；调节放大器增益的粗调和微调使放大器的输出脉冲的幅度为3 V；调节单道的甄别阈值为放大器输出脉冲幅度的75%；</p>
+        <p>2) 将符合电路插件I和II路的监测输出接到示波器上，调节符合电路插件上的符合成形时间，使得Ⅰ和Ⅱ的监测输出脉冲的宽度为0.39 &#181;s；</p>
+        <p>3) 分别调节三个定标器的定时时间设为100秒，并同时对第1道、第2道、符合道进行计数，计数3次，对源距探头5个不同距离重复测量；每次改变条件后，仪器预热100 s，再重新测量。</p>
+        <p>
+          计数的相对误差要求小于1%，即计数率要大于100 s<sup>−1</sup>；改变源距探头距离的时候，要求符合道的计数有显著的改变，若改变的不显著，可能造成多点重合，增大拟合结果的误差(表4)。
+        </p>
+        <p>根据公式(7)，使用最小二乘法拟合得到结果见表5。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 符合计数及各道本底计数测量</title>
+        <p>
+          1) 将两个<sup>137</sup>Cs源拿掉，并使<sup>60</sup>Co放射源夹于两个NaI (TI)闪烁探头之间，见图3(b)。
+        </p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> The best working voltage of each prob</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >探头</th>
+                  <th align="center" valign="middle" >第一套系统最佳工作电压/V</th>
+                  <th align="center" valign="middle" >第二套系统最佳工作电压/V</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >探头A</td>
+                <td align="center" valign="middle" >510 V</td>
+                <td align="center" valign="middle" >550 V</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >探头B</td>
+                <td align="center" valign="middle" >540 V</td>
+                <td align="center" valign="middle" >540 V</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表3. 各探头最佳工作电压</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> The calculate data of 2nγ1, nγ2 and nr</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  rowspan="2"  >次数</th>
+                  <th align="center" valign="middle"  rowspan="2"  >探头A与源的距离，探头B与源的距离/cm</th>
+                  <th align="center" valign="middle"  colspan="2"  >第一套系统</th>
+                  <th align="center" valign="middle"  colspan="2"  >第二套系统</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >
+                  2n<sub>γ</sub><sub>1</sub>n<sub>γ</sub><sub>2</sub>/s<sup>−</sup><sup>2</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>rc</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  2n<sub>γ</sub><sub>1</sub>n<sub>γ</sub><sub>2</sub>/s<sup>−</sup><sup>2</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>rc</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="5"  >第1次</td>
+                <td align="center" valign="middle" >2, 2</td>
+                <td align="center" valign="middle" >9,469,769</td>
+                <td align="center" valign="middle" >3.63</td>
+                <td align="center" valign="middle" >9,648,520</td>
+                <td align="center" valign="middle" >3.50</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1, 1</td>
+                <td align="center" valign="middle" >23,920,861</td>
+                <td align="center" valign="middle" >8.73</td>
+                <td align="center" valign="middle" >23,875,457</td>
+                <td align="center" valign="middle" >8.63</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0.5, 1</td>
+                <td align="center" valign="middle" >30,736,639</td>
+                <td align="center" valign="middle" >11.66</td>
+                <td align="center" valign="middle" >31,863,920</td>
+                <td align="center" valign="middle" >11.67</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0.5, 0.5</td>
+                <td align="center" valign="middle" >39,426,156</td>
+                <td align="center" valign="middle" >14.68</td>
+                <td align="center" valign="middle" >40,930,006</td>
+                <td align="center" valign="middle" >14.85</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0, 0.5</td>
+                <td align="center" valign="middle" >51,933,348</td>
+                <td align="center" valign="middle" >19.44</td>
+                <td align="center" valign="middle" >51,052,040</td>
+                <td align="center" valign="middle" >19.04</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="5"  >第2次</td>
+                <td align="center" valign="middle" >2, 2</td>
+                <td align="center" valign="middle" >8,186,750</td>
+                <td align="center" valign="middle" >2.93</td>
+                <td align="center" valign="middle" >9,698,688</td>
+                <td align="center" valign="middle" >3.63</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1, 1</td>
+                <td align="center" valign="middle" >19,966,954</td>
+                <td align="center" valign="middle" >7.47</td>
+                <td align="center" valign="middle" >23,242,000</td>
+                <td align="center" valign="middle" >8.36</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0.5, 1</td>
+                <td align="center" valign="middle" >26,702,631</td>
+                <td align="center" valign="middle" >9.88</td>
+                <td align="center" valign="middle" >32,121,816</td>
+                <td align="center" valign="middle" >11.34</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0.5, 0.5</td>
+                <td align="center" valign="middle" >32,663,447</td>
+                <td align="center" valign="middle" >11.95</td>
+                <td align="center" valign="middle" >42,329,116</td>
+                <td align="center" valign="middle" >15.35</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0, 0.5</td>
+                <td align="center" valign="middle" >39,842,104</td>
+                <td align="center" valign="middle" >14.52</td>
+                <td align="center" valign="middle" >52,152,502</td>
+                <td align="center" valign="middle" >19.00</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle"  rowspan="5"  >第3次</td>
+                <td align="center" valign="middle" >2, 2</td>
+                <td align="center" valign="middle" >8,414,033</td>
+                <td align="center" valign="middle" >3.09</td>
+                <td align="center" valign="middle" >10,747,351</td>
+                <td align="center" valign="middle" >3.97</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >1, 1</td>
+                <td align="center" valign="middle" >21,260,775</td>
+                <td align="center" valign="middle" >7.91</td>
+                <td align="center" valign="middle" >24,812,721</td>
+                <td align="center" valign="middle" >8.76</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0.5, 1</td>
+                <td align="center" valign="middle" >27,594,961</td>
+                <td align="center" valign="middle" >10.45</td>
+                <td align="center" valign="middle" >33,682,452.5</td>
+                <td align="center" valign="middle" >12.47</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0.5, 0.5</td>
+                <td align="center" valign="middle" >36,772,327</td>
+                <td align="center" valign="middle" >13.17</td>
+                <td align="center" valign="middle" >42,234,850.3</td>
+                <td align="center" valign="middle" >15.36</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >0, 0.5</td>
+                <td align="center" valign="middle" >49,004,730</td>
+                <td align="center" valign="middle" >18.67</td>
+                <td align="center" valign="middle" >53,586,585.37</td>
+                <td align="center" valign="middle" >19.81</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+          表4. 2n<sub>γ</sub><sub>1</sub>, n<sub>γ</sub><sub>2</sub>, n<sub>rc</sub>计算数据
+        </p>
+        <table-wrap id="table5" >
+          <label>
+            <xref ref-type="table" rid="table5">Table 5</xref>
+          </label>
+          <caption>
+            <title> Obtained τ by fitting 5 point</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle" >次数</th>
+                  <th align="center" valign="middle" >第一套系统τ/us</th>
+                  <th align="center" valign="middle" >第二套系统τ/us</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >第1次</td>
+                <td align="center" valign="middle" >0.374</td>
+                <td align="center" valign="middle" >0.373</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >第2次</td>
+                <td align="center" valign="middle" >0.365</td>
+                <td align="center" valign="middle" >0.362</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >第3次</td>
+                <td align="center" valign="middle" >0.378</td>
+                <td align="center" valign="middle" >0.371</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>表5. 5点拟合得到的τ</p>
+        <p>2) 放大器增益的粗调和微调的倍数保持不变；单道工作方式仍为积分，通过示波器观察此时放大器输出脉冲幅度，调节对应单道的阈值为脉冲幅度的75%。</p>
+        <p>3) 固定将符合电路插件上Ⅰ路延时固定某一位置，改变另一道的延时，延时从0.4 μs慢慢调节到最大处，同时记录各个延迟时刻的符合计数，找到符合计数最大处。</p>
+        <p>4) 用定标器同时对符合道、第1道、第2道进行计数，计数时间为100秒，计数3次，改变条件后，仪器预热100 s，测量数据经计算后，结果见表6。</p>
+        <table-wrap id="table6" >
+          <label>
+            <xref ref-type="table" rid="table6">Table 6</xref>
+          </label>
+          <caption>
+            <title> The calculated of nb1, nb2, nγ1, nγ2 and nγ</title>
+          </caption>
+          <table>
+            <tbody>
+              <thead>
+                <tr>
+                  <th align="center" valign="middle"  rowspan="2"  >次数</th>
+                  <th align="center" valign="middle"  colspan="5"  >第一套系统</th>
+                  <th align="center" valign="middle"  colspan="5"  >第二套系统</th>
+                </tr>
+              </thead>
+              <tr>
+                <td align="center" valign="middle" >
+                  n<sub>b</sub><sub>1</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>b</sub><sub>2</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>γ</sub><sub>1</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>γ</sub><sub>2</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>γγ</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>b</sub><sub>1</sub>/s<sup>−1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>b</sub><sub>2</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>γ</sub><sub>1</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>γ</sub><sub>2</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+                <td align="center" valign="middle" >
+                  n<sub>γγ</sub>/s<sup>−</sup><sup>1</sup>
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >第1次</td>
+                <td align="center" valign="middle" >7.1</td>
+                <td align="center" valign="middle" >9.2</td>
+                <td align="center" valign="middle" >6882</td>
+                <td align="center" valign="middle" >8779</td>
+                <td align="center" valign="middle" >233.0</td>
+                <td align="center" valign="middle" >7.88</td>
+                <td align="center" valign="middle" >8.14</td>
+                <td align="center" valign="middle" >10,084</td>
+                <td align="center" valign="middle" >8738</td>
+                <td align="center" valign="middle" >374.9</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >第2次</td>
+                <td align="center" valign="middle" >6.6</td>
+                <td align="center" valign="middle" >7.8</td>
+                <td align="center" valign="middle" >6776</td>
+                <td align="center" valign="middle" >9264</td>
+                <td align="center" valign="middle" >240.4</td>
+                <td align="center" valign="middle" >7.87</td>
+                <td align="center" valign="middle" >8.48</td>
+                <td align="center" valign="middle" >9514</td>
+                <td align="center" valign="middle" >9385</td>
+                <td align="center" valign="middle" >376.6</td>
+              </tr>
+              <tr>
+                <td align="center" valign="middle" >第3次</td>
+                <td align="center" valign="middle" >6.7</td>
+                <td align="center" valign="middle" >8.2</td>
+                <td align="center" valign="middle" >7055</td>
+                <td align="center" valign="middle" >8674</td>
+                <td align="center" valign="middle" >235.0</td>
+                <td align="center" valign="middle" >7.76</td>
+                <td align="center" valign="middle" >9.13</td>
+                <td align="center" valign="middle" >9351</td>
+                <td align="center" valign="middle" >9420</td>
+                <td align="center" valign="middle" >373.3</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>
+          表6. n<sub>b</sub><sub>1</sub>, n<sub>b</sub><sub>2</sub>, n<sub>γ</sub><sub>1</sub>, n<sub>γ</sub><sub>2</sub>, n<sub>γγ</sub>计算值
+        </p>
+        <p>
+          5) 计算<sup>60</sup>Co放射源的活度A
+        </p>
+        <p>
+          将处理以后的数据带入式(7)，可得<sup>60</sup>Co放射源的活度A<sub>1</sub>、A<sub>2</sub>、A<sub>3</sub>，相关计算数据计算值如表7所示。
+        </p>
+        <p>
+          本次实验室2套符合测量系统均对同一个<sup>60</sup>Co的放射源活度进行测量，且各次测量时间间隔较短，可认为在短时间<sup>60</sup>Co源的活度是不变的；测量误差都是由于仪器与统计误差造成。则引入塞贝尔公式 [<xref ref-type="bibr" rid="hanspub.22241-ref16">16</xref>] ：
+        </p>
+        <p>σ s = ∑ i = 1 k ( A i − A &#175; ) 2 k − 1 (11)</p>
+        <p>其相对偏差为：</p>
+        <p>δ A = σ s A &#175; (12)</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>5. 结果分析</title>
+      <p>从表5可知，γ-γ符合测量实验系统在脉冲宽度设为0.39 &#181;s，理论上符合测量系统的符合分辨时间应该为0.39 &#181;s，但是2套符合测量装置测量数据拟合得出的符合分辨时间都小于0.39 &#181;s，在0.37 &#181;s上下波动，因此每次测量源活度之前都必须重新测量该符合测量的符合分辨时间。</p>
+      <p>
+        该<sup>60</sup>Co放射源出厂时间为2015年1月，出厂活度为1.96 &#215; 10<sup>5</sup> Bq；2017年6月进行了本次实验，计算得到实验时源的参考活度为141,086 Bq。由表8可知：第一套、第二套符合测量系统测量数据计算出的<sup>60</sup>Co放射源的活度分别为161,099 Bq、142,620 Bq，2套符合测量系统使用的插件型号均相同，实验过程中设置的参数均相同；理论上2套符合测量系统测出来的<sup>60</sup>Co放射源的活度应在误差范围内一致，但第一套符合测量系统测量的活度值要远远大于第二套符合测量系统；且第二套符合测量系统测量结果与参考源的活度相对偏差为1.09%在误差范围内一直，如若2套符合测量系统的第一道与第二道计数相同则第一套的符合测量系统真符合计数必定小于第二套符合测量系统。
+      </p>
+      <p>符合插件其本身具有时间分辨本领，符合插件的符合分辨时间不能随意减小，本次实验2套符合测量系统设置的符合分辨时间都为0.39 &#181;s，测量时间相同，第二套符合测量系统的真符合计数大于第一套符合测量系统，则说明第一套符合测量系统真符合计数产生了“漏计数”，即第二套符合测量系统的符合插件的性能好于第一套符合测量系统。</p>
+      <p>
+        比较两个符合插件的性能好坏，可同时构建2套符合测量系统测量；先测量第一套符合测量系统的最佳脉冲宽度；再同时用2套符合测量系统测量同一个<sup>60</sup>Co放射源的活度，2套符合测量系统的符合分辨时间都设为第一套符合测量系统测出的最佳脉冲宽度且其他参数设置相同；通过比较两套符合测量系统测量出的放射源的活度；若第二套符合测量系统测量活度小于第一套系统，则第二套符合测量系统的符合插件性能好于第一套系统；反之第一套符合测量系统的符合插件的性能好于第二套。
+      </p>
+      <table-wrap id="table7" >
+        <label>
+          <xref ref-type="table" rid="table7">Table 7</xref>
+        </label>
+        <caption>
+          <title> The calculated of A1, A2 and A</title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >
+                  A<sub>i</sub>
+                </th>
+                <th align="center" valign="middle" >第一套系统/Bq</th>
+                <th align="center" valign="middle" >第二套系统/Bq</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                A<sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >160,486</td>
+              <td align="center" valign="middle" >142,274</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                A<sub>2</sub>
+              </td>
+              <td align="center" valign="middle" >161,052</td>
+              <td align="center" valign="middle" >142,866</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >A3</td>
+              <td align="center" valign="middle" >161,758</td>
+              <td align="center" valign="middle" >142,720</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>
+        表7. A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>计算值
+      </p>
+      <table-wrap id="table8" >
+        <label>
+          <xref ref-type="table" rid="table8">Table 8</xref>
+        </label>
+        <caption>
+          <title> The calculated of A &#175; , σ s and δ A </title>
+        </caption>
+        <table>
+          <tbody>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >参数</th>
+                <th align="center" valign="middle" >A &#175; /Bq</th>
+                <th align="center" valign="middle" >σ s /Bq</th>
+                <th align="center" valign="middle" >δ A &#175; /Bq</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >第一套系统</td>
+              <td align="center" valign="middle" >161099</td>
+              <td align="center" valign="middle" >637</td>
+              <td align="center" valign="middle" >0.395%</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >第二套系统</td>
+              <td align="center" valign="middle" >142620</td>
+              <td align="center" valign="middle" >308</td>
+              <td align="center" valign="middle" >0.217%</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>表8. A &#175; , σ s 及 δ A &#175; 计算值</p>
+      <p>
+        文献报道中1990年许茂国 [<xref ref-type="bibr" rid="hanspub.22241-ref17">17</xref>] 利用γ-γ符合法测量放射源<sup>60</sup>Co的活度，测量结果的相对偏差为1.4%；2002年程敏熙 [<xref ref-type="bibr" rid="hanspub.22241-ref18">18</xref>] 使用γ-γ符合法对<sup>60</sup>Co放射源的活度进行测量，测量结果的相对偏差为3.93%；2003年马文彦等 [<xref ref-type="bibr" rid="hanspub.22241-ref19">19</xref>] 通过β-γ符合法测量<sup>60</sup>Co放射源的活度，测量结果的相对偏差4.18%；2013年颜拥军等 [<xref ref-type="bibr" rid="hanspub.22241-ref20">20</xref>] 利用数字符合法测量<sup>60</sup>Co放射射源的活度，测量结果的相对偏差为2.51%。
+      </p>
+      <p>
+        该实验测量出的<sup>60</sup>Co放射源的活度为142620Bq，相对偏差为0.217%，与其精度要比上述学者测量出的<sup>60</sup>Co放射源的精度都要高；与实验时放射源的参考活度的相对偏差为1.09%，在误差范围内一致；通过此实验步骤及插件的相关参数的设置，能够快速、准确的测量出<sup>60</sup>Co放射源的活度。
+      </p>
+    </sec>
+    <sec id="s8">
+      <title>6. 结论</title>
+      <p>
+        本文详细介绍了γ-γ符合法测量<sup>60</sup>Co放射源活度的原理，以及测量活度的实验步骤；阐述了为保证测量精度符合测量系统各插件相关参数设置方法；通过实验可知每套符合套测量系统都有其固有的符合分辨本领，实验之前必须找到其最佳脉冲宽度，且每次进行实验时都需对符合测量系统的符合分辨时间重新进行测量；本次实验测量出的<sup>60</sup>Co放射源活度为142,620 &#177; 924 Bq，测量精度为308 Bq，测量结果的相对偏差为0.217%；实验所得的源活度与实验时源的参考活度相对偏差为1.09%，在误差范围内一致，测量结果稳定可靠，实验精度要好于其他学者测量结果的精度。
+      </p>
+    </sec>
+    <sec id="s9">
+      <title>基金项目</title>
+      <p>湖南省科技计划项目( 2015SK20063)。</p>
+    </sec>
+    <sec id="s10">
+      <title>文章引用</title>
+      <p>
+        殷志成,赵修良,贺三军,陈航,刘丽艳,周超. 符合法测量<sup>60</sup>Co放射源活度的精度研究 Study on Accuracy of <sup>60</sup>Co Radioactive Source Activity Measured by Coincidence Method[J]. 核科学与技术, 2017, 05(04): 226-236. http://dx.doi.org/10.12677/NST.2017.54029
+      </p>
+    </sec>
+    <sec id="s11">
+      <title>参考文献 (References)</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.22241-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王彬生. 放射性活度计测量的误差来源和控制[J]. 中国医疗设备, 2010, 25(8): 85-86.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">马文彦, 闫桂英, 奇格其. β-γ符合法测量&lt;sup&gt;60&lt;/sup&gt;Coβ放射源活度误差分析[J]. 计量技术, 2005(7): 32-34.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">卢希庭. 原子核物理[M]. 北京: 原子能出版社, 2000.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">谢菊英, 董国福, 顾龙, 等. 符合系统的调试及应用[J]. 核电子学与探测技术, 2010, 30(5): 694-697.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">复旦大学. 原子核物理实验方法[M]. 北京: 原子能出版社, 1981.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">凌球, 等. 核辐射探测[M]. 修订版. 北京: 原子能出版社, 2002.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">北京核仪器厂. BH1283N高压电源使用说明书[Z].</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref8">
+        <label>8</label>
+        <mixed-citation publication-type="other" xlink:type="simple">张玉琴, 刘伟. 如何正确使用定标器[J]. 核电子学与探测技术, 1981(2): 65-66.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref9">
+        <label>9</label>
+        <mixed-citation publication-type="other" xlink:type="simple">FJ-374NaI(Tl)γ闪烁探头使用说明书[Z].</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref10">
+        <label>10</label>
+        <mixed-citation publication-type="other" xlink:type="simple">北京核仪器厂. BH1218放大器使用说明[Z].</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref11">
+        <label>11</label>
+        <mixed-citation publication-type="other" xlink:type="simple">北京核仪器厂. FH0001B插件机箱使用说明[Z].</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref12">
+        <label>12</label>
+        <mixed-citation publication-type="other" xlink:type="simple">北京核仪器厂. BH1221型符(反符)合[Z].</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref13">
+        <label>13</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王经瑾. 核电子学[M]. 北京: 原子能出版社, 1985.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref14">
+        <label>14</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杨焕章. 航空γ能谱探头温度效应及校正技术研究[D]: [硕士学位论文]. 成都: 成都理工大学, 2009.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref15">
+        <label>15</label>
+        <mixed-citation publication-type="other" xlink:type="simple">彭朝华, 吴小光, 李广生. 放射性活度的γ-γ符合测量[J]. 原子能科学技术, 2001, 35(3): 258-262.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref16">
+        <label>16</label>
+        <mixed-citation publication-type="other" xlink:type="simple">李志宏, 余忠民. 怎样正确理解和运用标准偏差σ [J]. 机电工程技术, 2000(2): 11-13.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref17">
+        <label>17</label>
+        <mixed-citation publication-type="other" xlink:type="simple">许国茂. 符合法测量放射源&lt;sup&gt;60&lt;/sup&gt;Co和&lt;sup&gt;131&lt;/sup&gt;I的绝对强度[J]. 华侨大学学报: 自然科学版, 1990(1): 25-31.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref18">
+        <label>18</label>
+        <mixed-citation publication-type="other" xlink:type="simple">程敏熙. 符合测量实验方法研究[J]. 大学物理, 2002, 21(6): 28-32.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref19">
+        <label>19</label>
+        <mixed-citation publication-type="other" xlink:type="simple">马文彦, 邱晓林, 齐格奇, 等. 用符合法测量β放射源的活度[J]. 计量技术, 2002(7): 32-34.</mixed-citation>
+      </ref>
+      <ref id="hanspub.22241-ref20">
+        <label>20</label>
+        <mixed-citation publication-type="other" xlink:type="simple">颜拥军, 杨朝桐, 赖伟,等. 数字符合法&lt;sup&gt;60&lt;/sup&gt;Co源活度测量实验研究[J]. 核电子学与探测技术, 2013, 33(5): 629-632.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article"><front><journal-meta><journal-id journal-id-type="publisher-id">JOGT</journal-id><journal-title-group><journal-title>Journal of Oil and Gas Technology</journal-title></journal-title-group><issn pub-type="epub">2471-7185</issn><publisher><publisher-name>Scientific Research Publishing</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.12677/JOGT.2020.422019</article-id><article-id pub-id-type="publisher-id">JOGT-36943</article-id><article-categories><subj-group subj-group-type="heading"><subject>JOGT20200200000_15830951.pdf</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>地球与环境</subject><subject> 工程技术</subject><subject> 合作期刊</subject></subj-group></article-categories><title-group><article-title>
+ 
+ 
+  雅布赖盆地新河组块状砂岩沉积–成岩–物性耦合机制
+  Coupling Mechanism of Sedimentation-Diagenesis-Physical Property from Xinhe Formation Massive Sandstones in Yabrai Basin
+ 
+</article-title></title-group><contrib-group><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>周</surname><given-names>晓峰</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>唐</surname><given-names>海忠</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>魏</surname><given-names>军</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>肖</surname><given-names>文华</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>张</surname><given-names>蕊胜</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>李</surname><given-names>景</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>赵</surname><given-names>隽</given-names></name><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib></contrib-group><aff id="aff3"><addr-line>中国石油玉门油田分公司勘探开发研究院，甘肃 酒泉</addr-line></aff><aff id="aff1"><addr-line>null</addr-line></aff><aff id="aff2"><addr-line>中国石油大学(北京)，石油工程学院，北京；中国石油大学(北京)，石油工程教育部重点实验室，北京；油气资源与工程国家重点实验室，北京</addr-line></aff><pub-date pub-type="epub"><day>15</day><month>06</month><year>2020</year></pub-date><volume>42</volume><issue>02</issue><fpage>79</fpage><lpage>93</lpage><permissions><copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement><copyright-year>2014</copyright-year><license><license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p></license></permissions><abstract><p>
+ 
+ 
+  雅布赖盆地新河组块状砂岩的孔隙度与渗透率交会图呈现出特殊的“两竖夹一横”特征，通过岩心观察、物性、铸体薄片、扫描电镜等开展沉积–成岩–物性耦合机制研究以查明孔隙度与渗透率相关性差的根源。结果表明，3种沉积–成岩–物性耦合机制形成了7类砂岩是雅布赖盆地新河组块状砂岩物性复杂的根源。高粘滞性砂质碎屑流沉积物在压实作用下形成I类低孔低渗砂岩，低粘滞性砂质碎屑流沉积物在伊利石晶间孔和方解石溶蚀孔的共同作用下形成II类中孔中渗砂岩，颗粒流沉积在方解石胶结物和碎屑长石差异溶蚀作用下形成了III类低孔低渗砂岩、IV类中孔中渗砂岩、V类高孔中渗砂岩、VI类高孔中渗砂岩、VII类高孔高渗砂岩。孔隙度与渗透率交会图中，“左下竖”由I和III类砂岩构成，“右上竖”为VII类砂岩，“一横”由II类和IV~VI类砂岩组成。沉积作用是砂岩物性差异的内在因素，而成岩作用是砂岩物性差异的直接原因，二者共同作用是雅布赖盆地新河组块状砂岩孔隙度和渗透率相关性复杂多变的根源。
+   Based on core observation, physical property, casting thin section and SEM, coupling mechanism of sedimentation-diagenesis-physical property from Xinhe Formation massive sandstones in Yabrai Basin was investigated, in order to discover the root of the poor correlation between porosity and permeability whose crossplot exhibits the complex “two vertical sections clamping one horizontal section” feature. The result shows that 3 kinds of the coupling mechanisms of the sedimentation-diagenesis-physical property control the development processes of 7 types of massive sandstones and this fact is the root of the complex physical property from Xinhe Formation massive sandstones in Yabrai Basin. The high viscous sandy debris flow sediment forms the type-I low porosity and permeability sandstones under compaction. The low viscous sandy debris flow sed-iment with intergranular pore of illites and calcite dissolved pores becomes the type-II middle porosity and permeability sandstones. By the differential dissolution of the calcite cement and feldspar, the grain flow sediment evolves to the type-III low porosity and permeability sandstones, type-IV middle porosity and permeability sandstones, type-V high porosity and middle permeability, type-VI high porosity and middle permeability and type-VII high porosity and permeability. In the crossplot of the porosity and permeability, its left lower vertical section consists of the type-I and type-III sandstones, the right upper vertical section is type-VII sandstones, and the middle horizontal section is composed of the type-II sandstones and type-IV to type-VI sandstones. The root of the poor correlation between porosity and permeability is attributed to the sedimentation and diagenesis, of the two, the former is the internal factor of the poor physical property, and the latter is the direct cause of the poor physical property.
+ 
+</p></abstract><kwd-group><kwd>块状砂岩，物性特征，沉积作用，成岩作用，新河组，雅布赖盆地, Massive Sandstones</kwd><kwd> Physical Property</kwd><kwd> Sedimentation</kwd><kwd> Diagenesis</kwd><kwd> Xinhe Formation</kwd><kwd> Yabrai Basin</kwd></kwd-group></article-meta></front><body><sec id="s1"><title>雅布赖盆地新河组块状砂岩沉积–成岩–物性耦合机制<sup> </sup></title><p>周晓峰<sup>1,2,3</sup>，唐海忠<sup>4</sup>，魏 军<sup>4</sup>，肖文华<sup>4</sup>，张蕊胜<sup>4</sup>，李景<sup>4</sup>，赵隽<sup>4</sup></p><p><sup>1</sup>中国石油大学(北京)，石油工程学院，北京</p><p><sup>2</sup>中国石油大学(北京)，石油工程教育部重点实验室，北京</p><p><sup>3</sup>油气资源与工程国家重点实验室，北京</p><p><sup>4</sup>中国石油玉门油田分公司勘探开发研究院，甘肃 酒泉</p><p>收稿日期：2020年3月13日；录用日期：2020年4月16日；发布日期：2020年6月15日</p><disp-formula id="hanspub.36943-formula3"><graphic xlink:href="//html.hanspub.org/file/10-1110087x5_hanspub.png"  xlink:type="simple"/></disp-formula></sec><sec id="s2"><title>摘 要</title><p>雅布赖盆地新河组块状砂岩的孔隙度与渗透率交会图呈现出特殊的“两竖夹一横”特征，通过岩心观察、物性、铸体薄片、扫描电镜等开展沉积–成岩–物性耦合机制研究以查明孔隙度与渗透率相关性差的根源。结果表明，3种沉积–成岩–物性耦合机制形成了7类砂岩是雅布赖盆地新河组块状砂岩物性复杂的根源。高粘滞性砂质碎屑流沉积物在压实作用下形成I类低孔低渗砂岩，低粘滞性砂质碎屑流沉积物在伊利石晶间孔和方解石溶蚀孔的共同作用下形成II类中孔中渗砂岩，颗粒流沉积在方解石胶结物和碎屑长石差异溶蚀作用下形成了III类低孔低渗砂岩、IV类中孔中渗砂岩、V类高孔中渗砂岩、VI类高孔中渗砂岩、VII类高孔高渗砂岩。孔隙度与渗透率交会图中，“左下竖”由I和III类砂岩构成，“右上竖”为VII类砂岩，“一横”由II类和IV~VI类砂岩组成。沉积作用是砂岩物性差异的内在因素，而成岩作用是砂岩物性差异的直接原因，二者共同作用是雅布赖盆地新河组块状砂岩孔隙度和渗透率相关性复杂多变的根源。</p><p>关键词 :块状砂岩，物性特征，沉积作用，成岩作用，新河组，雅布赖盆地</p><disp-formula id="hanspub.36943-formula4"><graphic xlink:href="//html.hanspub.org/file/10-1110087x6_hanspub.png"  xlink:type="simple"/></disp-formula><p>Copyright &#169; 2020 by author(s), Yangtze University and Hans Publishers Inc.</p><p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p><p>http://creativecommons.org/licenses/by/4.0/</p><p><img src="//html.hanspub.org/file/10-1110087x7_hanspub.png" /> <img src="//html.hanspub.org/file/10-1110087x8_hanspub.png" /></p></sec><sec id="s3"><title>1. 问题的提出</title><p>雅布赖盆地位于河西走廊中段，行政区划隶属于内蒙古阿拉善右旗和甘肃省民勤县，面积约1.5 &#215; 10<sup>4</sup> km<sup>2</sup>。盆地的油气勘探始于20世纪60年代，先后钻探20余口井，仅少数井经压裂在侏罗系新河组块状砂岩中获工业油流，展现出油气分布的复杂性。13口井218组新河组块状砂岩的孔隙度和渗透率数据统计结果(图1)发现，孔隙度分布范围0.9%~15.4%，平均值为6.8%，在&lt;3%、3%~6%、6%~9%、9%~12%的区间内孔隙度分布频率相近；渗透率分布在(0.02~237.1) &#215; 10<sup>−3</sup> μm<sup>2</sup>，平均值为4.7 &#215; 10<sup>−3</sup> μm<sup>2</sup>，以(0.3~6) &#215; 10<sup>−3</sup> μm<sup>2</sup>分布频率最高，占80.7%；由孔隙度与渗透率的交会图可以看出，二者相关性极差，总体呈现出“上下两竖夹一横”的特征。“左下竖”由19组孔隙度 &lt; 5%、渗透率 &lt; 0.3 &#215; 10<sup>−3</sup> μm<sup>2</sup>的数据组成，“右上竖”由17组孔隙度 &gt; 10%、渗透率 &gt; 6 &#215; 10<sup>−3</sup> μm<sup>2</sup>的数据组成，“一横”由176组0.9% &lt; 孔隙度 &lt; 14.9%、0.3 &#215; 10<sup>−3</sup> μm<sup>2</sup> &lt; 渗透率 &lt; 6 &#215; 10<sup>−3</sup> μm<sup>2</sup>的数据组成。“两竖”中，孔隙度变化范围小于5%，但渗透率变化可达一个数量级；“一横”中，渗透率变化范围可达一个数量级，但孔隙度相差达10%以上，这些特征反映出新河组块状砂岩的物性复杂性。</p><p>砂岩物性是沉积和成岩作用的综合响应 [<xref ref-type="bibr" rid="hanspub.36943-ref1">1</xref>] [<xref ref-type="bibr" rid="hanspub.36943-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.36943-ref3">3</xref>]，因此，孔隙度和渗透率关系的复杂性预示着新河组块状砂岩沉积和成岩作用的复杂性。本文通过岩心观察、物性、铸体薄片、扫描电镜等开展沉积–成岩–物性耦合机制研究来查明孔隙度与渗透率相关性差的根源。</p><p>为了方便开展研究，建立了适用于雅布赖盆地新河组砂岩的物性分类标准(表1)。表1结合图1可以看出，“左竖”为低孔低渗砂岩，“右竖”为高孔高渗砂岩，“一横”包括低孔中渗、中孔中渗和高孔中渗砂岩。</p><p>图1. 雅布赖盆地新河组块状砂岩孔隙度和渗透率特征(218组数据)</p><table-wrap id="table1" ><label><xref ref-type="table" rid="table1">Table 1</xref></label><caption><title> Classification standard of physical property from Xinhe Formation massive sandstones in Yabrai Basi</title></caption><table><tbody><thead><tr><th align="center" valign="middle"  colspan="3"  >孔隙度(Φ)/%</th><th align="center" valign="middle"  colspan="3"  >渗透率(K)/10<sup>−3</sup> μm<sup>2</sup></th></tr></thead><tr><td align="center" valign="middle" >低孔</td><td align="center" valign="middle" >中孔</td><td align="center" valign="middle" >高孔</td><td align="center" valign="middle" >低渗</td><td align="center" valign="middle" >中渗</td><td align="center" valign="middle" >高渗</td></tr><tr><td align="center" valign="middle" >&lt;5</td><td align="center" valign="middle" >5 ≤ Φ ≤ 10</td><td align="center" valign="middle" >&gt;10</td><td align="center" valign="middle" >&lt;0.3</td><td align="center" valign="middle" >0.3 ≤ K ≤ 6</td><td align="center" valign="middle" >&gt;6</td></tr></tbody></table></table-wrap><p>表1. 雅布赖盆地新河组砂岩物性分类标准</p></sec><sec id="s4"><title>2. 样品选取和研究流程</title><p>选取有孔隙度和渗透率数据的98块样品制作铸体薄片，在通过镜下观察碎屑颗粒组分、胶结物特征以及储集空间类型后，根据岩石学特征差异对块状砂岩进行分类。其中，低孔中渗砂岩岩石学特征最为复杂，包括了其它物性区间砂岩岩石学特征的过渡信息，本次不将其作为研究对象。</p><p>在砂岩岩石学特征分类的基础上，结合物性特征，选出49个具有典型岩石学特征的铸体薄片完成镜下鉴定，定量统计碎屑组分、填隙物含量以及储集空间的面孔率，并辅以扫描电镜观察提高鉴定结果的微观分辨率和岩心观察明确砂岩的宏观特征，研究不同砂岩类型的沉积作用和成岩作用差异，进而定量分析块状砂岩分类约束下的孔隙度和渗透率关系，并讨论沉积–成岩–物性的耦合机制。</p></sec><sec id="s5"><title>3. 结果分析</title><sec id="s5_1"><title>3.1. 块状砂岩分类</title><p>岩心观察发现，雅布赖盆地新河组砂岩主要为块状不等粒砂岩(图2)。根据岩石的颜色，块状砂岩可以分为灰白色砂岩(图2(a))和灰褐色砂岩(图2(b))，灰白色为砂岩的本色，而灰褐色为油质沥青的颜色。滴5%的稀盐酸发现，灰褐色砂岩均缓慢起泡，而灰白色砂岩有3种响应特征，分别为剧烈起泡、缓慢起泡和不起泡。通过对应的铸体薄片镜下观察可知，不起泡者为泥质全充填砂岩，剧烈起泡者为方解石全充填砂岩，缓慢起泡者为有一定含量方解石的砂岩。</p><p>图2. 雅布赖盆地新河组块状砂岩典型岩心图像</p><p>镜下观察和鉴定发现，新河组块状砂岩可以划分为7类砂岩(表2，图3)。7类砂岩以其所独有的岩石学特征进行命名，其中，“某物质全充填砂岩”是指该物质全充填粒间孔隙的砂岩，“富某物质砂岩”是指粒间孔隙中该物质丰富但不全充填粒间孔隙的砂岩。伊利石晶间孔、高岭石晶间孔和蛋白石微粒间孔均以伊利石、高岭石、蛋白石所占岩石体积的30%计算。长石溶孔和火山岩屑溶孔均为长石矿物溶蚀的产物，统称为长石质溶孔。</p><p>I类——泥质全充填砂岩，石英含量15.4%~27.3%，平均值为21.3%；长石含量24.6%~37.2%，平均值为31.2%；火成岩屑含量9.4%~15.8%，平均值为12.4%；变质岩屑含量10.4%~17.8%，平均值为13.9%；沉积岩屑含量1.3%~4.6%，平均值为2.5%；泥质含量13.5%~22.3%，平均值为18.7%。该类砂岩的特征是骨架颗粒“漂浮”在泥质之中(图3(a))。</p><p>II类——富伊利石膜砂岩。碎屑组分中，石英、长石、岩屑含量的平均值依次为21.4%、36.2%、25.2%；伊利石膜含量4.6%~6.8%，平均值为5.6%。胶结物为方解石，含量5.9%~7.7%，平均值为6.9%。储集空间由粒间孔、伊利石晶间孔和长石质溶孔组成，其中粒间孔的面孔率1.6%~4.1%，平均值为2.5%；伊利石晶间孔的面孔率1.1%~1.7%，平均值为1.4%；长石质溶孔的面孔率0.7%~1.3%，平均值为0.8%。伊利石膜具有两种赋存形式，充填状和环边状伊利石膜。充填状伊利石膜具有里、外双层结构，里层膜(依附于骨架颗粒)部分的伊利石片状或长条状，外层膜是里层膜向着孔隙方向的延伸，晶体形貌由片状转化为长条状或由长条状转化为丝状(图3(b))。环边状包裹骨架颗粒的伊利石膜厚度一般不超过10 μm，伊利石晶形差，紧贴着颗粒表面，孔隙中充填的方解石胶结物通常沿着边缘溶蚀成环边状溶孔(图3(c))，因其位于粒间孔隙中，文中暂称为粒间孔。</p><table-wrap id="table2" ><label><xref ref-type="table" rid="table2">Table 2</xref></label><caption><title> Classification statistics from Xinhe Formation massive sandstones (49 samples</title></caption><table><tbody><thead><tr><th align="center" valign="middle"  colspan="2"  >类型</th><th align="center" valign="middle" >I类</th><th align="center" valign="middle" >II类</th><th align="center" valign="middle" >III类</th><th align="center" valign="middle" >IV类</th><th align="center" valign="middle" >V类</th><th align="center" valign="middle" >VI类</th><th align="center" valign="middle" >VII类</th></tr></thead><tr><td align="center" valign="middle"  colspan="2"  >命名</td><td align="center" valign="middle" >泥质全充填 砂岩</td><td align="center" valign="middle" >富伊利石膜 砂岩</td><td align="center" valign="middle" >方解石全充填砂岩</td><td align="center" valign="middle" >富方解石 砂岩</td><td align="center" valign="middle" >富高岭石和 方解石砂岩</td><td align="center" valign="middle" >富高岭石 砂岩</td><td align="center" valign="middle" >富蛋白石膜 砂岩</td></tr><tr><td align="center" valign="middle"  colspan="2"  >样品数</td><td align="center" valign="middle" >7</td><td align="center" valign="middle" >7</td><td align="center" valign="middle" >6</td><td align="center" valign="middle" >8</td><td align="center" valign="middle" >8</td><td align="center" valign="middle" >7</td><td align="center" valign="middle" >6</td></tr><tr><td align="center" valign="middle"  rowspan="7"  >碎 屑 组 分 / %</td><td align="center" valign="middle" >石英</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="46" style="width:34.3pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 15.4~27.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="46" style="width:34.3pt;padding:0cm 0cm 0cm 0cm"> 21.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.4~27.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >21.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 17.3~25.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 21.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >17.3~25.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >21.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 15.1~25.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 20.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.1~25.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >20.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 19.1~30.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 24.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >19.1~30.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 12.6~22.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 16.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.6~22.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >16.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 21.4~29.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 25.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >21.4~29.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >25.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 15.1~23.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 19.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.1~23.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >19.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.4~27.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >21.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >17.3~25.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >21.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.1~25.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >20.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >19.1~30.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.6~22.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >16.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >21.4~29.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >25.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.1~23.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >19.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >长石</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 24.6~37.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 31.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.6~37.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >31.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 30.1~40.0 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 36.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >30.1~40.0</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >36.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 30.9~39.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 33.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >30.9~39.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >33.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 24.8~31.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 28.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.8~31.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >28.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 26.9~33.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 29.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >26.9~33.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >29.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 17.7~26.0 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 22.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >17.7~26.0</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >22.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 24.3~30.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 27.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.3~30.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >27.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.6~37.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >31.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >30.1~40.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >36.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >30.9~39.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >33.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.8~31.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >28.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >26.9~33.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >29.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >17.7~26.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >22.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >24.3~30.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >27.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >火成岩屑</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 9.4~15.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 12.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >9.4~15.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 10.4~16.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 14.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.4~16.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >14.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 9.8~15.0 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 12.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >9.8~15.0</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 13.4~18.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 15.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >13.4~18.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 9.3~17.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 14.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >9.3~17.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >14.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 5.9~15.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 8.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.9~15.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 14.9~18.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 16.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >14.9~18.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >16.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >9.4~15.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.4~16.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >14.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >9.8~15.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >13.4~18.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >15.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >9.3~17.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >14.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.9~15.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >14.9~18.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >16.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >变质岩屑</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 10.4~17.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 13.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.4~17.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >13.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 6.0~12.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 8.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.0~12.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 6.3~10.0 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 7.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.3~10.0</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 4.9~10.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 8.0 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.9~10.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.0</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 8.9~15.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 11.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.9~15.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >11.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 7.3~14.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 10.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.3~14.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 4.7~10.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 7.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.7~10.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.4~17.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >13.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.0~12.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.3~10.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.9~10.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >8.9~15.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >11.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.3~14.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.7~10.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >沉积岩屑</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.3~4.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 2.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.3~4.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.5~3.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 2.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.5~3.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.1~2.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 1.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.1~2.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.4~3.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 2.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4~3.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.4~3.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 2.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4~3.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.5~2.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 1.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.5~2.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 2.1~4.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 2.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.1~4.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.3~4.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.5~3.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.1~2.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4~3.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4~3.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.5~2.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.1~4.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >泥质</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 13.5~22.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 18.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >13.5~22.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >18.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >13.5~22.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >18.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >伊利石膜</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 4.6~6.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 5.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.6~6.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.6~6.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle"  rowspan="5"  >胶 结 物 / %</td><td align="center" valign="middle" >方解石</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 5.9~7.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 6.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.9~7.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 19.4~27.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 23.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >19.4~27.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >23.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 6.3~13.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 10.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.3~13.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 6.1~8.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 7.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.1~8.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.6~2.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 2.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 2.1~4.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 3.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.1~4.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.9~7.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >19.4~27.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >23.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.3~13.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.1~8.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.1~4.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >蛋白石膜</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 5.4~6.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 6.0 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.4~6.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.4~6.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.0</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >高岭石</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 4.1~5.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 4.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.1~5.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 10.4~12.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 12.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.4~12.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.1~5.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >10.4~12.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >12.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >次生 石英加大</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.4~1.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 0.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.4~1.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.0~0.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 0.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.0~0.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.8~2.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 1.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.8~2.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.9~1.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9~1.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.4~1.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.0~0.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.8~2.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9~1.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >次生 长石加大</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.9~1.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9~1.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.4~1.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 0.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.4~1.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.5~1.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 0.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.5~1.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.6~2.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9~1.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.4~1.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.5~1.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle"  rowspan="6"  >储 集 空 间 类 型 / %</td><td align="center" valign="middle" >粒间孔</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.7~3.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.7~3.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 6.3~8.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 7.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.3~8.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 3.0~7.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 5.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.0~7.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 2.0~6.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 3.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.0~6.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 6.4~8.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 7.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.4~8.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.7~3.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.3~8.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.0~7.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.0~6.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >6.4~8.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >7.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >长石质 溶孔</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.7~1.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 0.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.7~1.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.3~3.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 2.5 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.3~3.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.5</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 2.6~6.2 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 4.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.6~6.2</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 3.9~6.6 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 5.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.9~6.6</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 2.9~4.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 3.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.9~4.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.7~1.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.3~3.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.5</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.6~6.2</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.9~6.6</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >5.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >2.9~4.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >3.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >伊利石 晶间孔</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.1~1.7 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.4 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.1~1.7</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.1~1.7</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.4</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >方解石 溶孔</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 0.5~1.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 0.8 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.5~1.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.8</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.5~1.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >0.8</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >高岭石 晶间孔</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.6~2.3 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.3</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 4.4~5.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;padding:0cm 0cm 0cm 0cm"> 4.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.4~5.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.9</td><td align="center" valign="middle" ></td><td align="center" valign="middle" >/</td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.3</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.4~5.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >4.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" >蛋白石 微粒间孔</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" >/</td><td align="center" valign="middle" ><table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;   mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:   none;mso-border-insidev:none"> 
+ <tbody> 
+  <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;border-bottom:solid windowtext 1.0pt;    mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"> 1.6~2.1 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+  <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+   <td width="45" style="width:34.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;    padding:0cm 0cm 0cm 0cm"> 1.9 </td> 
+   <td width="1" style="width:1.0pt;padding:0cm 0cm 0cm 0cm"> </td> 
+  </tr> 
+ </tbody> 
+</table></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.1</td><td align="center" valign="middle" ></td><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.6~2.1</td><td align="center" valign="middle" ></td></tr><tr><td align="center" valign="middle" ></td><td align="center" valign="middle" >1.9</td><td align="center" valign="middle" ></td></tr></tbody></table></table-wrap><p>表2. 新河组块状砂岩分类统计表(49个样品)</p><p>注：“/”铸体薄片鉴定含量 &lt; 0.1%。</p><p>III类——方解石全充填砂岩。碎屑组分中，石英、长石、岩屑含量的平均值依次为20.6%、33.9%、22.1%。胶结物为方解石，含量19.4%~27.5%，平均值为23.4%。方解石胶结物全充填粒间孔隙，碎屑颗粒之间点状或线状接触，常见基底式胶结，碎屑颗粒“漂浮”在方解石胶结物之中(图3(d)，图3(e))。</p><p>图3. 新河组块状砂岩典型微观图像</p><p>IV类——富方解石砂岩，石英、长石、岩屑含量的平均值依次为24.2%、28.1%、26.0%。胶结物中，方解石、次生长石加大、次生石英加大含量的平均值依次为10.1%、1.1%、0.9%。粒间孔、长石质溶孔面孔率的平均值依次为7.3%、2.5%。粒间孔壁面上发育次生石英加大和次生长石加大，孔中无高岭石等胶结物充填(图3(f))。</p><p>V类——富高岭石和方解石砂岩，方解石含量6.1%~8.8%，平均值为7.9%；高岭石含量4.1%~5.8%，平均值为4.7%；次生长石加大含量0.4%~1.1%，平均值为0.8%；次生石英加大含量0~0.8%，平均值为0.1%。粒间孔的面孔率3.0%~7.4%，平均值为5.3%；长石质溶孔的面孔率2.6%~6.2%，平均值为4.7%；高岭石晶间孔的面孔率1.6%~2.3%，平均值为1.9%。粒间孔中常见方解石和高岭石共生的现象(图3(g)，图3(h))。</p><p>VI类——富高岭石砂岩，高岭石含量10.4%~12.7%，平均值为12.1%；方解石含量1.6%~2.7%，平均值为2.1%；次生石英加大含量0.8%~2.1%，平均值为1.4%；次生长石加大含量0.5%~1.5%，平均值为0.9%。长石质溶孔的面孔率3.9%~6.6%，平均值为5.4%；高岭石晶间孔的面孔率4.4%~5.1%，平均值为4.9%；粒间孔的面孔率2.0%~6.7%，平均值为3.9%。粒间孔中高岭石丰富(图3(i)，图3(j))。</p><p>VII类——富蛋白石膜砂岩，蛋白石、方解石、次生长石加大、次生石英加大含量的平均值依次为6.0%、3.3%、1.9%、1.2%。粒间孔、长石质溶孔、蛋白石微粒间孔的面孔率平均值依次为7.5%、3.7%、1.9%。蛋白石膜环粒间孔分布，可依附在碎屑颗粒、次生石英加大、次生长石加大和方解石胶结物表面，微孔隙发育(图3(k)，图3(l))。</p><p>依据福克砂岩分类标准 [<xref ref-type="bibr" rid="hanspub.36943-ref4">4</xref>]，I类砂岩为长石岩屑砂岩，III类砂岩为岩屑长石砂岩，其它砂岩为长石岩屑砂岩和岩屑长石砂岩(图4)。总体上，石英、长石、岩屑等碎屑组分含量变化范围不大。</p><p>图4. 7类块状砂岩三端元分类(49个样品)</p><p>7类砂岩的胶结物类型及含量平均值直方图(图5)可见，不同种类砂岩的胶结物类型及含量差异明显。其中，I类砂岩中无胶结物；II类和III类砂岩中仅见方解石胶结物，但II类砂岩中方解石含量远低于III类砂岩中方解石含量；IV~VII类砂岩至少有3种类型胶结物，IV类砂岩以方解石为主，V类砂岩方解石和高岭石丰富，VI类砂岩以高岭石为主，VII类砂岩以富蛋白石有别于其它砂岩。</p><p>图5. 7类块状砂岩胶结物含量平均值直方图(49个样品)</p><p>7类砂岩的储集空间类型及面孔率平均值直方图(图6)可以看出，不同类型砂岩的储集空间类型及面孔率差异明显。I类和III类砂岩致密无孔，II类砂岩有伊利石晶间孔，IV类砂岩发育粒间孔，V类砂岩常见高岭石晶间孔，VI类砂岩高岭石晶间孔极为丰富，VII类砂岩富蛋白石微粒间孔。</p><p>图6. 7类块状砂岩储集空间面孔率直方图(49个样品)</p></sec><sec id="s5_2"><title>3.2. 砂岩分类约束下的物性特征</title><p>图7是砂岩分类约束下的物性特征图解，其中，图7(a)是孔隙度直方图，图7(b)是渗透率直方图，图7(c)是孔隙度与渗透率交会图。</p><p>图7(a)、图7(b)显示，I类砂岩的孔隙度为1.9%~4.2%，平均值为2.9%；渗透率为(0.03~0.15) &#215; 10<sup>−3</sup> μm<sup>2</sup>，平均值为0.09 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。II类砂岩的孔隙度为6.1%~8.6%，平均值为7.5%；渗透率为(0.61~1.62) &#215; 10<sup>−3</sup> μm<sup>2</sup>，平均值为1.12 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。III类砂岩的孔隙度为1.8%~3.2%，平均值为2.5%；渗透率为(0.01~0.19) &#215; 10<sup>−3</sup> μm<sup>2</sup>，平均值为0.11 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。IV类砂岩的孔隙度为6.3%~9.5%，平均值为7.6%；渗透率为(0.55~2.81) &#215; 10<sup>−3 </sup>μm<sup>2</sup>，平均值为1.37 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。V类砂岩的孔隙度为10.2%~13.8%，平均值为12.1%；渗透率为(0.39~4.65) &#215; 10<sup>−3 </sup>μm<sup>2</sup>，平均值为1.61 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。VI类砂岩的孔隙度为9.3%~12.6%，平均值为10.5%；渗透率为(0.58~4.41) &#215; 10<sup>−3 </sup>μm<sup>2</sup>，平均值为2.20 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。VII类砂岩的孔隙度为9.0%~11.8%，平均值为10.9%；渗透率为(10.55~68.59) &#215; 10<sup>−3 </sup>μm<sup>2</sup>，平均值为48.76 &#215; 10<sup>−3 </sup>μm<sup>2</sup>。图7(a)、图7(b)与图1(a)、图1(b)比对发现，砂岩分类将孔隙度和渗透率的分布划分为了几个值域区间，这有助于解释新河组块状砂岩孔隙度和渗透率分布复杂的原因。</p><p>图7. 7类块状砂岩孔隙度与渗透率特征(49组样品)</p><p>由图7(c)可知，I和III类、II和IV类、V和VI类砂岩的孔隙度和渗透率分布区间重叠，VII类砂岩的孔隙度与V和VI类砂岩的孔隙度重叠，但VII类砂岩的渗透率 &gt; V和VI类砂岩的渗透率；I和III类砂岩的孔隙度 &lt; II和IV类砂岩的孔隙度 &lt; V~VII类砂岩的孔隙度，但I和III类砂岩的渗透率 &lt; II类和IV~VI类砂岩的渗透率 &lt; VII类砂岩的渗透率，这些特征反映了新河组砂岩物性的复杂性。图7(c)和图1(c)对比表明，砂岩分类大致将新河组块状砂岩复杂的孔隙度和渗透率关系转化到4个值域区间：I和III类、II和IV类、V和VI类、VII类等，这有利于梳理新河组块状砂岩物性变化复杂的影响因素。</p><p>通过表1和图3~6对雅布赖盆地新河组块状砂岩岩石学特征与物性相关性的剖析可知，I类砂岩因泥质全充填而压实致密，III类砂岩因方解石全充填而胶结致密；II、IV~VII类砂岩的储集空间由粒间孔、长石质溶孔、高岭石晶间孔、伊利石晶间孔、蛋白石微粒间孔以不同的组合形式出现，造就了复杂多变的孔隙度和渗透率分布关系。</p></sec></sec><sec id="s6"><title>4. 讨论</title><sec id="s6_1"><title>4.1. 沉积作用类型</title><p>雅布赖盆地新河组砂岩主要为块状不等粒砂岩，指示其为重力流沉积的产物。</p><p>Shanmugam [<xref ref-type="bibr" rid="hanspub.36943-ref5">5</xref>] 根据泥质、砂砾、水的含量差异和沉积机制，将重力流划分为泥质碎屑流、砂质碎屑流、浊流、颗粒流等(见图8)。泥质碎屑流的粘滞性和塑性强，沉积岩为泥岩、泥质粉砂岩和粉砂质泥岩，常见包卷层理和泄水脉；浊流是紊流，经典同沉积构造现象为正递变层理；颗粒流粘性或粘滞性低，沉积岩中泥质含量不高，同沉积构造多为块状层理；砂质碎屑流是上述三者的中间流态，自然界中分布较为广泛，典型同沉积构造为顺层分布泥砾的块状层理，无任何组构的块状层理砂岩也常见。因此，雅布赖盆地新河组块状层理砂岩可能为砂质碎屑流沉积岩和/或颗粒流沉积岩。借助铸体薄片镜下观察很容易区分块状层理砂岩是砂质碎屑流还是颗粒流沉积岩。</p><p>图8. 沉积物重力流分类(据Shanmugam，1996)</p><p>镜下观察和鉴定结果表明，I类砂岩中的泥质为内碎屑，II类砂岩中充填状伊利石膜为泥质内碎屑转化而来，环边状包裹碎屑颗粒的伊利石膜为泥质内碎屑膜转化而来，III~VII类砂岩中未见泥质沉积物。因此，根据是否有泥质内碎屑及其含量的高低，可以将雅布赖盆地新河组块状砂岩划分为高粘滞性砂质碎屑流沉积岩(I类砂岩，泥质含量平均值为18.7%)、低粘滞性砂质碎屑流沉积岩(II类砂岩，泥质含量平均值为5.6%)和颗粒流沉积岩(III~VII类砂岩，无泥质沉积物)。</p></sec><sec id="s6_2"><title>4.2. 成岩作用特征</title><p>含油砂岩目前大多数处在中成岩阶段A期，发生的主要成岩事件有压实作用、胶结作用和溶蚀作用。一般情况下，压实作用主要发生在早成岩阶段A期，是砂岩物性变差的主要因素。胶结作用可发生在成岩作用过程的各个阶段，方解石或石英通常是体积最大的胶结物，对砂岩物性变差有重要影响。溶蚀作用通常主要发生在中成岩阶段A期，溶蚀流体为有机酸流体，使长石和碳酸盐等易溶颗粒溶蚀形成次生孔隙，改善砂岩物性。但对大气水淋滤和深源流体的溶蚀作用也不容忽视 [<xref ref-type="bibr" rid="hanspub.36943-ref6">6</xref>] [<xref ref-type="bibr" rid="hanspub.36943-ref7">7</xref>]。</p><p>雅布赖盆地新河组埋藏深度曾超过3000 m [<xref ref-type="bibr" rid="hanspub.36943-ref8">8</xref>]，古地温超过100℃ [<xref ref-type="bibr" rid="hanspub.36943-ref9">9</xref>]，0.6% &lt; Ro &lt; 1.3% [<xref ref-type="bibr" rid="hanspub.36943-ref10">10</xref>]，推断砂岩目前处于中成岩阶段A期。砂岩中发育方解石、高岭石、蛋白石、次生石英加大等胶结物和长石质溶孔，指示成岩过程中发生过碱性和酸性流体环境的交替，碱性流体作用下形成方解石沉淀，酸性流体作用下长石质颗粒溶蚀产生溶蚀孔隙，并为高岭石、蛋白石、次生石英加大和次生长石加大等提供了物质来源。其中，蛋白石膜在砂岩中并不多见，研究成果较少，仅有Stokkendal等 [<xref ref-type="bibr" rid="hanspub.36943-ref11">11</xref>] 和Weibel等 [<xref ref-type="bibr" rid="hanspub.36943-ref12">12</xref>] 在北海古近系砂岩中发现了丰富的蛋白石膜，并认为蛋白石由生物硅转化而来。雅布赖盆地新河组砂岩为陆内湖泊环境的沉积物，蛋白石膜的物质来源于长石质颗粒溶蚀产生的富SiO<sub>2</sub>流体，而生物硅提供蛋白石物质来源的可能性小。</p><p>已有研究 [<xref ref-type="bibr" rid="hanspub.36943-ref8">8</xref>] 表明，虽然新河组曾经历抬升构造运动，但未上升至地表而遭受大气水淋滤，也没有发现深部来源流体的信息，因此溶蚀性流体只能是中成岩阶段A期的有机酸流体，长石质溶孔、高岭石和次生石英加大等均是中成岩阶段A期有机酸流体溶蚀作用的产物。</p><p>III类砂岩中方解石胶结物浸染状分布在碎屑颗粒之间，压实作用弱，碎屑颗粒之间点状或线状接触，也常见碎屑颗粒“漂浮”在方解石之中(图3(d)和图(e))，说明浸染状分布的方解石胶结物形成于早成岩阶段A期的压实作用之前。IV~VII类砂岩中常见方解石团块胶结碎屑颗粒的现象(图3(f)~(i)，图3(k))，且碎屑颗粒之间的接触关系与III类砂岩相似，预示着团块状方解石胶结物也形成于早成岩阶段A期的压实作用之前。团块状方解石边缘溶蚀现象普遍、IV~VII类砂岩与III类砂岩中碎屑颗粒之间的接触关系相似表明，团块状方解石是由浸染状方解石在中成岩阶段A期发生溶蚀作用的残留物，粒间孔为浸染状方解石胶结物的溶孔，IV~VII类砂岩是III类砂岩差异溶蚀作用的产物，压实作用较弱主要是团块状方解石承担了部分上覆地层压力。通常情况下，方解石胶结物溶蚀殆尽形成的次生粒间孔与原生粒间孔难以分辨，如准噶尔盆地腹部侏罗系三工河组砂岩的储集空间以原生粒间孔隙为主 [<xref ref-type="bibr" rid="hanspub.36943-ref13">13</xref>] 或混合孔隙为主 [<xref ref-type="bibr" rid="hanspub.36943-ref14">14</xref>] 或次生粒间孔隙为主 [<xref ref-type="bibr" rid="hanspub.36943-ref15">15</xref>] 等不同认识主要是对粒间孔是方解石溶蚀孔还是原生孔的不同认识产生的。虽然次生粒间孔隙能够将方解石胶结作用的记录消去，但更可能的是留下片段记录 [<xref ref-type="bibr" rid="hanspub.36943-ref16">16</xref>]。只有找到方解石胶结作用和溶解作用的典型岩石学证据，提取片段记录的有效信息，才能确定碎屑颗粒之间的孔隙是原生粒间孔隙还是次生粒间孔隙，进而确定砂岩的储集空间类型。重视方解石胶结物的赋存状态与溶蚀流体的配置关系，将浸染状方解石与团块状方解石的形成时间分析置于岩石学特征与成岩作用演化序列的研究之中，才有可能获得更加客观的认识。如酒泉盆地营尔凹陷深层下沟组砂岩中，方解石胶结物的赋存状态为浸染状、团块状和斑点状，浸染状方解石形成于早成岩阶段Ａ期，团块状和斑点状方解石为浸染状方解石后期溶蚀形成 [<xref ref-type="bibr" rid="hanspub.36943-ref17">17</xref>]。研究区砂岩中方解石胶结物的赋存状态和岩石学特征与酒泉盆地营尔凹陷下沟组砂岩中方解石胶结物的赋存状态及岩石学特征相似，因此，推断研究区砂岩中团块状方解石为浸染状方解石溶蚀而来是合理的解释。</p></sec><sec id="s6_3"><title>4.3. 沉积–成岩–物性耦合机制</title><p>在沉积作用和成岩作用分析的基础上，以探究物性差异的根源为出发点将雅布赖盆地新河组7类块状砂岩的形成过程归纳为3种沉积–成岩–物性耦合机制，分别为高粘滞性砂质碎屑流沉积–成岩–物性耦合机制(I类砂岩)、低粘滞性砂质碎屑流沉积–成岩–物性耦合机制(II类砂岩)和颗粒流沉积–成岩–物性耦合机制(III~VII类砂岩)。</p><p>高粘滞性砂质碎屑流沉积–成岩–物性耦合机制中，沉积作用控制着砂岩物性，泥质内碎屑含量高达22.3%，骨架颗粒“漂浮”在泥质之中，未曾发生过明显的胶结和溶蚀作用，表现为压实致密。</p><p>低粘滞性砂质碎屑流沉积–成岩–物性耦合机制中，沉积作用和成岩作用共同控制砂岩物性，伊利石晶间孔隙和方解石溶蚀孔隙共同组成储集空间。泥质内碎屑含量为5.6%，有2种赋存形式，一是全充填粒间孔隙，另一是形成环边状泥质黏土膜(图9(a))。环边状包裹碎屑颗粒的蒙皂石膜使砂岩中保留了大量粒间孔隙，为方解石沉淀提供了空间。早成岩阶段A期，方解石沉淀在粒间孔隙中使砂岩致密(图9(b))。中成岩阶段A期，有机酸流体优先在黏土膜和方解石胶结物之间的缝隙中流动，引起方解石溶蚀形成环边状溶孔，方解石全部溶蚀则形成富伊利石膜的粒间孔；泥质全充填的孔隙中，石英、长石等刚性骨架颗粒几乎完全承载了上覆地层压力，孔隙中的泥质在成岩过程中转化为充填状伊利石膜，伴生丰富的伊利石晶间孔(图9(c))。鄂尔多斯盆地延长组长7砂岩中也发现类似的伊利石膜，具有双层结构，里层膜中伊利石片状或长条状，外层膜中伊利石片状或丝状，为充填孔隙的蒙皂石黏土转化而来 [<xref ref-type="bibr" rid="hanspub.36943-ref18">18</xref>]。以往的研究成果发现，环边状蒙皂石膜为机械渗滤作用形成 [<xref ref-type="bibr" rid="hanspub.36943-ref19">19</xref>] [<xref ref-type="bibr" rid="hanspub.36943-ref20">20</xref>]。而本次研究认为环边状蒙皂石膜为低粘滞性砂质碎屑流中的泥质微粒吸附在碎屑颗粒表面形成。</p><p>图9. 新河组低粘滞性砂质碎屑流沉积–成岩–物性耦合机制图解(图宽150 mm字7.5 pt)</p><p>图10是颗粒流沉积–成岩–物性耦合机制图解。颗粒流沉积是无泥质的砂质沉积物，原始粒间孔隙发育。早成岩阶段A期，方解石全充填粒间孔隙，形成III类低孔低渗砂岩。中成岩阶段A期，油气携带有机酸进入砂岩，在有机酸流体作用下，方解石胶结物和长石质碎屑发生差异溶蚀形成IV类中孔中渗砂岩、V类高孔中渗砂岩、VI类高孔中渗砂岩和VII类高孔高渗砂岩。</p></sec></sec><sec id="s7"><title>5. 结论</title><p>1) 雅布赖盆地新河组块状砂岩218组孔隙度与渗透率数据交会图呈现出“左右两竖夹一横”特征。左下竖由19组孔隙度 &lt; 5%、渗透率 &lt; 0.3 &#215; 10<sup>−3 </sup>μm<sup>2</sup>的数据组成，右上竖由17组孔隙度 &gt; 10%、渗透率 &gt; 6 &#215; 10<sup>−3 </sup>μm<sup>2</sup>的数据组成，一横由157组0.9% &lt; 孔隙度 &lt; 14.9%、0.3 &#215; 10<sup>−3 </sup>μm<sup>2 </sup>&lt; 渗透率 &lt; 6 &#215; 10<sup>−3 </sup>μm<sup>2</sup>的数据组成。</p><p>图10. 新河组颗粒流沉积–成岩–物性耦合机制图解(图宽150 mm字7.5 pt)</p><p>2) 岩石学特征差异结合物性将新河组块状砂岩划分为7类砂岩，依次为I类——泥质全充填低孔低渗砂岩，II类——富伊利石膜中孔中渗砂岩，III类——方解石全充填低孔低渗砂岩，IV类——富方解石中孔中渗砂岩，V类——富高岭石和方解石高孔中渗砂岩，VI类——富高岭石高孔中渗砂岩，VII类——富蛋白石膜高孔高渗砂岩。</p><p>3) 雅布赖盆地新河组块状砂岩具有3种沉积–成岩–物性耦合机制，高粘滞性砂质碎屑流沉积–成岩–物性耦合机制以沉积作用控制砂岩物性，低粘滞性砂质碎屑流沉积–成岩–物性耦合机制以沉积作用和成岩作用共同控制砂岩物性，颗粒流沉积–成岩–物性耦合机制以方解石胶结物和长石质碎屑发生差异溶蚀作用控制砂岩物性。</p></sec><sec id="s8"><title>基金项目</title><p>中国石油天然气股份有限公司重大科技专项“玉门油田重上百万吨勘探开发关键技术研究”(2013E-3305)。</p></sec><sec id="s9"><title>文章引用</title><p>周晓峰,唐海忠,魏 军,肖文华,张蕊胜,李 景,赵 隽. 雅布赖盆地新河组块状砂岩沉积–成岩–物性耦合机制 Coupling Mechanism of Sedimentation-Diagenesis-Physical Property from Xinhe Formation Massive Sandstones in Yabrai Basin[J]. 石油天然气学报, 2020, 42(02): 79-93. https://doi.org/10.12677/JOGT.2020.422019</p></sec><sec id="s10"><title>参考文献</title></sec></body><back><ref-list><title>References</title><ref id="hanspub.36943-ref1"><label>1</label><mixed-citation publication-type="other" xlink:type="simple">黄思静, 侯中健. 地下孔隙率和渗透率在空间和时间上的变化及影响因素[J]. 沉积学报, 2001, 19(2): 224-232.</mixed-citation></ref><ref id="hanspub.36943-ref2"><label>2</label><mixed-citation publication-type="other" xlink:type="simple">王瑞飞, 孙卫. 储层沉积–成岩过程中物性演化的主控因素[J]. 矿物学报, 2009, 29(3): 399-404.</mixed-citation></ref><ref id="hanspub.36943-ref3"><label>3</label><mixed-citation publication-type="other" xlink:type="simple">时建超, 孙卫, 张创, 等. 储层沉积–成岩作用的物性响应特征[J]. 陕西师范大学学报(自然科学版), 2013, 41(2): 88-93.</mixed-citation></ref><ref id="hanspub.36943-ref4"><label>4</label><mixed-citation publication-type="other" xlink:type="simple">Folk, R.L. (1968) Petrology of Sedimentary Rocks. Hemphill, Austin, 170.</mixed-citation></ref><ref id="hanspub.36943-ref5"><label>5</label><mixed-citation publication-type="other" xlink:type="simple">Shanmugam, G. (1996) High-Density Turbidity Currents: Are They Sandy Debris Flows? Journal of Sedi-mentary Research, 66, 2-10. &lt;br&gt;https://doi.org/10.1306/D426828E-2B26-11D7-8648000102C1865D</mixed-citation></ref><ref id="hanspub.36943-ref6"><label>6</label><mixed-citation publication-type="other" xlink:type="simple">刘立, 杨庆杰, 于均民. 大气水–砂岩的相互作用[J]. 世界地质, 1999, 18(2): 50-55.</mixed-citation></ref><ref id="hanspub.36943-ref7"><label>7</label><mixed-citation publication-type="other" xlink:type="simple">武明辉, 张刘平. 深部流体及其油气成藏效应研究现状[J]. 地学前缘(中国地质大学(北京), 北京大学), 2009, 16(1): 306-313.</mixed-citation></ref><ref id="hanspub.36943-ref8"><label>8</label><mixed-citation publication-type="other" xlink:type="simple">田涛, 任战利, 杨鹏, 等. 多种剥蚀厚度恢复方法在内蒙古雅布赖盆地侏罗系和白垩系中的应用及其地质意义[J]. 古地理学报, 2016, 18(6): 1002-1011.</mixed-citation></ref><ref id="hanspub.36943-ref9"><label>9</label><mixed-citation publication-type="other" xlink:type="simple">田涛, 任战利, 吴晓青, 等. 雅布赖盆地萨尔台凹陷古地温场与油气成藏期次[J]. 沉积学报, 2015, 33(4): 836-844.</mixed-citation></ref><ref id="hanspub.36943-ref10"><label>10</label><mixed-citation publication-type="other" xlink:type="simple">高岗, 赵乐义, 马国福, 等. 雅布赖盆地侏罗系新河组致密油形成条件与有利区资源潜力[J]. 石油与天然气地质, 2017, 38(3): 478-488.</mixed-citation></ref><ref id="hanspub.36943-ref11"><label>11</label><mixed-citation publication-type="other" xlink:type="simple">Stokkendal, J., Friis, H., Svendsen, J.B., et al. (2009) Predictive Permeability Variations in a Hermod Sand Reservoir, Stine Segments, Siri Field, Danish North Sea. Marine and Petroleum Geology, 26, 397-415.  
+&lt;br&gt;https://doi.org/10.1016/j.marpetgeo.2008.03.004</mixed-citation></ref><ref id="hanspub.36943-ref12"><label>12</label><mixed-citation publication-type="other" xlink:type="simple">Weibel, R., Friis, H., Kazerouni, A.M., et al. (2010) De-velopment of Early Diagenetic Silica and Quartz Morphologies—Examples from the Siri Canyon, Danish North Sea. Sedimentary Geology, 228, 151-170.  
+&lt;br&gt;https://doi.org/10.1016/j.sedgeo.2010.04.008</mixed-citation></ref><ref id="hanspub.36943-ref13"><label>13</label><mixed-citation publication-type="other" xlink:type="simple">张江华, 相鹏. 准噶尔盆地中部1区三工河组低渗透储层成因机制[J]. 西安石油大学学报(自然科学版), 2019, 34(1): 43-49.</mixed-citation></ref><ref id="hanspub.36943-ref14"><label>14</label><mixed-citation publication-type="other" xlink:type="simple">王建伟, 宋书君, 鲍志东, 等. 准噶尔盆地庄1井区J1s2段优质储层发育控制因素[J]. 西安石油大学学报(自然科学版), 2006, 21(1): 11-14.</mixed-citation></ref><ref id="hanspub.36943-ref15"><label>15</label><mixed-citation publication-type="other" xlink:type="simple">何生, 杨智, 何智亮, 等. 准噶尔盆地腹部超压顶面附近深层砂岩碳酸盐胶结作用和次生溶蚀孔隙形成机理[J]. 地球科学–中国地质大学学报, 2009, 34(5): 759-768.</mixed-citation></ref><ref id="hanspub.36943-ref16"><label>16</label><mixed-citation publication-type="other" xlink:type="simple">Pettijohn, F.J., Potter, P.E. and Siever, R. (1973) Sand and Sandstone. Springer-Verlag, New York, Heidelberg, Berlin, 383-437. &lt;br&gt;https://doi.org/10.1007/978-1-4615-9974-6</mixed-citation></ref><ref id="hanspub.36943-ref17"><label>17</label><mixed-citation publication-type="other" xlink:type="simple">唐海忠, 魏军, 周在华, 等. 酒泉盆地营尔凹陷深层下沟组砂岩方解石胶结物特征[J]. 天然气地球科学, 2019, 30(5): 652-661.</mixed-citation></ref><ref id="hanspub.36943-ref18"><label>18</label><mixed-citation publication-type="other" xlink:type="simple">周晓峰, 赵丽霞, 焦淑静, 等. 鄂尔多斯盆地致密砂岩储层伊利石膜特征[J]. 西安石油大学学报(自然科学版), 2016, 31(6): 1-8, 103.</mixed-citation></ref><ref id="hanspub.36943-ref19"><label>19</label><mixed-citation publication-type="other" xlink:type="simple">Moraes, M.A.S. and De Ros, L.F. (1990) Infiltrated Clays in Fluvial Jurassic Sandstones of Reconcavo Basin, Northeastern Brazil. Journal of Sedimentary Petrology, 60, 809-819.  
+&lt;br&gt;https://doi.org/10.1306/212F928C-2B24-11D7-8648000102C1865D</mixed-citation></ref><ref id="hanspub.36943-ref20"><label>20</label><mixed-citation publication-type="other" xlink:type="simple">周晓峰, 李景, 于均民, 等. 酒泉盆地营尔凹陷下沟组砂岩蒙皂石膜形成机制[J]. 新疆石油地质, 2019, 40(2): 168-173.</mixed-citation></ref></ref-list></back></article>

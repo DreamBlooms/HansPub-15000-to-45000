@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">ASS</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Social Sciences</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2169-2556</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/ASS.2020.97141</article-id>
+      <article-id pub-id-type="publisher-id">ASS-36703</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>ASS20200700000_57074607.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>人文社科</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          本科教育质量的综合评估——以江苏省为例
+          Comprehensive Evaluation of the Quality of Undergraduate Education—Take Jiangsu Province for Example
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>胡</surname>
+            <given-names>明禹</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sub>1</sub>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <addr-line>中国石油大学(北京)经济管理学院，北京</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>07</issue>
+      <fpage>999</fpage>
+      <lpage>1012</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          本文依托Matlab等软件构建了一套综合评价模型体系，包括基于改进的主成分分析的综合评价模型、基于相关性分析和权重的指标删除模型以及基于虚拟控制城市的指标删除和关键指标选取模型，并应用该体系解决了一系列本科教育质量评估问题。结合建模结果，指出了江苏省本科教育质量的现状，并有针对性地给出了3条可以提升江苏省本科教育质量的有建设性的政策建议。
+          Based on Matlab software, this paper builds a system of comprehensive evaluation model, including the comprehensive evaluation model based on improved principal component analysis, based on correlation analysis and the weight of index model and the indicators based on virtual control city delete and key indicator selection model, and application of the system to solve a series of undergraduate education quality evaluation problems. Combined with the modeling results, this paper points out the current situation of undergraduate education quality in Jiangsu Province, and puts forward three constructive policy suggestions to improve the quality of undergraduate education in Jiangsu Province.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd>主成分分析，综合评价模型，相关性分析，虚拟控制城市, Principal Component Analysis</kwd>
+        <kwd> Comprehensive Evaluation Model</kwd>
+        <kwd> Correlation Analysis</kwd>
+        <kwd> Virtual Control City</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>本科教育质量的综合评估</title>
+      <p>——以江苏省为例</p>
+      <p>胡明禹</p>
+      <p>中国石油大学(北京)经济管理学院，北京</p>
+      <p>收稿日期：2020年7月2日；录用日期：2020年7月17日；发布日期：2020年7月24日</p>
+      <disp-formula id="hanspub.36703-formula32">
+        <graphic xlink:href="//html.hanspub.org/file/12-2392167x5_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>本文依托Matlab等软件构建了一套综合评价模型体系，包括基于改进的主成分分析的综合评价模型、基于相关性分析和权重的指标删除模型以及基于虚拟控制城市的指标删除和关键指标选取模型，并应用该体系解决了一系列本科教育质量评估问题。结合建模结果，指出了江苏省本科教育质量的现状，并有针对性地给出了3条可以提升江苏省本科教育质量的有建设性的政策建议。</p>
+      <p>关键词 :主成分分析，综合评价模型，相关性分析，虚拟控制城市</p>
+      <disp-formula id="hanspub.36703-formula33">
+        <graphic xlink:href="//html.hanspub.org/file/12-2392167x6_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2020 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY 4.0).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/12-2392167x7_hanspub.png" />
+        <img src="//html.hanspub.org/file/12-2392167x8_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>本科教育承担着教导学生如何做人以及培养学生专业技能的重任，其对学生的品性修养、政治态度以及专业技能的培养与训练对学生将来能否适应社会以及实现个人价值产生着深远的影响。因此，国家对于本科教育的重视程度非常之大。而随着中国的改革开放，国家的综合实力不断增强，中国高等教育发展整体也已经进入了世界中上水平。</p>
+      <p>众所周知，江苏省的教育一直是全国的典范，其本科教育的发展在全国名列前茅。然而，由于地域和历史的影响，江苏省13个地级市的本科教育发展并不平衡，这种不平衡具体体现在本科院校数量、招生人数、师资队伍与结构、生师比、教学条件与利用、专业建设与教学改革、学生就业、科技投入与产出以及双一流学科建设等9个指标上。</p>
+    </sec>
+    <sec id="s4">
+      <title>2. 基于改进的主成分分析方法的综合评价模型</title>
+      <p>本文主要围绕9个关于本科教育质量的衡量指标建立综合评价模型，并进行进一步的分析与处理。主要涉及到数据的搜集和量化，综合评价模型的建立，指标的合理删除，关键指标的确定以及政策建议等五个方面。</p>
+      <sec id="s4_1">
+        <title>2.1. 指标选取及量化处理</title>
+        <p>
+          在查阅相关文献 [<xref ref-type="bibr" rid="hanspub.36703-ref1">1</xref>] 以及百度百科 [<xref ref-type="bibr" rid="hanspub.36703-ref2">2</xref>] [<xref ref-type="bibr" rid="hanspub.36703-ref3">3</xref>] 的基础上，我们制定了如下的量化处理表1。
+        </p>
+        <table-wrap-group id="1">
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>
+          </label>
+          <caption>
+            <title> Index quantization processing tabl</title>
+          </caption>
+          <table-wrap id="1_1">
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  colspan="3"  >1.本科院校数量</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 均值化</td>
+              <td align="center" valign="middle" >本科生院校数量用各个市本科院校数量作为计算依据</td>
+              <td align="center" valign="middle" >a) 本科院校指进行本科教育的高等院校，分为公办本科院校和民办本科院校。 b) 中国大陆局部地区将本科院校分为一本、二本、三本，也有局部地区将一本称为第一批本科，二本、三本则合称为第二批本科。</td>
+            </tr>
+            
+          </table-wrap>
+          <table-wrap id="1_2">
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  colspan="3"  >2.招生人数</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 均值化</td>
+              <td align="center" valign="middle" >招生人数数量用各个市本科院校的招生数量作为计算依据</td>
+              <td align="center" valign="middle" >无</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  colspan="3"  >3.师资队伍与结构</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 比值法 系数法 均值化</td>
+              <td align="center" valign="middle" >采用每市高级职称(含副高)的专任教师标准人数与中级及以下人数的比值作为计算依据</td>
+              <td align="center" valign="middle" >a) 专任教师：具有教师资格、专门从事教学工作的人员，即：这些人员一是要具有高等教育教师资格证书，二是要在统计的时段承担教学工作。 b) 每市高级职称(含副高)的专任教师标准人数：“985”院校的高级职称(含副高)的专任教师人数乘于1.5；“211”院校或省重点院校的高级职称(含副高)的专任教师人数乘于1；其他乘于0.8； c) 三者总和为每市高级职称(含副高)的专任教师标准人数。</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  colspan="3"  >4.生师比</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 比值法 系数法 均值化 一致化</td>
+              <td align="center" valign="middle" >以每市本科院校在校大学生的标准人数量作为“生”的计算依据，以每个市本科院校专任教师人数作为“师”的计算依据，二则之比就是“生师比”的计算依据。</td>
+              <td align="center" valign="middle" >每市本科院校在校大学生的标准人数： a) 每市本科院校在校大学生本科生的人数； b) 每市本科院校在校大学生研究生的人数乘于1.5； c) 每市本科院校成人教育大学生的人数乘于0.1； d) 三者总和为每市本科院校在校大学生的标准人数。</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  colspan="3"  >5.教学条件与利用</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >指标细化 项目打分 平均值法 均值化</td>
+              <td align="center" valign="middle" >收集每市各本科院校当年教学评估情况，分别取其平均值，再与省平均水平作比较作为打分依据，分为高，中，低三个水平：高(8~10分)；中(6~7分)；低(3~4分)，总分作为该每市该指标的情况。</td>
+              <td align="center" valign="middle" >对该指标用打分的方式进行评估，打分项目分以下五项： a) 生均教学科研仪器设备值 b) 实验室，实习场及其设备的完善度 c) 生均藏书量和生均年进书量 d) 网络教学资源的利用程度 e) 教学经费投入</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  colspan="3"  >6.专业建设与利用</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >指标细化 项目打分 平均值法 均值化</td>
+              <td align="center" valign="middle" >收集每市各本科院校当年教学评估情况，分别取其平均值，再与省平均水平作比较作为打分依据，分为高，中，低三个水平：高(8~10分)；中(6~7分)；低(3~4分)，总分作为该每市该指标的情况。</td>
+              <td align="center" valign="middle" >对该指标用打分的方式评估，打分项目分为以下三项： a) 专业结构的合理性 b) 培养方案执行情况 b) 老师教学改革的实施情况 d) 学生对教学的满意度</td>
+            </tr>
+            
+          </table-wrap>
+          <table-wrap id="1_3">
+            <thead>
+              <tr>
+                <th align="center" valign="middle"  colspan="3"  >7.学生就业</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 平均值法 均值化</td>
+              <td align="center" valign="middle" >当年每市各本科院校年终就业率的平均值作为计算依据</td>
+              <td align="center" valign="middle" >无</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  colspan="3"  >8.科研投入与产出</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 比值法 系数法 均一化 均值化</td>
+              <td align="center" valign="middle" >采用当年每市各本科院校的科研投入资金(要进行均一化处理)与当年均一化后的每市各本科院校的科研获奖的标准数量以及发表文章数量的比值的倒数</td>
+              <td align="center" valign="middle" >各本科院校的科研获奖的标准数量： a) 国家级奖项数量乘于5； d) 省部级奖项数量乘于3； c) 市级奖项数量乘于1； d) 三者之和为各本科院校的科研获奖的标准数量</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle"  colspan="3"  >9.双一流学科建设</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >量化处理方式</td>
+              <td align="center" valign="middle" >计算依据</td>
+              <td align="center" valign="middle" >备注</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >原数据 均值化</td>
+              <td align="center" valign="middle" >统计各个市双一流学科建设数量作为计算依据</td>
+              <td align="center" valign="middle" >无</td>
+            </tr>
+            
+          </table-wrap>
+        </table-wrap-group>
+        <p>表1. 指标量化处理表</p>
+      </sec>
+      <sec id="s4_2">
+        <title>2.2. 数据初步分析</title>
+        <p>
+          搜集到足够且有效的数据后 [<xref ref-type="bibr" rid="hanspub.36703-ref4">4</xref>] 按照表1对数据做了一些量化处理，我们从原始数据的均值、方差、相关性分析以及作图等方面进行数据分析。
+        </p>
+        <table-wrap id="table2" >
+          <label>
+            <xref ref-type="table" rid="table2">Table 2</xref>
+          </label>
+          <caption>
+            <title> Sum, mean and variance of data of each index numbe</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" ></th>
+              <th align="center" valign="middle" >
+                x<sub>1</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>2</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>3</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>4</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>5</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>6</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>7</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>8</sub><sub> </sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>9</sub><sub> </sub>
+              </th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >总和</td>
+            <td align="center" valign="middle" >49.00</td>
+            <td align="center" valign="middle" >241853.00</td>
+            <td align="center" valign="middle" >12.24</td>
+            <td align="center" valign="middle" >217.59</td>
+            <td align="center" valign="middle" >434.00</td>
+            <td align="center" valign="middle" >222.00</td>
+            <td align="center" valign="middle" >12.46</td>
+            <td align="center" valign="middle" >13.85</td>
+            <td align="center" valign="middle" >43.00</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >平均值</td>
+            <td align="center" valign="middle" >3.77</td>
+            <td align="center" valign="middle" >18604.08</td>
+            <td align="center" valign="middle" >0.94</td>
+            <td align="center" valign="middle" >16.74</td>
+            <td align="center" valign="middle" >33.38</td>
+            <td align="center" valign="middle" >17.08</td>
+            <td align="center" valign="middle" >0.96</td>
+            <td align="center" valign="middle" >1.07</td>
+            <td align="center" valign="middle" >3.31</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >方差</td>
+            <td align="center" valign="middle" >41.85</td>
+            <td align="center" valign="middle" >
+              5.9 &#215; 10<sup>8</sup>
+            </td>
+            <td align="center" valign="middle" >0.13</td>
+            <td align="center" valign="middle" >6.58</td>
+            <td align="center" valign="middle" >51.09</td>
+            <td align="center" valign="middle" >20.74</td>
+            <td align="center" valign="middle" >0.0017</td>
+            <td align="center" valign="middle" >0.0665</td>
+            <td align="center" valign="middle" >109.2</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表2. 各指标数数据的求和，均值和方差</p>
+        <p>由表2中的平均值和方差均可看出，各个指标的数据不在一个数量级，因此下面模型建立的时候要对这些数据进行无量纲化处理。</p>
+        <table-wrap id="table3" >
+          <label>
+            <xref ref-type="table" rid="table3">Table 3</xref>
+          </label>
+          <caption>
+            <title> The correlation coefficient matrix of the original data of each inde</title>
+          </caption>
+          
+        </table-wrap>
+        <p>表3. 各指标原始数据的相关系数矩阵</p>
+        <p>由表3可知本科院校数量和招生人数，教学条件与利用和科研投入与产出，本科院校数量和双一流学科建设的相关性较强。</p>
+        <p>接下里，我们用Excel做出各市在不同指标的比较图，由于篇幅原因以及绘图简单，这里不再给出。而从图中可以看出，南京在本科院校数量上有绝对的优势，师资队伍和师资结构上有较大优势，并且其生师比例在13个市中也是比较低(也低越好)，所以从这些数据直观上来看南京的本科教学质量在十三个市中是很高的。</p>
+        <p>
+          假设进行主成分分析的指标变量有m个(这里，m = 9)，分别为 x 1 , x 2 , ⋯ , x m ，共有n个评价对象(这里n = 13)，第i个评价对象的第j个指标的取值为a<sub>ij</sub>，由此构成矩阵 A = ( a i j ) n &#215; m 。传统主成分分析的步骤为：
+        </p>
+        <p>
+          1) 对原始数据进行标准化处理，将各指标值a<sub>ij</sub>转化为标准化指标值 a i j * ，得到矩阵A<sup>*</sup>
+        </p>
+        <p>a i j * = a i j − a &#175; j s j ,     i = 1 , 2 , ⋯ , n ;   j = 1 , 2 , ⋯ , m</p>
+        <p>其中， a &#175; j = 1 n ∑ i = 1 n a i j ; s j = 1 n − 1 ( a i j − a j ) 2 , j = 1 , 2 , ⋯ , m ，分别为第j个指标的样本均值和样本标准差。</p>
+        <p>
+          2) 计算A<sup>*</sup>的样本协方差矩阵S。
+        </p>
+        <p>
+          3) 求出S的特征值为 λ 1 ≥ λ 2 ≥ ⋯ ≥ λ m ≥ 0 ，相应于 λ i 的正交化单位特征向量为 v i = [ v i 1 , v i 2 , ⋯ , v i m ] ，则A<sup>*</sup>的第i个主成分为 y i = v i x ，其中x为m维观测向量，即 x = [ x 1 , x 2 , ⋯ , x m ] T ， i = 1 , 2 , ⋯ , m 。
+        </p>
+        <p>4) 选择主成分，计算综合评价值。</p>
+        <p>
+          a) 计算特征值 λ i ( i = 1 , 2 , ⋯ , m ) 的信息贡献率b<sub>i</sub>。其中
+        </p>
+        <p>b i = λ i ∑ j = 1 m λ i ,     i = 1 , 2 , ⋯ , m (2.1)</p>
+        <p>
+          b) 累积贡献率β<sub>k</sub>足够大(一般取β<sub>k</sub> = 0.85, 0.90, 0.95)时，则选择前k个主成分。其中
+        </p>
+        <p>β k = ∑ i = 1 k λ i ∑ i = 1 m λ i ,     k = 1 , 2 , ⋯ , m (2.2)</p>
+        <p>c) 最后计算出综合得分，并据此进行测评</p>
+        <p>G = ∑ i = 1 k b i y i (2.3)</p>
+      </sec>
+      <sec id="s4_3">
+        <title>2.3. 基于改进的主成分分析方法的评价模型的建立</title>
+        <p>
+          下面针对传统主成分分析的两个误区进行改进 [<xref ref-type="bibr" rid="hanspub.36703-ref5">5</xref>]。
+        </p>
+        <sec id="s4_3_1">
+          <title>2.3.1. 原始数据的预处理方法的改进1——原始数据的均值化</title>
+          <p>
+            在实际应用主成分分析时，为了消除变量的量纲或数量级影响，需要对原始数据标准化，但同时也去除了各变量变异程度的差异信息。为了解决这一问题，有学者提出数据的均值化处理方法 [<xref ref-type="bibr" rid="hanspub.36703-ref6">6</xref>]，即用各指标的均值除相应的原始数据，令
+          </p>
+          <p>c i j = a i j a &#175; j ,     i = 1 , 2 , ⋯ , n ;   j = 1 , 2 , ⋯ , m (2.4)</p>
+          <p>
+            于是得到均值化矩阵 C = ( c i j ) n &#215; m 。可以证明，均值化处理不改变各指标间的相关系数，均值化后的协方差矩阵不仅消除了指标量纲或数量级的影响，还能包含原始数据的全部信息，因此这里应用主成分分析时，使用均值化处理对原始数据进行预处理，也就是，将其中传统主成分分析的步骤里的矩阵A<sup>*</sup>换成均值化矩阵C即可。
+          </p>
+        </sec>
+        <sec id="s4_3_2">
+          <title>2.3.2. 原始数据的预处理方法的改进2——数据的一致化处理</title>
+          <p>在9个指标中，存在两种类型的数据，一种是“正比型”，即数据的量化值越大，代表该市本科教育质量越好，比如教学条件与利用、双一流学科建设等指标，而另一种“反比型”则相反，量化值越大，说明教育质量越差，如生师比，科研投入与产出等指标。因此，为了方便对这两种数据同时进行主成分分析，我们将数据进行一致化处理，将全部数据都转化成“正比型”。</p>
+          <p>按照前面数据的量化处理方式，9个指标中，量化值是“反比型”的指标只有生师比。对于这个指标，令</p>
+          <p>c i j * = max ( c j ) − c i j (2.5)</p>
+          <p>
+            其中，max(c<sub>j</sub>)是第j个指标中的最大值。而其余指标的数据不变，即
+          </p>
+          <p>c i j * = c i j</p>
+          <p>
+            于是得到均值化矩阵C的一致化矩阵C<sup>*</sup>，实际处理时，将6.2.1中主成分分析的步骤里的矩阵C换成均值化矩阵C<sup>* </sup>即可。
+          </p>
+        </sec>
+        <sec id="s4_3_3">
+          <title>2.3.3. 综合评价方法的改进——熵值法</title>
+          <p>
+            传统的主成分分析中，使用各主成分的方差贡献率作为权重，这显然带有主观成分 [<xref ref-type="bibr" rid="hanspub.36703-ref7">7</xref>]。假设提取了r个主成分，经过计算各个样本在这r个主成分的得分，可得到具有n个样本，m项指标的主成分得分矩阵 D = ( d i j ) n &#215; r 。为得到更合适更客观的综合评价，可以采用熵值法进行改进。若某个变量的信息熵越小(大)，就表明该变量的变异程度越大(小)，在评价中的作用越大(小)，权重也越大(小)。熵值法的计算步骤是：
+          </p>
+          <p>a) 计算第j个主成分下第i个样本的比重： p i j = d i j ∑ i = 1 n d i j ， (2.6)</p>
+          <p>b) 计算第j个主成分的熵值： e j = − 1 ln n ∑ i = 1 n p i j ln p i j ， (2.7)</p>
+          <p>c) 计算第j个主成分的权重： b j * = 1 − e j ∑ j = 1 r ( 1 − e j ) ， (2.8)</p>
+          <p>d) 计算样本的综合值： G = ∑ j = 1 r b j * y j ，最后按综合值对样本进行排序即可。</p>
+          <p>在第1步中，为防止矩阵中有的数据为负，可以将所有数据加上一个最小负数的绝对值， 这样平移不会改变结果，然后按平移后的矩阵进行上述的步骤。</p>
+          <p>至此，已经建立了基于改进的主成分分析方法的综合评价模型，下面应用该评价模型，对江苏省13个地级市的本科教育质量进行评估，并给出排名。</p>
+        </sec>
+      </sec>
+      <sec id="s4_4">
+        <title>2.4. 模型应用——江苏省地级市的本科教育质量的评估与排名</title>
+        <p>按照前文中建立的改进的主成分分析模型，利用搜集的数据，分别计算常州、淮安、连云港、南京、南通、宿迁、苏州、泰州、无锡、徐州、盐城、扬州、镇江的本科教育质量的综合得分。</p>
+        <p>首先，利用Matlab软件对9个指标进行改进的主成分分析，相关系数矩阵的前几个特征根及其贡献率见表4。</p>
+        <table-wrap id="table4" >
+          <label>
+            <xref ref-type="table" rid="table4">Table 4</xref>
+          </label>
+          <caption>
+            <title> Improved principal component analysis result</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" >序号</th>
+              <th align="center" valign="middle" >特征根</th>
+              <th align="center" valign="middle" >贡献率</th>
+              <th align="center" valign="middle" >累积贡献率</th>
+              <th align="center" valign="middle" >序号</th>
+              <th align="center" valign="middle" >特征根</th>
+              <th align="center" valign="middle" >贡献率</th>
+              <th align="center" valign="middle" >累积贡献率</th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >1</td>
+            <td align="center" valign="middle" >5.56</td>
+            <td align="center" valign="middle" >61.7419</td>
+            <td align="center" valign="middle" >61.7419</td>
+            <td align="center" valign="middle" >4</td>
+            <td align="center" valign="middle" >0.51</td>
+            <td align="center" valign="middle" >5.6714</td>
+            <td align="center" valign="middle" >94.7803</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >2</td>
+            <td align="center" valign="middle" >1.53</td>
+            <td align="center" valign="middle" >17.0591</td>
+            <td align="center" valign="middle" >78.8010</td>
+            <td align="center" valign="middle" >5</td>
+            <td align="center" valign="middle" >0.40</td>
+            <td align="center" valign="middle" >4.4791</td>
+            <td align="center" valign="middle" >99.2594</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >3</td>
+            <td align="center" valign="middle" >0.93</td>
+            <td align="center" valign="middle" >10.3079</td>
+            <td align="center" valign="middle" >89.1089</td>
+            <td align="center" valign="middle" >6</td>
+            <td align="center" valign="middle" >0.05</td>
+            <td align="center" valign="middle" >0.5284</td>
+            <td align="center" valign="middle" >99.7878</td>
+          </tr>
+         
+        </table-wrap>
+        <p>表4. 改进主成分分析结果</p>
+        <p>可以看出，前4个特征根的累积贡献率就达到了94.5%以上，主成分分析效果很好。下面选取前4个主成分进行综合评价。前4个特征根对应的特征向量见表5。</p>
+        <table-wrap id="table5" >
+          <label>
+            <xref ref-type="table" rid="table5">Table 5</xref>
+          </label>
+          <caption>
+            <title> The eigenvectors corresponding to the first four principal components of the meanized variabl</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" ></th>
+              <th align="center" valign="middle" >
+                y<sub>1</sub>
+              </th>
+              <th align="center" valign="middle" >
+                y<sub>2</sub>
+              </th>
+              <th align="center" valign="middle" >
+                y<sub>3 </sub>
+              </th>
+              <th align="center" valign="middle" >
+                y<sub>4 </sub>
+              </th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>1</sub>
+            </td>
+            <td align="center" valign="middle" >0.3847</td>
+            <td align="center" valign="middle" >0.0562</td>
+            <td align="center" valign="middle" >0.4033</td>
+            <td align="center" valign="middle" >0.2006</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>2</sub>
+            </td>
+            <td align="center" valign="middle" >0.4085</td>
+            <td align="center" valign="middle" >−0.0541</td>
+            <td align="center" valign="middle" >0.1992</td>
+            <td align="center" valign="middle" >0.1946</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>3</sub>
+            </td>
+            <td align="center" valign="middle" >0.2805</td>
+            <td align="center" valign="middle" >0.3572</td>
+            <td align="center" valign="middle" >−0.3175</td>
+            <td align="center" valign="middle" >−0.1959</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>4</sub>
+            </td>
+            <td align="center" valign="middle" >−0.0352</td>
+            <td align="center" valign="middle" >0.6718</td>
+            <td align="center" valign="middle" >0.3392</td>
+            <td align="center" valign="middle" >−0.5654</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>5</sub>
+            </td>
+            <td align="center" valign="middle" >0.3839</td>
+            <td align="center" valign="middle" >−0.1899</td>
+            <td align="center" valign="middle" >−0.2127</td>
+            <td align="center" valign="middle" >−0.3650</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>6</sub>
+            </td>
+            <td align="center" valign="middle" >0.4002</td>
+            <td align="center" valign="middle" >−0.1518</td>
+            <td align="center" valign="middle" >−0.1877</td>
+            <td align="center" valign="middle" >−0.0653</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>7</sub>
+            </td>
+            <td align="center" valign="middle" >0.1266</td>
+            <td align="center" valign="middle" >0.5688</td>
+            <td align="center" valign="middle" >−0.4885</td>
+            <td align="center" valign="middle" >0.5296</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>8</sub>
+            </td>
+            <td align="center" valign="middle" >−0.3838</td>
+            <td align="center" valign="middle" >0.1426</td>
+            <td align="center" valign="middle" >0.2240</td>
+            <td align="center" valign="middle" >0.2928</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >
+              x<sub>9</sub>
+            </td>
+            <td align="center" valign="middle" >0.3666</td>
+            <td align="center" valign="middle" >0.1097</td>
+            <td align="center" valign="middle" >0.4611</td>
+            <td align="center" valign="middle" >0.2454</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表5. 均值化变量的前4个主成分对应的特征向量</p>
+        <p>
+          注：y<sub>i</sub>代表第i个主成分，x<sub>j</sub>代表示表1中第二指标列自上至下第j个指标。
+        </p>
+        <p>接着按照上文对改进主成分分析方法的论述，可得到主成分得分矩阵D、熵值以及权重，见表6。</p>
+        <table-wrap-group id="6">
+          <label>
+            <xref ref-type="table" rid="table6">Table 6</xref>
+          </label>
+          <caption>
+            <title> Principal component score matri</title>
+          </caption>
+          <table-wrap id="6_1">
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >常州市</th>
+                <th align="center" valign="middle" >淮安市</th>
+                <th align="center" valign="middle" >连云港市</th>
+                <th align="center" valign="middle" >南京市</th>
+                <th align="center" valign="middle" >南通市</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >1.9243</td>
+              <td align="center" valign="middle" >1.5227</td>
+              <td align="center" valign="middle" >1.1789</td>
+              <td align="center" valign="middle" >10.7917</td>
+              <td align="center" valign="middle" >1.3875</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>2</sub>
+              </td>
+              <td align="center" valign="middle" >1.8575</td>
+              <td align="center" valign="middle" >1.9409</td>
+              <td align="center" valign="middle" >2.1669</td>
+              <td align="center" valign="middle" >3.5173</td>
+              <td align="center" valign="middle" >2.2467</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>3</sub>
+              </td>
+              <td align="center" valign="middle" >0.2204</td>
+              <td align="center" valign="middle" >0.1948</td>
+              <td align="center" valign="middle" >0.1494</td>
+              <td align="center" valign="middle" >8.2940</td>
+              <td align="center" valign="middle" >0.0184</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>4</sub>
+              </td>
+              <td align="center" valign="middle" >0.3889</td>
+              <td align="center" valign="middle" >0.4669</td>
+              <td align="center" valign="middle" >0.2760</td>
+              <td align="center" valign="middle" >4.6638</td>
+              <td align="center" valign="middle" >0.3488</td>
+            </tr>
+            
+          </table-wrap>
+          <table-wrap id="6_2">
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >
+                  <sub> </sub>
+                </th>
+                <th align="center" valign="middle" >宿迁市</th>
+                <th align="center" valign="middle" >苏州市</th>
+                <th align="center" valign="middle" >泰州市</th>
+                <th align="center" valign="middle" >无锡市</th>
+                <th align="center" valign="middle" >
+                  徐州市<sup> </sup>
+                </th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >0.9771</td>
+              <td align="center" valign="middle" >2.7865</td>
+              <td align="center" valign="middle" >1.0093</td>
+              <td align="center" valign="middle" >2.1341</td>
+              <td align="center" valign="middle" >3.1413</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>2</sub>
+              </td>
+              <td align="center" valign="middle" >1.7562</td>
+              <td align="center" valign="middle" >2.0624</td>
+              <td align="center" valign="middle" >2.2692</td>
+              <td align="center" valign="middle" >2.3137</td>
+              <td align="center" valign="middle" >1.2751</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>3</sub>
+              </td>
+              <td align="center" valign="middle" >0.1480</td>
+              <td align="center" valign="middle" >0.3289</td>
+              <td align="center" valign="middle" >0.2640</td>
+              <td align="center" valign="middle" >0.2408</td>
+              <td align="center" valign="middle" >0.3274</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>4</sub>
+              </td>
+              <td align="center" valign="middle" >0.6401</td>
+              <td align="center" valign="middle" >0.4106</td>
+              <td align="center" valign="middle" >0.1442</td>
+              <td align="center" valign="middle" >0.1570</td>
+              <td align="center" valign="middle" >1.1795</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" ></td>
+              <td align="center" valign="middle" >盐城市</td>
+              <td align="center" valign="middle" >扬州市</td>
+              <td align="center" valign="middle" >镇江市</td>
+              <td align="center" valign="middle" >熵值s</td>
+              <td align="center" valign="middle" >
+                权重b<sup>*</sup>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>1</sub>
+              </td>
+              <td align="center" valign="middle" >1.5108</td>
+              <td align="center" valign="middle" >1.4076</td>
+              <td align="center" valign="middle" >1.7602</td>
+              <td align="center" valign="middle" >1.6115</td>
+              <td align="center" valign="middle" >0.4097</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>2</sub>
+              </td>
+              <td align="center" valign="middle" >1.6902</td>
+              <td align="center" valign="middle" >2.4767</td>
+              <td align="center" valign="middle" >2.4184</td>
+              <td align="center" valign="middle" >1.8309</td>
+              <td align="center" valign="middle" >0.5567</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>3</sub>
+              </td>
+              <td align="center" valign="middle" >0.2852</td>
+              <td align="center" valign="middle" >0.0100</td>
+              <td align="center" valign="middle" >0.2866</td>
+              <td align="center" valign="middle" >0.7720</td>
+              <td align="center" valign="middle" >−0.1528</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                y<sub>4</sub>
+              </td>
+              <td align="center" valign="middle" >0.4387</td>
+              <td align="center" valign="middle" >0.0724</td>
+              <td align="center" valign="middle" >0.0100</td>
+              <td align="center" valign="middle" >1.2781</td>
+              <td align="center" valign="middle" >0.1863</td>
+            </tr>
+             
+          </table-wrap>
+        </table-wrap-group>
+        <p>表6. 主成分得分矩阵</p>
+        <p>由此可构建基于改进的主成分分析方法的综合评价模型，即</p>
+        <p>G = ∑ i = 1 r b i * y i = 0.4097 y 1 + 0.5567 y 2 − 0.1528 y 3 + 0.1863 y 4 (2.9)</p>
+        <p>将各城市的4个主成分值代入上式，可以得到各城市本科教育质量的综合评价值以及排序结果，见表7和图1。</p>
+        <table-wrap id="table7" >
+          <label>
+            <xref ref-type="table" rid="table7">Table 7</xref>
+          </label>
+          <caption>
+            <title> The comprehensive evaluation value and ranking result of undergraduate education quality in each cit</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" ></th>
+              <th align="center" valign="middle" >南京</th>
+              <th align="center" valign="middle" >徐州</th>
+              <th align="center" valign="middle" >苏州</th>
+              <th align="center" valign="middle" >无锡</th>
+              <th align="center" valign="middle" >南通</th>
+              <th align="center" valign="middle" >扬州</th>
+              <th align="center" valign="middle" >镇江</th>
+              <th align="center" valign="middle" >常州</th>
+              <th align="center" valign="middle" >淮安</th>
+              <th align="center" valign="middle" >连云港</th>
+              <th align="center" valign="middle" >宿迁</th>
+              <th align="center" valign="middle" >盐城</th>
+              <th align="center" valign="middle" >泰州</th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >得分</td>
+            <td align="center" valign="middle" >0.1870</td>
+            <td align="center" valign="middle" >0.0854</td>
+            <td align="center" valign="middle" >0.0809</td>
+            <td align="center" valign="middle" >0.0735</td>
+            <td align="center" valign="middle" >0.0695</td>
+            <td align="center" valign="middle" >0.0689</td>
+            <td align="center" valign="middle" >0.0671</td>
+            <td align="center" valign="middle" >0.0667</td>
+            <td align="center" valign="middle" >0.0651</td>
+            <td align="center" valign="middle" >0.0619</td>
+            <td align="center" valign="middle" >0.0585</td>
+            <td align="center" valign="middle" >0.0581</td>
+            <td align="center" valign="middle" >0.0574</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >排名</td>
+            <td align="center" valign="middle" >1</td>
+            <td align="center" valign="middle" >2</td>
+            <td align="center" valign="middle" >3</td>
+            <td align="center" valign="middle" >4</td>
+            <td align="center" valign="middle" >5</td>
+            <td align="center" valign="middle" >6</td>
+            <td align="center" valign="middle" >7</td>
+            <td align="center" valign="middle" >8</td>
+            <td align="center" valign="middle" >9</td>
+            <td align="center" valign="middle" >10</td>
+            <td align="center" valign="middle" >11</td>
+            <td align="center" valign="middle" >12</td>
+            <td align="center" valign="middle" >13</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表7. 各城市本科教育质量的综合评价值和排序结果</p>
+        <p>图1. 各城市本科教育质量的综合评价值和排序结果图</p>
+        <p>从上面我们可以看出，南京市以0.1870的得分位列本科教学质量城市的第一位，且与排名第二的徐州市相比有较大领先优势，分差大于0.1，说明南京市的本科教学质量很好，而实际上也的确如此。从这里的理论排名和实际情况的比较中，我们也可以发现，基于改进的主成分分析方法建立的评级模型具有较好的合理性、准确性和客观性，将该模型作为评估城市本科教学质量的工具有其实际意义。</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>3. 基于相关性分析和权重的指标删除模型</title>
+      <sec id="s5_1">
+        <title>3.1. 指标的初步删除</title>
+        <sec id="s5_1_1">
+          <title>3.1.1. 指标间的相关性</title>
+          <p>若两个指标的相关性较大，则可以认为指标对本科教育质量评估的影响会产生较大的重叠部分，这无疑会在最终评测中加大重叠部分的影响，导致评估结果不太准确。而根据实际经验，题目中给出的9个指标或多或少是有着一些联系的，因此，我们计算这些指标的pearson相关系数，研究其相关性，且规定相关系数大于0.95的两个指标具有极强的相关性。</p>
+          <p>
+            对于p, q两指标间的相关系数r<sub>p</sub><sub>,q</sub>，计算公式为：
+          </p>
+          <p>r p , q = n ∑ i = 1 n c i p * c i q * − ∑ i = 1 n c i p * ∑ i = 1 n c i q * n ∑ i = 1 n c i p * 2 − ( ∑ i = 1 n c i p * ) 2 n ∑ i = 1 n c i q * 2 − ( ∑ i = 1 n c i q * ) 2 (3.1)</p>
+          <p>其中，n为13， c i p * , c i q * 分别为p, q指标第i个城市均值化、一致化后的数据，其相关系数矩阵为：</p>
+          <table-wrap id="table8" >
+            <label>
+              <xref ref-type="table" rid="table8">Table 8</xref>
+            </label>
+            <caption>
+              <title> Correlation matri</title>
+            </caption>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >
+                  x<sub>1</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>2</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>3 </sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>4 </sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>5 </sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>6 </sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>7 </sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>8 </sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>9 </sub>
+                </th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>1 </sub>
+              </td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.9614</td>
+              <td align="center" valign="middle" >0.4892</td>
+              <td align="center" valign="middle" >0.0522</td>
+              <td align="center" valign="middle" >0.6886</td>
+              <td align="center" valign="middle" >0.7642</td>
+              <td align="center" valign="middle" >0.1925</td>
+              <td align="center" valign="middle" >0.6961</td>
+              <td align="center" valign="middle" >0.9908</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>2</sub>
+              </td>
+              <td align="center" valign="middle" >0.9614</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.5591</td>
+              <td align="center" valign="middle" >0.1375</td>
+              <td align="center" valign="middle" >0.8004</td>
+              <td align="center" valign="middle" >0.8777</td>
+              <td align="center" valign="middle" >0.1881</td>
+              <td align="center" valign="middle" >0.8006</td>
+              <td align="center" valign="middle" >0.9287</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>3</sub>
+              </td>
+              <td align="center" valign="middle" >0.4892</td>
+              <td align="center" valign="middle" >0.5591</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.1844</td>
+              <td align="center" valign="middle" >0.5537</td>
+              <td align="center" valign="middle" >0.5577</td>
+              <td align="center" valign="middle" >0.4883</td>
+              <td align="center" valign="middle" >0.5003</td>
+              <td align="center" valign="middle" >0.4875</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>4</sub>
+              </td>
+              <td align="center" valign="middle" >0.0522</td>
+              <td align="center" valign="middle" >−0.1375</td>
+              <td align="center" valign="middle" >0.1844</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.2221</td>
+              <td align="center" valign="middle" >0.2544</td>
+              <td align="center" valign="middle" >0.2925</td>
+              <td align="center" valign="middle" >0.1709</td>
+              <td align="center" valign="middle" >0.1082</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>5</sub>
+              </td>
+              <td align="center" valign="middle" >0.6886</td>
+              <td align="center" valign="middle" >0.8004</td>
+              <td align="center" valign="middle" >0.5537</td>
+              <td align="center" valign="middle" >0.2221</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.9410</td>
+              <td align="center" valign="middle" >0.1214</td>
+              <td align="center" valign="middle" >0.9793</td>
+              <td align="center" valign="middle" >0.6174</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>6</sub>
+              </td>
+              <td align="center" valign="middle" >0.7642</td>
+              <td align="center" valign="middle" >0.8777</td>
+              <td align="center" valign="middle" >0.5577</td>
+              <td align="center" valign="middle" >0.2544</td>
+              <td align="center" valign="middle" >0.9410</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.2324</td>
+              <td align="center" valign="middle" >0.9423</td>
+              <td align="center" valign="middle" >0.6910</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>7</sub>
+              </td>
+              <td align="center" valign="middle" >0.1925</td>
+              <td align="center" valign="middle" >0.1881</td>
+              <td align="center" valign="middle" >0.4883</td>
+              <td align="center" valign="middle" >0.2925</td>
+              <td align="center" valign="middle" >0.1214</td>
+              <td align="center" valign="middle" >0.2324</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.2197</td>
+              <td align="center" valign="middle" >0.2052</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>8</sub>
+              </td>
+              <td align="center" valign="middle" >−0.6961</td>
+              <td align="center" valign="middle" >−0.8006</td>
+              <td align="center" valign="middle" >0.5003</td>
+              <td align="center" valign="middle" >0.1709</td>
+              <td align="center" valign="middle" >0.9793</td>
+              <td align="center" valign="middle" >0.9423</td>
+              <td align="center" valign="middle" >0.2197</td>
+              <td align="center" valign="middle" >1.0000</td>
+              <td align="center" valign="middle" >0.6187</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >
+                x<sub>9</sub>
+              </td>
+              <td align="center" valign="middle" >0.9908</td>
+              <td align="center" valign="middle" >0.9287</td>
+              <td align="center" valign="middle" >0.4875</td>
+              <td align="center" valign="middle" >0.1082</td>
+              <td align="center" valign="middle" >0.6174</td>
+              <td align="center" valign="middle" >0.6910</td>
+              <td align="center" valign="middle" >0.2052</td>
+              <td align="center" valign="middle" >0.6187</td>
+              <td align="center" valign="middle" >1.0000</td>
+            </tr>
+           
+          </table-wrap>
+          <p>表8. 相关性矩阵</p>
+          <p>由表8，得到本科院校数量和招生人数，教学条件与利用和科研投入与产出，本科院校数量和双一流学科建设的相关性极极强，分别为0.9614，0.9793，0.9908。</p>
+        </sec>
+        <sec id="s5_1_2">
+          <title>3.1.2. 指标的权重</title>
+          <p>我们可以根据式</p>
+          <p>G = ∑ i = 1 r b i * y i = ∑ i r b i * u i x (3.2)</p>
+          <p>算出每个指标对于本科教育质量评估模型的权重，结果如表9。</p>
+          <table-wrap id="table9" >
+            <label>
+              <xref ref-type="table" rid="table9">Table 9</xref>
+            </label>
+            <caption>
+              <title> The weight of each index to the comprehensive evaluation of urban undergraduate education qualit</title>
+            </caption>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" >指标</th>
+                <th align="center" valign="middle" >
+                  x<sub>1</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>2</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>3</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>4</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>5</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>6</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>7</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>8</sub>
+                </th>
+                <th align="center" valign="middle" >
+                  x<sub>9</sub>
+                </th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >权重</td>
+              <td align="center" valign="middle" >0.1647</td>
+              <td align="center" valign="middle" >0.1431</td>
+              <td align="center" valign="middle" >0.3258</td>
+              <td align="center" valign="middle" >0.2025</td>
+              <td align="center" valign="middle" >0.0160</td>
+              <td align="center" valign="middle" >0.0960</td>
+              <td align="center" valign="middle" >0.5414</td>
+              <td align="center" valign="middle" >−0.0575</td>
+              <td align="center" valign="middle" >0.1866</td>
+            </tr>
+            
+          </table-wrap>
+          <p>表9. 各个指标对城市本科教育质量综合评价的权重</p>
+          <p>图2. 各个指标对城市本科教育质量综合评价的权重</p>
+          <p>如图2所示，可以看出，教学条件与利用的权重最小，仅为0.0160，而双一流学科建设权重较大，为0.1866。</p>
+        </sec>
+        <sec id="s5_1_3">
+          <title>3.1.3. 指标的初步删除</title>
+          <p>由表8和表9可以看出，双一流学科建设的权重较大，且与本科院校数量的相关性极大，所以重叠部分对最终综合得分的影响被严重放大，因此考虑去掉双一流学科建设这一指标；而教学条件与利用的权重极小，说明对最终得分的影响微乎其微，所以也可以去掉。下面我们利用改进的主成分分析对去掉这两个指标后的城市本科教学质量进行评估，以验证删除的合理性。评估结果如下：</p>
+          <table-wrap id="table10" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>0
+            </label>
+            <caption>
+              <title> The ranking after deleting the double top disciplin</title>
+            </caption>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >南京</th>
+                <th align="center" valign="middle" >徐州</th>
+                <th align="center" valign="middle" >苏州</th>
+                <th align="center" valign="middle" >无锡</th>
+                <th align="center" valign="middle" >南通</th>
+                <th align="center" valign="middle" >扬州</th>
+                <th align="center" valign="middle" >镇江</th>
+                <th align="center" valign="middle" >常州</th>
+                <th align="center" valign="middle" >淮安</th>
+                <th align="center" valign="middle" >连云港</th>
+                <th align="center" valign="middle" >宿迁</th>
+                <th align="center" valign="middle" >盐城</th>
+                <th align="center" valign="middle" >泰州</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >得分</td>
+              <td align="center" valign="middle" >0.2381</td>
+              <td align="center" valign="middle" >0.0911</td>
+              <td align="center" valign="middle" >0.0898</td>
+              <td align="center" valign="middle" >0.0648</td>
+              <td align="center" valign="middle" >0.0680</td>
+              <td align="center" valign="middle" >0.0656</td>
+              <td align="center" valign="middle" >0.0642</td>
+              <td align="center" valign="middle" >0.0597</td>
+              <td align="center" valign="middle" >0.0577</td>
+              <td align="center" valign="middle" >0.0518</td>
+              <td align="center" valign="middle" >0.0507</td>
+              <td align="center" valign="middle" >0.0524</td>
+              <td align="center" valign="middle" >0.0460</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >排名</td>
+              <td align="center" valign="middle" >1</td>
+              <td align="center" valign="middle" >2</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >6</td>
+              <td align="center" valign="middle" >4</td>
+              <td align="center" valign="middle" >5</td>
+              <td align="center" valign="middle" >7</td>
+              <td align="center" valign="middle" >8</td>
+              <td align="center" valign="middle" >9</td>
+              <td align="center" valign="middle" >11</td>
+              <td align="center" valign="middle" >12</td>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >13</td>
+            </tr>
+            
+          </table-wrap>
+          <p>表10. 删除双一流学科之后的排名</p>
+          <table-wrap id="table11" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>1
+            </label>
+            <caption>
+              <title> The ranking after deleting teaching conditions and utilizatio</title>
+            </caption>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >南京</th>
+                <th align="center" valign="middle" >徐州</th>
+                <th align="center" valign="middle" >苏州</th>
+                <th align="center" valign="middle" >无锡</th>
+                <th align="center" valign="middle" >南通</th>
+                <th align="center" valign="middle" >扬州</th>
+                <th align="center" valign="middle" >镇江</th>
+                <th align="center" valign="middle" >常州</th>
+                <th align="center" valign="middle" >淮安</th>
+                <th align="center" valign="middle" >连云港</th>
+                <th align="center" valign="middle" >宿迁</th>
+                <th align="center" valign="middle" >盐城</th>
+                <th align="center" valign="middle" >泰州</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >得分</td>
+              <td align="center" valign="middle" >0.1284</td>
+              <td align="center" valign="middle" >0.0942</td>
+              <td align="center" valign="middle" >0.0809</td>
+              <td align="center" valign="middle" >0.0801</td>
+              <td align="center" valign="middle" >0.0755</td>
+              <td align="center" valign="middle" >0.0746</td>
+              <td align="center" valign="middle" >0.0722</td>
+              <td align="center" valign="middle" >0.0708</td>
+              <td align="center" valign="middle" >0.0678</td>
+              <td align="center" valign="middle" >0.0677</td>
+              <td align="center" valign="middle" >0.0636</td>
+              <td align="center" valign="middle" >0.0633</td>
+              <td align="center" valign="middle" >0.0607</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >排名</td>
+              <td align="center" valign="middle" >1</td>
+              <td align="center" valign="middle" >2</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >4</td>
+              <td align="center" valign="middle" >5</td>
+              <td align="center" valign="middle" >6</td>
+              <td align="center" valign="middle" >7</td>
+              <td align="center" valign="middle" >8</td>
+              <td align="center" valign="middle" >9</td>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >11</td>
+              <td align="center" valign="middle" >12</td>
+              <td align="center" valign="middle" >13</td>
+            </tr>
+            
+          </table-wrap>
+          <p>表11. 删除教学条件与利用之后的排名</p>
+          <table-wrap id="table12" >
+            <label>
+              <xref ref-type="table" rid="table1">Table 1</xref>2
+            </label>
+            <caption>
+              <title> The ranking after deleting the construction and teaching condition and utilization of double top discipline</title>
+            </caption>
+            <thead>
+              <tr>
+                <th align="center" valign="middle" ></th>
+                <th align="center" valign="middle" >南京</th>
+                <th align="center" valign="middle" >徐州</th>
+                <th align="center" valign="middle" >苏州</th>
+                <th align="center" valign="middle" >无锡</th>
+                <th align="center" valign="middle" >南通</th>
+                <th align="center" valign="middle" >扬州</th>
+                <th align="center" valign="middle" >镇江</th>
+                <th align="center" valign="middle" >常州</th>
+                <th align="center" valign="middle" >淮安</th>
+                <th align="center" valign="middle" >连云港</th>
+                <th align="center" valign="middle" >宿迁</th>
+                <th align="center" valign="middle" >盐城</th>
+                <th align="center" valign="middle" >泰州</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="center" valign="middle" >得分</td>
+              <td align="center" valign="middle" >0.1581</td>
+              <td align="center" valign="middle" >0.0880</td>
+              <td align="center" valign="middle" >0.0781</td>
+              <td align="center" valign="middle" >0.0778</td>
+              <td align="center" valign="middle" >0.0768</td>
+              <td align="center" valign="middle" >0.0758</td>
+              <td align="center" valign="middle" >0.0747</td>
+              <td align="center" valign="middle" >0.0649</td>
+              <td align="center" valign="middle" >0.0638</td>
+              <td align="center" valign="middle" >0.0635</td>
+              <td align="center" valign="middle" >0.0610</td>
+              <td align="center" valign="middle" >0.0596</td>
+              <td align="center" valign="middle" >0.0579</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" >排名</td>
+              <td align="center" valign="middle" >1</td>
+              <td align="center" valign="middle" >2</td>
+              <td align="center" valign="middle" >3</td>
+              <td align="center" valign="middle" >4</td>
+              <td align="center" valign="middle" >5</td>
+              <td align="center" valign="middle" >6</td>
+              <td align="center" valign="middle" >7</td>
+              <td align="center" valign="middle" >8</td>
+              <td align="center" valign="middle" >9</td>
+              <td align="center" valign="middle" >10</td>
+              <td align="center" valign="middle" >11</td>
+              <td align="center" valign="middle" >12</td>
+              <td align="center" valign="middle" >13</td>
+            </tr>
+           
+          </table-wrap>
+          <p>表12. 删除双一流学科建设与教学条件与利用之后的排名</p>
+          <p>由表10和表11可知，删除双一流学科建设排名和教学条件与利用后，排名上基本上没有发生变化。</p>
+          <p>由表12可知，删除教学条件与利用与双一流学科建设后，排名有不小的变化。这说明可以单独删除两者中的任一个，但不能同时删去。由于上面的分析并未涉及到定量表示，所以删除的理由不是很充分，因此在下文，我们将进行比较精确的定量分析。</p>
+        </sec>
+      </sec>
+      <sec id="s5_2">
+        <title>3.2. 指标删除与关键指标提取模型的建立</title>
+        <sec id="s5_2_1">
+          <title>3.2.1. 虚拟控制城市的引入</title>
+          <p>至此，我们已经初步删除了一些对评价结果影响较小的指标，但准确性依然难以令人信服。下面，我们引入虚拟控制量，即虚拟控制城市来进一步定量研究各指标对于本科教育质量的影响大小。</p>
+          <p>令该控制城市的各项指标的数据为其余城市指标(均值化、一致化后的数据)的均值，即</p>
+          <p>c 0 j * = 1 n ∑ i = 1 n c i j * (3.3)</p>
+          <p>其中， c 0 j * 为虚拟控制城市的第j个指标数据。</p>
+          <p>接着，将14个城市(包括虚拟控制城市)的指标的数据再次均值化，又根据虚拟控制城市数据的计算式，14个城市均值化后的数据不需要再进行一致化处理了。</p>
+          <p>数据处理完毕后，使用6.2建立的改进后的主成分分析评价模型对这14个城市的本科教育质量进行评估，设13个实际存在的地级市的得分向量为： G 0 = { G 1 , 0 , G 2 , 0 , ⋯ , G 13 , 0 } 。</p>
+          <p>下面，通过改变虚拟控制城市各指标的数值，来定量研究每个指标对于最终评估得分的影响大小。具体操作方式为：分别将控制城市的指标 c 01 * , c 02 * , ⋯ , c 0 m * 增加20%后重复上述的均值化和综合评价过程，从而得到调节虚拟控制城市第j个指标后产生的13个的地级市的综合得分向量： G j = { G 1 , j , G 2 , j , ⋯ , G 13 , j } 。</p>
+        </sec>
+        <sec id="s5_2_2">
+          <title>3.2.2. 指标灵敏度的定量计算</title>
+          <p>这里，指标的灵敏度是指：指标对于综合评价得分的影响大小，也可以认为是普遍改善该指标后，城市间的本科教育质量差距能够减少的程度。灵敏度越大，说明影响越大，差距减少的程度越大。</p>
+          <p>
+            得到综合得分G<sub>j</sub>后，若直接通过排名变化来判断指标的灵敏度，一方面难以定量得到灵敏度的值，一方面由于排名变化较大以及一些信息会被隐藏起来，使得灵敏度的判断难度增大且准确度不高。因此，我们将指标调节前后的综合得分向量G<sub>j</sub>与G<sub>0</sub>的欧氏距离作为该指标的灵敏度。基本步骤如下：
+          </p>
+          <p>1) 综合得分的均值化处理</p>
+          <p>
+            为了消除G<sub>j</sub>间可能存在的量纲或数量级的影响，同时包含原始数据的全部信息，我们对改变第j个指标后的综合得分G<sub>j</sub>进行均值化处理，公式如下：
+          </p>
+          <p>G ′ i j = G i j G &#175; j ,     i = 1 , 2 , ⋯ , n ;   j = 1 , 2 , ⋯ , m (3.4)</p>
+          <p>其中， Q &#175; j = 1 n ∑ i = 1 n Q i j , n = 13, m = 9。</p>
+          <p>2) 计算灵敏度</p>
+          <p>
+            依照前面的分析，我们将第j个指标的灵敏度定义为改变虚拟控制城市的这个指标后得到的综合得分G<sub>j</sub>与G<sub>0</sub>的欧氏距离D<sub>j</sub>，即
+          </p>
+          <p>D j = ∑ i = 1 n ( G ′ i j − G i , 0 ) 2 (3.5)</p>
+          <p>
+            其中，D<sub>j</sub>可视为灵敏度，n = 13。
+          </p>
+        </sec>
+      </sec>
+      <sec id="s5_3">
+        <title>3.3. 指标删除与关键指标提取模型的求解</title>
+        <p>按模型的建立过程，我们首先插入一个虚拟控制城市，其各项指标的数据为表13：</p>
+        <table-wrap id="table13" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>3
+          </label>
+          <caption>
+            <title> The index data of virtual cit</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" >指标</th>
+              <th align="center" valign="middle" >
+                x<sub>1</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>2</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>3</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>4</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>5</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>6</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>7</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>8</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>9</sub>
+              </th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >指标值</td>
+            <td align="center" valign="middle" >3.77</td>
+            <td align="center" valign="middle" >18604.1</td>
+            <td align="center" valign="middle" >0.94</td>
+            <td align="center" valign="middle" >6.66</td>
+            <td align="center" valign="middle" >33.38</td>
+            <td align="center" valign="middle" >17.08</td>
+            <td align="center" valign="middle" >0.96</td>
+            <td align="center" valign="middle" >1.07</td>
+            <td align="center" valign="middle" >3.31</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表13. 虚拟城市各指标数据</p>
+        <p>其次，将14个城市的指标数据均值化，利用改进的主成分分析模型进行综合得分的计算，结果为表14：</p>
+        <table-wrap id="table14" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>4
+          </label>
+          <caption>
+            <title> The comprehensive evaluation value and ranking result of undergraduate education quality in each city after inserting virtual cit</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" ></th>
+              <th align="center" valign="middle" >南京</th>
+              <th align="center" valign="middle" >徐州</th>
+              <th align="center" valign="middle" >苏州</th>
+              <th align="center" valign="middle" >南通</th>
+              <th align="center" valign="middle" >扬州</th>
+              <th align="center" valign="middle" >无锡</th>
+              <th align="center" valign="middle" >虚拟城市</th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >得分</td>
+            <td align="center" valign="middle" >0.1675</td>
+            <td align="center" valign="middle" >0.0887</td>
+            <td align="center" valign="middle" >0.0884</td>
+            <td align="center" valign="middle" >0.0820</td>
+            <td align="center" valign="middle" >0.0798</td>
+            <td align="center" valign="middle" >0.0747</td>
+            <td align="center" valign="middle" >0.0723</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >排名</td>
+            <td align="center" valign="middle" >1</td>
+            <td align="center" valign="middle" >2</td>
+            <td align="center" valign="middle" >3</td>
+            <td align="center" valign="middle" >4</td>
+            <td align="center" valign="middle" >5</td>
+            <td align="center" valign="middle" >6</td>
+            <td align="center" valign="middle" >7</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" ></td>
+            <td align="center" valign="middle" >镇江</td>
+            <td align="center" valign="middle" >宿迁</td>
+            <td align="center" valign="middle" >连云港</td>
+            <td align="center" valign="middle" >淮安</td>
+            <td align="center" valign="middle" >常州</td>
+            <td align="center" valign="middle" >盐城</td>
+            <td align="center" valign="middle" >泰州</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >得分</td>
+            <td align="center" valign="middle" >0.0575</td>
+            <td align="center" valign="middle" >0.0536</td>
+            <td align="center" valign="middle" >0.0524</td>
+            <td align="center" valign="middle" >0.0520</td>
+            <td align="center" valign="middle" >0.0472</td>
+            <td align="center" valign="middle" >0.0421</td>
+            <td align="center" valign="middle" >0.0418</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >排名</td>
+            <td align="center" valign="middle" >8</td>
+            <td align="center" valign="middle" >9</td>
+            <td align="center" valign="middle" >10</td>
+            <td align="center" valign="middle" >11</td>
+            <td align="center" valign="middle" >12</td>
+            <td align="center" valign="middle" >13</td>
+            <td align="center" valign="middle" >14</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表14. 插入虚拟城市后各城市本科教育质量的综合评价值和排序结果</p>
+        <p>
+          接着，分别调节9个指标的值，通过改进的主成分分析模型得到综合得分G<sub>j</sub>，再计算灵敏度D<sub>j</sub>，这里以本科院校数量为例，使虚拟城市的本科院校数量增加20%，然后得到每个城市的得分如表15：
+        </p>
+        <table-wrap id="table15" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>5
+          </label>
+          <caption>
+            <title> The overall score of each city after changing the number of universities in the virtual controlled cit</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" >城市</th>
+              <th align="center" valign="middle" >常州</th>
+              <th align="center" valign="middle" >淮安</th>
+              <th align="center" valign="middle" >连云港</th>
+              <th align="center" valign="middle" >南京</th>
+              <th align="center" valign="middle" >南通</th>
+              <th align="center" valign="middle" >宿迁</th>
+              <th align="center" valign="middle" >苏州</th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >得分</td>
+            <td align="center" valign="middle" >0.0473</td>
+            <td align="center" valign="middle" >0.0521</td>
+            <td align="center" valign="middle" >0.0525</td>
+            <td align="center" valign="middle" >0.1665</td>
+            <td align="center" valign="middle" >0.0822</td>
+            <td align="center" valign="middle" >0.0536</td>
+            <td align="center" valign="middle" >0.0886</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >城市</td>
+            <td align="center" valign="middle" >泰州</td>
+            <td align="center" valign="middle" >无锡</td>
+            <td align="center" valign="middle" >徐州</td>
+            <td align="center" valign="middle" >盐城</td>
+            <td align="center" valign="middle" >扬州</td>
+            <td align="center" valign="middle" >镇江</td>
+            <td align="center" valign="middle" >虚拟城市</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle" >得分</td>
+            <td align="center" valign="middle" >0.0419</td>
+            <td align="center" valign="middle" >0.0749</td>
+            <td align="center" valign="middle" >0.0888</td>
+            <td align="center" valign="middle" >0.0421</td>
+            <td align="center" valign="middle" >0.0801</td>
+            <td align="center" valign="middle" >0.0577</td>
+            <td align="center" valign="middle" >0.0717</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表15. 改变虚拟控制城市的本科院校数量后的各城市的综合得分</p>
+        <p>最后，结合表16中数据求得指标本科院校数量的灵敏度为0.0014。重复上述过程，可以分别得到9个指标的灵敏度。结果如表16：</p>
+        <table-wrap id="table16" >
+          <label>
+            <xref ref-type="table" rid="table1">Table 1</xref>6
+          </label>
+          <caption>
+            <title> Nine indicators of sensitivit</title>
+          </caption>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" >指标</th>
+              <th align="center" valign="middle" >
+                x<sub>1</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>2</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>3</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>4</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>5</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>6</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>7</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>8</sub>
+              </th>
+              <th align="center" valign="middle" >
+                x<sub>9</sub>
+              </th>
+            </tr>
+          </thead>
+          <tr>
+            <td align="center" valign="middle" >灵敏度</td>
+            <td align="center" valign="middle" >0.0014</td>
+            <td align="center" valign="middle" >0.0006</td>
+            <td align="center" valign="middle" >0.0167</td>
+            <td align="center" valign="middle" >0.0021</td>
+            <td align="center" valign="middle" >0.0047</td>
+            <td align="center" valign="middle" >0.0004</td>
+            <td align="center" valign="middle" >0.0016</td>
+            <td align="center" valign="middle" >0.0315</td>
+            <td align="center" valign="middle" >0.0029</td>
+          </tr>
+          
+        </table-wrap>
+        <p>表16. 九个指标的灵敏度</p>
+        <p>由表16可知指标8即科研投入与产出的灵敏度远高于其余指标，所以科研投入与产出可作为关键指标。同时，指标双一流学科建设与教学条件与利用的灵敏度也较小说明上面对这些指标的删除是合理的。</p>
+      </sec>
+    </sec>
+    <sec id="s6">
+      <title>4. 对江苏省本科教育的政策与建议</title>
+      <p>至此，本文的主要研究工作已经完成，在这一部分，我们将对本文成果进行总结，以此为基础，有针对性地给出能够有效提升江苏省本科教育质量的政策建议。以帮助江苏省的有关部门更好地做出相关决策。</p>
+      <sec id="s6_1">
+        <title>4.1. 江苏省的本科教育现状</title>
+        <p>在基于改进的主成分分析方法的综合评价模型中，我们得到：南京市的综合得分要远远大于其他各市的得分，而其余几个地级市的差距均较小，并以徐州为首，苏州次之，最后是泰州，但徐州与泰州的得分也相差了0.03，大约是泰州总得分的3/5，所以这说明江苏省的本科教育质量在地域上是严重不均衡的。</p>
+        <p>在删除不必要指标以及选取关键指标的建模中，我们发现双一流学科建设对于综合得分的影响很小，可以从指标中删去，这说明双一流学科建设与其余指标有较大的重合，而且双一流学科建设目前并不是各市本科教育质量有差别的主要原因。在这一阶段的建模中，我们利用灵敏度找到了关键指标：科研投入与产出，通过观察各市在该指标的数据，可以发现，各市的差距还是很大的，南京市的得分尤其高，这也导致了在综合得分上体现出的较大差异。</p>
+      </sec>
+      <sec id="s6_2">
+        <title>4.2. 政策建议</title>
+        <p>根据江苏省本科教育质量地域分布不均的缺点，我们建议江苏省应该加大对南京以外的城市本科教育的重视程度以及政策支持。可以采取如下措施：</p>
+        <p>a) 在保持南京市本科教育优势的同时，鼓励南京市高校对省内其余各市的援助与指导，提高各市高校的科研投入与产出比，这样可以起到均衡教育资源的作用。</p>
+        <p>b) 江苏省有关部分应该加大对南京市以外各市高校的科研、校园建设等资金的投入，使其得以在科研经费、人才引进、学生培养等方面有更多的资本。</p>
+        <p>c) 江苏省各高校要重视双一流学科的建设，抓住双一流学科建设对本科教育质量影响较小的机会，努力建设好双一流学科。双一流学科是国家重点关注对象，所以日后的影响必然会增大。因此未来本科教育质量的评估也会有所改变。</p>
+        <p>以上便是我们对江苏本科教育质量现状的分析以及据此给出的几点建议，希望这些建议能够对江苏省本科教育的进一步提高提供一些有用的思路和帮助。</p>
+      </sec>
+    </sec>
+    <sec id="s7">
+      <title>文章引用</title>
+      <p>胡明禹. 本科教育质量的综合评估——以江苏省为例 Comprehensive Evaluation of the Quality of Undergraduate Education—Take Jiangsu Province for Example[J]. 社会科学前沿, 2020, 09(07): 999-1012. https://doi.org/10.12677/ASS.2020.97141</p>
+    </sec>
+    <sec id="s8">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.36703-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">教育部办公厅文件(教高厅[2011]2号). 教育部办公厅关于开展普通高等学校本科教学工作合格评估的通知[EB/OL]. http://www.moe.gov.cn/srcsite/A08/s7056/201802/t20180208_327138.html, 2011-05-14.</mixed-citation>
+      </ref>
+      <ref id="hanspub.36703-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          百度百科. 本科院校[EB/OL].
+          https://baike.baidu.com/item/%E6%9C%AC%E7%A7%91%E9%99%A2%E6%A0%A1/17606093?fr=aladdin, 2020-04-02.
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.36703-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          百度百科. 专任老师[EB/OL].
+          https://baike.baidu.com/item/%E4%B8%93%E4%BB%BB%E6%95%99%E5%B8%88/4799208?fr=aladdin, 2020-04-01.
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.36703-ref4">
+        <label>4</label>
+        <mixed-citation publication-type="other" xlink:type="simple">
+          高等教育质量监测国家数据平台. 江苏省2019年质量报告[EB/OL].
+          http://udb.heec.edu.cn/passport/portal/index.html?returnUrl=http%3A%2F%2Fudb.heec.edu.cn%2Fweb%2F%3Fv%3D1525135884729, 2020-04-29.
+        </mixed-citation>
+      </ref>
+      <ref id="hanspub.36703-ref5">
+        <label>5</label>
+        <mixed-citation publication-type="other" xlink:type="simple">曲双红, 李华, 李刚. 基于主成分分析的几种常用改进方法[J]. 统计与决策, 2017(5): 155-156.</mixed-citation>
+      </ref>
+      <ref id="hanspub.36703-ref6">
+        <label>6</label>
+        <mixed-citation publication-type="other" xlink:type="simple">叶双峰. 关于主成分分析做综合评价的改进[J]. 数理统计与管理, 2011(2): 10-17.</mixed-citation>
+      </ref>
+      <ref id="hanspub.36703-ref7">
+        <label>7</label>
+        <mixed-citation publication-type="other" xlink:type="simple">王学民. 对主成分分析综合得分方法的质疑[J]. 统计与决策, 2007(4): 56-61.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

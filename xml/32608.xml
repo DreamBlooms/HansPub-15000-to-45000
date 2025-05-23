@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="3.0" xml:lang="en" article-type="research article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">PM</journal-id>
+      <journal-title-group>
+        <journal-title>Pure  Mathematics</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2160-7583</issn>
+      <publisher>
+        <publisher-name>Scientific Research Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12677/PM.2019.98119</article-id>
+      <article-id pub-id-type="publisher-id">PM-32608</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>PM20190800000_16786830.pdf</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v2">
+          <subject>数学与物理</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+
+
+          关于∞ / ∞未定式L’Hospital法则的一个注记
+          A Note on L’Hospital Rule of Indeterminate Form ∞ / ∞
+
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>刘</surname>
+            <given-names>丹</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>*</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>王</surname>
+            <given-names>丽英</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>毛</surname>
+            <given-names>凯</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="aff2">
+            <sup>2</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <addr-line>海军航空大学，山东 烟台 </addr-line>
+      </aff>
+      <aff id="aff2">
+        <addr-line>null</addr-line>
+      </aff>
+      <pub-date pub-type="epub">
+        <day>29</day>
+        <month>09</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>09</volume>
+      <issue>08</issue>
+      <fpage>922</fpage>
+      <lpage>927</lpage>
+      <permissions>
+        <copyright-statement>&#169; Copyright  2014 by authors and Scientific Research Publishing Inc. </copyright-statement>
+        <copyright-year>2014</copyright-year>
+        <license>
+          <license-p>This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>
+
+
+          L’Hospital法则是求解极限问题中未定式的一种经典而有效的方法。本文从未定式常见类型∞ / ∞出发，研究了一类拓展型未定式∗ / ∞，在一定条件下将L’Hospital法则进行了推广，给出了广义L’Hospital法则。 L’Hospital rule is a classical and effective method to solve indeterminate form in limit problem. This paper studies a class of extended indeterminate form ∗ / ∞ based on common indeterminate form ∞ / ∞, generalizes L’Hospital rule under certain conditions and obtains generalized L’Hospital rule.
+
+        </p>
+      </abstract>
+      <kwd-group>
+        <kwd> 未定式，L’Hospital法则， 未定式，广义L’Hospital法则, Indeterminate Form  </kwd>
+        <kwd> L’Hospital Rule</kwd>
+        <kwd> Indeterminate Form  </kwd>
+        <kwd> Generalized L’Hospital Rule</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>
+        关于 ∞ ∞ 未定式L’Hospital法则的一个 注记<sup> </sup>
+      </title>
+      <p>刘丹，王丽英，毛凯</p>
+      <p>海军航空大学，山东 烟台</p>
+      <disp-formula id="hanspub.32608-formula43">
+        <graphic xlink:href="//html.hanspub.org/file/9-1250903x10_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>收稿日期：2019年9月28日；录用日期：2019年10月16日；发布日期：2019年10月23日</p>
+      <disp-formula id="hanspub.32608-formula44">
+        <graphic xlink:href="//html.hanspub.org/file/9-1250903x11_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+    </sec>
+    <sec id="s2">
+      <title>摘 要</title>
+      <p>L’Hospital法则是求解极限问题中未定式的一种经典而有效的方法。本文从未定式常见类型 ∞ ∞ 出发，研究了一类拓展型未定式 ∗ ∞ ，在一定条件下将L’Hospital法则进行了推广，给出了广义L’Hospital法则。</p>
+      <p>关键词 : ∞ ∞ 未定式，L’Hospital法则， ∗ ∞ 未定式，广义L’Hospital法则</p>
+      <disp-formula id="hanspub.32608-formula45">
+        <graphic xlink:href="//html.hanspub.org/file/9-1250903x16_hanspub.png"  xlink:type="simple"/>
+      </disp-formula>
+      <p>Copyright &#169; 2019 by author(s) and Hans Publishers Inc.</p>
+      <p>This work is licensed under the Creative Commons Attribution International License (CC BY).</p>
+      <p>http://creativecommons.org/licenses/by/4.0/</p>
+      <p>
+        <img src="//html.hanspub.org/file/9-1250903x17_hanspub.png" />
+        <img src="//html.hanspub.org/file/9-1250903x18_hanspub.png" />
+      </p>
+    </sec>
+    <sec id="s3">
+      <title>1. 引言</title>
+      <p>函数之比求极限是一类典型且常见的极限问题，通常利用商的极限运算法则可以计算一般情形下的</p>
+      <p>极限。而对于分子、分母不趋于有限值的情形，该法则不适用。如对于 ∞ ∞ 未定式，便不能直接用“商的</p>
+      <p>极限等于极限的商”这一简单法则来计算。此类未定式的一种简便有效的计算方法是L’Hospital法则。</p>
+      <p>例如，极限过程 x → a 下的 ∞ ∞ 未定式的L’Hospital法则为</p>
+      <p>引理(L’Hospital法则) 设</p>
+      <p>(1) 当 x → a 时，函数 f ( x ) 与 g ( x ) 均趋于无穷大；</p>
+      <p>(2) 在点a的某去心邻域内， f ′ ( x ) 与 g ′ ( x ) 都存在且 g ′ ( x ) ≠ 0 ；</p>
+      <p>(3) lim x → a f ′ ( x ) g ′ ( x ) 存在(或为无穷大)，</p>
+      <p>则</p>
+      <p>lim x → a f ( x ) g ( x ) = lim x → a f ′ ( x ) g ′ ( x ) 。</p>
+      <p>该法则对其它极限过程 x → a − , x → a + , x → ∞ , x → − ∞ , x → + ∞ 均适用。</p>
+      <p>这种在一定条件下通过分子、分母分别求导再求极限来确定未定式的值的方法，称为L’Hospital法则。引理的一个关键性条件是要求分子、分母均趋于无穷大，这使得L’Hospital法则在使用时具有一定的局限性。考察以下引例：</p>
+      <p>引例已知函数 f ( x ) 在 [ 0 , + ∞ ) 内连续且 lim x → + ∞ f ( x ) = 1 ，求 lim x → + ∞ ∫ 0 x e t f ( t ) d t e x 。</p>
+      <p>这是一个典型的 ∞ ∞ 未定式求极限的问题，求解的主要思路是利用L’Hospital法则。</p>
+      <p>解法一 由 lim x → + ∞ f ( x ) = 1 知，存在 X 0 &gt; 0 ,当 x &gt; X 0 时，有 f ( x ) &gt; 1 2 ，故</p>
+      <p>∫ 0 x e t f ( t ) d t = ∫ 0 X 0 e t f ( t ) d t + ∫ X 0 x e t f ( t ) d t ≥ ∫ 0 X 0 e t f ( t ) d t + ∫ X 0 x 1 2 e X 0 d t = ∫ 0 X 0 e t f ( t ) d t + 1 2 e X 0 ( x − X 0 ) ，</p>
+      <p>从而 lim x → + ∞ ∫ 0 x e t f ( t ) d t = + ∞ 。由L’Hospital法则得</p>
+      <p>lim x → + ∞ ∫ 0 x e t f ( t ) d t e x = lim x → + ∞ e x f ( x ) e x = lim x → + ∞ f ( x ) = 1 。</p>
+      <p>上述求解过程较为繁琐，原因在于为使用L’Hospital法则，应先明确所求极限为 ∞ ∞ 未定式，即证明</p>
+      <p>分子趋于无穷大。该事实看似显然，但其论证方法并不直接，往往不容易想到。</p>
+      <p>事实上，若仅分母趋于无穷大，不考虑分子的变化趋势(此时将 lim f ( x ) g ( x ) 记作 ∗ ∞ 未定式)，在一定条件下仍可通过分子、分母分别求导以求极限，即L’Hospital法则可进一步推广，得到 ∗ ∞ 未定式的广义</p>
+      <p>
+        L’Hospital法则 [<xref ref-type="bibr" rid="hanspub.32608-ref1">1</xref>] 。
+      </p>
+    </sec>
+    <sec id="s4">
+      <title>2. ∗ ∞ 未定式的广义L’Hospital法则</title>
+      <p>以下定理仅以极限过程 x → a + 为例，其它过程结论类似。</p>
+      <p>定理1 (广义L’Hospital法则) 设 f ( x ) 和 g ( x ) 在 ( a , b ) 上均可导(其中 − ∞ ≤ a &lt; b ≤ + ∞ )且满足：(1)</p>
+      <p>g ′ ( x ) ≠ 0 , x ∈ ( a , b ) ；(2) lim x → a + g ( x ) = + ∞ ；(3) lim x → a + f ′ ( x ) g ′ ( x ) = A (A为有限数或 − ∞ , + ∞ )，则</p>
+      <p>lim x → a + f ( x ) g ( x ) = lim x → a + f ′ ( x ) g ′ ( x ) 。</p>
+      <p>证明 (i) 当A为有限数时。</p>
+      <p>(证法一) 由 lim x → a + f ′ ( x ) g ′ ( x ) = A ，则对 ∀ ε &gt; 0 ,   ∃ δ &gt; 0 ，使得当 x ∈ ( a , a + δ ) 时，有</p>
+      <p>| f ′ ( x ) g ′ ( x ) − A | &lt; ε ，</p>
+      <p>即 A − ε &lt; f ′ ( x ) g ′ ( x ) &lt; A + ε 。</p>
+      <p>现任取 x 0 , x ∈ ( a , a + δ ) 且 x 0 &lt; x ，由Cauchy中值定理， ∃ ξ ∈ ( x 0 , x ) ⊂ ( a , a + δ ) 使得</p>
+      <p>f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) = f ′ ( ξ ) g ′ ( ξ ) (1)</p>
+      <p>
+        进一步地，由条件(1)、(2)，不妨设 g ′ ( x ) &gt; 0 , x ∈ ( a , b ) ,则必有 g ( x ) 在 ( a , b ) 内恒大于零，此时由(1)式得 [<xref ref-type="bibr" rid="hanspub.32608-ref2">2</xref>]
+      </p>
+      <p>A − ε &lt; f ( x ) g ( x ) − f ( x 0 ) g ( x ) 1 − g ( x 0 ) g ( x ) = f ′ ( ξ ) g ′ ( ξ ) &lt; A + ε ，</p>
+      <p>从而</p>
+      <p>( A − ε ) ( 1 − g ( x 0 ) g ( x ) ) + f ( x 0 ) g ( x ) &lt; f ( x ) g ( x ) &lt; ( A + ε ) ( 1 − g ( x 0 ) g ( x ) ) + f ( x 0 ) g ( x ) (2)</p>
+      <p>又由 lim x → a + g ( x ) = + ∞ ，(2)式两边同时取上下极限得</p>
+      <p>A − ε ≤ lim _ x → a + f ( x ) g ( x ) ≤ lim &#175; x → a + f ( x ) g ( x ) ≤ A + ε ，</p>
+      <p>再令 ε → 0 + ，得</p>
+      <p>A ≤ lim _ x → a + f ( x ) g ( x ) ≤ lim &#175; x → a + f ( x ) g ( x ) ≤ A ，</p>
+      <p>故 lim x → a + f ( x ) g ( x ) = A ，即</p>
+      <p>lim x → a + f ( x ) g ( x ) = lim x → a + f ′ ( x ) g ′ ( x ) 。</p>
+      <p>(证法二) 由 lim x → a + f ′ ( x ) g ′ ( x ) = A ，则对 ∀ ε &gt; 0 ,   ∃ δ &gt; 0 ，使得当 x ∈ ( a , a + δ ) 时，有</p>
+      <p>| f ′ ( x ) g ′ ( x ) − A | &lt; ε ，</p>
+      <p>即 A − ε &lt; f ′ ( x ) g ′ ( x ) &lt; A + ε 。</p>
+      <p>现任取 x 0 , x ∈ ( a , a + δ ) 且 x 0 &lt; x ，则由Cauchy中值定理， ∃ ξ ∈ ( x 0 , x ) ⊂ ( a , a + δ ) 使得</p>
+      <p>f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) = f ′ ( ξ ) g ′ ( ξ ) ，</p>
+      <p>从而</p>
+      <p>A − ε &lt; f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) &lt; A + ε 。</p>
+      <p>又</p>
+      <p>f ( x ) g ( x ) − A = ( 1 − g ( x 0 ) g ( x ) ) ⋅ ( f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) − A ) + f ( x 0 ) − A g ( x 0 ) g ( x ) ，</p>
+      <p>故</p>
+      <p>| f ( x ) g ( x ) − A | ≤ | 1 − g ( x 0 ) g ( x ) | ⋅ | f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) − A | + | f ( x 0 ) − A g ( x 0 ) g ( x ) | &lt; ε + ε = 2 ε ，</p>
+      <p>即 lim x → a + f ( x ) g ( x ) = A ,从而 lim x → a + f ( x ) g ( x ) = lim x → a + f ′ ( x ) g ′ ( x ) 。</p>
+      <p>(ii) 当A为 + ∞ 时。</p>
+      <p>由 lim x → a + f ′ ( x ) g ′ ( x ) = + ∞ ，则对 ， ∃ δ &gt; 0 ，使得当 x ∈ ( a , a + δ ) 时，有 f ′ ( x ) g ′ ( x ) &gt; 3 M ，进一步地，</p>
+      <p>
+        对 ∀ x 0 , x ∈ ( a , a + δ ) 且 x 0 &lt; x ，由Cauchy中值定理， ∃ ξ ∈ ( x 0 , x ) ⊂ ( a , a + δ ) 使得 [<xref ref-type="bibr" rid="hanspub.32608-ref3">3</xref>]
+      </p>
+      <p>f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) = f ′ ( ξ ) g ′ ( ξ ) &gt; 3 M 。</p>
+      <p>此外，由 lim x → a + g ( x ) = + ∞ 易知 lim x → a + g ( x 0 ) g ( x ) = 0 及 lim x → a + f ( x 0 ) g ( x ) = 0 。从而由极限定义得</p>
+      <p>g ( x 0 ) g ( x ) &lt; 1 2 ， f ( x 0 ) g ( x ) &gt; − 1 2 M ， x ∈ ( a , a + δ ) 。</p>
+      <p>故</p>
+      <p>f ( x ) g ( x ) = g ( x ) − g ( x 0 ) g ( x ) ⋅ f ( x ) − f ( x 0 ) g ( x ) − g ( x 0 ) + f ( x 0 ) g ( x ) &gt; 1 2 ⋅ 3 M − 1 2 M = M ，</p>
+      <p>即 lim x → a + f ( x ) g ( x ) = + ∞ ，从而 lim x → a + f ( x ) g ( x ) = lim x → a + f ′ ( x ) g ′ ( x ) 。</p>
+      <p>(iii) 当A为 − ∞ 时。</p>
+      <p>令 f 1 ( x ) = − f ( x ) 。由 lim x → a + f ′ ( x ) g ′ ( x ) = − ∞ 知 lim x → a + f ′ 1 ( x ) g ′ ( x ) = + ∞ 。进一步地，由(ii)之结论可得 lim x → a + f 1 ( x ) g ( x ) = + ∞ ，即 lim x → a + − f ( x ) g ( x ) = + ∞ ，故 lim x → a + f ( x ) g ( x ) = − ∞ 。从而 lim x → a + f ( x ) g ( x ) = lim x → a + f ′ ( x ) g ′ ( x ) 。</p>
+      <p>综合(i) (ii) (iii)，定理得证。</p>
+    </sec>
+    <sec id="s5">
+      <title>3. 结论</title>
+      <p>利用 ∗ ∞ 未定式的广义L’Hospital法则，引例的解法可进行改进：</p>
+      <p>解法二 由 ∗ ∞ 未定式的广义L’Hospital法则得</p>
+      <p>lim x → + ∞ ∫ 0 x e t f ( t ) d t e x = lim x → + ∞ e x f ( x ) e x = 1 。</p>
+      <p>显然，解法二比解法一简便得多。因本例满足 ∗ ∞ 未定式广义L’Hospital法则的条件，从而不必论证</p>
+      <p>分子的变化趋势，只要分母趋于无穷大即可。这就省去了解法一中繁杂且不易实现的分子趋于无穷大的证明环节。</p>
+      <p>本文给出的广义L’Hospital法则并不要求分子趋于无穷大，而只要分母趋于无穷大即可。这在一定</p>
+      <p>程度上拓宽了原有 ∞ ∞ 未定式L’Hospital法则的适用范围，使得通过分子、分母求导以求极限这一简便方</p>
+      <p>法能够应用于更多看似复杂而又难以入手的极限问题。</p>
+    </sec>
+    <sec id="s6">
+      <title>文章引用</title>
+      <p>刘 丹,王丽英,毛 凯. 关于∞ / ∞未定式L’Hospital法则的一个注记A Note on L’Hospital Rule of Indeterminate Form ∞ / ∞[J]. 理论数学, 2019, 09(08): 922-927. https://doi.org/10.12677/PM.2019.98119</p>
+    </sec>
+    <sec id="s7">
+      <title>参考文献</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="hanspub.32608-ref1">
+        <label>1</label>
+        <mixed-citation publication-type="other" xlink:type="simple">杜其奎, 陈金如, 谢四清, 徐晓立. 数学分析精读讲义(上册) [M]. 北京: 科学出版社, 2012: 162-163.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32608-ref2">
+        <label>2</label>
+        <mixed-citation publication-type="other" xlink:type="simple">刘三阳, 李广民. 数学分析十讲[M]. 北京: 科学出版社, 2011: 20-23.</mixed-citation>
+      </ref>
+      <ref id="hanspub.32608-ref3">
+        <label>3</label>
+        <mixed-citation publication-type="other" xlink:type="simple">裴礼文. 数学分析中的典型问题与方法[M]. 北京: 高等教育出版社, 2006: 228-230.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
