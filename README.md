@@ -1,3 +1,5 @@
+[HuggingFace (JSONL)](https://huggingface.co/datasets/DreamBlooms/HansPub-15000-to-45000)
+
 ![HansPub](https://github.com/user-attachments/assets/8bd69875-3daf-42b0-908c-bedd70e1b5e2)
 ![CC-BY](https://github.com/user-attachments/assets/e4774d55-579a-40bb-89da-fe48c13b0d45)
 
